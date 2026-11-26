@@ -1,0 +1,599 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "When did the TV show Rick and Morty first air on Adult Swim?",
+            "correct_answer": "2013",
+            "incorrect_answers": [
+                "2014",
+                "2016",
+                "2015"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "How many stations does the Central Line have on the London Underground?",
+            "correct_answer": "49",
+            "incorrect_answers": [
+                "51",
+                "43",
+                "47"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which German city is located on the River Isar?",
+            "correct_answer": "Munich",
+            "incorrect_answers": [
+                "Berlin",
+                "Hamburg",
+                "Dortmund"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "Which virtual assistant is developed by Amazon?",
+            "correct_answer": "Alexa",
+            "incorrect_answers": [
+                "Google Assistant",
+                "Siri",
+                "Cortana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+            "correct_answer": "Print",
+            "incorrect_answers": [
+                "Digest",
+                "Look",
+                "Read"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which player holds the NHL record of 2,857 points?",
+            "correct_answer": "Wayne Gretzky",
+            "incorrect_answers": [
+                "Mario Lemieux ",
+                "Sidney Crosby",
+                "Gordie Howe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+            "correct_answer": "Lordran",
+            "incorrect_answers": [
+                "Drangleic",
+                "Oolacile",
+                "Catarina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+            "correct_answer": "Agent Orange",
+            "incorrect_answers": [
+                "Phosgene",
+                "Mustard Gas",
+                "Hydrogen Cyanide"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+            "correct_answer": "Derse",
+            "incorrect_answers": [
+                "Skaia",
+                "Prospit",
+                "The Medium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+            "correct_answer": "Play",
+            "incorrect_answers": [
+                "Everything Is Wrong",
+                "Moby",
+                "18"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Sonic Forces, which of the following was not from a previous game?",
+            "correct_answer": "Infinite",
+            "incorrect_answers": [
+                "Metal Sonic",
+                "Zavoc",
+                "Chaos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+            "correct_answer": "Corey Feldman",
+            "incorrect_answers": [
+                "Macaulay Culkin",
+                "Mel Gibson",
+                "Mark Hamill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?",
+            "correct_answer": "Bro",
+            "incorrect_answers": [
+                "Becquerel",
+                "Doc Scratch",
+                "Halley"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of these is not a world in the anime &quot;Buddyfight&quot;?",
+            "correct_answer": "Ancient Dragon World",
+            "incorrect_answers": [
+                "Dragon World",
+                "Star Dragon World",
+                "Darkness Dragon World"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following landmarks is not located in New York City?",
+            "correct_answer": "Lincoln Memorial",
+            "incorrect_answers": [
+                "Empire State Building",
+                "Times Square",
+                "Central Park"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "A criminal who has &ldquo;cooked the books&rdquo; has engaged in what kind of illegal behavior?",
+            "correct_answer": "Accounting Fraud",
+            "incorrect_answers": [
+                "Money Laundering",
+                "Extortion",
+                "Blackmail"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which member of the British pop group &quot;The Spice Girls&quot; was known as Ginger Spice?",
+            "correct_answer": "Geri Halliwell",
+            "incorrect_answers": [
+                "Melanie Brown",
+                "Emma Bunton",
+                "Victoria Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;My Little Pony: Friendship is Magic&quot;, which of these ponies represents the quality of honesty?",
+            "correct_answer": "Applejack",
+            "incorrect_answers": [
+                "Twilight Sparkle",
+                "Pinkie Pie",
+                "Rarity"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the popular MOBA League of Legends, which of the following champions is nicknamed &quot;the Virtuoso&quot;?",
+            "correct_answer": "Jhin",
+            "incorrect_answers": [
+                "Kayle",
+                "Ezreal",
+                "Camille"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does AD stand for in relation to Windows Operating Systems? ",
+            "correct_answer": "Active Directory",
+            "incorrect_answers": [
+                "Alternative Drive",
+                "Automated Database",
+                "Active Department"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "All Souls and Merton are constituent colleges of what university?",
+            "correct_answer": "Oxford",
+            "incorrect_answers": [
+                "Cambridge",
+                "Manchester",
+                "Leeds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what is the Ferengi&#039;s First Rule of Acquisition?",
+            "correct_answer": "Once you have their money, you never give it back. ",
+            "incorrect_answers": [
+                "Never place friendship above profit",
+                "Greed is Eternal",
+                "Never allow family to stand in the way of opportunity"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which genre of Hip Hop does MC Frontalot rap?",
+            "correct_answer": "Nerdcore",
+            "incorrect_answers": [
+                "Horrorcore",
+                "Christian",
+                "Crunk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters won the Super Smash Bros. Fighter Ballot in 2015?",
+            "correct_answer": "Bayonetta",
+            "incorrect_answers": [
+                "Cloud",
+                "Ryu",
+                "Megaman"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The names of Tom Nook&#039;s cousins in the Animal Crossing franchise are named &quot;Timmy&quot; and &quot;Jimmy&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The seed drill was invented by which British inventor?",
+            "correct_answer": "Jethro Tull",
+            "incorrect_answers": [
+                "Charles Babbage",
+                "Isaac Newton",
+                "J.J Thomson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a playable map in PUBG: Battlegrounds?",
+            "correct_answer": "Orinocco",
+            "incorrect_answers": [
+                "Miramar",
+                "Sanhok",
+                "Vikendi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "King Henry VIII was the second monarch of which European royal house?",
+            "correct_answer": "Tudor",
+            "incorrect_answers": [
+                "York",
+                "Stuart",
+                "Lancaster"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who sang backup vocals on Rockwell&#039;s hit 1984 single &#039;Somebody&#039;s Watching Me&#039;?",
+            "correct_answer": "Michael Jackson",
+            "incorrect_answers": [
+                "Paul McCartney",
+                "Elton John",
+                "Prince"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+            "correct_answer": "Isla Nublar",
+            "incorrect_answers": [
+                "Isla Sorna",
+                "Isla Muerta",
+                "Isla Pena"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What was the first superhero film James Gunn was involved with?",
+            "correct_answer": "The Specials",
+            "incorrect_answers": [
+                "Super",
+                "Guardians of the Galaxy",
+                "Brightburn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+            "correct_answer": "Amazon",
+            "incorrect_answers": [
+                "eBay",
+                "Overstock",
+                "Shopify"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+            "correct_answer": "D. G. Yuengling and Son, Inc",
+            "incorrect_answers": [
+                "Anheuser Busch",
+                "Boston Beer Company",
+                "Miller Coors"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which actress&#039;s real name was Frances Ethel Gumm?",
+            "correct_answer": "Judy Garland",
+            "incorrect_answers": [
+                "Doris Day",
+                "Julie Andrews",
+                "Marilyn Monroe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+            "correct_answer": "Polynesian",
+            "incorrect_answers": [
+                "Native American",
+                "Japanese",
+                "Nordic"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What country is not a part of Scandinavia?",
+            "correct_answer": "Finland",
+            "incorrect_answers": [
+                "Norway",
+                "Sweden",
+                "Denmark"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In Magic: The Gathering, what card&#039;s flavor text is &quot;Catch!&quot;?",
+            "correct_answer": "Lava Axe",
+            "incorrect_answers": [
+                "Stone-Throwing Devils",
+                "Ember Shot",
+                "Throwing Knife"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What was the name of the first Robin in the Batman comics?",
+            "correct_answer": "Dick Grayson",
+            "incorrect_answers": [
+                "Bruce Wayne",
+                "Jason Todd",
+                "Tim Drake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these nations was added to Civilization V with the &quot;Gods &amp; Kings&quot; expansion?",
+            "correct_answer": "The Netherlands",
+            "incorrect_answers": [
+                "The Zulu",
+                "The Ottomans",
+                "The Kongo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Divinity: Original Sin 2, who is the earliest companion you can acquire?",
+            "correct_answer": "The Red Prince",
+            "incorrect_answers": [
+                "Fane",
+                "Sebille",
+                "Beast"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Inuyasha&quot;, what are the heros are looking to collect?",
+            "correct_answer": "Jewel Shards",
+            "incorrect_answers": [
+                "Dragon Balls",
+                "Rave Stones",
+                "Sacred Stones"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who wrote the musical &quot;Hamilton&quot;?",
+            "correct_answer": "Lin-Manuel Miranda",
+            "incorrect_answers": [
+                "Andrew Lloyd Webber",
+                "Nell Benjamin",
+                "Tom Kitt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Super Mario video game when they introduce Bowser Jr. for the first time?",
+            "correct_answer": "Super Mario Sunshine",
+            "incorrect_answers": [
+                "Mario Party series",
+                "Super Mario Galaxy",
+                "Mario &amp; Luigi: Bowser&#039;s Inside Story + Bowser Jr.&#039;s Journey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+            "correct_answer": "Inuktitut",
+            "incorrect_answers": [
+                "Inuinnaqtun",
+                "Greenlandic",
+                "Inupiat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Gordon Freeman is said to have burnt and destroyed what food in the break room microwave?",
+            "correct_answer": "Casserole",
+            "incorrect_answers": [
+                "Sub Sandwich",
+                "Chicken Soup",
+                "Pepperoni Pizza"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, who was the founder of the Klingon Empire and its philosophy?",
+            "correct_answer": "Kahless the Unforgettable",
+            "incorrect_answers": [
+                "Lady Lukara of the Great Hall",
+                "Molor the Unforgiving",
+                "Dahar Master Kor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?",
+            "correct_answer": "Goombario",
+            "incorrect_answers": [
+                "Goombella",
+                "Goombarry",
+                "Goomby"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the show, Doctor Who, what does T.A.R.D.I.S stand for?",
+            "correct_answer": "Time And Relative Dimensions In Space",
+            "incorrect_answers": [
+                "Time And Resting Dimensions In Space",
+                "Time And Relative Dimensions In Style",
+                "Toilet Aid Rope Dog Is Soup"
+            ]
+        }
+    ]
+}

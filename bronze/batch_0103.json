@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Pyrenees mountains are located on the border of which two countries?",
+            "correct_answer": "France and Spain",
+            "incorrect_answers": [
+                "Italy and Switzerland",
+                "Norway and Sweden",
+                "Russia and Ukraine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?",
+            "correct_answer": "Christopher Eccleston",
+            "incorrect_answers": [
+                "David Tennant",
+                "Matt Smith",
+                "Tom Baker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?",
+            "correct_answer": "Kyoko Tokiwa",
+            "incorrect_answers": [
+                "Melissa Mao",
+                "Ren Mikihara",
+                "Teletha &quot;Tessa&quot; Testarossa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Out of these four buildings, which one is the tallest, with a height of 1,776 ft (541.3 m)?",
+            "correct_answer": "One World Trade Center, United States",
+            "incorrect_answers": [
+                "Taipei 101, Taiwan",
+                "Willis Tower, United States",
+                "Jin Mao Tower, China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+            "correct_answer": "Hong Kong",
+            "incorrect_answers": [
+                "India",
+                "Australia",
+                "Ireland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+            "correct_answer": "Frankenstein",
+            "incorrect_answers": [
+                "Dracula",
+                "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+                "The Legend of Sleepy Hollow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "World War I",
+                "Russo-Japanese War",
+                "First Sino-Japanese War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the original name of  &quot;Minecraft&quot;?",
+            "correct_answer": "Cave Game",
+            "incorrect_answers": [
+                "Minecraft: Order of the Stone",
+                "Dig And Build",
+                "Infiniminer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+            "correct_answer": "Don Cherry",
+            "incorrect_answers": [
+                "Don McKellar",
+                "Don Taylor ",
+                "Donald Sutherland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What sport is being played in the Anime Eyeshield 21?",
+            "correct_answer": "American Football",
+            "incorrect_answers": [
+                "Baseball",
+                "Football",
+                "Basketball"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What numbers are in the 5th row of Pascal&#039;s Triangle?",
+            "correct_answer": "1 4 6 4 1",
+            "incorrect_answers": [
+                "1 3 3 1",
+                "1 5 10 10 5 1",
+                "1 6 15 20 15 6 1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "Abraham Lincoln",
+                "Thomas Jefferson",
+                "James Monroe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which of the following United States Presidents served the shortest term in office?",
+            "correct_answer": "William Henry Harrison",
+            "incorrect_answers": [
+                "Zachary Taylor",
+                "James A. Garfield",
+                "Warren G. Harding"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+            "correct_answer": "Turkish",
+            "incorrect_answers": [
+                "German",
+                "Danish",
+                "Polish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+            "correct_answer": "Assyrians",
+            "incorrect_answers": [
+                "Babylonians",
+                "Hittites",
+                "Elamites"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which year was the first official Youtube Rewind released?",
+            "correct_answer": "2010",
+            "incorrect_answers": [
+                "2012",
+                "2011",
+                "2013"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first game ever released that ran on the Source engine?",
+            "correct_answer": "Counter-Strike: Source",
+            "incorrect_answers": [
+                "Half-Life 2",
+                "Garry&#039;s Mod",
+                "Team Fortress 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "The French mathematician &Eacute;variste Galois is primarily known for his work in which?",
+            "correct_answer": "Galois Theory",
+            "incorrect_answers": [
+                "Galois&#039; Continued Fractions",
+                "Galois&#039; Method for PDE&#039;s ",
+                "Abelian Integration"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+            "correct_answer": "Acetone",
+            "incorrect_answers": [
+                "Water",
+                "Mercury",
+                "Benzene"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "Which of these board games do NOT utilize standard 6-sided dice?",
+            "correct_answer": "The Game of Life",
+            "incorrect_answers": [
+                "Monopoly",
+                "Risk",
+                "Snakes and Ladders"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which alternative rock band released the critically-acclaimed album &quot;OK Computer&quot;?",
+            "correct_answer": "Radiohead",
+            "incorrect_answers": [
+                "R.E.M.",
+                "Nirvana",
+                "Coldplay"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+            "correct_answer": "Parlor",
+            "incorrect_answers": [
+                "Open Room",
+                "Sitting Room",
+                "Loft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT a song on The Beatles&#039; 1968 self titled album, also known as the White album?",
+            "correct_answer": "Being For The Benefit Of Mr. Kite!",
+            "incorrect_answers": [
+                "Why Don&#039;t We Do It in the Road?",
+                "Everybody&#039;s Got Something to Hide Except Me and My Monkey",
+                "The Continuing Story of Bungalow Bill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the alcoholic beverage made from potatoes or grains that originates from Poland and Russia?",
+            "correct_answer": "Vodka",
+            "incorrect_answers": [
+                "Absinthe",
+                "Rum",
+                "Sake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was Hannibal?",
+            "correct_answer": "Carthaginian general",
+            "incorrect_answers": [
+                "British serial killer",
+                "French explorer",
+                "Greek philosopher"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Who is the original author of the realtime physics engine called PhysX?",
+            "correct_answer": "NovodeX",
+            "incorrect_answers": [
+                "Ageia",
+                "Nvidia",
+                "AMD"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+            "correct_answer": "FME-7",
+            "incorrect_answers": [
+                "VRC7",
+                "VRC6",
+                "MMC5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+            "correct_answer": "1.58 x 10^20",
+            "incorrect_answers": [
+                "1.58 x 10^22",
+                "1.58 x  10^18",
+                "1.58 x 10^24"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The end credits sequence in Grand Theft Auto 5 is over half an hour long.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What CoD &quot;Deathstreak&quot; is only featured in Call of Duty : Modern Warfare 2?",
+            "correct_answer": "Copycat",
+            "incorrect_answers": [
+                " Martrydom",
+                "Final Stand",
+                "Revenge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Rainbow 6 Siege, what is Mozzie&#039;s real name?",
+            "correct_answer": "Max Goose",
+            "incorrect_answers": [
+                "Mick Seagull",
+                "Hugo Sparrow",
+                "Dan Bird"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which is the most abundant element in the universe?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Lithium",
+                "Oxygen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did the Battle of Agincourt take place?",
+            "correct_answer": "1415",
+            "incorrect_answers": [
+                "1463",
+                "1401",
+                "1422"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The game series &quot;Titanfall&quot; runs on the Unreal Engine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+            "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+            "incorrect_answers": [
+                "Former Marine Fleet Admiral Sengoku",
+                "Pirate King Gol D Roger",
+                "Silvers Rayleigh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character in &quot;The Stanley Parable&quot;?",
+            "correct_answer": "Stanley",
+            "incorrect_answers": [
+                "The Adventure Line",
+                "The Narrator",
+                "The Boss"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
+            "correct_answer": "Fairies",
+            "incorrect_answers": [
+                "Elves",
+                "The Earth",
+                "Animals"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+            "correct_answer": "&quot;So long, and thanks for all the fish.&quot;",
+            "incorrect_answers": [
+                "&quot;The answer is 42.&quot;",
+                "&quot;Land of the brave.&quot;",
+                "&quot;Goodbye cruel world!&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+            "correct_answer": "Eleven",
+            "incorrect_answers": [
+                "Mike",
+                "Lucas",
+                "Karen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which Batman sidekick is the son of Talia al Ghul?",
+            "correct_answer": "Damian Wayne",
+            "incorrect_answers": [
+                "Dick Grayson",
+                "Tim Drake",
+                "Jason Todd"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Dracula is destroyed by contact with sunlight",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did Vesuvius destroy the city of Pompeii? ",
+            "correct_answer": "79 AD",
+            "incorrect_answers": [
+                "62 AD",
+                "31 BC",
+                "54 BC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&#039;The Safety Dance&#039; was the biggest hit single for which Canadian act?",
+            "correct_answer": "Men Without Hats",
+            "incorrect_answers": [
+                "Crash Test Dummies",
+                "The Tragically Hip",
+                "Broken Social Scene"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Half-Life 2 universe, how long did it take for the Combine to take complete control of the earth?",
+            "correct_answer": "7 hours",
+            "incorrect_answers": [
+                "3 months",
+                "24 hours",
+                "1 week"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
+            "correct_answer": "Bullying",
+            "incorrect_answers": [
+                "Criminal Record",
+                "Nomination for Worst Actor",
+                "Racism"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+            "correct_answer": "Annie",
+            "incorrect_answers": [
+                "Veigar",
+                "Tristana",
+                "Lulu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Moon&quot;, there is a secondary called the QED. What does QED stand for?",
+            "correct_answer": "Quantum Entanglement Device",
+            "incorrect_answers": [
+                "Quad Ectoplasmic Driver",
+                "Question Every Dog",
+                "Quality Edward Device"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which of these Bojack Horseman characters is a human?",
+            "correct_answer": "Todd Chavez",
+            "incorrect_answers": [
+                "Lennie Turtletaub",
+                "Princess Carolyn",
+                "Tom Jumbo-Grumbo"
+            ]
+        }
+    ]
+}

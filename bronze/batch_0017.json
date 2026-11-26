@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+            "correct_answer": "Urea",
+            "incorrect_answers": [
+                "Propane",
+                "Ethanol",
+                "Formaldehyde"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What was the title of the first Bond movie, released in 1962?",
+            "correct_answer": "Dr. No",
+            "incorrect_answers": [
+                "From Russia with Love",
+                "Goldfinger",
+                "Thunderball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What lies at the center of our galaxy?",
+            "correct_answer": "A black hole",
+            "incorrect_answers": [
+                "A wormhole",
+                "A supernova",
+                "A quasar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+            "correct_answer": "Baby penguins",
+            "incorrect_answers": [
+                "Baby monkeys",
+                "Baby ostriches",
+                "Baby bears"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who was the first ever actor to play &quot;The Doctor&quot; on &quot;Doctor Who&quot;?",
+            "correct_answer": "William Hartnell",
+            "incorrect_answers": [
+                "David Tennant",
+                "Peter Capaldi",
+                "Tom Baker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the first boss the player encounters in the 2017 game, &quot;Little Nightmares&quot;?",
+            "correct_answer": "The Janitor",
+            "incorrect_answers": [
+                "The Warden",
+                "The Caretaker",
+                "The Overseer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Arriva is owned by the Deutsche Bahn.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first prime minister of Canada?",
+            "correct_answer": "John Macdonald",
+            "incorrect_answers": [
+                "John Abbott",
+                "Alexander Mackenzie",
+                "Robert Borden"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What year was Queen Elizabeth II born?",
+            "correct_answer": "1926",
+            "incorrect_answers": [
+                "1923",
+                "1929",
+                "1930"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What&#039;s the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?",
+            "correct_answer": "Spooky Stuff",
+            "incorrect_answers": [
+                "Ghosts n&#039; Ghouls",
+                "Nerving Nights",
+                "Fearful Frights"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The word &quot;Inception&quot; came from the 2010 blockbuster hit &quot;Inception&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which track by &quot;Massive Attack&quot; is used for the theme of &quot;House&quot;? ",
+            "correct_answer": "Teardrop",
+            "incorrect_answers": [
+                "Protection",
+                "Angel",
+                "Black Milk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In computing, how many bits are in a nibble?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "16",
+                "32",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which music artist made the songs &quot;Heart&quot;, &quot;It&#039;s a Sin&quot;, and &quot;West End Girls&quot;?",
+            "correct_answer": "Pet Shop Boys",
+            "incorrect_answers": [
+                "The Human League",
+                "New Order",
+                "Ultravox"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
+            "correct_answer": "George Gershwin",
+            "incorrect_answers": [
+                "Irving Berlin",
+                "Duke Ellington",
+                "Johnny Mandel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What causes the sound of a heartbeat?",
+            "correct_answer": "Closure of the heart valves",
+            "incorrect_answers": [
+                "Contraction of the heart chambers",
+                "Blood exiting the heart",
+                "Relaxation of the heart chambers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+            "correct_answer": "Midnight, January 1, 1970",
+            "incorrect_answers": [
+                "Midnight, July 4, 1976",
+                "Midnight on the creator of Unix&#039;s birthday",
+                "Midnight, July 4, 1980"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Toussaint Louverture led a successful slave revolt in which country?",
+            "correct_answer": "Haiti",
+            "incorrect_answers": [
+                "France",
+                "Cuba",
+                "United States"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pok&eacute;mon, Bulbasaur is the only starter pokemon that is a Grass/Poison type.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
+            "correct_answer": "11037",
+            "incorrect_answers": [
+                "4, 8, 15, 16, 23, 42",
+                "55730",
+                "3, 9, 11, 12, 15, 17,"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "In which English county is Stonehenge?",
+            "correct_answer": "Wiltshire",
+            "incorrect_answers": [
+                "Somerset",
+                "Cumbria",
+                "Herefordshire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+            "correct_answer": "The Nautilus",
+            "incorrect_answers": [
+                "The Neptune",
+                "The Poseidon  ",
+                "The Atlantis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the first element on the periodic table?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Oxygen",
+                "Lithium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the first commerically available computer processor?",
+            "correct_answer": "Intel 4004",
+            "incorrect_answers": [
+                "Intel 486SX",
+                "TMS 1000",
+                "AMD AM386"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?",
+            "correct_answer": "Electric Cherry",
+            "incorrect_answers": [
+                "Quick Revive",
+                "Vulture Aid",
+                "Tombstone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "How many players are there in an association football/soccer team?",
+            "correct_answer": "11",
+            "incorrect_answers": [
+                "10",
+                "9",
+                "8"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Which of the following is NOT a venomous snake?",
+            "correct_answer": "Reticulated python",
+            "incorrect_answers": [
+                "Malayan Krait",
+                "Yellow bellied sea snake",
+                "Black mamba"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does the Prt Sc button do?",
+            "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+            "incorrect_answers": [
+                "Nothing",
+                "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+                "Closes all windows"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The Sun consists of mostly which two elements?",
+            "correct_answer": "Hydrogen &amp; Helium",
+            "incorrect_answers": [
+                "Hydrogen &amp; Nitrogen",
+                "Carbon &amp; Nitrogen",
+                "Carbon &amp; Helium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Who founded the Khan Academy?",
+            "correct_answer": "Sal Khan",
+            "incorrect_answers": [
+                "Ben Khan",
+                "Kitt Khan",
+                "Adel Khan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these characters was first introduced in Sonic Boom: Rise of Lyric?",
+            "correct_answer": "Sticks the Badger",
+            "incorrect_answers": [
+                "Mighty the Armadillo",
+                "Espio the Chameleon",
+                "Rouge the Bat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft&#039;s Mists of Pandaria expansion, What was the level cap?",
+            "correct_answer": "90",
+            "incorrect_answers": [
+                "85",
+                "80",
+                "75"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Pink Floyd made this song for their previous lead singer Syd Barrett.",
+            "correct_answer": "Shine On You Crazy Diamond",
+            "incorrect_answers": [
+                "Wish You Were Here",
+                "Have A Cigar",
+                "Welcome to the Machine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+            "correct_answer": "Santa Clara",
+            "incorrect_answers": [
+                "Palo Alto",
+                "Cupertino",
+                "Mountain View"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these is NOT a bone found in the human arm?",
+            "correct_answer": "Tibia",
+            "incorrect_answers": [
+                "Humerus",
+                "Ulna",
+                "Radius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+            "correct_answer": "Catholic",
+            "incorrect_answers": [
+                "Christian",
+                "Jewish",
+                "Islamic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What was Ash Ketchum&#039;s second Pokemon?",
+            "correct_answer": "Caterpie",
+            "incorrect_answers": [
+                "Charmander",
+                "Pikachu",
+                "Pidgey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+            "correct_answer": "Hannibal",
+            "incorrect_answers": [
+                "Garmanicus",
+                "Alexander the Great",
+                "Tiberius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which artist curated the official soundtrack for &quot;The Hunger Games: Mockingjay - Part 1&quot;?",
+            "correct_answer": "Lorde",
+            "incorrect_answers": [
+                "Kanye West",
+                "Tove Lo",
+                "Charli XCX"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "When BMW was established in 1916, it was producing automobiles.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT a name of an album released by American rapper Pitbull?",
+            "correct_answer": "Welcome to Miami",
+            "incorrect_answers": [
+                "Dale",
+                "Global Warming",
+                "Armando"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What does CPR, the emergency procedure to assist someone who has suffered cardiac arrest, stand for?",
+            "correct_answer": "Cardiopulmonary resuscitation",
+            "incorrect_answers": [
+                "Chronic pain relief",
+                "Cancer pain release",
+                "Contraceptive prevalence rate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?",
+            "correct_answer": "Restoration",
+            "incorrect_answers": [
+                "Emission",
+                "Transmutation",
+                "Specialization"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When did the Battle of the Somme begin?",
+            "correct_answer": "July 1st, 1916",
+            "incorrect_answers": [
+                "August 1st, 1916",
+                "July 2nd, 1916",
+                "June 30th, 1916"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "In which ocean is the R&eacute;union island?",
+            "correct_answer": "Indian Ocean",
+            "incorrect_answers": [
+                "Atlantic Ocean",
+                "South Pacific Ocean",
+                "North Pacific Ocean"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The Republic of Malta is the smallest microstate worldwide.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Celebrities",
+            "question": "Who was Donald Trump&#039;s first wife?",
+            "correct_answer": "Ivana Zeln&iacute;čkov&aacute;",
+            "incorrect_answers": [
+                "Melania Knauss",
+                "Marla Maples",
+                "Nancy Davis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the original &quot;Super Mario Bros.&quot;, what is the acceleration of Mario if he was in free fall?",
+            "correct_answer": "91.28 m/s^2",
+            "incorrect_answers": [
+                "110  m/s^2",
+                "9.42  m/s^2",
+                "4.4  m/s^2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza chain?",
+            "correct_answer": "Domino&#039;s",
+            "incorrect_answers": [
+                "Papa John&#039;s",
+                "Pizza Hut",
+                "Sabarro&#039;s"
+            ]
+        }
+    ]
+}

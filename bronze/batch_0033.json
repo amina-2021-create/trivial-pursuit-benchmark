@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Minecraft, how many items can a single piece of coal smelt when used in a furnace?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "12",
+                "10",
+                "6"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In architecture, a &quot;pecklesteiner&quot; is a set of doors that overlap each other when closed, and can be locked through a single keyhole.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the airspeed velocity of an unladen swallow?",
+            "correct_answer": "24 MPH",
+            "incorrect_answers": [
+                "15 MPH",
+                "20 MPH",
+                "200 MPH"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the TV show &quot;Rick and Morty&quot;, Rick uses the catchphrase &quot;Wubba Lubba Dub Dub&quot;, which means what in Birdperson?",
+            "correct_answer": "I am in great pain, please help me.",
+            "incorrect_answers": [
+                "I pray that my life ends soon.",
+                "Lets get this party started!",
+                "I am suffering, please help me."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of the game series &quot;Ace Attorney&quot; ?",
+            "correct_answer": "Phoenix Wright",
+            "incorrect_answers": [
+                "Winston Payne",
+                "Dahlia Hawthorne ",
+                "Ash Ketchum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Where was Napoleon Bonaparte born?",
+            "correct_answer": "Corsica",
+            "incorrect_answers": [
+                "Normandy",
+                "Brittany",
+                "Paris"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the name of the city that The Flintstones is based in?",
+            "correct_answer": "Bedrock",
+            "incorrect_answers": [
+                "Stoneville",
+                "Rockhampton",
+                "Boulder City"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Actor Tommy Chong served prison time.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who was walking like an Egyptian in 1981?",
+            "correct_answer": "The Bangles",
+            "incorrect_answers": [
+                "R.E.M.",
+                "The Ocean Blue",
+                "The Connells"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "South Africa has more than one capital city",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
+            "correct_answer": "20 Minutes, 41 Seconds",
+            "incorrect_answers": [
+                "45 Minutes, 32 Seconds",
+                "5 Minutes, 50 Seconds",
+                "12 Minutes, 59 Seconds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
+            "correct_answer": "Chloe Price ",
+            "incorrect_answers": [
+                "Max Caulfield",
+                "Rachel Amber",
+                "Frank Bowers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+            "correct_answer": "Andrew Scott Reisse",
+            "incorrect_answers": [
+                "Nate Mitchell",
+                "Jack McCauley",
+                "Palmer Luckey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch&quot;, what is the name of the company that made D.Va&#039;s mech?",
+            "correct_answer": "MEKA",
+            "incorrect_answers": [
+                "MI8",
+                "KPAMC",
+                "JSAMB"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who is depicted on the US hundred dollar bill?",
+            "correct_answer": "Benjamin Franklin",
+            "incorrect_answers": [
+                "George Washington",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many trophies are there in &quot;Super Smash Bros. for Nintendo 3DS&quot;?",
+            "correct_answer": "685",
+            "incorrect_answers": [
+                "1360",
+                "716",
+                "1155"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Where did first known lesbian rights organization in the United States, Daughters of Bilitis, start?",
+            "correct_answer": "San Francisco",
+            "incorrect_answers": [
+                "New York",
+                "Chicago",
+                "Los Angeles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the Italian word for &quot;tomato&quot;?",
+            "correct_answer": "Pomodoro",
+            "incorrect_answers": [
+                "Aglio",
+                "Cipolla",
+                "Peperoncino"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?",
+            "correct_answer": "Terry",
+            "incorrect_answers": [
+                "Tommy",
+                "Teddy",
+                "Toto"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the prison in &quot;Half Life 2&quot;?",
+            "correct_answer": "Nova Prospekt",
+            "incorrect_answers": [
+                "Great Prospekt",
+                "New Prospect",
+                "Lesser Prospekt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is the name of a nine sided polygon?",
+            "correct_answer": "Nonagon",
+            "incorrect_answers": [
+                "Hexagon",
+                "Octagon",
+                "Heptagon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+            "correct_answer": "X",
+            "incorrect_answers": [
+                "W",
+                "U",
+                "J"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+            "correct_answer": "John Green",
+            "incorrect_answers": [
+                "Stephenie Meyer",
+                "Suzanne Collins",
+                "Stephen Chbosky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+            "correct_answer": "Jack Black",
+            "incorrect_answers": [
+                "Mirana Jonnes",
+                "McConahey Ramses",
+                "Jim Petersson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of these Movies was NOT released in 1996?",
+            "correct_answer": "Gladiator",
+            "incorrect_answers": [
+                "Independence Day",
+                "The Rock",
+                "Mission: Impossible"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which NBA player has the most games played over the course of their career?",
+            "correct_answer": "Robert Parish",
+            "incorrect_answers": [
+                "Kareem Abdul-Jabbar",
+                "Kevin Garnett",
+                "Kobe Bryant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Xenoblade Chronicles 2&quot;, Which party member cannot use normal blades?",
+            "correct_answer": "Tora",
+            "incorrect_answers": [
+                "Rex",
+                "Zeke",
+                "Nia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;One Piece&quot;, which one of the following is NOT an Ancient Weapon?",
+            "correct_answer": "Jupiter",
+            "incorrect_answers": [
+                "Uranus",
+                "Poseidon",
+                "Pluton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The collapse of the Soviet Union took place in which year?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1992",
+                "1891",
+                "1990"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Who is &quot;James Rolfe&quot; better known as?",
+            "correct_answer": "The Angry Video Game Nerd",
+            "incorrect_answers": [
+                "TotalBiscuit",
+                "PeanutButterGamer",
+                "PewDiePie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Human cells typically have how many copies of each gene?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "4",
+                "3"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is Tasmania?",
+            "correct_answer": "An Australian State",
+            "incorrect_answers": [
+                "A flavor of Ben and Jerry&#039;s ice-cream",
+                "A Psychological Disorder",
+                "The Name of a Warner Brothers Cartoon Character"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of Samantha Maxis&#039; dog?",
+            "correct_answer": "Fluffy",
+            "incorrect_answers": [
+                "Baxter",
+                "Fido",
+                "Henry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+            "correct_answer": "The Campaigner",
+            "incorrect_answers": [
+                "The Primagen",
+                "Oblivion",
+                "Lord Tyrannus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+            "correct_answer": "Board Games",
+            "incorrect_answers": [
+                "Television Shows",
+                "Video Games",
+                "Films"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The game &quot;Battlefield 1&quot; takes place during World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band had hits in 1975 with the songs, &#039;One Of These Nights&#039; &amp; &#039;Lyin Eyes&#039;?",
+            "correct_answer": "The Eagles",
+            "incorrect_answers": [
+                "Fools Gold",
+                "The Doobie Brothers",
+                "Fleetwood Mac"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?",
+            "correct_answer": "Dan Marino",
+            "incorrect_answers": [
+                "John Elway",
+                "Tom Brady",
+                "Joe Montana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+            "correct_answer": "Sunderland FC",
+            "incorrect_answers": [
+                "Barcelona FC",
+                "Paris Saints-Germain",
+                "Manchester United"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What year was Walt Disney born?",
+            "correct_answer": "1901",
+            "incorrect_answers": [
+                "1902",
+                "1903",
+                "1900"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Where is the world&#039;s oldest still operational space launch facility located?",
+            "correct_answer": "Kazakhstan",
+            "incorrect_answers": [
+                "Russia",
+                "Iran",
+                "United States"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these track-and-field events is NOT included in the Olympic men&#039;s decathlon?",
+            "correct_answer": "Hammer throw",
+            "incorrect_answers": [
+                "Pole vault",
+                "Long jump",
+                "Shot put"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What does a milliner make and sell?",
+            "correct_answer": "Hats",
+            "incorrect_answers": [
+                "Shoes",
+                "Belts",
+                "Shirts"
+            ]
+        }
+    ]
+}

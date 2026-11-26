@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+            "correct_answer": "Alfa Romeo",
+            "incorrect_answers": [
+                "Auto Union",
+                "Mercedes Benz",
+                "Bentley"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Japan was part of the Allied Powers during World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Overwatch,&quot; which quote does the hero &quot;McCree&quot; NOT say upon using his flashbang ability?",
+            "correct_answer": "&quot;You done?&quot;",
+            "incorrect_answers": [
+                "&quot;Whoa there.&quot;",
+                "&quot;Hold up now.&quot;",
+                "&quot;Don&#039;t move.&quot;"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What name is given to all baby marsupials?",
+            "correct_answer": "Joey",
+            "incorrect_answers": [
+                "Calf",
+                "Pup",
+                "Cub"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Who is one of the co-princes of Andorra?",
+            "correct_answer": "The president of France",
+            "incorrect_answers": [
+                "The monarch of the UK",
+                "The Pope",
+                "No-one (the position is vacant)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which movie served as the KTMA pilot episode for the show &quot;Mystery Science Theater 3000&quot;?",
+            "correct_answer": "The Green Slime",
+            "incorrect_answers": [
+                "The Robot Vs. The Aztec Mummy",
+                "The Crawling Eye",
+                "Plan 9 From Outer Space"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "&quot;The A Team&quot; first aired in the USA and in the UK in what year?",
+            "correct_answer": "1983",
+            "incorrect_answers": [
+                "1981",
+                "1985",
+                "1987"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was Final Fantasy XV released?",
+            "correct_answer": "November 29th, 2016",
+            "incorrect_answers": [
+                "October 25th, 2016",
+                "December 31th, 2016",
+                "November 30th, 2016"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+            "correct_answer": "Myrtenaster",
+            "incorrect_answers": [
+                "Gambol Shroud",
+                "Crescent Rose",
+                "Ember Celica"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "When did Spongebob Squarepants first air?",
+            "correct_answer": "May 1, 1999",
+            "incorrect_answers": [
+                "July 20, 2000",
+                "February 6, 2003",
+                "June 27, 1997"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which French duo had UK hits in 1998 with the songs &#039;Sexy Boy&#039;, &#039;Kelly Watch The Stars&#039; &amp; &#039;All I Need&#039;?",
+            "correct_answer": "Air",
+            "incorrect_answers": [
+                "Fire",
+                "Earth",
+                "Water"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Theresa May was the first female Prime Minister of the United Kingdom.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "How many objects are equivalent to one mole?",
+            "correct_answer": "6.022 x 10^23",
+            "incorrect_answers": [
+                "6.002 x 10^22",
+                "6.022 x 10^22",
+                "6.002 x 10^23"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the leader of Team Valor in Pok&eacute;mon Go?",
+            "correct_answer": "Candela",
+            "incorrect_answers": [
+                "Willow",
+                "Blanche",
+                "Spark"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+            "correct_answer": "Jonah Hill",
+            "incorrect_answers": [
+                "Jason Segel",
+                "Seth Rogen",
+                "James Franco"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "When did the rapper Eazy-E die?",
+            "correct_answer": "March 26, 1995",
+            "incorrect_answers": [
+                "July 11, 1992",
+                "February 14, 1993",
+                "October 21, 1994"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Where was Portuguese explorer Ferdinand Magellan killed in 1521?",
+            "correct_answer": "The Phillipines",
+            "incorrect_answers": [
+                "Canary Islands",
+                "Guam",
+                "Argentina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Monster Hunter Generations, which of the following monsters are a part of the &quot;Fated Four&quot;?",
+            "correct_answer": "Astalos",
+            "incorrect_answers": [
+                "Gore Magala",
+                "Malfestio",
+                "Arzuros"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which English king was married to Eleanor of Aquitaine?",
+            "correct_answer": "Henry II",
+            "incorrect_answers": [
+                "Richard I",
+                "Henry I",
+                "Henry V"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "In Macbeth, the eyes of what animals were used in the Witches&#039; cauldron?",
+            "correct_answer": "Newts",
+            "incorrect_answers": [
+                "Humans",
+                "Sharks",
+                "Squids"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+            "correct_answer": "N.W.A",
+            "incorrect_answers": [
+                "Wu-Tang Clan",
+                "Run-D.M.C.",
+                "Beastie Boys"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which sign of the zodiac is represented by the Crab?",
+            "correct_answer": "Cancer",
+            "incorrect_answers": [
+                "Libra",
+                "Virgo",
+                "Sagittarius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which of these NHL players have never won a Hart Trophy for Regular Season MVP?",
+            "correct_answer": "Steve Yzerman",
+            "incorrect_answers": [
+                "Chris Pronger",
+                "Jose Theodore",
+                "Henrik Sedin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What do the Dutch call their language?",
+            "correct_answer": "Nederlands",
+            "incorrect_answers": [
+                "Dansk",
+                "Deutsch",
+                "Hollander"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the capital of Mauritius?",
+            "correct_answer": "Port Louis",
+            "incorrect_answers": [
+                "Port Moresby",
+                "Port Vila",
+                "Port-au-Prince"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many sides does a heptagon have?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "6",
+                "5"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What is the collective noun for a group of crows?",
+            "correct_answer": "Murder",
+            "incorrect_answers": [
+                "Pack",
+                "Gaggle",
+                "Herd"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Emus won the Great Emu War of 1932.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The &#039;64&#039; in the Nintendo-64 console refers to what?",
+            "correct_answer": "The bits in the CPU architecture",
+            "incorrect_answers": [
+                "The number of megabytes of RAM",
+                "Capacity of the ROM Cartridges in megabytes",
+                "Clock speed of the CPU in Hertz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the closest planet to our solar system&#039;s sun?",
+            "correct_answer": "Mercury",
+            "incorrect_answers": [
+                "Mars",
+                "Jupiter",
+                "Earth"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+            "correct_answer": "Franklin Pierce",
+            "incorrect_answers": [
+                "Andrew Johnson",
+                "Abraham Lincoln",
+                "James Polk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who sang the theme song for the TV show &#039;Rawhide&#039;?",
+            "correct_answer": "Frankie Laine",
+            "incorrect_answers": [
+                "Guy Mitchell",
+                " Tennessee Ernie Ford",
+                "Slim Whitman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What did the abbreviation &quot;RMS&quot; stand for in the RMS Titanic in 1912?",
+            "correct_answer": "Royal Mail Ship",
+            "incorrect_answers": [
+                "Royal Majesty Service",
+                "Regular Maritime Schedule ",
+                "Regulated Maelstrom Sensor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not a Dragon Age Origins &quot;Origin&quot;: ",
+            "correct_answer": "Human Commoner",
+            "incorrect_answers": [
+                "Dwarf Commoner",
+                "Dwarf Noble",
+                "Human Noble"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which scientific unit is named after an Italian nobleman?",
+            "correct_answer": "Volt",
+            "incorrect_answers": [
+                "Pascal",
+                "Ohm",
+                "Hertz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",
+            "correct_answer": "Aston Martin Vulcan",
+            "incorrect_answers": [
+                "Ferrari FXX-K",
+                "McLaren P1 GTR",
+                "Lotus E23"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+            "correct_answer": "107 BCE",
+            "incorrect_answers": [
+                "42 BCE",
+                "264 BCE",
+                "102 CE"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The historical city Timbuktu is located in which West African country?",
+            "correct_answer": "Mali",
+            "incorrect_answers": [
+                "Senegal",
+                "Niger",
+                "Burkina Faso"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What element does the Zinogre use in Monster Hunter?",
+            "correct_answer": "Thunder",
+            "incorrect_answers": [
+                "Ice",
+                "Fire",
+                "Water"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+            "correct_answer": "The Shatter&#039;s",
+            "incorrect_answers": [
+                "Snake Pit",
+                "The Tomb of the Acient&#039;s",
+                "The Puppet Master&#039;s Theater"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who was the original author of Frankenstein?",
+            "correct_answer": "Mary Shelley",
+            "incorrect_answers": [
+                "Edgar Allan Poe",
+                "Bram Stoker",
+                "H. P. Lovecraft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How many bytes are in a single Kibibyte?",
+            "correct_answer": "1024",
+            "incorrect_answers": [
+                "2400",
+                "1000",
+                "1240"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "The average lifespan of a wildcat is only around 5-6 years. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists do NOT originate from France?",
+            "correct_answer": "The Chemical Brothers",
+            "incorrect_answers": [
+                "Air",
+                "Justice",
+                "Daft Punk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+            "correct_answer": "Austria",
+            "incorrect_answers": [
+                "United States",
+                "Czechia",
+                "South Korea"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",
+            "correct_answer": "Policenauts",
+            "incorrect_answers": [
+                "Gradius",
+                "Contra",
+                "Castlevania: Symphony of the Night"
+            ]
+        }
+    ]
+}

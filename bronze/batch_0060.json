@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which &quot;Toy Story&quot; character was voiced by Don Rickles?",
+            "correct_answer": "Mr. Potato Head",
+            "incorrect_answers": [
+                "Slinky Dog",
+                "Hamm",
+                "Rex"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+            "correct_answer": "Hudson Mohawke",
+            "incorrect_answers": [
+                "Rustie",
+                "Machinedrum",
+                "Flying Lotus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Minecraft&quot; was released from beta in 2011 during a convention held in which city?",
+            "correct_answer": "Las Vegas",
+            "incorrect_answers": [
+                "Paris",
+                "Bellevue",
+                "London"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard SI unit for temperature?",
+            "correct_answer": "Kelvin",
+            "incorrect_answers": [
+                "Fahrenheit",
+                "Celsius",
+                "Rankine"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "A person can get sunburned on a cloudy day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Portal, what color is the Intelligence Core?",
+            "correct_answer": "Blue",
+            "incorrect_answers": [
+                "Purple",
+                "Red",
+                "Orange"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which song is NOT by singer Tom Jones?",
+            "correct_answer": "Never Gonna Give You Up",
+            "incorrect_answers": [
+                "It&#039;s Not Unusual",
+                "What&#039;s New Pussycat",
+                "Delilah"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Vatican city is a full member of United Nations.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Dragon Ball&quot; franchise, what is the name of Goku&#039;s brother?",
+            "correct_answer": "Raditz",
+            "incorrect_answers": [
+                "Gohan",
+                "Vegeta",
+                "Bardock"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?",
+            "correct_answer": "Anglesey",
+            "incorrect_answers": [
+                "Pembrokeshire",
+                "Wrexham",
+                "Bridgend"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the name of the peninsula containing Spain and Portugal?",
+            "correct_answer": "Iberian Peninsula",
+            "incorrect_answers": [
+                "European Peninsula",
+                "Peloponnesian Peninsula",
+                "Scandinavian Peninsula"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Seychelles?",
+            "correct_answer": "Victoria",
+            "incorrect_answers": [
+                "Luanda",
+                "N&#039;Djamena",
+                "Tripoli"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+            "correct_answer": "Wait 3 Minutes",
+            "incorrect_answers": [
+                "Enter the password &quot;Fly Honey&quot;",
+                "Enter the password &quot;Master Belch Rules&quot;",
+                "Enter the password &quot;Mr Saturn Drools&quot;"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "A flock of crows is known as a homicide.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": " In the 1951 movie &quot;The Day The Earth Stood Still&quot; which US city did the alien spaceship land in?",
+            "correct_answer": "Washington D.C.",
+            "incorrect_answers": [
+                " Los Angeles",
+                "New York",
+                "Philadelphia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first American in space?",
+            "correct_answer": "Alan Shephard",
+            "incorrect_answers": [
+                "Neil Armstrong",
+                "John Glenn",
+                "Jim Lovell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+            "correct_answer": "Mudflap",
+            "incorrect_answers": [
+                "Skids",
+                "Sideswipe",
+                "Ratchet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the main character of the anime &quot;One-Punch Man&quot;?",
+            "correct_answer": "Saitama",
+            "incorrect_answers": [
+                "Genos",
+                "Sonic",
+                "King"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Twitch streamer is the vocalist for Red Vox?",
+            "correct_answer": "Vinesauce",
+            "incorrect_answers": [
+                "The8BitDrummer",
+                "LIRIK",
+                "Sodapoppin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.",
+            "correct_answer": "SpongeBob SquarePants ",
+            "incorrect_answers": [
+                "Patrick Star",
+                "Squidward Tentacles",
+                "Mr. Krabs"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Hundred Years&#039; War was fought for more than a hundred years.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The land mass of modern day Turkey is called what?",
+            "correct_answer": "Anatolia",
+            "incorrect_answers": [
+                "Ismuth of Ottoma",
+                "Ottoma",
+                "Ismuth of Anatolia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which is the largest freshwater lake in the world?",
+            "correct_answer": "Lake Superior ",
+            "incorrect_answers": [
+                "Caspian Sea",
+                "Lake Michigan",
+                "Lake Huron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;World of Warcraft,&quot; which of the following can be found outside of every instanced dungeon?",
+            "correct_answer": "A Meeting Stone",
+            "incorrect_answers": [
+                "A Summoning Stone",
+                "A Gathering Stone",
+                "A Hearthstone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Vietnam?",
+            "correct_answer": "Hanoi",
+            "incorrect_answers": [
+                "Da Nang",
+                "Hai Phong",
+                "Ho Chi Minh City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many numbered power generators are there?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "8",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital city of the U.S. state of Texas?",
+            "correct_answer": "Austin",
+            "incorrect_answers": [
+                "Dallas",
+                "Houston",
+                "San Antonio"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "When was the FC Schalke 04 founded?",
+            "correct_answer": "1904",
+            "incorrect_answers": [
+                "1909",
+                "2008",
+                "1999"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main villain in Bendy and the ink machine?",
+            "correct_answer": "Bendy",
+            "incorrect_answers": [
+                "Joey Drew",
+                "Alice",
+                "Boris"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+            "correct_answer": "&quot;A rainy Lithuanian / Is dancing as an Indian&quot;",
+            "incorrect_answers": [
+                "&quot;Fly away on, my zephyr / I feel it more than ever&quot;",
+                "&quot;And I liked the dimple in your chin / Your pale blue eyes&quot;",
+                "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+            "correct_answer": "Typhoons",
+            "incorrect_answers": [
+                "Tornados",
+                "Economic depression",
+                "Samurai"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+            "correct_answer": "Mike Tyson",
+            "incorrect_answers": [
+                "Roy Jones Jr.",
+                "Evander Holyfield",
+                "Lennox Lewis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?",
+            "correct_answer": "Portal 2",
+            "incorrect_answers": [
+                "Left 4 Dead 2",
+                "Half-Life 3",
+                "Dota 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year did the First World War end?",
+            "correct_answer": "1918",
+            "incorrect_answers": [
+                "1914",
+                "1916",
+                "1912"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 2002 film &quot;Kung Pow! Enter the Fist&quot;, Master Pain changes his name to what?",
+            "correct_answer": "Betty",
+            "incorrect_answers": [
+                "Sally",
+                "Amy",
+                "Kitty"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Battle of Trafalgar took place on October 23rd, 1805",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+            "correct_answer": "2009",
+            "incorrect_answers": [
+                "2010",
+                "2007",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "By what name was the author Eric Blair better known?",
+            "correct_answer": "George Orwell",
+            "incorrect_answers": [
+                "Aldous Huxley",
+                "Ernest Hemingway",
+                "Ray Bradbury"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the #1 selling game on Steam by revenue in 2016?",
+            "correct_answer": "Sid Meier&#039;s Civilization VI",
+            "incorrect_answers": [
+                "Grand Theft Auto V",
+                "Counter Strike: Global Offensive",
+                "Dark Souls III"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What is the real name of the famous spanish humorist, El Risitas?",
+            "correct_answer": "Juan Joya Borga",
+            "incorrect_answers": [
+                "Gabriel Garcia Marquez",
+                "Jesus Quintero",
+                "Ernesto Guevara"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+            "correct_answer": "Slacking",
+            "incorrect_answers": [
+                "Smoking",
+                "Stealing",
+                "Cheating"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
+            "correct_answer": "The Simpsons Movie",
+            "incorrect_answers": [
+                "Spider-Man 3",
+                "Shrek the Third",
+                "Ratatouille"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Which ability from the &quot;Magic: The Gathering&quot; Scars of Mirrodin expansion involves having at least three artifacts in play?",
+            "correct_answer": "Metalcraft",
+            "incorrect_answers": [
+                "Affinity",
+                "Imprint",
+                "Living Weapon"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?",
+            "correct_answer": "Ignis",
+            "incorrect_answers": [
+                "Ventus",
+                "Terra",
+                "Aqua"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many playable characters were there in Street Fighter II: Champion Edition?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "16",
+                "8",
+                "17"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+            "correct_answer": "Titanic",
+            "incorrect_answers": [
+                "Star Wars",
+                "Gone with the Wind",
+                "Jaws"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "In what year did &quot;Bob Ross&quot; die?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1986",
+                "1989",
+                "1997"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Which of the following tabletop games is the oldest?",
+            "correct_answer": "Go",
+            "incorrect_answers": [
+                "Chess",
+                "Mahjong",
+                "Shogi"
+            ]
+        }
+    ]
+}

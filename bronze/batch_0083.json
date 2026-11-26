@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of the following was Brazil was a former colony under?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "Spain",
+                "The Netherlands",
+                "France"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime series &quot;Full Metal Alchemist&quot;, what do Alchemists consider the greatest taboo?",
+            "correct_answer": "Human Transmutation ",
+            "incorrect_answers": [
+                "Transmuting Lead Into Gold",
+                "Using Alchemy For Crime ",
+                "Preforming Without A Permit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which country has the most Trappist breweries?",
+            "correct_answer": "Belgium",
+            "incorrect_answers": [
+                "Netherlands",
+                "France",
+                "USA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "One of the deadliest pandemics, the &quot;Spanish Flu&quot;, killed off what percentage of the human world population at the time?",
+            "correct_answer": "3 to 6 percent",
+            "incorrect_answers": [
+                "6 to 10 percent",
+                "1 to 3 percent",
+                "less than 1 percent"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Which Norse God has a horse named Sleipnir?",
+            "correct_answer": "Odin",
+            "incorrect_answers": [
+                "Thor",
+                "Frigg",
+                "Balder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these Mediterranian islands is under the sovereign rule of France?",
+            "correct_answer": "Corsica",
+            "incorrect_answers": [
+                "Majorca",
+                "Sardinia",
+                "Malta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which U.S. president is said to have had the longest beard?",
+            "correct_answer": "Rutherford B. Hayes",
+            "incorrect_answers": [
+                "Zachary Taylor",
+                "John Quincy Adams",
+                "James A. Garfield"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "When did the website &quot;Facebook&quot; launch?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2005",
+                "2003",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "When Gmail first launched, how much storage did it provide for your email?",
+            "correct_answer": "1GB",
+            "incorrect_answers": [
+                "512MB",
+                "5GB",
+                "Unlimited"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?",
+            "correct_answer": "The Bible",
+            "incorrect_answers": [
+                "The Halo",
+                "Brimstone",
+                "Book of Shadows"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+            "correct_answer": "The Central Powers",
+            "incorrect_answers": [
+                "The Axis Powers",
+                "The Federation of Empires",
+                "Authoritarian Alliance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+            "correct_answer": "2/2",
+            "incorrect_answers": [
+                "4/4",
+                "6/8",
+                "3/4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Slay the Spire, which of the following is NOT a playable character?",
+            "correct_answer": "Stoneheart",
+            "incorrect_answers": [
+                "Silent",
+                "Defect",
+                "Ironclad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
+            "correct_answer": "Dr. Seuss",
+            "incorrect_answers": [
+                "Beatrix Potter",
+                "Roald Dahl",
+                "A.A. Milne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which studio animated Afro Samurai?",
+            "correct_answer": "Gonzo",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "xebec",
+                "Production I.G"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game franchise &quot;Halo&quot;, what is the UNSC&#039;s main opposing faction called?",
+            "correct_answer": "The Covenant",
+            "incorrect_answers": [
+                "The Reckoning",
+                "The Peoples",
+                "The Slaughterers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+            "correct_answer": "Steven Spielberg",
+            "incorrect_answers": [
+                "Stanley Kubrick",
+                "James Cameron",
+                "Tim Burton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+            "correct_answer": "17",
+            "incorrect_answers": [
+                "18",
+                "15",
+                "16"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the show &quot;Dragonball Z&quot;, what is the name of Cell&#039;s most powerful attack?",
+            "correct_answer": "Solar Kamehameha",
+            "incorrect_answers": [
+                "Super Kamehameha",
+                "Cell Kamehameha",
+                "Android Kamehameha"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Minecraft, how many iron ingots are required to make an iron golem?",
+            "correct_answer": "36",
+            "incorrect_answers": [
+                "40",
+                "32",
+                "46"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Cook, Serve, Delicious!, which food is NOT included in the game?",
+            "correct_answer": "Pie",
+            "incorrect_answers": [
+                "Shish Kabob",
+                "Hamburger",
+                "Lasagna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The original mascot of the popular Nintendo game, &quot;Splatoon&quot; was going to be...",
+            "correct_answer": "Mario",
+            "incorrect_answers": [
+                "Inklings",
+                "Octolings",
+                "Zelda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
+            "correct_answer": "Carl Jung",
+            "incorrect_answers": [
+                "Jean Piaget",
+                "Alice Miller",
+                "Hermann Rorschach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these jersey numbers has Shaquille O&#039;Neal never worn?",
+            "correct_answer": "35",
+            "incorrect_answers": [
+                "36",
+                "33",
+                "32"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Where is Hadrian&#039;s Wall located?",
+            "correct_answer": "Carlisle, England",
+            "incorrect_answers": [
+                "Rome, Italy",
+                "Alexandria, Egypt",
+                "Dublin, Ireland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the first Sony PlayStation console that runs on CD?",
+            "correct_answer": "PS",
+            "incorrect_answers": [
+                "PS2",
+                "PS3",
+                "PS4"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "When setting up a chess board, the king is placed on a square of his own color.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was Raekwon the Chefs debut solo album?",
+            "correct_answer": "Only Built 4 Cuban Linx",
+            "incorrect_answers": [
+                "Shaolin vs Wu-Tang",
+                "The Wild",
+                "The Lex Diamond Story"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Which former US president was nicknamed &quot;Teddy&quot; after he refused to shoot a defenseless black bear?",
+            "correct_answer": "Theodore Roosevelt",
+            "incorrect_answers": [
+                "Woodrow Wilson",
+                "James F. Fielder",
+                "Andrew Jackson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which cartoon family lives in 742 Evergreen Terrace, Springfield USA?",
+            "correct_answer": "The Simpsons",
+            "incorrect_answers": [
+                "The Hills",
+                "The Flintstones",
+                "The Griffins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?",
+            "correct_answer": "Quan Chi",
+            "incorrect_answers": [
+                "Sub-Zero",
+                "Sektor",
+                "Shang Tsung"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Klingons respect their disabled comrades, and those who are old, injuried, and helpless.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Kirby game first introduced Copy Abilities?",
+            "correct_answer": "Kirby&#039;s Adventure",
+            "incorrect_answers": [
+                "Kirby Super Star",
+                "Kirby&#039;s Dream Land 2",
+                "Kirby&#039;s Dream Land"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "1",
+                "6",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Irish musician Hozier released a music track in 2013 titled, &quot;Take Me to ______&quot;",
+            "correct_answer": "Church",
+            "incorrect_answers": [
+                "Mosque",
+                "Synagogue",
+                "Temple"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which country hosted the 2022 FIFA World Cup?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "USA",
+                "Japan",
+                "Switzerland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+            "correct_answer": "Nathan Steele",
+            "incorrect_answers": [
+                "Nate Siemens",
+                "Nick Stamos",
+                "Nolan Stuhlinger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these is NOT a province in China?",
+            "correct_answer": "Yangtze",
+            "incorrect_answers": [
+                "Fujian",
+                "Sichuan",
+                "Guangdong"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The New York Subway is the oldest underground in the world.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
+            "correct_answer": "Spot",
+            "incorrect_answers": [
+                "Mittens",
+                "Tom",
+                "Kitty"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the release date of the first episode of &quot;The Powerpuff Girls&quot;?",
+            "correct_answer": "November 18, 1998",
+            "incorrect_answers": [
+                "June 25, 1999",
+                "July 28, 2000",
+                "April 14, 2001"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Celebrities",
+            "question": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+            "correct_answer": "Moose",
+            "incorrect_answers": [
+                "Dog",
+                "Bear",
+                "Goat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the name of Jonny&#039;s pet dog in The Adventures of Jonny Quest?",
+            "correct_answer": "Bandit",
+            "incorrect_answers": [
+                "Lucky",
+                "Rocky",
+                "Max"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Korean War started in what year?",
+            "correct_answer": "1950",
+            "incorrect_answers": [
+                "1945",
+                "1960",
+                "1912"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Faust is a playable character in &quot;Guilty Gear Xrd Revelator&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of British Columbia, Canada?",
+            "correct_answer": "Victoria",
+            "incorrect_answers": [
+                "Vancouver",
+                "Hope",
+                "Kelowna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+            "correct_answer": "Pope Leo III",
+            "incorrect_answers": [
+                "Pope Urban IV",
+                "Pope Stephen V",
+                "Pope Valentine"
+            ]
+        }
+    ]
+}

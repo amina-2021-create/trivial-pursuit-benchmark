@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of the American state of Arizona?",
+            "correct_answer": "Phoenix",
+            "incorrect_answers": [
+                "Montgomery",
+                "Tallahassee",
+                "Raleigh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "To which language family does Kazakh belong?",
+            "correct_answer": "Turkic",
+            "incorrect_answers": [
+                "Mongolic",
+                "Indo-European",
+                "Uralic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the main character&#039;s name in &quot;Braid&quot;?",
+            "correct_answer": "Tim",
+            "incorrect_answers": [
+                "Boregard",
+                "James",
+                "Jackson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "America Online (AOL) started out as which of these online service providers?",
+            "correct_answer": "Quantum Link",
+            "incorrect_answers": [
+                "CompuServe",
+                "Prodigy",
+                "GEnie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which building was set aflame on August 24th, 1812?",
+            "correct_answer": "The White House",
+            "incorrect_answers": [
+                "Parliament Building",
+                "Grand National Assembly Building",
+                "Palace of the Nation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the last letter of the Greek alphabet?",
+            "correct_answer": "Omega",
+            "incorrect_answers": [
+                "Mu",
+                "Epsilon",
+                "Kappa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What country is the second largest in the world by area?",
+            "correct_answer": "Canada",
+            "incorrect_answers": [
+                "Russia",
+                "China",
+                "United States of America"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The National Animal of Scotland is the Unicorn.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How many cards are there in a standard deck of playing cards?",
+            "correct_answer": "52",
+            "incorrect_answers": [
+                "32",
+                "40",
+                "64"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+            "correct_answer": "8 Minutes",
+            "incorrect_answers": [
+                "6 Minutes",
+                "2 Minutes",
+                "12 Minutes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game series &quot;The Legend of Zelda&quot;, what was the first 3D game?",
+            "correct_answer": "Ocarina of Time",
+            "incorrect_answers": [
+                "Majora&#039;s Mask",
+                "A Link to the Past",
+                "The Wind Waker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "When was Minecraft first released to the public?",
+            "correct_answer": "May 17th, 2009",
+            "incorrect_answers": [
+                "September 17th, 2009",
+                "November 18th, 2011",
+                "October 7th, 2011"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+            "correct_answer": "Samoyedic",
+            "incorrect_answers": [
+                "Hungarian",
+                "Finnish",
+                "Estonian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who tutored Alexander the Great?",
+            "correct_answer": "Aristotle",
+            "incorrect_answers": [
+                "Socrates",
+                "Plato",
+                "King Philip"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?",
+            "correct_answer": "314.15 Inches",
+            "incorrect_answers": [
+                "380.1215 Inches",
+                "3141.5 Inches",
+                "1256.6 Inches"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "The Harvard architecture for micro-controllers added which additional bus?",
+            "correct_answer": "Instruction",
+            "incorrect_answers": [
+                "Address",
+                "Data",
+                "Control"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+            "correct_answer": "Richard &quot;Dick&quot; Whitman",
+            "incorrect_answers": [
+                "Donald Draper",
+                "John Ashbury",
+                "Michael &quot;Mikey&quot; Wilhelm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Nuclear Throne, which character starts with the least HP?",
+            "correct_answer": "Melting",
+            "incorrect_answers": [
+                "Crystal",
+                "Rebel",
+                "Yung Venuz (Y.V.)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the study of the cells and tissues of plants and animals?",
+            "correct_answer": "Histology",
+            "incorrect_answers": [
+                "Microbiology",
+                "Anatomy",
+                "Biochemistry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Half-Life mod &quot;Afraid of Monsters&quot; what was the name of the main protagonist?",
+            "correct_answer": "David Leatherhoff",
+            "incorrect_answers": [
+                "Daniel Featherhoff",
+                "Damon Weatherhoff",
+                "Damien Teatherhoff"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Who is Manchester United&#039;s leading appearance maker?",
+            "correct_answer": "Ryan Giggs",
+            "incorrect_answers": [
+                "David Beckham",
+                "Wayne Rooney",
+                "Eric Cantona"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is not a member of the virtual band Gorillaz?",
+            "correct_answer": "Phi Cypher",
+            "incorrect_answers": [
+                "Murdoc Niccals",
+                "Noodle",
+                "Russel Hobbs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+            "correct_answer": "Festung Recogne",
+            "incorrect_answers": [
+                "Ste. Mere-Eglise (Day)",
+                "Chateau",
+                "Brecourt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
+            "correct_answer": "The Elder Scrolls",
+            "incorrect_answers": [
+                "Lord of the Rings",
+                "The Witcher",
+                "Neverwinter Nights"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which character in the &quot;Animal Crossing&quot; series uses the phrase &quot;zip zoom&quot; when talking to the player?",
+            "correct_answer": "Scoot",
+            "incorrect_answers": [
+                "Drake",
+                "Bill",
+                "Mallary"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which historical conflict killed the most people?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "Taiping Rebellion",
+                "Three Kingdoms War",
+                "Mongol conquests"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many moons does the Earth have?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "0",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+            "correct_answer": "Sadie and Lars",
+            "incorrect_answers": [
+                "Steven and James",
+                "Erik and Julie",
+                "Bob and May"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+            "correct_answer": "Elric",
+            "incorrect_answers": [
+                "Ellis",
+                "Eliek",
+                "Elwood"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?",
+            "correct_answer": "Empire State Building, United States",
+            "incorrect_answers": [
+                "Bank of China Tower, Hong Kong",
+                "Federation Tower, Russia",
+                "Gevora Hotal, United Arab Emirates"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+            "correct_answer": "Kashmir",
+            "incorrect_answers": [
+                "Andorra",
+                "Gibraltar",
+                "Quin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Ethiopia",
+                "Indonesia",
+                "Nicaragua"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "What&#039;s the race of Invincible&#039;s father?",
+            "correct_answer": "Viltrumite",
+            "incorrect_answers": [
+                "Kryptonian",
+                "Kree",
+                "Irken"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+            "correct_answer": "Paul McCartney",
+            "incorrect_answers": [
+                "Ringo Starr",
+                "John Lennon",
+                "George Harrison"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?",
+            "correct_answer": "1890",
+            "incorrect_answers": [
+                "1888",
+                "1999",
+                "2003"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?",
+            "correct_answer": "The End",
+            "incorrect_answers": [
+                "Perfection",
+                "Sandbox",
+                "Fairness"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs was released in 1996?",
+            "correct_answer": "The Smashing Pumpkins - &quot;1979&quot;",
+            "incorrect_answers": [
+                "Prince - &quot;1999&quot;",
+                "James Blunt - &quot;1973&quot;",
+                "David Bowie - &quot;1984&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Which SQL keyword is used to fetch data from a database?",
+            "correct_answer": "SELECT",
+            "incorrect_answers": [
+                "INDEX",
+                "VALUES",
+                "EXEC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+            "correct_answer": "Clark Kent",
+            "incorrect_answers": [
+                "Bruce Wayne",
+                "Arthur Curry",
+                "John Jones"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the corgi in Cowboy Bebop?",
+            "correct_answer": "Einstein",
+            "incorrect_answers": [
+                "Edward",
+                "Rocket",
+                "Joel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the term MIME stand for, in regards to computing?",
+            "correct_answer": "Multipurpose Internet Mail Extensions",
+            "incorrect_answers": [
+                "Mail Internet Mail Exchange",
+                "Multipurpose Interleave Mail Exchange",
+                "Mail Interleave Method Exchange"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What is Grumpy Cat&#039;s real name?",
+            "correct_answer": "Tardar Sauce",
+            "incorrect_answers": [
+                "Sauce",
+                "Minnie",
+                "Broccoli"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "How many Millibars (mbar) to 1 Inch of Mercury (inHg)",
+            "correct_answer": "33.9",
+            "incorrect_answers": [
+                "30.0",
+                "27.4",
+                "10.6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When was Pong released?",
+            "correct_answer": "November 29, 1972",
+            "incorrect_answers": [
+                "March 29, 2017",
+                "November 29, 1970",
+                "December 14, 1974"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which &#039;Family Guy&#039; character got his own spin-off show in 2009?",
+            "correct_answer": "Cleveland Brown",
+            "incorrect_answers": [
+                "Glenn Quagmire",
+                "Joe Swanson",
+                "The Greased-up Deaf Guy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
+            "correct_answer": "Bow ",
+            "incorrect_answers": [
+                "Hammer",
+                "Heavy Bowgun",
+                "Light Bowgun"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard SI unit for distance?",
+            "correct_answer": "Metre",
+            "incorrect_answers": [
+                "Angstrom",
+                "Foot",
+                "Fathom"
+            ]
+        }
+    ]
+}

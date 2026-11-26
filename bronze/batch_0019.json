@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the 9th Pokemon movie, who is the Prince of the Sea?",
+            "correct_answer": "Manaphy",
+            "incorrect_answers": [
+                "Ash",
+                "May",
+                "Phantom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Star Wars: Republic Commando (2005), what is the name of the squad that you play as?",
+            "correct_answer": "Delta Squad",
+            "incorrect_answers": [
+                "Omega Squad",
+                "Echo Squad",
+                "Alpha Squad"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Melty Blood Actress Again Current Code&quot;, you can enter Blood Heat mode in Half Moon style.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+            "correct_answer": "42",
+            "incorrect_answers": [
+                "Loving everyone around you",
+                "Chocolate",
+                "Death"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Rebecca Chambers does not appear in any Resident Evil except for the original Resident Evil and the Gamecube remake.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which studio made Cowboy Bebop?",
+            "correct_answer": "Sunrise",
+            "incorrect_answers": [
+                "Bones",
+                "Madhouse",
+                "Pierriot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+            "correct_answer": "The Party",
+            "incorrect_answers": [
+                "The Weather Girls",
+                "The Pussycat Dolls",
+                "The Cheetah Girls"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What was Bank of America originally established as?",
+            "correct_answer": "Bank of Italy",
+            "incorrect_answers": [
+                "Bank of Long Island",
+                "Bank of Pennsylvania",
+                "Bank of Charlotte"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
+            "correct_answer": "Sandy&#039;s Treedome",
+            "incorrect_answers": [
+                "&quot;The Dome&quot;",
+                "Sandy&#039;s Bubble",
+                "Auquatic Reseach Centre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is a dead mall?",
+            "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+            "incorrect_answers": [
+                "A mall with no stores",
+                "A mall that has been condemed",
+                "A mall after business hours"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "On which continent is the country of Angola located?",
+            "correct_answer": "Africa",
+            "incorrect_answers": [
+                "South America",
+                "Europe",
+                "Asia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Coldplay album won the Grammy for Best Rock Album in the 2009 Grammy Awards?",
+            "correct_answer": "Viva La Vida Or Death And All His Friends",
+            "incorrect_answers": [
+                "A Rush Of Blood To The Head",
+                "X&amp;Y",
+                "Mylo Xyloto"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Half-Life 2&quot; runs on the Source Engine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Who Voices the Devil on Devil&#039;s Flight in Final Destination 3?",
+            "correct_answer": "Tony Todd",
+            "incorrect_answers": [
+                "Wendy Christensen",
+                "Ian McKinley",
+                "Kevin Fischer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the best selling album of all time from 1976 to 2018?",
+            "correct_answer": "Thriller",
+            "incorrect_answers": [
+                "Back in Black",
+                "Abbey Road",
+                "The Dark Side of the Moon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who was the first footballer to score 200 goals in the English Premier League?",
+            "correct_answer": "Alan Shearer",
+            "incorrect_answers": [
+                "Wayne Rooney",
+                "Robbie Fowler",
+                "Thierry Henry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Which class of animals are newts members of?",
+            "correct_answer": "Amphibian",
+            "incorrect_answers": [
+                "Fish",
+                "Reptiles",
+                "Mammals"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of your team in Star Wars: Republic Commando?",
+            "correct_answer": "Delta Squad",
+            "incorrect_answers": [
+                "The Commandos",
+                "Bravo Six",
+                "Vader&#039;s Fist"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?",
+            "correct_answer": "Showdown",
+            "incorrect_answers": [
+                "Hadouken",
+                "Organ Grinder",
+                "Skewer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of the following movies was not based on a book?",
+            "correct_answer": "Citizen Kane",
+            "incorrect_answers": [
+                "The Godfather",
+                "Forrest Gump",
+                "Jurassic Park"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The Paradox Interactive game &quot;Stellaris&quot; was released in 2016.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which country is hosting the 2022 FIFA World Cup?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Uganda",
+                "Vietnam",
+                "Bolivia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "How many federal states does Germany have?",
+            "correct_answer": "16",
+            "incorrect_answers": [
+                "13",
+                "32",
+                "25"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+            "correct_answer": "Elias Acorn",
+            "incorrect_answers": [
+                "Maximillian Acorn",
+                "Alexis Acorn",
+                "Frederick Acorn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Pikmin&quot; series, what is the only pikmin type to possess visible ears?",
+            "correct_answer": "Yellow",
+            "incorrect_answers": [
+                "Red",
+                "White",
+                "Winged"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Tony Hawk&#039;s Pro Skater was released in 1999.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many countries does Spain have a land border with?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Warhammer: End Times - Vermintide&quot;, what is the name of the rat faction you fight in the game?",
+            "correct_answer": "Skaven",
+            "incorrect_answers": [
+                "Ratmen",
+                "The Horde",
+                "Chaos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+            "correct_answer": "Auction Hunters",
+            "incorrect_answers": [
+                "Ramsay&#039;s Kitchen Nightmares",
+                "Hotel Hell",
+                "Hell&#039;s Kitchen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Halo series, what fleet was Thel &#039;Vadam supreme commander of before being branded an Arbiter?",
+            "correct_answer": "Fleet of Particular Justice",
+            "incorrect_answers": [
+                "Fleet of Sacred Consecration",
+                "Fleet of Furious Redemption",
+                "Fleet of Righteous Vigilance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+            "correct_answer": "Figaro",
+            "incorrect_answers": [
+                "Angelo",
+                "Fernando",
+                "Dave"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the English voice actor for Sora from the Kingdom Hearts series?",
+            "correct_answer": "Haley Joel Osment",
+            "incorrect_answers": [
+                "Kōki Uchiyama",
+                "Jesse McCartney",
+                "Miyu Irino"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of these anatomical terms refers to the tail end of the creature?",
+            "correct_answer": "Caudal",
+            "incorrect_answers": [
+                "Ventral",
+                "Proximal",
+                "Coronal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In which year was Nelson Mandela released from prison",
+            "correct_answer": "1990",
+            "incorrect_answers": [
+                "1994",
+                "1992",
+                "1980"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Several characters in &quot;Super Mario 64&quot; blink their eyes, including Mario himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "How many sonatas did Ludwig van Beethoven write?",
+            "correct_answer": "32",
+            "incorrect_answers": [
+                "50",
+                "31",
+                "21"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The word &quot;abulia&quot; means which of the following?",
+            "correct_answer": "The inability to make decisions",
+            "incorrect_answers": [
+                "The inability to stand up",
+                "The inability to concentrate on anything",
+                "A feverish desire to rip one&#039;s clothes off"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the chemical makeup of water?",
+            "correct_answer": "H20",
+            "incorrect_answers": [
+                "C12H6O2",
+                "CO2",
+                "H"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Generally, which component of a computer draws the most power?",
+            "correct_answer": "Video Card",
+            "incorrect_answers": [
+                "Hard Drive",
+                "Processor",
+                "Power Supply"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "How does the character Dragowizard, Qinus Axia&#039;s from the anime &quot;Buddyfight&quot; differ between the Japanese and English dubs?",
+            "correct_answer": "Different Gender",
+            "incorrect_answers": [
+                "Different Body Proportions",
+                "Different Backstory",
+                "Different Appearance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "From which country does the piano originate?",
+            "correct_answer": "Italy",
+            "incorrect_answers": [
+                "Germany",
+                "Austria",
+                "France"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "M.U.G.E.N. is the name for what type of Game Engine?",
+            "correct_answer": "Fighting Game",
+            "incorrect_answers": [
+                "Platforming Game",
+                "Shooter Game",
+                "Puzzle Game"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map introduced the perk &quot;PhD Flopper&quot;?",
+            "correct_answer": "Ascension",
+            "incorrect_answers": [
+                "Moon",
+                "Call Of The Dead",
+                "Die Rise"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In computing, what does MIDI stand for?",
+            "correct_answer": "Musical Instrument Digital Interface",
+            "incorrect_answers": [
+                "Musical Interface of Digital Instruments",
+                "Modular Interface of Digital Instruments",
+                "Musical Instrument Data Interface"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "What is the name of Nissan&#039;s most popular electric car?",
+            "correct_answer": "Leaf",
+            "incorrect_answers": [
+                "Tree",
+                "Deer",
+                "Roots"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+            "correct_answer": "Centaur",
+            "incorrect_answers": [
+                "Minotaur",
+                "Pegasus",
+                "Gorgon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "How many types of quarks are there in the standard model of physics?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mario Kart series, which game introduced the &quot;Shield Drifting&quot; mechanic?",
+            "correct_answer": "Mario Kart Arcade GP DX",
+            "incorrect_answers": [
+                "Mario Kart: Double Dash",
+                "Mario Kart Super Circuit",
+                "Mario Kart DS"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which country was NOT formerly part of Yugoslavia?",
+            "correct_answer": "Albania",
+            "incorrect_answers": [
+                "Croatia",
+                "Serbia",
+                "Macedonia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
+            "correct_answer": "Fay Wray",
+            "incorrect_answers": [
+                "Jean Harlow",
+                "Vivien Leigh",
+                "Mae West"
+            ]
+        }
+    ]
+}

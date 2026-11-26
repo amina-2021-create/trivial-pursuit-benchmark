@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What element has the chemical symbol Kr?",
+            "correct_answer": "Krypton",
+            "incorrect_answers": [
+                "Kerosine",
+                "Kineticium",
+                "Curium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who voices the main character Blu in the 2011 animated film &quot;Rio&quot;?",
+            "correct_answer": "Jesse Eisenberg",
+            "incorrect_answers": [
+                "Michael Cera",
+                "Jonah Hill",
+                "Zach Galifianakis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+            "correct_answer": "Gordon Shumway",
+            "incorrect_answers": [
+                "Gordon Milipp",
+                "Gordon Foster",
+                "Gordon von Gam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Portal series, Aperture Science was founded under what name in the early 1940s?",
+            "correct_answer": "Aperture Fixtures",
+            "incorrect_answers": [
+                "Aperture Lavatories",
+                "Aperture Science Innovators",
+                "Wheatley Laboratories"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "You can legally drink alcohol while driving in Mississippi.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was the first sport to have been played on the moon?",
+            "correct_answer": "Golf",
+            "incorrect_answers": [
+                "Football",
+                "Tennis",
+                "Soccer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+            "correct_answer": "Motorola 68000",
+            "incorrect_answers": [
+                "Zilog Z80",
+                "Yamaha YM2612",
+                "Intel 8088"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year did the Wall Street Crash take place?",
+            "correct_answer": "1929",
+            "incorrect_answers": [
+                "1932",
+                "1930",
+                "1925"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who invented the first ever chocolate bar, in 1847?",
+            "correct_answer": "Joseph Fry",
+            "incorrect_answers": [
+                "Andrew Johnson",
+                "John Cadbury",
+                "John Tyler"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the name of Ruby Rose&#039;s weapon from RWBY?",
+            "correct_answer": "Crescent Rose",
+            "incorrect_answers": [
+                "Thorned Rosebud",
+                "Magnhild",
+                "Crooked Scythe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+            "correct_answer": "James Rodr&iacute;guez",
+            "incorrect_answers": [
+                "Thomas M&uuml;ller",
+                "Lionel Messi",
+                "Neymar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+            "correct_answer": "Volvo",
+            "incorrect_answers": [
+                "Ferrari",
+                "Ford",
+                "Renault"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+            "correct_answer": "1000  km/h",
+            "incorrect_answers": [
+                "500 km/h",
+                "320 km/h",
+                "100 km/h"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the primary lyricist for Canadian progressive rock band Rush?",
+            "correct_answer": "Neil Peart",
+            "incorrect_answers": [
+                "Geddy Lee",
+                "Alex Lifeson",
+                "John Rutsey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these is NOT a real tectonic plate?",
+            "correct_answer": "Atlantic Plate",
+            "incorrect_answers": [
+                "North American Plate",
+                "Eurasian Plate",
+                "Nazca Plate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+            "correct_answer": "Myofibrils",
+            "incorrect_answers": [
+                "Epimysium",
+                "Myofiaments",
+                "Myocardium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+            "correct_answer": "Sudan",
+            "incorrect_answers": [
+                "Central African Republic",
+                "Tanzania",
+                "Zambia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "When was &quot;Luigi&#039;s Mansion 3&quot; released?",
+            "correct_answer": "October 31st, 2019",
+            "incorrect_answers": [
+                "January 13th, 2019",
+                "September 6th, 2018",
+                "October 1st, 2019"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The medial meniscus forms which part of what joint in the human body?",
+            "correct_answer": "Knee",
+            "incorrect_answers": [
+                "Elbow",
+                "Ankle",
+                "Shoulder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?",
+            "correct_answer": "Folium of Descartes",
+            "incorrect_answers": [
+                "Elliptic Paraboloid of Descartes",
+                "Cartesian Coordinates",
+                "Descarte&#039;s Helicoid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs is NOT included in the Suicide Squad OST?",
+            "correct_answer": "Skies on Fire - AC/DC",
+            "incorrect_answers": [
+                "Heathens - Twenty One Pilots",
+                "Without Me - Eminem",
+                "Fortunate Son - Creedence Clearwater Revival"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What kind of instrument is a &quot;Mandolin&quot;?",
+            "correct_answer": "String",
+            "incorrect_answers": [
+                "Brass",
+                "Percussion",
+                "Woodwind"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+            "correct_answer": "212",
+            "incorrect_answers": [
+                "326",
+                "100",
+                "451"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "5",
+                "11",
+                "13"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which British monarch was also known as &quot;William of Orange&quot;?",
+            "correct_answer": "William III",
+            "incorrect_answers": [
+                "William I",
+                "William II",
+                "William IV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was the first &quot;Half-Life&quot; released?",
+            "correct_answer": "1998",
+            "incorrect_answers": [
+                "2004",
+                "1999",
+                "1997"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "RAM stands for Random Access Memory.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which city is the capital of Switzerland?",
+            "correct_answer": "Bern",
+            "incorrect_answers": [
+                "Z&uuml;rich",
+                "Frankfurt",
+                "Wien"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What is the Klingon&#039;s afterlife called?",
+            "correct_answer": "Sto-vo-kor",
+            "incorrect_answers": [
+                "Valhalla",
+                "Karon&#039;gahk",
+                "New Jersey"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Spitfire originated from a racing plane.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the currency in the &quot;Animal Crossing&quot; series?",
+            "correct_answer": "Bells",
+            "incorrect_answers": [
+                "Sea Shells",
+                "Leaves",
+                "Bugs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the 2012 animated film &quot;Wolf Children&quot;, what are the names of the wolf children?",
+            "correct_answer": "Ame &amp; Yuki",
+            "incorrect_answers": [
+                "Hana &amp; Yuki",
+                "Ame &amp; Hana",
+                "Chuck &amp; Anna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Bugs Bunny, Tony the Tiger, and other bipedal animal characters are known as what type of character?",
+            "correct_answer": "Anthropomorphic",
+            "incorrect_answers": [
+                "Anthropolegic ",
+                "Anthrologic",
+                "Anthrogenetic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The first half-hour CGI cartoon, ReBoot, aired on which year?",
+            "correct_answer": "1994",
+            "incorrect_answers": [
+                "1993",
+                "1998",
+                "1999"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+            "correct_answer": "Willem Dafoe",
+            "incorrect_answers": [
+                "Charlie Sheen",
+                "Matt Damon",
+                "Johnny Depp"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "What does film maker Dan Bell typically focus his films on?",
+            "correct_answer": "Abandoned Buildings and Dead Malls",
+            "incorrect_answers": [
+                "Historic Landmarks",
+                "Action Films",
+                "Documentaries "
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Rabbits are rodents.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;The Legend of Zelda: Ocarina of Time,&quot; what is the maximum amount of rupees that Link can carry?",
+            "correct_answer": "500",
+            "incorrect_answers": [
+                "999",
+                "1000",
+                "5000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Rick and Morty&quot;, from which dimension do Rick and Morty originate from?",
+            "correct_answer": "C-137",
+            "incorrect_answers": [
+                "J1977",
+                "C-136",
+                "C500-a"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In computing terms, typically what does CLI stand for?",
+            "correct_answer": "Command Line Interface",
+            "incorrect_answers": [
+                "Common Language Input",
+                "Control Line Interface",
+                "Common Language Interface"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the protagonist&#039;s title given by the demons in DOOM (2016)?",
+            "correct_answer": "Doom Slayer",
+            "incorrect_answers": [
+                "Doom Guy",
+                "Doom Marine",
+                "Doom Reaper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+            "correct_answer": "Game Maker",
+            "incorrect_answers": [
+                "Stencyl",
+                "Construct",
+                "Torque 2D"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which game in the &quot;Monster Hunter&quot; series introduced the monster &quot;Gobul&quot;?",
+            "correct_answer": "Monster Hunter Tri",
+            "incorrect_answers": [
+                "Monster Hunter Freedom Unite",
+                "Monster Hunter Frontier",
+                "Monster Hunter Generations"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The first computer bug was formed by faulty wires.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Korean girl group TWICE is under which Entertainment Label?",
+            "correct_answer": "JYP",
+            "incorrect_answers": [
+                "MBK",
+                "YG",
+                "Stone Music"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When was the Grand Patriotic War in the USSR concluded?",
+            "correct_answer": "May 9th, 1945",
+            "incorrect_answers": [
+                "September 2nd, 1945",
+                "August 9th, 1945",
+                "December 11th, 1945"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of Cream the Rabbit&#039;s mom in the &quot;Sonic the Hedgehog&quot; series?",
+            "correct_answer": "Vanilla",
+            "incorrect_answers": [
+                "Peach",
+                "Strawberry",
+                "Mint"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+            "correct_answer": "INGSOC",
+            "incorrect_answers": [
+                "Neo-Bolshevism",
+                "Obliteration of the Self",
+                "Earth Alliance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "6",
+                "10",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What national team won the 2016 edition of UEFA European Championship?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "France",
+                "Germany",
+                "England"
+            ]
+        }
+    ]
+}

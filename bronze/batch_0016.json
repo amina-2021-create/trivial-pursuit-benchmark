@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the name of the currency used in Ethiopia?",
+            "correct_answer": "Birr",
+            "incorrect_answers": [
+                "Dirham",
+                "U.S. Dollar",
+                "Rand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which country produced football players such as Cafu, Roberto Carlos and Pel&eacute;?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "Argentina",
+                "Portugal",
+                "Spain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Super Mario World 2: Yoshi&#039;s Island&quot;, which of these colors is NOT represented by a Yoshi?",
+            "correct_answer": "White",
+            "incorrect_answers": [
+                "Purple",
+                "Brown",
+                "Red"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was David Bowie&#039;s real surname?",
+            "correct_answer": "Jones",
+            "incorrect_answers": [
+                "Johnson",
+                "Edwards",
+                "Carter"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "There aren&#039;t any live-action clones in &quot;Star Wars: Episode III - Revenge of the Sith&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+            "correct_answer": "Great Pyramid of Giza",
+            "incorrect_answers": [
+                "Colossus of Rhodes",
+                "Lighthouse of Alexandria",
+                "Statue of Zeus at Olympia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime Assassination Classroom what is the class that Korosensei teaches?",
+            "correct_answer": "Class 3-E",
+            "incorrect_answers": [
+                "Class 3-A",
+                "Class 3-B",
+                "Class 3-D"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "The Andrew Lloyd Webber musical &quot;Cats&quot; is based off a book of poems written by which author?",
+            "correct_answer": "T.S. Elliot",
+            "incorrect_answers": [
+                "Andrew Lloyd Webber",
+                "Emily Dickenson",
+                "Robert Frost"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The 2011 movie &quot;The Adventures of Tintin&quot; was directed by Steven Spielberg.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these country&#039;s capitals starts with the letter B?",
+            "correct_answer": "Lebanon",
+            "incorrect_answers": [
+                "Jordan",
+                "Kuwait",
+                "Qatar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+            "correct_answer": "Sputnik 1",
+            "incorrect_answers": [
+                "Soyuz 7K-OK",
+                "Zenit-2",
+                "Voskhod 3KV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "How long is a light-year?",
+            "correct_answer": "9.461 Trillion Kilometres",
+            "incorrect_answers": [
+                "1 AU",
+                "105.40 Earth-years",
+                "501.2 Million Miles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the first &quot;Mass Effect&quot; game released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2008",
+                "2009",
+                "2010"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?",
+            "correct_answer": "Excalipoor",
+            "incorrect_answers": [
+                "Excalibore",
+                "Excalisnore",
+                "Excalisore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which of the following figures did NOT have a cameo on &quot;The Drew Carey Show&quot; (1995-2004)?",
+            "correct_answer": "Bill Cosby",
+            "incorrect_answers": [
+                "Donald Trump",
+                "&quot;Weird Al&quot; Yankovic",
+                "Daffy Duck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many total monsters appear in Monster Hunter Generations?",
+            "correct_answer": "105",
+            "incorrect_answers": [
+                "100",
+                "98",
+                "73"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "March 10th is also known as Mar10 Day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Tottenham Hotspur",
+                "Watford",
+                "Stoke City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of the following physicists did NOT work on the Manhattan project?",
+            "correct_answer": "Murray Gell-Mann",
+            "incorrect_answers": [
+                "Richard Feynman",
+                "J. Robert Oppenheimer",
+                "John Von-Neumann"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+            "correct_answer": "Ibuprofen",
+            "incorrect_answers": [
+                "Morphine",
+                "Ketamine",
+                "Aspirin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following countries was the first to send an object into space?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "USA",
+                "Russia",
+                "China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+            "correct_answer": "6th",
+            "incorrect_answers": [
+                "2nd",
+                "7th",
+                "4th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "How many members are there in the idol group &quot;&micro;&#039;s&quot;?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "48",
+                "6",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
+            "correct_answer": "The Giant",
+            "incorrect_answers": [
+                "Shadows Of Evil",
+                "Der Eisendrache",
+                "Moon"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The logo for Snapchat is a Bell.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The LS3 engine is how many cubic inches?",
+            "correct_answer": "376",
+            "incorrect_answers": [
+                "346",
+                "364",
+                "427"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What state is the largest state of the United States of America?",
+            "correct_answer": "Alaska",
+            "incorrect_answers": [
+                "California",
+                "Texas",
+                "Washington"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+            "correct_answer": "HD Graphics 500",
+            "incorrect_answers": [
+                "HD Graphics 700 ",
+                "HD Graphics 600",
+                "HD Graphics 7000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following blood component forms a plug at the site of injuries?",
+            "correct_answer": "Platelets",
+            "incorrect_answers": [
+                "Red blood cells",
+                "White blood cells",
+                "Blood plasma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Who was the 40th President of the USA?",
+            "correct_answer": "Ronald Reagan",
+            "incorrect_answers": [
+                "Jimmy Carter",
+                "Bill Clinton",
+                "Richard Nixon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "On the NBC show Community, whose catch-phrase was &quot;Pop! Pop!&quot;?",
+            "correct_answer": "Magnitude",
+            "incorrect_answers": [
+                "Star Burns",
+                "Leonard",
+                "Senoir Chang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which mountain has the highest peak in Australia?",
+            "correct_answer": "Mount Kosciuszko, New South Wales",
+            "incorrect_answers": [
+                "Mount Ossa, Tasmania",
+                "Mount Bartle Frere, Queensland",
+                "Mount Zeil, Northern Territory"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which team won the 2015-16 English Premier League?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Liverpool",
+                "Cheslea",
+                "Manchester United"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the creator of the Super Smash Bros. Series?",
+            "correct_answer": "Masahiro Sakurai",
+            "incorrect_answers": [
+                "Reggie Fils-Aim&eacute;",
+                "Bill Trinen",
+                "Hideo Kojima"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the scientific name of the knee cap?",
+            "correct_answer": "Patella",
+            "incorrect_answers": [
+                "Femur",
+                "Foramen Magnum",
+                "Scapula"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Vatican City, the smallest country in the world, is fully enclosed by which country?",
+            "correct_answer": "Italy",
+            "incorrect_answers": [
+                "France",
+                "Spain",
+                "Germany"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "In the Dungeons and Dragons universe, Beshaba is the deity of bad luck. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+            "correct_answer": "Nationalist Spain",
+            "incorrect_answers": [
+                "Republican Spain",
+                "Popular Front",
+                "Papal State"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The USS Missouri (BB-63) last served in the Korean War.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2010",
+                "2011",
+                "2013"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who was the mascot of SEGA before &quot;Sonic the Hedgehog&quot;?",
+            "correct_answer": "Alex Kidd",
+            "incorrect_answers": [
+                "Opa Opa",
+                "NiGHTS",
+                "Ristar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In Game of Thrones what is the name of Jon Snow&#039;s sword?",
+            "correct_answer": "Longclaw",
+            "incorrect_answers": [
+                "Oathkeeper",
+                "Widow&#039;s Wail",
+                "Needle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Aerosmith album featured &quot;Walk This Way&quot;?",
+            "correct_answer": "Toys in the Attic",
+            "incorrect_answers": [
+                "Rocks",
+                "Get Your Wings",
+                "Draw the Line"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "How many years did the Hundred Years&#039; War last?",
+            "correct_answer": "116",
+            "incorrect_answers": [
+                "100",
+                "90",
+                "101"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Overwatch character says the line &quot;Heroes never die!&quot;?",
+            "correct_answer": "Mercy",
+            "incorrect_answers": [
+                "Reaper",
+                "Sonic",
+                "Ana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which German city does the map &quot;Clubhouse&quot; in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; take place in?",
+            "correct_answer": "Hannover",
+            "incorrect_answers": [
+                "Berlin",
+                "Hamburg",
+                "Munich"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
+            "correct_answer": "Bass Guitar",
+            "incorrect_answers": [
+                "Drums",
+                "Guitar",
+                "Keyboards"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In what year was the first Indian movie submitted for an Oscar?",
+            "correct_answer": "1957",
+            "incorrect_answers": [
+                "1962",
+                "1938",
+                "1954"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Bill Cipher in the show &quot;Gravity Falls&quot; is the good guy.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+            "correct_answer": "Medell&iacute;n",
+            "incorrect_answers": [
+                "Bogot&aacute;",
+                "Quito",
+                "Cali"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games has the largest map size?",
+            "correct_answer": "Just Cause 2",
+            "incorrect_answers": [
+                "Grand Theft Auto 5",
+                "The Elder Scrolls 4:  Oblivion",
+                "The Witcher 3:  Wild Hunt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+            "correct_answer": "Afghanistan",
+            "incorrect_answers": [
+                "China",
+                "Iraq",
+                "Russia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which US state is also known as the &quot;Lone Star State&quot;?",
+            "correct_answer": "Texas",
+            "incorrect_answers": [
+                "Alabama",
+                "Tennessee",
+                "Kentucky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Starbound&quot;, what is the max HP of the monster &quot;Punchy&quot;?",
+            "correct_answer": "50,000 HP",
+            "incorrect_answers": [
+                "9,000,000 HP",
+                "100 HP",
+                "150,000 HP"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime Seven Deadly Sins what is the name of one of the sins?",
+            "correct_answer": "Diane",
+            "incorrect_answers": [
+                "Sakura",
+                "Ayano",
+                "Sheska"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who was the previous drummer of blink-182 before Travis Barker?",
+            "correct_answer": "Scott Raynor",
+            "incorrect_answers": [
+                "Atom Willard",
+                "Ilan Rubin",
+                "Derek Grant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the planet that the Doctor from television series &quot;Doctor Who&quot; comes from?",
+            "correct_answer": "Gallifrey",
+            "incorrect_answers": [
+                "Sontar",
+                "Skaro",
+                "Mondas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In what year was the smash hit song &quot;Scatman&#039;s World&quot; released?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1996",
+                "1994",
+                "1993"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;One Piece,&quot; what color is Tony Tony Chopper&#039;s nose?",
+            "correct_answer": "Blue",
+            "incorrect_answers": [
+                "Black",
+                "Grey",
+                "Red"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the name of the ocean that Hawaii is located in?",
+            "correct_answer": "Pacific",
+            "incorrect_answers": [
+                "Atlantic",
+                "Indian",
+                "Arctic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;Lift Your Spirit&quot; is an album by which artist?",
+            "correct_answer": "Aloe Blacc",
+            "incorrect_answers": [
+                "Lena Meyer-Landrut",
+                "Stevie Wonder",
+                "Taylor Swift"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What are the first 6 digits of the number &quot;Pi&quot;?",
+            "correct_answer": "3.14159",
+            "incorrect_answers": [
+                "3.14169",
+                "3.12423",
+                "3.25812"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "The first ever episode of Family Guy, &quot;Death Has A Shadow,&quot; aired on January 1st, 2002.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
+            "correct_answer": "Junkrat and Roadhog",
+            "incorrect_answers": [
+                "Roadrat and Junkhog",
+                "Ana and Pharah",
+                "McCree and Deadeye"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What does IWHBYD stand for on the skull in the Halo series?",
+            "correct_answer": "I Would Have Been Your Daddy",
+            "incorrect_answers": [
+                "I Wanna Have Babies You Down",
+                "I Would Hate Being Your Driver",
+                "I Would Have Bought Your Dog"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which famous artist featured on Rowdy Rebel&#039;s 2015 song &quot;Computers&quot;?",
+            "correct_answer": "Bobby Shmurda ",
+            "incorrect_answers": [
+                "Lil Wayne",
+                "Will.I.AM",
+                "Kendrick Lamar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Who discovered the Law of Gravity?",
+            "correct_answer": "Sir Isaac Newton",
+            "incorrect_answers": [
+                "Galileo Galilei",
+                "Charles Darwin",
+                "Albert Einstein"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Michael Jackson had a pet python named &lsquo;Crusher&rsquo;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
+            "correct_answer": "McCree",
+            "incorrect_answers": [
+                "Hanzo",
+                "Pharah",
+                "Soldier: 76"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+            "correct_answer": "Hemocyanin",
+            "incorrect_answers": [
+                "Cytochrome",
+                "Iron",
+                "Methionine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the name of Death Grips Front Man, MC Ride?",
+            "correct_answer": "Stefan Burnett",
+            "incorrect_answers": [
+                "Zach Hill",
+                "Andy Morin",
+                "Stanley Burrell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is an example of a bacterial pathogen?",
+            "correct_answer": "Cholera",
+            "incorrect_answers": [
+                "Measles ",
+                "AIDS",
+                "Ringworm"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Russia shares a land border with North Korea.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which data structure does FILO apply to?",
+            "correct_answer": "Stack",
+            "incorrect_answers": [
+                "Queue",
+                "Heap",
+                "Tree"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which album by American rapper Kanye West contained songs such as &quot;Love Lockdown&quot;, &quot;Paranoid&quot; and &quot;Heartless&quot;?",
+            "correct_answer": "808s &amp; Heartbreak",
+            "incorrect_answers": [
+                "Late Registration",
+                "The Life of Pablo",
+                "Graduation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Warframe, what is the type of fish that is known to eat unwary natives of Cetus?",
+            "correct_answer": "Sharrac",
+            "incorrect_answers": [
+                "Glappid",
+                "Karkina",
+                "Mawfish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which Italian city is home of the car manufacturer &#039;Fiat&#039;?",
+            "correct_answer": "Turin",
+            "incorrect_answers": [
+                "Maranello",
+                "Modena",
+                "Rome"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
+            "correct_answer": "House",
+            "incorrect_answers": [
+                "Custom",
+                "Extra",
+                "Change"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What do sailors call the front of a boat?",
+            "correct_answer": "Bow",
+            "incorrect_answers": [
+                "Stern",
+                "Port",
+                "Starboard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who was the star of the TV series &quot;24&quot;?",
+            "correct_answer": "Kiefer Sutherland",
+            "incorrect_answers": [
+                "Kevin Bacon",
+                "Hugh Laurie",
+                "Rob Lowe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which car brand does NOT belong to General Motors?",
+            "correct_answer": "Ford",
+            "incorrect_answers": [
+                "Buick",
+                "Cadillac",
+                "Chevrolet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Which planet did Superman come from?",
+            "correct_answer": "Krypton",
+            "incorrect_answers": [
+                "Avalon",
+                "Xolnar",
+                "Starhaven"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The third largest country (by square kilometres) in South America is Colombia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Liechtenstein does not have an airport.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who discovered Penicillin?",
+            "correct_answer": "Alexander Flemming",
+            "incorrect_answers": [
+                "Marie Curie",
+                "Alfred Nobel",
+                "Louis Pasteur"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+            "correct_answer": "Hogarth Hughes",
+            "incorrect_answers": [
+                "Kent Mansley",
+                "Dean McCoppin",
+                "Annie Hughes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "correct_answer": "Pelle",
+            "incorrect_answers": [
+                "Insigne",
+                "Barzagli",
+                "Giaccherini"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Toronto landmark was featured on the cover art of Canadian rapper Drake&#039;s 2016 album &quot;Views&quot;?",
+            "correct_answer": "CN Tower",
+            "incorrect_answers": [
+                "Allan Gardens",
+                "Union Station",
+                "Prince of Wales Theatre"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of these actors have NOT played Spiderman in the movies?",
+            "correct_answer": "Michael Cera",
+            "incorrect_answers": [
+                "Tobey Maguire",
+                "Andrew Garfield",
+                "Tom Holland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Cashmere is the wool from which kind of animal?",
+            "correct_answer": "Goat",
+            "incorrect_answers": [
+                "Sheep",
+                "Camel",
+                "Llama"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+            "correct_answer": "549 Days",
+            "incorrect_answers": [
+                "765 Days",
+                "401 Days",
+                "324 Days"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Ouagadougou is the capital of which African country?",
+            "correct_answer": "Burkina Faso",
+            "incorrect_answers": [
+                "Central African Republic",
+                "Senegal",
+                "Zambia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was Garry&#039;s Mod released as a standalone title on Valve&#039;s Steam distribution service?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2007",
+                "2004",
+                "2003"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "What was James Coburn&#039;s last film role before his death?",
+            "correct_answer": "American Gun",
+            "incorrect_answers": [
+                "Monsters Inc",
+                "Texas Rangers",
+                "Snow Dogs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the common name of the chemical compound &quot;dihydrogen monoxide&quot;?",
+            "correct_answer": "Water",
+            "incorrect_answers": [
+                "Methane",
+                "Ammonia ",
+                "Laughing Gas"
+            ]
+        }
+    ]
+}

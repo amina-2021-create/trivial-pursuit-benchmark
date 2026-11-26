@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is not a faction in Tom Clancy&#039;s The Division?",
+            "correct_answer": "CDC",
+            "incorrect_answers": [
+                "Cleaners",
+                "Last Man Batallion",
+                "Rikers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the writer of the game &quot;Half-Life&quot;?",
+            "correct_answer": "Marc Laidlaw",
+            "incorrect_answers": [
+                "Gabe Newell",
+                "Robin Walker",
+                "Chet Faliszek"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the nickname for the US state Delaware?",
+            "correct_answer": "The First State",
+            "incorrect_answers": [
+                "The Fiftieth State",
+                "The Second State",
+                "The Sixteenth State"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main antagonist in the Portal franchise?",
+            "correct_answer": "GLaDOS",
+            "incorrect_answers": [
+                "Chell",
+                "Wheatley",
+                "Rick"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The surface area of Russia is slightly larger than that of the dwarf planet Pluto.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "These two countries held a commonwealth from the 16th to 18th century.",
+            "correct_answer": "Poland and Lithuania",
+            "incorrect_answers": [
+                "Hutu and Rwanda",
+                "North Korea and South Korea",
+                "Bangladesh and Bhutan"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The Chevrolet Corvette has always been made exclusively with V8 engines only.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What direction does the Statue of Liberty face?",
+            "correct_answer": "Southeast",
+            "incorrect_answers": [
+                "Southwest",
+                "Northwest",
+                "Northeast"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the Overlord Anime who was Cocytus made by?",
+            "correct_answer": "Warrior Takemikazuchi",
+            "incorrect_answers": [
+                "Peroroncino",
+                "Ulbert Alain Odle",
+                "Bukubukuchagama"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+            "correct_answer": "Megatron Griffin",
+            "incorrect_answers": [
+                "Who-Cares Griffin",
+                "Neil Griffin",
+                "Megan Griffin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Fortnite emotes does NOT involve a sport in some way?",
+            "correct_answer": "Freestylin&#039;",
+            "incorrect_answers": [
+                "Red Card",
+                "Kick Ups",
+                "Baller"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many sides does a pentagon have?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "9",
+                "6",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest city in Morocco?",
+            "correct_answer": "Casablanca",
+            "incorrect_answers": [
+                "Rabat",
+                "Fes",
+                "Sale"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard SI unit for electric current?",
+            "correct_answer": "Ampere",
+            "incorrect_answers": [
+                "Volt",
+                "Ohm",
+                "Watt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+            "correct_answer": "Grape Ape",
+            "incorrect_answers": [
+                "Boss Gator",
+                "Wally Gator",
+                "Yogi Bear"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Taiwan officially calls itself &quot;the Republic of China&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these choices is not one of the phases of mitosis?",
+            "correct_answer": "Diplophase",
+            "incorrect_answers": [
+                "Metaphase",
+                "Anaphase",
+                "Telophase"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.",
+            "correct_answer": "George W. Bush",
+            "incorrect_answers": [
+                "John Kerry",
+                "Barack Obama",
+                "Al Gore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is Lilo&#039;s last name from Lilo and Stitch?",
+            "correct_answer": "Pelekai",
+            "incorrect_answers": [
+                "Anoaʻi",
+                "Kealoha",
+                "Kuʻulei"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Celebrities",
+            "question": "Gabe Newell was born in which year?",
+            "correct_answer": "1962 ",
+            "incorrect_answers": [
+                "1970",
+                "1960",
+                "1972"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+            "correct_answer": "Nine",
+            "incorrect_answers": [
+                "Ten",
+                "Seven",
+                "Eight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+            "correct_answer": "George R. R. Martin",
+            "incorrect_answers": [
+                "George Lucas",
+                "George Orwell",
+                "George Eliot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "How many strings are there on a cello?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "6",
+                "8"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Super Mario series, the character Pauline is a Princess like Princess Peach.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "How many soccer players should be on the field at the same time?",
+            "correct_answer": "22",
+            "incorrect_answers": [
+                "20",
+                "24",
+                "26"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Who made the discovery of X-rays?",
+            "correct_answer": "Wilhelm Conrad R&ouml;ntgen",
+            "incorrect_answers": [
+                "Thomas Alva Edison",
+                "James Watt",
+                "Albert Einstein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "A collection of Sanskrit hymns and verses known as the Vedas are sacred texts in what religion?",
+            "correct_answer": "Hinduism",
+            "incorrect_answers": [
+                "Judaism",
+                "Islam",
+                "Buddhism"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs is not by Tatsuro Yamashita?",
+            "correct_answer": "Lucky Lady Feel So Good ",
+            "incorrect_answers": [
+                "Merry-Go Round",
+                "Let&#039;s Dance Baby",
+                "Love Talkin&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which musical group won the Brit Awards in 1985, with George Michael as a member?",
+            "correct_answer": "Wham!",
+            "incorrect_answers": [
+                "Frankie Goes to Hollywood",
+                "U2",
+                "Culture Club"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+            "correct_answer": "Toronto Marlies",
+            "incorrect_answers": [
+                "Toronto Rock",
+                "Toronto Argonauts",
+                "Toronto Wolfpack"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+            "correct_answer": "Procompsognathus",
+            "incorrect_answers": [
+                "Dilophosaurus",
+                "Tyrannosaurus Rex",
+                "Velociraptor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The Windows OS was delevoped by which company?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": [
+                "Apple",
+                "Nokia",
+                "IBM"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the Mad Max franchise, what type of car is the Pursuit Special driven by Max?",
+            "correct_answer": "Ford Falcon",
+            "incorrect_answers": [
+                "Holden Monaro",
+                "Chrysler Valiant Charger",
+                "Pontiac Firebird"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Ska&eth;i is the Norse Goddess of skiing, mountains, winter and bowhunting.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of the US State of New York?",
+            "correct_answer": "Albany",
+            "incorrect_answers": [
+                "Buffalo",
+                "New York",
+                "Rochester"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the largest animal currently on Earth?",
+            "correct_answer": "Blue Whale",
+            "incorrect_answers": [
+                "Orca",
+                "Colossal Squid",
+                "Giraffe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+            "correct_answer": "Eric Cantona",
+            "incorrect_answers": [
+                "David Seamen",
+                "Ashley Cole",
+                "Mark Hughes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "The character White Diamond from Steven Universe, is voiced by who?",
+            "correct_answer": "Christine Ebersole",
+            "incorrect_answers": [
+                "Ellen McLain",
+                "Aly Michalka",
+                "Rihanna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of these countries remained neutral during World War II?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": [
+                "United Kingdom",
+                "France",
+                "Italy"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Steel is an alloy of Iron and Carbon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "NCIS stands for &quot;Navy Corps Investigative Service&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is &quot;Stenoma&quot;?",
+            "correct_answer": "A genus of moths",
+            "incorrect_answers": [
+                "A combat stimulant from WW2",
+                "A type of seasoning",
+                "A port city in the carribean"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+            "correct_answer": "Andy Warhol",
+            "incorrect_answers": [
+                "Roy Lichtenstein",
+                "David Hockney",
+                "Peter Blake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following is not an Ivy League University?",
+            "correct_answer": "Stanford",
+            "incorrect_answers": [
+                "University of Pennsylvania",
+                "Harvard",
+                "Princeton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+            "correct_answer": "No Mercy",
+            "incorrect_answers": [
+                "Subway Sprint",
+                "Hospital Havoc",
+                "Blood Harvest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the creator of Touhou project?",
+            "correct_answer": "Zun",
+            "incorrect_answers": [
+                "Jun",
+                "Twilight Frontier",
+                "Tasofro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is Homestuck character Gamzee&#039;s last name?",
+            "correct_answer": "Makara",
+            "incorrect_answers": [
+                "Makera",
+                "Makare",
+                "Makrea"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+            "correct_answer": "Heartilly",
+            "incorrect_answers": [
+                "Loire",
+                "Almasy",
+                "Trepe"
+            ]
+        }
+    ]
+}

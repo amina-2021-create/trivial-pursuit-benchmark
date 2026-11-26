@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which president erased the national debt of the United States?",
+            "correct_answer": "Andrew Jackson",
+            "incorrect_answers": [
+                "Ronald Reagan",
+                "John F. Kennedy",
+                "Franklin Roosevelt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these aliases has NOT been used by electronic musician Aphex Twin?",
+            "correct_answer": "Burial",
+            "incorrect_answers": [
+                "Caustic Window",
+                "Bradley Strider",
+                "GAK"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
+            "correct_answer": "Blinkmoth Infusion",
+            "incorrect_answers": [
+                "Vitalizing Wind",
+                " Chant of Vitu-Ghazi",
+                "Assert Authority"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In programming, what do you call functions with the same name but different implementations?",
+            "correct_answer": "Overloading",
+            "incorrect_answers": [
+                "Overriding",
+                "Abstracting",
+                "Inheriting"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;Drink the Sea&quot; is an album by which electronic music artist?",
+            "correct_answer": "The Glitch Mob",
+            "incorrect_answers": [
+                "Avicii",
+                "XXYYXX",
+                "Flux Pavilion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the oldest team in the NFL?",
+            "correct_answer": "Arizona Cardinals",
+            "incorrect_answers": [
+                "Chicago Bears",
+                "Green Bay Packers",
+                "New York Giants"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the frontman of Muse?",
+            "correct_answer": "Matt Bellamy",
+            "incorrect_answers": [
+                "Dominic Howard",
+                "Thom Yorke",
+                "Jonny Greenwood"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Half-Life franchise, what is the real name of the &quot;gravity gun&quot;?",
+            "correct_answer": "Zero-Point Energy Field Manipulator",
+            "incorrect_answers": [
+                "Universal Gravity Manipulation Device",
+                "Isaac Newton&#039;s Theory Disprover",
+                "Quantum Energy Displacement Modifier"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Half-Life 2, if you play the zombies&#039; speech in reverse, they actually speak coherent English.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The Quadrangularis Reversum is best described as which of the following?",
+            "correct_answer": "A percussion instrument",
+            "incorrect_answers": [
+                "A building in Oxford University",
+                "A chess move",
+                "A geometric theorem"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
+            "correct_answer": "Anglesey",
+            "incorrect_answers": [
+                "Barry",
+                "Bardsey",
+                "Caldey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+            "correct_answer": "The Shining",
+            "incorrect_answers": [
+                "2001: A Space Odyssey",
+                " Dr. Strangelove ",
+                "Eyes Wide Shut"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "What is the world&#039;s oldest board game?",
+            "correct_answer": "Senet",
+            "incorrect_answers": [
+                "Chess",
+                "Checkers",
+                "Go"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Cucumbers are usually more than 90% water.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+            "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+            "incorrect_answers": [
+                "Cristiano Ronaldo los Santos Diego",
+                "Cristiano Armando Diego Ronaldo",
+                "Cristiano Luis Armando Ronaldo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "SCP-173 was the first SCP article written for the web-based collaborative fiction project known as the &quot;SCP Foundation&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which one of these countries borders with Poland?",
+            "correct_answer": "Lithuania",
+            "incorrect_answers": [
+                "France",
+                "Norway",
+                "Netherlands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who was a voice actor for the English dubbing of HOWL&#039;S MOVING CASTLE (2004)?",
+            "correct_answer": "Christian Bale",
+            "incorrect_answers": [
+                "Matt Damon",
+                "Joseph Gordon-Levitt",
+                "Willem Dafoe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The 1985 Toyota Corolla &quot;AE86&quot; was the hero car for what anime? ",
+            "correct_answer": "Initial D",
+            "incorrect_answers": [
+                "Wangan Midnight",
+                "Ghost MF",
+                "Ex Driver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+            "correct_answer": "Laura Brehm",
+            "incorrect_answers": [
+                "Anna Yvette ",
+                "Danyka Nadeau",
+                "Veela"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+            "correct_answer": "Doug Bradley",
+            "incorrect_answers": [
+                "Doug Jones",
+                "Doug Savant",
+                "Doug Benson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+            "correct_answer": "St. Peter&#039;s Basilica",
+            "incorrect_answers": [
+                "Catania Cathedral",
+                "St. Mark&rsquo;s Basilica",
+                "The Duomo of Florence"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "3",
+                "10",
+                "1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who was the original voice actor of Shaggy Rogers in Scooby-Doo?",
+            "correct_answer": "Casey Kasem",
+            "incorrect_answers": [
+                "Dante Basco",
+                "Billy West",
+                "Frank Welker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "When did Tame Impala release their second album?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2015",
+                "2010",
+                "1967"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "&quot;Nephelococcygia&quot; is the practice of doing what? ",
+            "correct_answer": "Finding shapes in clouds",
+            "incorrect_answers": [
+                "Sleeping with your eyes open",
+                "Breaking glass with your voice",
+                "Swimming in freezing water"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which one of the following musical instruments is NOT a part of the Woodwind section?",
+            "correct_answer": "Trumpet",
+            "incorrect_answers": [
+                "Clarinet",
+                "Oboe",
+                "Alto Saxophone"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The first IBM PC was released in 1981.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Where did the pineapple plant originate?",
+            "correct_answer": "South America",
+            "incorrect_answers": [
+                "Hawaii",
+                "Europe",
+                "Asia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
+            "correct_answer": "Moon Rock Poisoning",
+            "incorrect_answers": [
+                "Accidentally sending a portal to the Moon",
+                "Slipped in the shower",
+                "Asbestos Poisoning"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who is regarded as the best Romanian footballer of all time?",
+            "correct_answer": "Gheorghe Hagi",
+            "incorrect_answers": [
+                "Cristian Chivu",
+                "Nicolae Dobrin",
+                "Gheorghe Popescu"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pok&eacute;mon, Arbok evolves into Seviper.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "How many Harry Potter books are there?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+            "correct_answer": "George Lucas",
+            "incorrect_answers": [
+                "Ron Howard",
+                "Francis Ford Coppola",
+                "Steven Spielberg"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The Fiat Multipla is a drivable car in &quot;Forza Horizon 3&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "Aleph-nought is the cardinality of the set of all natural numbers.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "At what temperature does water boil?",
+            "correct_answer": "212&deg;F",
+            "incorrect_answers": [
+                "200&deg;F",
+                "181&deg;F",
+                "178&deg;F"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Overwatch, how old is Reinhardt Wilhelm?",
+            "correct_answer": "61",
+            "incorrect_answers": [
+                "59",
+                "65",
+                "62"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Colombia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not one of Dracula&#039;s relics found in the video game &quot;Castlevania II: Simon&#039;s Quest&quot;?",
+            "correct_answer": "The Tooth",
+            "incorrect_answers": [
+                "The Nail",
+                "The Eyeball",
+                "The Rib Bone"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which basketball team has attended the most NBA grand finals?",
+            "correct_answer": "Los Angeles Lakers",
+            "incorrect_answers": [
+                "Boston Celtics",
+                "Philadelphia 76ers",
+                "Golden State Warriors"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following are cells of the adaptive immune system?",
+            "correct_answer": "Cytotoxic T cells",
+            "incorrect_answers": [
+                "Dendritic cells",
+                "Natural killer cells",
+                "White blood cells"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the adventurer you meet at the mines in Stardew Valley?",
+            "correct_answer": "Marlon",
+            "incorrect_answers": [
+                "Marnie",
+                "Morris",
+                "Marvin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the term GPU stand for?",
+            "correct_answer": "Graphics Processing Unit",
+            "incorrect_answers": [
+                "Gaming Processor Unit",
+                "Graphite Producing Unit",
+                "Graphical Proprietary Unit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In Star Wars, what&#039;s the name of the new Government created after the defeat of the Galactic Empire?",
+            "correct_answer": "The New Republic",
+            "incorrect_answers": [
+                "The Rebel Alliance",
+                "The Crimson Dawn",
+                "The First Order"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
+            "correct_answer": "Dream Drop Distance",
+            "incorrect_answers": [
+                "Birth By Sleep",
+                "365/2 Days",
+                "Re:Chain of Memories"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the remake of &quot;Resident Evil 2&quot;, which medallion does not exist?",
+            "correct_answer": "Dragon Medallion",
+            "incorrect_answers": [
+                "Lion Medallion",
+                "Unicorn Medallion",
+                "Maiden Medallion"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+            "correct_answer": "Sneeze",
+            "incorrect_answers": [
+                "Cough",
+                "Yawn",
+                "Hiccup"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+            "correct_answer": "Toto",
+            "incorrect_answers": [
+                "Foreigner",
+                "Steely Dan",
+                "Journey"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The ancient city of Chich&eacute;n Itz&aacute; was built by which civilization?",
+            "correct_answer": "Mayans",
+            "incorrect_answers": [
+                "Aztecs",
+                "Incas",
+                "Toltecs"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Ellie Goulding&#039;s earliest album was named?",
+            "correct_answer": "Lights",
+            "incorrect_answers": [
+                "Halcyon",
+                "Bright Lights",
+                "Halcyon Days"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "What animal is pictured on the logo of the automobile manufacturer Porsche?",
+            "correct_answer": "Horse",
+            "incorrect_answers": [
+                "Bull",
+                "Lion",
+                "Cheetah"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+            "correct_answer": "Interphase",
+            "incorrect_answers": [
+                "Prophase",
+                "Stasis",
+                "Telophase"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; takes place on Shadow Moses Island.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is not a wind instrument?",
+            "correct_answer": "Viola",
+            "incorrect_answers": [
+                "Oboe",
+                "Trombone",
+                "Duduk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+            "correct_answer": "Gelatin",
+            "incorrect_answers": [
+                "Dye",
+                "Paint",
+                "CGI Effect"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What song is played during the ending credits of Guitar Hero: World Tour?",
+            "correct_answer": "Dream Theater - Pull Me Under",
+            "incorrect_answers": [
+                "King Crimson - 21st Century Schizoid Man",
+                "Dragonforce - Through The Fire &amp; The Flames",
+                "Lynyrd Skynyrd - Free Bird"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which 1994 film did Roger Ebert famously despise, saying &quot;I hated hated hated hated hated this movie&quot;.",
+            "correct_answer": "North",
+            "incorrect_answers": [
+                "3 Ninjas Kick Back",
+                "The Santa Clause",
+                "Richie Rich"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "How many values can a single byte represent?",
+            "correct_answer": "256",
+            "incorrect_answers": [
+                "8",
+                "1",
+                "1024"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The shotgun appears in every numbered Resident Evil game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which Russian author wrote the epic novel War and Peace?",
+            "correct_answer": "Leo Tolstoy",
+            "incorrect_answers": [
+                "Fyodor Dostoyevsky",
+                "Alexander Pushkin",
+                "Vladimir Nabokov"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+            "correct_answer": "Feiji",
+            "incorrect_answers": [
+                "Qiche",
+                "Zongxian",
+                "Huojian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Coleslaw originated from which European country?",
+            "correct_answer": "The Netherlands",
+            "incorrect_answers": [
+                "United Kingdom",
+                "Denmark",
+                "Germany"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Metal Gear Solid&quot; series, what&#039;s the name of Solid Snake&#039;s brother?",
+            "correct_answer": "Liquid Snake",
+            "incorrect_answers": [
+                "Kulus Snake",
+                "Billy Snake",
+                "Gilur Snake"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Paraguay"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The lesser-known continuation of the saying &quot;Curiosity killed the cat...&quot; is:",
+            "correct_answer": "&quot;...but satisfaction brought it back.&quot;",
+            "incorrect_answers": [
+                "&quot;...and the silent mouse remained thereat.&quot;",
+                "&quot;...which taught it not to do that.&quot;",
+                "&quot;...but death by the truth is better than ignorance.&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+            "correct_answer": "61",
+            "incorrect_answers": [
+                "65",
+                "63",
+                "67"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs by artist Eminem contain the lyric &quot;Nice to meet you. Hi, my name is... I forgot my name!&quot;?",
+            "correct_answer": "Rain Man",
+            "incorrect_answers": [
+                "Without Me",
+                "Kim",
+                "Square Dance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The word &quot;dozen&quot; usually refers to a group of how many objects?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "6",
+                "20",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+            "correct_answer": "Anna Karenina",
+            "incorrect_answers": [
+                "Notes from the Underground",
+                "Crime and Punishment",
+                "The Brothers Karamazov"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "What was the major distinction between the English and French Gothic styles of architecture?",
+            "correct_answer": "Fan vaulting",
+            "incorrect_answers": [
+                "Pinnacles",
+                "Gargoyles",
+                "Hemispherical Domes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+            "correct_answer": "Richard Bachman",
+            "incorrect_answers": [
+                "J. D. Robb",
+                "Mark Twain",
+                "Lewis Carroll"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+            "correct_answer": "88 mph",
+            "incorrect_answers": [
+                "77 mph",
+                "100 mph",
+                "70 mph"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The Hyundai Motor Company was founded in which country?",
+            "correct_answer": "South Korea",
+            "incorrect_answers": [
+                "Russia",
+                "Japan",
+                "China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+            "correct_answer": "Justin Bieber",
+            "incorrect_answers": [
+                "Selena Gomez",
+                "Ellie Goulding",
+                "The Weeknd"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The Canadian $1 coin is colloquially known as a what?",
+            "correct_answer": "Loonie",
+            "incorrect_answers": [
+                "Boolie",
+                "Foolie",
+                "Moodie"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Prior to working at Wizards of the Coast, &quot;Mark Rosewater&quot; was a writer for which show?",
+            "correct_answer": "Roseanne",
+            "incorrect_answers": [
+                "Boy Meets World",
+                "The X-Files",
+                "NYPD Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Who was the only president to not be in office in Washington D.C?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "Abraham Lincoln",
+                "Richard Nixon",
+                "Thomas Jefferson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital city of New Zealand?",
+            "correct_answer": "Wellington",
+            "incorrect_answers": [
+                "Auckland",
+                "Christchurch",
+                "Melbourne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet&#039;s boss fight?",
+            "correct_answer": "U.N. Owen Was Her",
+            "incorrect_answers": [
+                "Septette for the Dead Princess",
+                "Flowering Night",
+                "Pierrot of the Star-Spangled Banner"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "An eggplant is a vegetable.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": " What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
+            "correct_answer": "AK-47",
+            "incorrect_answers": [
+                "RPK",
+                "M16",
+                "MG 42"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which character in Touhou is able to control dolls?",
+            "correct_answer": "Alice Margatroid",
+            "incorrect_answers": [
+                "Marisa Kirisame",
+                "Clownpiece",
+                "Flandre Scarlet"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Terry Gilliam is the only American member of the comedy troupe &quot;Monty Python.&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?",
+            "correct_answer": "Solid Snake",
+            "incorrect_answers": [
+                "Pit",
+                "Meta Knight",
+                "R.O.B."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "In the hexadecimal system, what number comes after 9?",
+            "correct_answer": "The Letter A",
+            "incorrect_answers": [
+                "10",
+                "The Number 0",
+                "16"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What internet protocol was documented in RFC 1459?",
+            "correct_answer": "IRC",
+            "incorrect_answers": [
+                "HTTP",
+                "HTTPS",
+                "FTP"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+            "correct_answer": "Trajan",
+            "incorrect_answers": [
+                "Julius Caesar",
+                "Claudius",
+                "Constantine the Great"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which game in the &quot;Dark Souls&quot; series does the player play as the &quot;Ashen One&quot;?",
+            "correct_answer": "Dark Souls III",
+            "incorrect_answers": [
+                "Dark Souls I",
+                "Bloodborne",
+                "Demon Souls"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Under which name was Rodrigo Borgia made Pope?",
+            "correct_answer": "Alexander VI",
+            "incorrect_answers": [
+                "Rodrigo I",
+                "John Paul II",
+                "Pius VII"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the largest planet in the Solar System?",
+            "correct_answer": "Jupiter",
+            "incorrect_answers": [
+                "Saturn",
+                "Earth",
+                "Mars"
+            ]
+        }
+    ]
+}

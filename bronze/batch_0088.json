@@ -1,0 +1,601 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What age was King Henry V when he died?",
+            "correct_answer": "35",
+            "incorrect_answers": [
+                "62",
+                "87",
+                "73"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which infamous European traitor was known as &quot;the last person to enter Parliament with honest intentions&quot;?",
+            "correct_answer": "Guy Fawkes",
+            "incorrect_answers": [
+                "Robert Catesby",
+                "Francis Tresham",
+                "Everard Digby"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which one of these Swedish companies was founded in 1943?",
+            "correct_answer": "IKEA",
+            "incorrect_answers": [
+                "H &amp; M",
+                "Lindex",
+                "Clas Ohlson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What team did England beat to win in the 1966 World Cup final?",
+            "correct_answer": "West Germany",
+            "incorrect_answers": [
+                "Soviet Union",
+                "Portugal",
+                "Brazil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+            "correct_answer": "Sasha",
+            "incorrect_answers": [
+                "Betty",
+                "Anna",
+                "Diana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Stars consist mainly of hydrogen and which other gas?",
+            "correct_answer": "Helium",
+            "incorrect_answers": [
+                "Oxygen",
+                "Argon",
+                "Nitrogen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "How many spaces are there on a standard Monopoly board?",
+            "correct_answer": "40",
+            "incorrect_answers": [
+                "28",
+                "55",
+                "36"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which animal features on the logo for Abarth, the motorsport division of Fiat?",
+            "correct_answer": "Scorpion",
+            "incorrect_answers": [
+                "Snake",
+                "Bull",
+                "Horse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+            "correct_answer": "October 10th, 2010",
+            "incorrect_answers": [
+                "November 6th, 2010",
+                "April 14th, 1984",
+                "May 18th, 2015"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The human heart has how many chambers?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "2",
+                "6",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?",
+            "correct_answer": "Torquay",
+            "incorrect_answers": [
+                "Blackpool",
+                "Bournemouth",
+                "Great Yarmouth"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the Jewish New Year?",
+            "correct_answer": "Rosh Hashanah",
+            "incorrect_answers": [
+                "Elul",
+                "New Year",
+                "Succoss"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the 2014 Pokemon VGC Finals, which Pokemon was famous for bringing the winner to victory?",
+            "correct_answer": "Pachirisu",
+            "incorrect_answers": [
+                "Garchomp",
+                "Lapras",
+                "Primal Groudon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the first mammal successfully launched into Earth&#039;s orbit?",
+            "correct_answer": "Laika, the dog",
+            "incorrect_answers": [
+                "Ham, the chimpanzee",
+                "Baker, the monkey",
+                "Belka, the dog"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Gadgets",
+            "question": "Who built the first laser?",
+            "correct_answer": "Theodore Harold Maiman",
+            "incorrect_answers": [
+                "Nikola Tesla",
+                "Jack Kilby",
+                "Edith Clarke"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the developer of the game &quot;Rocket League&quot;?",
+            "correct_answer": "Psyonix",
+            "incorrect_answers": [
+                "People can fly",
+                "Digital Happiness",
+                "Roll7"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "What is the name of the Greek god of peaceful deaths?",
+            "correct_answer": "Thanatos",
+            "incorrect_answers": [
+                "Tartarus",
+                "Hades",
+                "Moros"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many sides does a M&ouml;bius strip have?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+            "correct_answer": "44.1 kHz",
+            "incorrect_answers": [
+                "32.0 kHz",
+                "1.5 MHz",
+                "20.5 kHz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Senegal?",
+            "correct_answer": "Dakar",
+            "incorrect_answers": [
+                "Nouakchott",
+                "Conakry",
+                "Monrovia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who is the youngest person to receive a Nobel Prize?",
+            "correct_answer": "Malala Yousafzai",
+            "incorrect_answers": [
+                "Lawrence Bragg",
+                "Werner Heisenberg",
+                "Yasser Arafat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Of the following, which Stephen King novel was published earliest?",
+            "correct_answer": "&quot;Cujo&quot;",
+            "incorrect_answers": [
+                "&quot;Misery&quot;",
+                "&quot;Christine&quot;",
+                "&quot;IT&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Long John Baldry, the voice of Dr. Robotnik in Adventures Of Sonic The Hedgehog, was in a band with which music artist in the 1960s?",
+            "correct_answer": "Elton John",
+            "incorrect_answers": [
+                "Freddie Mercury",
+                "Paul McCartney",
+                "Johnny Cash"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Which animal was part of an Russian domestication experiment in 1959?",
+            "correct_answer": "Foxes",
+            "incorrect_answers": [
+                "Pigeons",
+                "Bears",
+                "Alligators"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which one of these Manga titles was not created by Urasawa Naoki?",
+            "correct_answer": "My Father&#039;s Journal",
+            "incorrect_answers": [
+                "Billy Bat",
+                "20th Century Boys",
+                "Monster"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "In a standard set of playing cards, which is the only king without a moustache?",
+            "correct_answer": "Hearts",
+            "incorrect_answers": [
+                "Spades",
+                "Diamonds",
+                "Clubs"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The shape of the Earth is a perfect sphere.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In DuckTales, what is the name of the city where all the main characters live?",
+            "correct_answer": "Duckburg",
+            "incorrect_answers": [
+                "Duckwing",
+                "Tailspin",
+                "Wingford"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What machine element is located in the center of fidget spinners?",
+            "correct_answer": "Bearings",
+            "incorrect_answers": [
+                "Axles",
+                "Gears",
+                "Belts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+            "correct_answer": "The Governor",
+            "incorrect_answers": [
+                "Negan",
+                "Rick Grimes",
+                "Daryl Dixon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+            "correct_answer": "1-7",
+            "incorrect_answers": [
+                "1-5",
+                "1-6",
+                "2-6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Call of Duty: United Offensive, what two soldiers share a name of a video game character?",
+            "correct_answer": "Gordon &amp; Freeman",
+            "incorrect_answers": [
+                "Sam &amp; Fisher",
+                "Nathan &amp; Drake",
+                "Dig &amp; Dug"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What company developed the Xbox line of video game consoles?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": [
+                "Sony",
+                "Toshiba",
+                "IBM"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, you can upgrade the &quot;Apothicon Servant&quot; in the &quot;Shadows Of Evil&quot; map.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following language families is the most controversial amongst modern linguists?",
+            "correct_answer": "Altaic",
+            "incorrect_answers": [
+                "Sino-Tibetan",
+                "Dravidian",
+                "Indo-European"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which band name isn&#039;t a Stand in &quot;JoJo&#039;s Bizarre Adventure&quot;?",
+            "correct_answer": "AC/DC",
+            "incorrect_answers": [
+                "Green Day",
+                "Survivor",
+                "Red Hot Chili Peppers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "In the words of his 1973 song, Bob Dylan is &quot;knock, knock, knockin&quot; on which door?",
+            "correct_answer": "Heaven&#039;s",
+            "incorrect_answers": [
+                "Opportunity&#039;s",
+                "Angie&#039;s",
+                "Eileen&#039;s"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+            "correct_answer": "M3",
+            "incorrect_answers": [
+                "Colt 9mm",
+                "Thompson",
+                "MAC-10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Which Audi does not use Haldex based all wheel drive system?",
+            "correct_answer": "Audi A8",
+            "incorrect_answers": [
+                "Audi TT",
+                "Audi S3",
+                "Audi A3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the 8th installment in the Fire Emblem series?",
+            "correct_answer": "The Sacred Stones",
+            "incorrect_answers": [
+                "Blazing Sword",
+                "Awakening",
+                "Path of Radiance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "During what war did the &quot;Cuban Missile Crisis&quot; occur?",
+            "correct_answer": "Cold War",
+            "incorrect_answers": [
+                "World War I",
+                "World War II",
+                "Revolutionary War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Xanthophobia is the fear of what color?",
+            "correct_answer": "Yellow",
+            "incorrect_answers": [
+                "Blue",
+                "Red",
+                "Green"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+            "correct_answer": "Philip V",
+            "incorrect_answers": [
+                "Charles V",
+                "Philip II",
+                "Francis Joseph"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the transfer of disease, crops, and people across the Atlantic shortly after the discovery of the Americas called?",
+            "correct_answer": "The Columbian Exchange",
+            "incorrect_answers": [
+                "Triangle Trade",
+                "Transatlantic Slave Trade",
+                "The Silk Road"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+            "correct_answer": "Head",
+            "incorrect_answers": [
+                "Arm",
+                "Leg",
+                "Chest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the real name of prominent electronic musician Aphex Twin?",
+            "correct_answer": "Richard D. James",
+            "incorrect_answers": [
+                "Richard M. Hall",
+                "Richard W. Wright",
+                "Richard H. Blackmore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Tetsuya Fujita was a scientist that developed the scale for which natural disaster?",
+            "correct_answer": "Tornadoes",
+            "incorrect_answers": [
+                "Hurricanes",
+                "Earthquakes",
+                "Volcanoes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+            "correct_answer": "Green Arrow",
+            "incorrect_answers": [
+                "Superman",
+                "Batman",
+                "Steve Trevor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who voiced Finn in Adventure Time?",
+            "correct_answer": "Jeremy Shada",
+            "incorrect_answers": [
+                "Nolan North",
+                "John DiMaggio",
+                "Tom Kenny"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
+            "correct_answer": "Merano",
+            "incorrect_answers": [
+                "Venice",
+                "Milan",
+                "Rome"
+            ]
+        }
+    ]
+}

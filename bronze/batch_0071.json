@@ -1,0 +1,599 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Calvin and Hobbes, what is the name of Susie&#039;s stuffed rabbit?",
+            "correct_answer": "Mr. Bun",
+            "incorrect_answers": [
+                "Mr. Bunbun",
+                "Mr. Rabbit",
+                "Mr. Hoppy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+            "correct_answer": "Egypt and Sudan",
+            "incorrect_answers": [
+                "Israel and Jordan",
+                "Chad and Libya",
+                "Iraq and Saudi Arabia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is considered the rarest form of color blindness?",
+            "correct_answer": "Blue",
+            "incorrect_answers": [
+                "Red",
+                "Green",
+                "Purple"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who was Tetris created by?",
+            "correct_answer": "Alexey Pajitnov",
+            "incorrect_answers": [
+                "Toru Iwatani",
+                "Allan Alcorn",
+                "William Higinbotham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?",
+            "correct_answer": "David Gilmour",
+            "incorrect_answers": [
+                "Jimmy Page",
+                "Mark Knopfler",
+                "Eric Clapton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "The stop motion comedy show &quot;Robot Chicken&quot; was created by which of the following?",
+            "correct_answer": "Seth Green",
+            "incorrect_answers": [
+                "Seth MacFarlane",
+                "Seth Rogen",
+                "Seth Rollins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+            "correct_answer": "Aristaeus",
+            "incorrect_answers": [
+                "Autonoe",
+                "Carme",
+                "Cephisso"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Who is a co-founder of music streaming service Spotify?",
+            "correct_answer": "Daniel Ek",
+            "incorrect_answers": [
+                "Sean Parker",
+                "Felix Miller",
+                "Michael Breidenbruecker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Who is the god of war in Polynesian mythology?",
+            "correct_answer": "&#039;Oro",
+            "incorrect_answers": [
+                "Hina",
+                "Kohara",
+                "Māui"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "If you dip a dry towel into a tub full of water, water will climb up the towel by a phenomenon called &quot;Cartillary Action&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+            "correct_answer": "Muhammad Ali",
+            "incorrect_answers": [
+                "Mike Tyson",
+                "Sylvester Stallone",
+                "Arnold Schwarzenegger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the highest level that you can reach in &quot;The Elder Scrolls 4: Oblivion&quot; without considering skill levels, class, and birthsign?",
+            "correct_answer": "50",
+            "incorrect_answers": [
+                "No limit",
+                "80",
+                "100"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of the following music bands is not from Finland?",
+            "correct_answer": "Sabaton",
+            "incorrect_answers": [
+                "Apocalyptica",
+                "Waltari",
+                "Lordi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which city is the capital of Michigan?",
+            "correct_answer": "Lansing",
+            "incorrect_answers": [
+                "Kalamazoo",
+                "Ann Arbor",
+                "Detroit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard SI unit for luminous intensity?",
+            "correct_answer": "Candela",
+            "incorrect_answers": [
+                "Lumen",
+                "Faraday",
+                "Coulomb"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the fastest animal?",
+            "correct_answer": "Peregrine Falcon",
+            "incorrect_answers": [
+                "Golden Eagle",
+                "Cheetah",
+                "Horsefly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What programming language does the Source Engine use?",
+            "correct_answer": "C++ ",
+            "incorrect_answers": [
+                "Python",
+                "Java",
+                "Lua"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the only female &quot;Original Four&quot; Kerbal in Kerbal Space Program?",
+            "correct_answer": "Valentina Kerman",
+            "incorrect_answers": [
+                "Emiko Kerman",
+                "Samantha Kerman",
+                "Catmund Kerman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What is the first Mersenne prime exponent over 1000?",
+            "correct_answer": "1279",
+            "incorrect_answers": [
+                "2203",
+                "1009",
+                "1069"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+            "correct_answer": "Sarpadia",
+            "incorrect_answers": [
+                "Otaria",
+                "Terisiare",
+                "Shiv"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What do sailors call the left side of a boat?",
+            "correct_answer": "Port",
+            "incorrect_answers": [
+                "Starboard",
+                "Bow",
+                "Stern"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "What is the sum of all the tiles in a standard box of Scrabble?",
+            "correct_answer": "187",
+            "incorrect_answers": [
+                "207",
+                "197",
+                "177"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of the following did not feature in the cartoon &#039;Wacky Races&#039;?",
+            "correct_answer": "The Dragon Wagon",
+            "incorrect_answers": [
+                "The Bouldermobile",
+                "The Crimson Haybailer",
+                "The Compact Pussycat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does &quot;LCD&quot; stand for?",
+            "correct_answer": "Liquid Crystal Display",
+            "incorrect_answers": [
+                "Language Control Design",
+                "Last Common Difference",
+                "Long Continuous Design"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+            "correct_answer": "Calvin and Hobbes",
+            "incorrect_answers": [
+                "Winnie the Pooh",
+                "Albert and Pogo",
+                "Peanuts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the birthplace of musical artist &#039;Sir Robert Bryson Hall II&#039; (aka. Logic)?",
+            "correct_answer": "Maryland, United States",
+            "incorrect_answers": [
+                "Atlanta, United States",
+                "London, United Kingdom",
+                " Botswana, Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who composed the soundtrack for the game VVVVVV?",
+            "correct_answer": "Magnus P&aring;lsson",
+            "incorrect_answers": [
+                "Terry Cavanagh",
+                "Danny Baranowsky",
+                "Joel Zimmerman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The main protagonist of the fourth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct_answer": "Josuke Higashikata",
+            "incorrect_answers": [
+                "Yoshikage kira",
+                "Koichi Hirose",
+                "Joey JoJo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+            "correct_answer": "Vanessa Kensington",
+            "incorrect_answers": [
+                "Pam Bouvier",
+                "Mary Goodnight",
+                "Wai Lin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which Star Trek race advances itself through assimilation?",
+            "correct_answer": "Borg",
+            "incorrect_answers": [
+                "Vulcan",
+                "Betazoid",
+                "Klingon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+            "correct_answer": "Equatorial Guinea",
+            "incorrect_answers": [
+                "Guinea",
+                "Cameroon",
+                "Angola"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Daft Punk album is the song &quot;Harder, Better, Faster, Stronger&quot; from?",
+            "correct_answer": "Discovery",
+            "incorrect_answers": [
+                "Homework",
+                "Random Access Memories",
+                "Human After All"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which team has won the most Stanley Cups in the NHL?",
+            "correct_answer": "Montreal Canadians",
+            "incorrect_answers": [
+                "Chicago Blackhawks",
+                "Toronto Maple Leafs",
+                "Detroit Red Wings"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "When was the first mammal successfully cloned?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "2009",
+                "1999",
+                "1985"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "In 2013 how much money was lost by Nigerian scams?",
+            "correct_answer": "$12.7 Billion",
+            "incorrect_answers": [
+                "$95 Million",
+                "$956 Million",
+                "$2.7 Billion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the protagonist in Dead Rising 3?",
+            "correct_answer": "Nick Ramos",
+            "incorrect_answers": [
+                "Frank West",
+                "Chuck Greene",
+                "Isabela Keyes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+            "correct_answer": "Michael Keaton",
+            "incorrect_answers": [
+                "George Clooney",
+                "Val Kilmer",
+                "Adam West"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which ones of these Mario Kart games was made for the Gameboy Advance?",
+            "correct_answer": "Mario Kart: Super Circuit",
+            "incorrect_answers": [
+                "Mario Kart: Double Dash",
+                "Mario Kart 64",
+                "Super Mario Kart"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?",
+            "correct_answer": "Terry Jones",
+            "incorrect_answers": [
+                "Eric Idle",
+                "Graham Chapman",
+                "John Cleese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What are the four corner states of the US?",
+            "correct_answer": "Utah, Colorado, Arizona, New Mexico",
+            "incorrect_answers": [
+                "Oregon, Idaho, Nevada, Utah",
+                "Kansas, Oklahoma, Arkansas, Louisiana",
+                "South Dakota, Minnesota, Nebraska, Iowa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+            "correct_answer": "Gort",
+            "incorrect_answers": [
+                "Robby",
+                "Colossus",
+                "Box"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the four empires in  Eve Online was the first to achieve faster than light travel?",
+            "correct_answer": "Amarr Empire",
+            "incorrect_answers": [
+                "Caldari State",
+                "Gallente Federation",
+                "Minmatar Republic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is Laos?",
+            "correct_answer": "Country",
+            "incorrect_answers": [
+                "Region",
+                "River",
+                "City"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "The first episode of WWF Monday Night RAW aired on January 11, 1990.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mario Kart and Smash Bros. Games, Princess Rosalina is considered what weight class?",
+            "correct_answer": "Heavy",
+            "incorrect_answers": [
+                "Medium",
+                "Light",
+                "Light-Medium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+            "correct_answer": "Harry Potter",
+            "incorrect_answers": [
+                "Ted",
+                "Spy Kids",
+                "Pirates of the Caribbean "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who released the 1991 album &quot;Out of Time&quot;?",
+            "correct_answer": "R.E.M.",
+            "incorrect_answers": [
+                "U2",
+                "Coldplay",
+                "The Rolling Stones"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following nations was NOT a belligerent in World War I?",
+            "correct_answer": "Denmark",
+            "incorrect_answers": [
+                "Portugal",
+                "Greece",
+                "Romania"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which country first successfully farm-hatched and raised bluefin tuna in 1979?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "France",
+                "USA",
+                "Philippines"
+            ]
+        }
+    ]
+}

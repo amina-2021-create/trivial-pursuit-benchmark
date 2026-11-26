@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which U.S. President was in office when the Gulf War began?",
+            "correct_answer": "George H. W. Bush",
+            "incorrect_answers": [
+                "Richard Nixon",
+                "George W. Bush ",
+                "Ronald Regan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "Vanuatu",
+                "Fiji",
+                "Hawaii"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of the following countries was not an axis power during World War II?",
+            "correct_answer": " Soviet Union",
+            "incorrect_answers": [
+                "Italy",
+                "Germany",
+                "Japan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the capital of South Vietnam before the Vietnam War?",
+            "correct_answer": "Saigon",
+            "incorrect_answers": [
+                "Ho Chi Minh City",
+                "Hanoi",
+                "Hue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+            "correct_answer": "Nico Rosberg",
+            "incorrect_answers": [
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Kimi Raikkonen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What was the first ever London Underground line to be built?",
+            "correct_answer": "Metropolitan Line",
+            "incorrect_answers": [
+                "Circle Line",
+                "Bakerloo Line",
+                "Victoria Line"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": ".rs is the top-level domain for what country?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": [
+                "Romania",
+                "Russia",
+                "Rwanda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was Pokemon GO released in North America?",
+            "correct_answer": "July 6th, 2016",
+            "incorrect_answers": [
+                "June 5th, 2016",
+                "May 24th, 2016",
+                "January 2nd, 2017"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "If soccer is called football in England, what is American football called in England?",
+            "correct_answer": "American football",
+            "incorrect_answers": [
+                "Combball",
+                "Handball",
+                "Touchdown"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which area of Eastern Europe is famous for its association with vampires?",
+            "correct_answer": "Transylvania",
+            "incorrect_answers": [
+                "Silesia",
+                "Macedonia",
+                "Slovakia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "George Orwell&#039;s novel &quot;Animal Farm&quot; was inspired by which historical event?",
+            "correct_answer": "The rise of communism and Stalin&#039;s policies.",
+            "incorrect_answers": [
+                "The rise of Imperial Japan and Pacific control.",
+                "The rise of fascism and Hitler&#039;s influences.",
+                "Franklin D. Roosevelt&#039;s New Deal and its effects on The Great Depression."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the first music video to be broadcast on MTV?",
+            "correct_answer": "Video Killed the Radio Star",
+            "incorrect_answers": [
+                "Take On Me",
+                "Walk This Way",
+                "Hungry Like the Wolf"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which team was the 2015-2016 NBA Champions?",
+            "correct_answer": "Cleveland Cavaliers",
+            "incorrect_answers": [
+                "Golden State Warriors",
+                "Toronto Raptors",
+                "Oklahoma City Thunders"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not a wonder weapon in &quot;Call Of Duty: Zombies&quot;?",
+            "correct_answer": "R115 Resonator",
+            "incorrect_answers": [
+                "GKZ-45 Mk3",
+                "Ray Gun",
+                "Scavenger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Neptune&#039;s greek name was...",
+            "correct_answer": "Poseidon",
+            "incorrect_answers": [
+                "Ares",
+                "Zeus",
+                "Apollo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+            "correct_answer": "Wessex",
+            "incorrect_answers": [
+                "Barsetshire",
+                "Fulchester",
+                "Ambridge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who had a 1981 hit with the song &quot;Japanese Boy&quot;?",
+            "correct_answer": "Aneka",
+            "incorrect_answers": [
+                "Toyah",
+                "Sandra",
+                "Madonna"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Franz Joseph I was the last emperor of Austria.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was Club Penguin launched?",
+            "correct_answer": "October 24, 2005",
+            "incorrect_answers": [
+                "October 21, 2005",
+                "March 29, 2006",
+                "November 22, 2004"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mario series, which game introduced Mario&#039;s Backflip ability?",
+            "correct_answer": "Donkey Kong (Gameboy)",
+            "incorrect_answers": [
+                "Super Mario 64",
+                "Super Mario 3D Land",
+                "Super Mario Galaxy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",
+            "correct_answer": "Unhinged Spirit",
+            "incorrect_answers": [
+                "Shoryugeki",
+                "Provoke",
+                "Demon Riot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is Scooby Doo&#039;s full name?",
+            "correct_answer": "Scoobert Doo",
+            "incorrect_answers": [
+                "Scooter Doo",
+                "Scooby Dooby Doo",
+                "Scoobity Doo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?",
+            "correct_answer": "Rose Marene",
+            "incorrect_answers": [
+                "Pinkie Pie",
+                "Maud Pie",
+                "Rainbow Dash"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?",
+            "correct_answer": "Tilly",
+            "incorrect_answers": [
+                "Tom",
+                "Tiny",
+                "None of the Above"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What do the letters of the fast food chain KFC stand for?",
+            "correct_answer": "Kentucky Fried Chicken",
+            "incorrect_answers": [
+                "Kentucky Fresh Cheese",
+                "Kibbled Freaky Cow",
+                "Kiwi Food Cut"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Pluto is a planet.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Rapper Snoop Dogg&#039;s real name is &#039;Cordozar Calvin Broadus, Jr.&#039;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "What is the SI unit for resistance?",
+            "correct_answer": "Ohms",
+            "incorrect_answers": [
+                "Ampheres",
+                "Siemens",
+                "Volts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio produced &quot;Sword Art Online&quot;?",
+            "correct_answer": "A-1 Pictures",
+            "incorrect_answers": [
+                "Production I.G",
+                "Silver Link",
+                "Kyoto Animation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;DELTARUNE&quot;, what is Ralsei&#039;s special ability?",
+            "correct_answer": "Pacify",
+            "incorrect_answers": [
+                "Persuade",
+                "Eliminate",
+                "Hug"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+            "correct_answer": "The Prince",
+            "incorrect_answers": [
+                "The Rape of Lucrece",
+                "Will to Power",
+                "Love&#039;s Labours Lost"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?",
+            "correct_answer": "Donald Trump",
+            "incorrect_answers": [
+                "Ted Cruz",
+                "Marco Rubio",
+                "Bernie Sanders"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+            "correct_answer": "Set",
+            "incorrect_answers": [
+                "Horus",
+                "Ra",
+                "Anhur"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+            "correct_answer": "The Goth Family",
+            "incorrect_answers": [
+                "The Family",
+                "The Simoleon Family",
+                "The Proud Family"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Sonic the Hedgehog 2&quot; for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
+            "correct_answer": "The Lead Programmer&#039;s birthday",
+            "incorrect_answers": [
+                "The first release date of &quot;Sonic the Hedgehog&quot;",
+                "The date Sonic Team was founded",
+                "The first release date of &quot;Sonic the Hedgehog 2&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Myopia is the scientific term for which condition?",
+            "correct_answer": "Shortsightedness",
+            "incorrect_answers": [
+                "Farsightedness",
+                "Double Vision",
+                "Clouded Vision"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these cities is NOT in England?",
+            "correct_answer": "Edinburgh",
+            "incorrect_answers": [
+                "Oxford",
+                "Manchester",
+                "Southampton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the medical term for low blood sugar?",
+            "correct_answer": "Hypoglycemia",
+            "incorrect_answers": [
+                "Hypothyroidism",
+                "Hypothermia",
+                "Hypoxia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who has played the most tournaments in the German national soccer team?",
+            "correct_answer": "Lothar Matth&auml;us",
+            "incorrect_answers": [
+                "Miroslav Klose",
+                "Philipp Lahm",
+                "Oliver Kahn"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In what year was the movie &quot;Police Academy&quot; released?",
+            "correct_answer": "1984",
+            "incorrect_answers": [
+                "1986",
+                "1985",
+                "1983"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "If a &quot;360 no-scope&quot; is one full rotation before shooting, how many rotations would a &quot;1080 no-scope&quot; be?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "4",
+                "2",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+            "correct_answer": "21",
+            "incorrect_answers": [
+                "23",
+                "15",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What&#039;s the weakness of american vampires (Scott Snyder&#039;s American Vampire)?",
+            "correct_answer": "Gold",
+            "incorrect_answers": [
+                "Sunlight",
+                "Wood",
+                "Silver"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the unit of electrical resistance?",
+            "correct_answer": "Ohm",
+            "incorrect_answers": [
+                "Mho",
+                "Tesla",
+                "Joule"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What year was the first Apple iPod introduced?",
+            "correct_answer": "2001",
+            "incorrect_answers": [
+                "2000",
+                "1999",
+                "1998"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the AK-47&#039;s name in Counter Strike: Source?",
+            "correct_answer": "CV-47",
+            "incorrect_answers": [
+                "AK-74",
+                "AK",
+                "CZ-75"
+            ]
+        }
+    ]
+}

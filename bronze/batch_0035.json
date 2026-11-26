@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of the following is NOT a Russian car manufacturer?",
+            "correct_answer": "BYD",
+            "incorrect_answers": [
+                "Silant",
+                "Dragon",
+                "GAZ"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?",
+            "correct_answer": "2009",
+            "incorrect_answers": [
+                "2012",
+                "2006",
+                "1997"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+            "correct_answer": "58",
+            "incorrect_answers": [
+                "48",
+                "51",
+                "55"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "When was the Tamagotchi digital pet released?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "1989",
+                "1992",
+                "1990"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is the least number of sides a polygon can have?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "7"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which country was Josef Stalin born in?",
+            "correct_answer": "Georgia",
+            "incorrect_answers": [
+                "Russia",
+                "Germany",
+                "Poland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the largest living organism currently known to man?",
+            "correct_answer": "Honey Fungus",
+            "incorrect_answers": [
+                "Blue Whale",
+                "Redwood Tree",
+                "The Coral Reef"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "How many members are there in the band Nirvana?",
+            "correct_answer": "Three",
+            "incorrect_answers": [
+                "Two",
+                "Four",
+                "Five"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which Canadian province has Charlottetown as its capital?",
+            "correct_answer": "Prince Edward Island",
+            "incorrect_answers": [
+                "Saskachewan",
+                "Northwest Terrirories",
+                "Ontario"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which restaurant&#039;s mascot is a clown?",
+            "correct_answer": "McDonald&#039;s",
+            "incorrect_answers": [
+                "Whataburger",
+                "Burger King",
+                "Sonic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?",
+            "correct_answer": "Camshaft",
+            "incorrect_answers": [
+                "Piston",
+                "Drive shaft",
+                "Crankshaft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the largest planet in Kerbal Space Program?",
+            "correct_answer": "Jool",
+            "incorrect_answers": [
+                "Eeloo",
+                "Kerbol",
+                "Minmus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was Hearthstone released?",
+            "correct_answer": "2014",
+            "incorrect_answers": [
+                "2011",
+                "2013",
+                "2012"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In Two and a Half Men, what is Alan Harper&#039;s son&#039;s name?",
+            "correct_answer": "Jake",
+            "incorrect_answers": [
+                "John",
+                "Jeremy",
+                "James"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first .hack game?",
+            "correct_answer": ".hack//Infection",
+            "incorrect_answers": [
+                ".hack//Zero",
+                ".hack//Sign",
+                ".hack//Liminality"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who sung the opening theme song to the 1995 James Bond film &#039;Goldeneye&#039;?",
+            "correct_answer": "Tina Turner",
+            "incorrect_answers": [
+                "Shirley Bassey",
+                "Sheryl Crow",
+                "Madonna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the world that the MMO &quot;RuneScape&quot; takes place in?",
+            "correct_answer": "Gielinor",
+            "incorrect_answers": [
+                "Glindor",
+                "Azeroth",
+                "Zaros"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "What nationality was the famous artist Van Gogh?",
+            "correct_answer": "Dutch",
+            "incorrect_answers": [
+                "French",
+                "Russian",
+                "Polish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What year was Super Mario Bros. released?",
+            "correct_answer": "1985",
+            "incorrect_answers": [
+                "1983",
+                "1987",
+                "1986"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Splatoon, what is the age that inklings can freely change between squid and humanoid forms?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "13",
+                "16",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these countries is not a United Nations member state?",
+            "correct_answer": "Niue",
+            "incorrect_answers": [
+                "Tuvalu",
+                "South Sudan",
+                "Montenegro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Puella Magi Madoka Magica&quot;, what is the first name of Madoka&#039;s younger brother?",
+            "correct_answer": "Tatsuya",
+            "incorrect_answers": [
+                "Montoya",
+                "Tomohisa",
+                "Minato"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT a song by Pegboard Nerds?",
+            "correct_answer": "WiFi Tears",
+            "incorrect_answers": [
+                "Swamp Thing",
+                "Emoji",
+                "BAMF"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What former MOBA, created by Waystone Games and published by EA, was shut down in 2014?",
+            "correct_answer": "Dawngate",
+            "incorrect_answers": [
+                "Strife",
+                "League of Legends",
+                "Heroes of Newerth"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?",
+            "correct_answer": "Petronas Twin Towers, Malaysia",
+            "incorrect_answers": [
+                "Emirates Towers, United Arab Emirates",
+                "Huaguoyuan Towers, China",
+                "Palm Towers, Qatar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the character Kirby originally going to be named?",
+            "correct_answer": "Popopo",
+            "incorrect_answers": [
+                "Dedede",
+                "Waddle Dee",
+                "Prince Puff"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters in &quot;Undertale&quot; can the player NOT go on a date with?",
+            "correct_answer": "Toriel",
+            "incorrect_answers": [
+                "Papyrus",
+                "Undyne",
+                "Alphys"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "According to the Star Wars lore, what is Han Solo&#039;s home planet?",
+            "correct_answer": "Corellia",
+            "incorrect_answers": [
+                "Tatooine",
+                "Naboo",
+                "Coruscant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+            "correct_answer": "Libra",
+            "incorrect_answers": [
+                "Gemini",
+                "Taurus",
+                "Capricorn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "Who painted &quot;American Gothic&quot;?",
+            "correct_answer": "Grant Wood",
+            "incorrect_answers": [
+                "Anita Malfatti",
+                "Pablo Picasso",
+                "Marc Chagall"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Lead Singer Rivers Cuomo of American rock band Weezer attended Harvard.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who was the original drummer for The Beatles?",
+            "correct_answer": "Tommy Moore",
+            "incorrect_answers": [
+                "Ringo Starr",
+                "Stuart Sutcliffe",
+                "Pete Best"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In linguistics, which of the following is not one of the Gricean Maxims under the Cooperative Principal?",
+            "correct_answer": "Length",
+            "incorrect_answers": [
+                "Quality",
+                "Relation",
+                "Manner"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+            "correct_answer": "Elvis Presley",
+            "incorrect_answers": [
+                "Johnny Cash",
+                "Hank Williams, Sr.",
+                "Buddy Holly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Why is the night sky dark? ",
+            "correct_answer": "The universe is finite in age and size",
+            "incorrect_answers": [
+                "Dust clouds absorb light ",
+                "Redshift doesn&#039;t let us see distant stars ",
+                "Quantum mechanics"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+            "correct_answer": "Cheetah",
+            "incorrect_answers": [
+                "Puma",
+                "Tiger",
+                "Leopard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a terrorist faction in Counter-Strike (2000)?",
+            "correct_answer": "Midwest Militia",
+            "incorrect_answers": [
+                "Phoenix Connection",
+                "Elite Crew",
+                "Guerrilla Warfare"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which English guitarist has the nickname &quot;Slowhand&quot;?",
+            "correct_answer": "Eric Clapton",
+            "incorrect_answers": [
+                "Mark Knopfler",
+                "Jeff Beck",
+                "Jimmy Page"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which game was the Game of the Year in 2018?",
+            "correct_answer": "God of War",
+            "incorrect_answers": [
+                "Detroit: Become Human",
+                "Red Dead Redemption 2",
+                "A Way Out"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the leader of the Communist Party of Yugoslavia ?",
+            "correct_answer": "Josip Broz Tito",
+            "incorrect_answers": [
+                "Karadjordje Petrovic",
+                "Milos Obilic",
+                "Aleskandar Petrovic"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "How many dots are on a single die?",
+            "correct_answer": "21",
+            "incorrect_answers": [
+                "24",
+                "15",
+                "18"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the county seat of King County, Washington?",
+            "correct_answer": "Seattle",
+            "incorrect_answers": [
+                "Bellevue",
+                "Enumclaw",
+                "Skykomish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Super Mario Bros. Series, what is Yoshi&#039;s scientific name?",
+            "correct_answer": "T. Yoshisaur Munchakoopas",
+            "incorrect_answers": [
+                "Yoshi",
+                "T. Yoshisotop Munchakoopas",
+                "Yossy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which chain restaurant increased sales after it was mentioned in the 2016 Beyonc&eacute; song: &quot;Formation&quot;?",
+            "correct_answer": "Red Lobster",
+            "incorrect_answers": [
+                "Outback Steakhouse",
+                "TGI Fridays",
+                "Applebee&#039;s"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Argentina&#039;s name comes from the latin name for Silver.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Muse is a British (English) rock band",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Sonic the Hedgehog 2&quot; originally was going to have a time travel system.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}

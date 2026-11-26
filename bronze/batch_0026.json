@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these is an official currency of the Cook Islands?",
+            "correct_answer": "New Zealand Dollar",
+            "incorrect_answers": [
+                "United States Dollar",
+                "British Pound",
+                "Australian Dollar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who had a US and UK number 1 hit in 1962 with the instrumental, &#039;Telstar&#039;?",
+            "correct_answer": "The Tornados",
+            "incorrect_answers": [
+                "The Ventures",
+                "The Spotnicks",
+                "The Tremeloes"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "&quot;Foodfight!&quot; earned less than $80,000 at box office.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What engine did the original &quot;Half-Life&quot; run on?",
+            "correct_answer": "GoldSrc",
+            "incorrect_answers": [
+                "Source",
+                "Quake",
+                "Unreal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",
+            "correct_answer": "Trance",
+            "incorrect_answers": [
+                "House",
+                "Drum and Bass",
+                "Dubstep"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "The book 1984 was published in 1949.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the collective noun for bears?",
+            "correct_answer": "Sloth",
+            "incorrect_answers": [
+                "Drove",
+                "Tribe",
+                "Husk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of the stands from &quot;JoJo&#039;s Bizarre Adventure&quot; mimics the likeness of a tomato?",
+            "correct_answer": "Pearl Jam",
+            "incorrect_answers": [
+                "Red Hot Chili Pepper",
+                "Cream Starter",
+                "Nut King Call"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Who painted &quot;The Scream&quot;?",
+            "correct_answer": "Edvard Munch",
+            "incorrect_answers": [
+                "Vincent Van Gogh",
+                "Picasso",
+                "Henri Matisse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who provided a majority of the songs and lyrics for &quot;Spirit: Stallion of the Cimarron&quot;?",
+            "correct_answer": "Bryan Adams",
+            "incorrect_answers": [
+                "Smash Mouth",
+                "Oasis",
+                "Air Supply"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The song &quot;Old Town Road&quot; by American rapper Lil Nas X samples the song &quot;34 Ghosts IV&quot; by which band?",
+            "correct_answer": "Nine Inch Nails",
+            "incorrect_answers": [
+                "Death Grips",
+                "Iron Maiden",
+                "Animal Collective"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "How many books are in the Chronicles of Narnia series?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "6",
+                "8",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+            "correct_answer": "Culper Ring",
+            "incorrect_answers": [
+                "New York Spy Ring",
+                "Washington&#039;s Spies",
+                "Unnamed"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of Poland in Polish?",
+            "correct_answer": "Polska",
+            "incorrect_answers": [
+                "Pupcia",
+                "Polszka",
+                "P&oacute;land"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which country gifted the Statue of Liberty to the United States of America?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "Spain",
+                "England",
+                "Germany"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The K-Pop Boy Band BTS debuted in the year 2013.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which artist released the 2012 single &quot;Harlem Shake&quot;, which was used in numerous YouTube videos in 2013?",
+            "correct_answer": "Baauer",
+            "incorrect_answers": [
+                "RL Grime",
+                "NGHTMRE",
+                "Flosstradamus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How tall is the Burj Khalifa?",
+            "correct_answer": "2,722 ft",
+            "incorrect_answers": [
+                "2,717 ft",
+                "2,546 ft",
+                "3,024 ft"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Chobits, Hideki found Chii in his apartment.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Igneous rocks are formed by excessive heat and pressure.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What medication was once commonly used as rat poison?",
+            "correct_answer": "Coumadin",
+            "incorrect_answers": [
+                "Aspirin",
+                "Eliquis",
+                "Tylenol"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "This mobile OS held the largest market share in 2012.",
+            "correct_answer": "iOS",
+            "incorrect_answers": [
+                "Android",
+                "BlackBerry",
+                "Symbian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the world&#039;s smallest country by population?",
+            "correct_answer": "Vatican City",
+            "incorrect_answers": [
+                "Nauru",
+                "Marshall Islands",
+                "Lichtenstein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the romanized Korean word for &quot;heart&quot;?",
+            "correct_answer": "Simjang",
+            "incorrect_answers": [
+                "Aejeong",
+                "Jeongsin",
+                "Segseu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&#039;Don&#039;t You Want Me?&#039; was a number one hit in 1981 for which electropop band?",
+            "correct_answer": "Human League",
+            "incorrect_answers": [
+                "Depeche Mode",
+                "Pet Shop Boys",
+                "Eurythmics"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek: Voyager&quot;, which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+            "correct_answer": "Pathfinder",
+            "incorrect_answers": [
+                "Message In A Bottle",
+                "Someone To Watch Over Me",
+                "Counterpoint"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which U.S. state is Far Cry 5&#039;s fictional setting &#039;Hope County&#039; located?",
+            "correct_answer": "Montana",
+            "incorrect_answers": [
+                "Idaho",
+                "Wyoming",
+                "North Carolina"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Enlightenment was an era of philosophies, advancements, and scientific theories to improve society.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "When was the top-down online RPG &quot;Space Station 13&quot; released?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2000",
+                "2010",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What are human nails made of?",
+            "correct_answer": "Keratin",
+            "incorrect_answers": [
+                "Bone",
+                "Chitin",
+                "Calcium"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which rapper had an album that went double platinum with no features?",
+            "correct_answer": "J. Cole",
+            "incorrect_answers": [
+                "Kendrick Lamar",
+                "Drake",
+                "Big Sean"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The song &quot;Caramelldansen&quot; is commonly mistaken as a Japanese song, what language is the song actually sung in?",
+            "correct_answer": "Swedish",
+            "incorrect_answers": [
+                "Hungarian",
+                "Finnish",
+                "Chinese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The &quot;To Love-Ru&quot; Manga was started in what year?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2007",
+                "2004",
+                "2005"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+            "correct_answer": "Air",
+            "incorrect_answers": [
+                "The Schwartz",
+                "Princess Lonestar",
+                "Meatballs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+            "correct_answer": "Economics",
+            "incorrect_answers": [
+                "Philosophy",
+                "Politics",
+                "Physics"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who assassinated President James A. Garfield?",
+            "correct_answer": "Charles Guiteau",
+            "incorrect_answers": [
+                "Sirhan Sirhan",
+                "Leon Czolgosz",
+                "John Wilkes Booth"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Which is the national animal of India?",
+            "correct_answer": "Tiger",
+            "incorrect_answers": [
+                "Lion",
+                "Horse",
+                "Camel"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States Department of Homeland Security was formed in response to the September 11th attacks.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch&quot;, what is the name of Mercy&#039;s &quot;ultimate ability&quot;?",
+            "correct_answer": "Valkyrie",
+            "incorrect_answers": [
+                "Earthshatter",
+                "Rocket Barrage",
+                "Molten Core"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Which classic book opens with the line &quot;Call me Ishmael&quot;?",
+            "correct_answer": "Moby Dick",
+            "incorrect_answers": [
+                "A Tale of Two Cities",
+                "Kidnapped",
+                "Wuthering Heights"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+            "correct_answer": "Ursula Callistis",
+            "incorrect_answers": [
+                "Croix Meridies",
+                "Miranda Holbrook",
+                "Anne Finnelan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+            "correct_answer": "Liver",
+            "incorrect_answers": [
+                "Heart",
+                "Stomach",
+                "Intestines"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which operation in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; introduced the &quot;Skyscraper&quot; map?",
+            "correct_answer": "Red Crow",
+            "incorrect_answers": [
+                "Velvet Shell",
+                "Skull Rain",
+                "Dust Line"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+            "correct_answer": "Qamar",
+            "incorrect_answers": [
+                "Najma",
+                "Kawkab",
+                "Shams"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games was NOT a Nintendo Switch launch title in the United States? ",
+            "correct_answer": "Voez",
+            "incorrect_answers": [
+                "Just Dance 2017",
+                "Snipperclips",
+                "Fast RMX"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Ferrari"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the beta version of the 1986 game &quot;The Legend of Zelda&quot;, players have the choice between a sword and what other item?",
+            "correct_answer": "Boomerang ",
+            "incorrect_answers": [
+                "Spear",
+                "Slingshot",
+                "Crossbow"
+            ]
+        }
+    ]
+}

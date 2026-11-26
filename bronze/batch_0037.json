@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+            "correct_answer": "Scarecrow",
+            "incorrect_answers": [
+                "Bane",
+                "Calendar Man",
+                "Clayface"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "One of Barack Obama&#039;s United States presidential campaign slogan&#039;s was &quot;Yes We Can&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what Half-Life expansion can you find Gordon&#039;s picture in an &quot;Employee of the Month&quot; picture frame?",
+            "correct_answer": "Half-Life: Opposing Force",
+            "incorrect_answers": [
+                "Half-Life: Blue Shift",
+                "Half-Life: Decay",
+                "They Hunger"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "The internet browser Firefox is named after the Red Panda.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main villain of the Crash Bandicoot series?",
+            "correct_answer": "Dr. Neo Cortex",
+            "incorrect_answers": [
+                "Dr. Evo-Cortex",
+                "Dr. Cortox",
+                "Sir Cartex"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+            "correct_answer": "Courage",
+            "incorrect_answers": [
+                "Innovation",
+                "Revolution",
+                "Bravery"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Kingdom Hearts which of the following people can NOT wield a keyblade?",
+            "correct_answer": "Larxene",
+            "incorrect_answers": [
+                "Xehanort",
+                "Lea",
+                "Mickey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+            "correct_answer": "Republican",
+            "incorrect_answers": [
+                "Democrat",
+                "Independent",
+                "Whig"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Phantasy Star Online 2&quot;, which is the first area that you are granted access to?",
+            "correct_answer": "Forest",
+            "incorrect_answers": [
+                "Swamp",
+                "Plains",
+                "Caves"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "On which day did ARPANET suffer a 4 hour long network crash?",
+            "correct_answer": "October 27, 1980",
+            "incorrect_answers": [
+                "November 21, 1969",
+                "October 29, 1969",
+                "December 9, 1991"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Rainbow 6 Siege, what is Ela and Zofia&#039;s last name?",
+            "correct_answer": "Bosak",
+            "incorrect_answers": [
+                "Kessikbayev",
+                "Zenaviev",
+                "Melnikova"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, Klingons are commonly referred to as &quot;Black Elves&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which race enjoys a glass of warm baghol in &quot;Star Trek&quot;?",
+            "correct_answer": "Klingon",
+            "incorrect_answers": [
+                "Vulcan",
+                "Human",
+                "Botha"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which ocean borders the west coast of the United States?",
+            "correct_answer": "Pacific",
+            "incorrect_answers": [
+                "Atlantic",
+                "Indian",
+                "Arctic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Shakugan no Shana&quot; what was the Shana usually referred as?",
+            "correct_answer": "Flame-Haired Burning-Eyed Hunter",
+            "incorrect_answers": [
+                "Flame Haze",
+                "Flame-Haired Burning-Eyed Haze",
+                "Shana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is not a playable race in the MMORPG Guild Wars 2? ",
+            "correct_answer": "Tengu",
+            "incorrect_answers": [
+                "Sylvari",
+                "Charr",
+                "Asura "
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Vatican City is a country.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+            "correct_answer": "BB-8",
+            "incorrect_answers": [
+                "BB-3",
+                "AA-A",
+                "R2-D2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "How many Hz does the video standard PAL support?",
+            "correct_answer": "50",
+            "incorrect_answers": [
+                "59",
+                "60",
+                "25"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Halo 2&quot;, what is the name of the monitor of Installation 05?",
+            "correct_answer": "2401 Penitent Tangent",
+            "incorrect_answers": [
+                "343 Guilty Spark",
+                "031 Exuberant Witness",
+                "252 Biodis Expolsion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who is the author of Jurassic Park?",
+            "correct_answer": "Michael Crichton",
+            "incorrect_answers": [
+                "Peter Benchley",
+                "Chuck Paluhniuk",
+                "Irvine Welsh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+            "correct_answer": "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+            "incorrect_answers": [
+                "&quot;Here&#039;s lookin&#039; at you, kid.&quot;",
+                "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;",
+                "&quot;Round up the usual suspects.&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games was NOT included in Valve&#039;s Orange Box?",
+            "correct_answer": "Counter-Strike",
+            "incorrect_answers": [
+                "Portal",
+                "Half-Life 2: Episode Two",
+                "Team Fortress 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
+            "correct_answer": "City 17",
+            "incorrect_answers": [
+                "City 18",
+                "City 6",
+                "City 45"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+            "correct_answer": "Joe Sugg",
+            "incorrect_answers": [
+                "Zoe Sugg",
+                "Joe Weller",
+                "Alfie Deyes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "The acronym &quot;RIP&quot; stands for which of these?",
+            "correct_answer": "Routing Information Protocol",
+            "incorrect_answers": [
+                "Runtime Instance Processes",
+                "Regular Interval Processes",
+                "Routine Inspection Protocol"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who was the 1st President of Mexico?",
+            "correct_answer": "Guadalupe Victoria",
+            "incorrect_answers": [
+                "Benito Ju&aacute;rez",
+                "Miguel Hidalgo Y Costilla",
+                "Vicente Guerrero"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What type of Pok&eacute;mon is Charizard?",
+            "correct_answer": "Fire/Flying",
+            "incorrect_answers": [
+                "Fire",
+                "Dragon",
+                "Fire/Dragon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+            "correct_answer": "October 21, 2015",
+            "incorrect_answers": [
+                "August 28, 2015",
+                "July 20, 2015",
+                "January 25, 2015"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "McCree from Overwatch originally started as a character that was going to appear in a scrapped Starcraft game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What manufacturer made the car used in Back to the Future?",
+            "correct_answer": "DeLorean",
+            "incorrect_answers": [
+                "Ford",
+                "Toyota",
+                "Daihatsu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What is the oldest Disney film?",
+            "correct_answer": "Snow White and the Seven Dwarfs",
+            "incorrect_answers": [
+                "Pinocchio",
+                "Dumbo",
+                "Fantasia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many sides does a heptagon have?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "5",
+                "4",
+                "9"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The country of Belize borders which country?",
+            "correct_answer": "Guatemala",
+            "incorrect_answers": [
+                "Laos",
+                "Per&uacute;",
+                "Kenya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Kingdom Hearts series, which is not an optional boss you can fight?",
+            "correct_answer": "Master Yen Sid",
+            "incorrect_answers": [
+                "Sephiroth",
+                "Julius",
+                "Kurt Zisa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who was the oldest member of The Beatles?",
+            "correct_answer": "Ringo Starr",
+            "incorrect_answers": [
+                "John Lennon",
+                "Paul McCartney",
+                "George Harrison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?",
+            "correct_answer": "Bog Wraith",
+            "incorrect_answers": [
+                "Island",
+                "Rock Hydra",
+                "Elvish Archers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Which dog breed is named after a region in Croatia",
+            "correct_answer": "Dalmatian",
+            "incorrect_answers": [
+                "Pekingnese",
+                "Chihuahua ",
+                "Pomeranian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following characters were considered for inclusion in Super Smash Bros. Melee?",
+            "correct_answer": "Lucas",
+            "incorrect_answers": [
+                "Mega Man",
+                "Meta Knight",
+                "Diddy Kong"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of the following computer components can be built using only NAND gates?",
+            "correct_answer": "ALU",
+            "incorrect_answers": [
+                "CPU",
+                "RAM",
+                "Register"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;The Amazing World of Gumball&quot;, who is the principal of Elmore Junior High?",
+            "correct_answer": "Principal Brown",
+            "incorrect_answers": [
+                "Principal Small",
+                "Principal Brawn",
+                "Principal Simeon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "In which Indian city can the Taj Mahal be found?",
+            "correct_answer": "Agra",
+            "incorrect_answers": [
+                "Mumbai",
+                "Faridabad",
+                "Thane"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of the following carbonated soft drinks were introduced first?",
+            "correct_answer": "Dr. Pepper",
+            "incorrect_answers": [
+                "Coca-Cola",
+                "Sprite",
+                "Mountain Dew"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Enthalpy is a measure of the energy that is not available for work during a thermodynamic process.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the hardest possible difficulty in &quot;Deus Ex: Mankind Divided&quot;?",
+            "correct_answer": "I Never Asked For This",
+            "incorrect_answers": [
+                "Nightmare",
+                "Extreme",
+                "Guru"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Which of the following is not true about the life of Tiresias?",
+            "correct_answer": "Sailed with the Argonauts to find the golden fleece",
+            "incorrect_answers": [
+                "Athena turned him into a woman, and then years later back into a man",
+                "Hera blinded him after he agreed with Zeus in an argument",
+                "Revealed to Oedipus that Oedipus had married his own mother"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is the only fighter in the game &quot;Super Smash Bros. Melee&quot; capable of dealing damage with their taunt animation?",
+            "correct_answer": "Luigi",
+            "incorrect_answers": [
+                "Mr. Game &amp; Watch",
+                "Jigglypuff",
+                "Pichu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Celebrities",
+            "question": "How tall is Tom Cruise?",
+            "correct_answer": "5&prime; 7&Prime;",
+            "incorrect_answers": [
+                "5&prime; 9&Prime;",
+                "5&prime; 4&Prime;",
+                "5&prime; 5&Prime;"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The ultimate phrase used by Pharah from Overwatch is: &quot;Justice rains from above!&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which genre of music is John Coltrane primarily associated with?",
+            "correct_answer": "Jazz",
+            "incorrect_answers": [
+                "Rock and Roll",
+                "Death Metal",
+                "Folk"
+            ]
+        }
+    ]
+}

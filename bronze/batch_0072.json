@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who won the 1989 Drum Corps International championships?",
+            "correct_answer": "Santa Clara Vanguard",
+            "incorrect_answers": [
+                "Blue Devils",
+                "The Academy",
+                "The Bluecoats"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was Taylor Swift&#039;s 5th album called?",
+            "correct_answer": "1989",
+            "incorrect_answers": [
+                "Fearless",
+                "Red",
+                "Speak Now"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is Hypernatremia?",
+            "correct_answer": "Increase in blood sodium",
+            "incorrect_answers": [
+                "Decrease in blood potassium",
+                "Increase in blood glucose",
+                "Decrease in blood iron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these Queen songs were sampled for the baseline in Vanilla &quot;Ice&#039;s Ice Ice Baby?&quot;",
+            "correct_answer": "Under Pressure",
+            "incorrect_answers": [
+                "Don&#039;t Stop Me Now",
+                "Brighton Rock",
+                "Lazing On A Sunday Afternoon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "How many baby/milk teeth does a human child have in total?",
+            "correct_answer": "20",
+            "incorrect_answers": [
+                "10",
+                "15",
+                "25"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the lowest layer of the Earth&#039;s atmosphere named?",
+            "correct_answer": "Troposphere",
+            "incorrect_answers": [
+                "Stratosphere",
+                "Mesosphere",
+                "Thermosphere"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is not a single by Pink Floyd guitarist, David Gilmour?",
+            "correct_answer": "Sunset Strip",
+            "incorrect_answers": [
+                "Rattle That Lock",
+                "Blue Light",
+                "Arnold Layne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "A stimpmeter measures the speed of a ball over what surface?",
+            "correct_answer": "Golf Putting Green",
+            "incorrect_answers": [
+                " Football Pitch",
+                "Cricket Outfield",
+                "Pinball Table"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What is the name of the default theme that is installed with Windows XP?",
+            "correct_answer": "Luna",
+            "incorrect_answers": [
+                "Neptune",
+                "Whistler",
+                "Bliss"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the first episode of Yu-Gi-Oh: Duel Monsters, what book is Seto Kaiba seen reading at Domino High School?",
+            "correct_answer": "Thus Spoke Zarathustra",
+            "incorrect_answers": [
+                "Beyond Good and Evil",
+                "The Republic",
+                "Meditations"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?",
+            "correct_answer": "Takua",
+            "incorrect_answers": [
+                "Jaller",
+                "Vakama",
+                "Tahu"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Codemasters is the developer of the Gran Turismo series.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "Which of the following is not a type of computer mouse?",
+            "correct_answer": "Smoothie mouse",
+            "incorrect_answers": [
+                "Drum mouse",
+                "Trackball mouse",
+                "Optical mouse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What scientific suborder does the family Hyaenidae belong to?",
+            "correct_answer": "Feliformia",
+            "incorrect_answers": [
+                "Haplorhini",
+                "Caniformia",
+                "Ciconiiformes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which country does the YouTuber &quot;SinowBeats&quot; originate from?",
+            "correct_answer": "Scotland",
+            "incorrect_answers": [
+                "England",
+                "Sweden",
+                "Germany"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Like his character in &quot;Parks and Recreation&quot;, Aziz Ansari was born in South Carolina.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the release date of &quot;Grand Theft Auto IV&quot;?",
+            "correct_answer": "April 29, 2008",
+            "incorrect_answers": [
+                "May 21, 2009",
+                "June 22, 2010",
+                "July 28, 2008"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "EDM label Monstercat signs tracks instead of artists.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "About how much of their body weight in food do sea otters eat every day?",
+            "correct_answer": "25%",
+            "incorrect_answers": [
+                "10%",
+                "80%",
+                "45%"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the primary addictive substance found in tobacco?",
+            "correct_answer": "Nicotine",
+            "incorrect_answers": [
+                "Cathinone",
+                "Ephedrine",
+                "Glaucine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following characters is NOT playable in &quot;Resident Evil 6&quot;?",
+            "correct_answer": "Jill Valentine",
+            "incorrect_answers": [
+                "Chris Redfield",
+                "Sherry Birkin",
+                "Helena Harper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of these Elements is a metalloid?",
+            "correct_answer": "Antimony",
+            "incorrect_answers": [
+                "Tin",
+                "Bromine",
+                "Rubidium"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "All planets in the Solar System orbit the Sun.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which language is most widely spoken in Switzerland?",
+            "correct_answer": "German",
+            "incorrect_answers": [
+                "French",
+                "Italian",
+                "Swiss"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?",
+            "correct_answer": "Sierra Leone",
+            "incorrect_answers": [
+                "Liberia",
+                "Burkina Faso",
+                "Central African Republic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Where does water from Poland Spring water bottles come from?",
+            "correct_answer": "Maine, United States",
+            "incorrect_answers": [
+                "Hesse, Germany",
+                "Masovia, Poland",
+                "Bavaria, Poland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
+            "correct_answer": "Eric Barone",
+            "incorrect_answers": [
+                "Daisuke Amaya",
+                "Jasper Byrne",
+                "Lucas Pope"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of the following is NOT one of Aesop&#039;s fables?",
+            "correct_answer": "The Fox and the Hound",
+            "incorrect_answers": [
+                "The Fox and the Grapes",
+                "The Tortoise and the Hare",
+                "The Frog and the Ox"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists has Lil A collaborated with?",
+            "correct_answer": "Lil Fortnite",
+            "incorrect_answers": [
+                "Lil Pump",
+                "Boonk Gang",
+                "6ix9ine"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Only one country in the world starts with the letter Q.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "There is a Rolls-Royce model called the &#039;Spectre&#039;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?",
+            "correct_answer": "Charlie",
+            "incorrect_answers": [
+                "Dave",
+                "Charles",
+                "Nathaniel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Phoenix Wright: Ace Attorney&quot; which character is the District Chief of Police?",
+            "correct_answer": "Damon Gant",
+            "incorrect_answers": [
+                "Miles Edgeworth",
+                "Lana Skye",
+                "Mike Meekins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What Pok&eacute;mon&#039;s Base Stat Total does not change when it evolves?",
+            "correct_answer": "Scyther",
+            "incorrect_answers": [
+                "Pikachu",
+                "Sneasel",
+                "Larvesta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+            "correct_answer": "Clint Eastwood",
+            "incorrect_answers": [
+                "Steve McQueen",
+                "Charles Bronson",
+                "Robert Vaughn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In standard Monopoly, what&#039;s the rent if you land on Park Place with no houses?",
+            "correct_answer": "$35",
+            "incorrect_answers": [
+                "$30",
+                "$50",
+                "$45"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "This former Air Force and NASA engineer is the inventor of the Super Soaker water gun.",
+            "correct_answer": "Lonnie Johnson",
+            "incorrect_answers": [
+                "Bruce D&#039;Andrade",
+                "Frances Northcutt",
+                "Ashitey Trebi-Ollennu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The song &quot;Feel Good Inc.&quot; by British band Gorillaz features which hip hop group?",
+            "correct_answer": "De La Soul",
+            "incorrect_answers": [
+                "Public Enemy",
+                "OutKast",
+                "Cypress Hill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following countries is an island?",
+            "correct_answer": "Cyprus",
+            "incorrect_answers": [
+                "Azerbaijan",
+                "El Salvador",
+                "Djibouti"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "When was the board game Twister, released to the public?",
+            "correct_answer": "April 1966",
+            "incorrect_answers": [
+                "September 1965",
+                "January 1969",
+                "February 1966"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters does not appear in &quot;Nier: Automata&quot;?",
+            "correct_answer": "A1",
+            "incorrect_answers": [
+                "A2",
+                "9S",
+                "2B"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "A Saxophone is a brass instrument.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "There is only 1 root name server, among 13 in total, that is currently located in Asia.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Overwatch, which hero out of the following 4 is from Brazil?",
+            "correct_answer": "L&uacute;cio",
+            "incorrect_answers": [
+                "Sombra",
+                "McCree",
+                "Symmetra"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Monster Hunter Series, it is possible to capture Elder Dragons.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Pok&eacute;mon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",
+            "correct_answer": "Nobunaga",
+            "incorrect_answers": [
+                "The Player",
+                "Oichi",
+                "Hideyoshi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What is the scientific name for modern day humans?",
+            "correct_answer": "Homo Sapiens",
+            "incorrect_answers": [
+                "Homo Ergaster",
+                "Homo Erectus",
+                "Homo Neanderthalensis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which state of the United States is the smallest?",
+            "correct_answer": "Rhode Island ",
+            "incorrect_answers": [
+                "Maine",
+                "Vermont",
+                "Massachusetts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does the term USB stand for?",
+            "correct_answer": "Universal Serial Bus",
+            "incorrect_answers": [
+                "Universal Simtex Blot",
+                "Unified Signal Bus",
+                "Unityped Semtex Backer"
+            ]
+        }
+    ]
+}

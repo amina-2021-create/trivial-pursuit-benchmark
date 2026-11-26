@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in North America before Japan?",
+            "correct_answer": "The Legend of Zelda: Twilight Princess",
+            "incorrect_answers": [
+                "Zelda II: The Adventure of Link",
+                "The Legend of Zelda: Four Swords Adventures",
+                "The Legend of Zelda: Majora&#039;s Mask"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What band featured Sting, Stewart Copeland and Andy Summers?",
+            "correct_answer": "The Police",
+            "incorrect_answers": [
+                "Def Leppard",
+                "The Cure",
+                "Bon Jovi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Super Smash Bros. series, which game first featured Luigi as a playable character?",
+            "correct_answer": "Super Smash Bros.",
+            "incorrect_answers": [
+                "Super Smash Bros. Melee",
+                "Super Smash Bros. Brawl",
+                "Super Smash Bros. for Wii U"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the colossal titan in &quot;Attack On Titan&quot;?",
+            "correct_answer": "Bertolt Hoover",
+            "incorrect_answers": [
+                "Reiner",
+                "Eren",
+                "Sasha"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what engine was Titanfall made in?",
+            "correct_answer": "Source Engine",
+            "incorrect_answers": [
+                "Frostbite 3",
+                "Unreal Engine",
+                "Cryengine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Who authored The Adventures of Tintin?",
+            "correct_answer": "Herg&eacute;",
+            "incorrect_answers": [
+                "E.P. Jacobs",
+                "Rin Tin Tin",
+                "Chic Young"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+            "correct_answer": "Nokia Tune",
+            "incorrect_answers": [
+                "Hello Moto [Motorola Ringtone]",
+                "Droid Ringtone",
+                "Microsoft Ringtone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
+            "correct_answer": "Top Gun",
+            "incorrect_answers": [
+                "Days of Thunder",
+                "The Color of Money",
+                "Cocktail"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+            "correct_answer": "Joe DiMaggio",
+            "incorrect_answers": [
+                "Tino Martinez",
+                "Babe Ruth",
+                "Mason Williams"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "The term &quot;GTO&quot; was originated by Ferrari?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Neptunia&quot; series which nation does Neptune rule over?",
+            "correct_answer": "Planeptune",
+            "incorrect_answers": [
+                "Lastation",
+                "Leanbox",
+                "Lowee"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following card games revolves around numbers and basic math?",
+            "correct_answer": "Uno",
+            "incorrect_answers": [
+                "Go Fish",
+                "Twister",
+                "Munchkin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+            "correct_answer": "Watch the Throne",
+            "incorrect_answers": [
+                "Distant Relatives",
+                "What a Time to be Alive",
+                "Unfinished Business"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+            "correct_answer": "Apollo 13",
+            "incorrect_answers": [
+                "The Right Stuff",
+                "Capricorn One",
+                "Marooned"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The &#039;In the Flesh&#039; tour was used in support of what Pink Floyd album?",
+            "correct_answer": "Animals",
+            "incorrect_answers": [
+                "The Wall",
+                "Wish You Were Here",
+                "The Final Cut"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which planet in the Solar System is the closest to the Sun?",
+            "correct_answer": "Mercury",
+            "incorrect_answers": [
+                "Earth",
+                "Mars",
+                "Venus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first game in the &quot;Battlefield&quot; series?",
+            "correct_answer": "Battlefield 1942",
+            "incorrect_answers": [
+                "Battlefield Vietnam",
+                "Battlefield 2",
+                "Battlefield 1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Where was the Sniper character in Team Fortress 2 born?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "South Africa",
+                "Antarctica",
+                "Australia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "According to an interview with &quot;Super Mario Land 2&quot; game director Hiroji Kiyotake, what is Wario&#039;s favorite food?",
+            "correct_answer": "Crepes",
+            "incorrect_answers": [
+                "Pizza",
+                "Garlic",
+                "Cheese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these countries was sea charted in 1500 by the Portuguese maritime explorations?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "India",
+                "Mozambique",
+                "Madagascar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which of these NHL teams originally played in Atlanta?",
+            "correct_answer": "Calgary Flames",
+            "incorrect_answers": [
+                "St. Louis Blues",
+                "Minnesota Wild",
+                "Vancouver Canucks"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the show &quot;Futurama&quot; what is Fry&#039;s full name?",
+            "correct_answer": "Philip J. Fry",
+            "incorrect_answers": [
+                "Fry J. Philip",
+                "Fry Rodr&iacute;guez",
+                "Fry Philip"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who was the British Prime Minister at the outbreak of the Second World War in 1939?",
+            "correct_answer": "Neville Chamberlain",
+            "incorrect_answers": [
+                "Stanley Baldwin",
+                "Winston Churchill",
+                "Ramsay MacDonald"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Krusty is the guild master of which guild in &quot;Log Horizon&quot;?",
+            "correct_answer": "D. D. D",
+            "incorrect_answers": [
+                "Silver Sword",
+                "West Wind Brigade",
+                "Oceanic Systems (Marine Agency)"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Deus Ex: Mankind Divided&quot;, Adam Jensen can die from overclocking.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "What were Marcel Duchamp&#039;s readymades?",
+            "correct_answer": "utilitarian objects elevated to the status of art",
+            "incorrect_answers": [
+                "a series focused on color and light as opposed to line and shape",
+                "paintings with a barely visible outlined square",
+                "a group of identical steel boxes jutting from the wall "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "In a normal distribution, 95% of the data lies within how many standard deviations of the mean?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which band is the longest active band in the world with no breaks or line-up changes?",
+            "correct_answer": "U2",
+            "incorrect_answers": [
+                "Radiohead",
+                "Rush",
+                "Rolling Stones"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who was the first female protagonist in a video game?",
+            "correct_answer": "Samus Aran",
+            "incorrect_answers": [
+                "Lara Croft",
+                "Alis Landale",
+                "Chell"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Resident Evil&quot;, only Chris has access to the grenade launcher.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+            "correct_answer": "Sundance",
+            "incorrect_answers": [
+                "Woodward",
+                "Turner",
+                "Booker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who was the first Jazz Musician to win the Pulitzer Prize for Music",
+            "correct_answer": "Wynton Marsalis",
+            "incorrect_answers": [
+                "Michael Brecker",
+                "Herbie Hancock",
+                "Joe Henderson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What animal is featured in &quot;Bloons TD Battles&quot;?",
+            "correct_answer": "Monkeys",
+            "incorrect_answers": [
+                "Alligators",
+                "Pigeons",
+                "Lizards"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "California is larger than Japan.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who created the &quot;Metal Gear&quot; Series?",
+            "correct_answer": "Hideo Kojima",
+            "incorrect_answers": [
+                "Hiroshi Yamauchi",
+                "Shigeru Miyamoto",
+                "Gunpei Yokoi"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Doctor Who&quot;, the Doctor gets his TARDIS by stealing it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many Chaos Emeralds are there in the &quot;Sonic the Hedgehog&quot; universe?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "6",
+                "8",
+                "14"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Hidden in the files for &quot;Mario Kart Arcade GP&quot; is a picture of the Beslan school hostage crisis.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Dragon Ball Z, who was the first character to go Super Saiyan 2?",
+            "correct_answer": "Gohan",
+            "incorrect_answers": [
+                "Goku",
+                "Vegeta",
+                "Trunks"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Waylon Smithers from &quot;The Simpsons&quot; was originally black when he first appeared in the series.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of these is a semiconductor amplifying device?",
+            "correct_answer": "transistor",
+            "incorrect_answers": [
+                "tube",
+                "diode",
+                "P-N junction"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Paper Mario: The Thousand Year Door&quot;, what is Hooktail&#039;s weakness?",
+            "correct_answer": "The Sound of Crickets",
+            "incorrect_answers": [
+                "Attacks from Koopas",
+                "The &quot;Ice Storm&quot; Item",
+                "The Hammer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In &quot;Magic: The Gathering&quot;, during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Brown",
+                "Pink",
+                "Orange"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who voiced the character Joel in &quot;The Last of Us&quot;?",
+            "correct_answer": "Troy Baker",
+            "incorrect_answers": [
+                "Nolan North",
+                "John DiMaggio",
+                "Steve Blum"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Joan Cusack starred in the 2009 disaster movie, &quot;2012&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which studio animated Soul Eater?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "xebec",
+                "Production I.G"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Black Lagoon&quot;, what colour is Rock&#039;s tie?",
+            "correct_answer": "Teal",
+            "incorrect_answers": [
+                "Crimson",
+                "Dark Brown",
+                "Black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How fast is USB 3.1 Gen 2 theoretically?",
+            "correct_answer": "10 Gb/s",
+            "incorrect_answers": [
+                "5 Gb/s",
+                "8 Gb/s",
+                "1 Gb/s"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

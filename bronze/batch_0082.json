@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
+            "correct_answer": "Poison Potato",
+            "incorrect_answers": [
+                "Mors Oil",
+                "Alpacookie",
+                "Parmesansho Fruit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Which of these cards from &quot;Magic: The Gathering&quot; has a flavor text that begins with &quot;Oi oi oi&quot;?",
+            "correct_answer": "Uthden Troll",
+            "incorrect_answers": [
+                "Lotleth Troll",
+                "Albino Troll",
+                "Harvester Troll"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the scientific name of the cheetah?",
+            "correct_answer": "Acinonyx jubatus",
+            "incorrect_answers": [
+                "Panthera onca",
+                "Lynx rufus",
+                "Felis catus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+            "correct_answer": "Bloodstar",
+            "incorrect_answers": [
+                "Sachs",
+                "Dracuul",
+                "Alucard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+            "correct_answer": "456 ft",
+            "incorrect_answers": [
+                "500 ft",
+                "429 ft",
+                "396 ft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the Black Mirror episode &quot;Bandersnatch&quot;, PAC-MAN stands for:",
+            "correct_answer": "Program And Control Man",
+            "incorrect_answers": [
+                "Postgraduate Aplications Centre Man",
+                "Political Action Committee Man",
+                "Physics &amp; Astronomy Classification Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the Naruto manga, what is the last name of Tsunade?",
+            "correct_answer": "Senju",
+            "incorrect_answers": [
+                "Haruno",
+                "Uzumaki",
+                "Yamanaka"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+            "correct_answer": "V",
+            "incorrect_answers": [
+                "X",
+                "III",
+                "IV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first PlayStation game to require the use of the DualShock controller?",
+            "correct_answer": "Ape Escape",
+            "incorrect_answers": [
+                "Metal Gear",
+                "Tekken ",
+                "Tomba 2!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of these anime have over 7,500 episodes?",
+            "correct_answer": "Sazae-san",
+            "incorrect_answers": [
+                "Naruto",
+                "One Piece",
+                "Chibi Maruko-chan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the same in Celsius and Fahrenheit?",
+            "correct_answer": "-40",
+            "incorrect_answers": [
+                "32",
+                "-39",
+                "-42"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the homeworld of the Elites from Halo?",
+            "correct_answer": "Sanghelios",
+            "incorrect_answers": [
+                "Te",
+                "Doisac",
+                "Eayn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+            "correct_answer": "1990",
+            "incorrect_answers": [
+                "1992",
+                "1988",
+                "1986"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many chromosomes are in your body cells?",
+            "correct_answer": "23",
+            "incorrect_answers": [
+                "21",
+                "22",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+            "correct_answer": "Transport",
+            "incorrect_answers": [
+                "Session",
+                "Data link",
+                "Network"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The Happy Face was created by commercial artist Harvey Ball.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Dota 2, Wraith King was previously known as...",
+            "correct_answer": "Skeleton King",
+            "incorrect_answers": [
+                "Reaper King",
+                "Skull King",
+                "Hell King"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The characters of &quot;Log Horizon&quot; are trapped in what game?",
+            "correct_answer": "Elder Tale",
+            "incorrect_answers": [
+                "Sword Art Online",
+                "Tower Unite",
+                "Yggdrasil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+            "correct_answer": "Richard Neville",
+            "incorrect_answers": [
+                "Richard III",
+                "Henry V",
+                "Thomas Warwick"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year did the nuclear power plant in Chernobyl melt down?",
+            "correct_answer": "1986",
+            "incorrect_answers": [
+                "1991",
+                "1975",
+                "1998"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "The book &quot;The Little Prince&quot; was written by...",
+            "correct_answer": "Antoine de Saint-Exup&eacute;ry",
+            "incorrect_answers": [
+                "Miguel de Cervantes Saavedra",
+                "Jane Austen",
+                "F. Scott Fitzgerald"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Valve Corporation is an American video game developer located in which city?",
+            "correct_answer": "Bellevue, Washington",
+            "incorrect_answers": [
+                "Austin, Texas",
+                "Seattle, Washington",
+                "San Francisco, California"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "In Roman Numerals, what does XL equate to?",
+            "correct_answer": "40",
+            "incorrect_answers": [
+                "60",
+                "15",
+                "90"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Hockey player Wayne Gretzky was born in what Canadian province?",
+            "correct_answer": "Ontario",
+            "incorrect_answers": [
+                "British Columbia",
+                "Quebec",
+                "Alberta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In Avengers: Infinity War, the Reality Stone (aka the Aether) was kept under safe possession by who?",
+            "correct_answer": "The Collector",
+            "incorrect_answers": [
+                "Doctor Strange",
+                "The Grandmaster",
+                "Scarlet Witch"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "The name &quot;Impressionsim&quot; was first given to that art movement by a critic&#039;s satirical review of a Monet painting.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which player has scored the most goals in the England Premier League (EPL)?",
+            "correct_answer": "Alan Shearer",
+            "incorrect_answers": [
+                "Wayne Rooney",
+                "Lionel Messi",
+                "Didier Drogba"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Nuclear Throne, what organization chases the player character throughout the game?",
+            "correct_answer": "The I.D.P.D",
+            "incorrect_answers": [
+                "The Fishmen",
+                "The Bandits",
+                "The Y.V.G.G"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Unturned originally started as a Roblox game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the full name of the protagonist from the SNES game Clock Tower?",
+            "correct_answer": "Jennifer Simpson",
+            "incorrect_answers": [
+                "Jennifer Barrows",
+                "Jennifer Cartwright",
+                "Jennifer Maxwell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?",
+            "correct_answer": "1.2 billion USD",
+            "incorrect_answers": [
+                "640 million USD",
+                "456 million USD",
+                "392 million USD"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who plays &quot;Bruce Wayne&quot; in the 2008 movie &quot;The Dark Knight&quot;?",
+            "correct_answer": "Christian Bale",
+            "incorrect_answers": [
+                "Michael Caine",
+                "Ron Dean",
+                "Heath Ledger"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;A Hat In Time&quot; who is the final boss?",
+            "correct_answer": "Mustache Girl",
+            "incorrect_answers": [
+                "Snatcher",
+                "Conductor",
+                "Mafia Boss"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+            "correct_answer": "Red Hot Chilli Peppers",
+            "incorrect_answers": [
+                "Green Day",
+                "Linkin Park",
+                "Foo Fighters"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
+            "correct_answer": "Multiplayer Online Battle Arena (MOBA)",
+            "incorrect_answers": [
+                "Real Time Strategy (RTS)",
+                "First Person Shooter (FPS)",
+                "Role Playing Game (RPG)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "How many women joined the United States Armed Services during World War II?",
+            "correct_answer": "350,000",
+            "incorrect_answers": [
+                "225,000",
+                "100,000",
+                "500,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Undertale, how much do Spider Donuts cost in Hotland?",
+            "correct_answer": "9999G",
+            "incorrect_answers": [
+                "7G",
+                "40G",
+                "12G"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was Britney Spears&#039; debut single?",
+            "correct_answer": "...Baby One More Time",
+            "incorrect_answers": [
+                "Oops!... I Did It Again",
+                "(You Drive Me) Crazy",
+                "Toxic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What musician made the song &quot;F**kin` Perfect&quot; in 2010?",
+            "correct_answer": "P!nk",
+            "incorrect_answers": [
+                "Mitis",
+                "Adam lambert",
+                "Koven"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of the following vehicles featured a full glass roof at base model?",
+            "correct_answer": "Renault Avantime",
+            "incorrect_answers": [
+                "Chevy Volt",
+                "Mercedes-Benz A-Class",
+                "Honda Odyssey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Jackbox party game Monster Seeking Monster, which monster can steal two hearts from other monsters under certain conditions?",
+            "correct_answer": "Serial Killer",
+            "incorrect_answers": [
+                "Parasite",
+                "Stalker",
+                "Magic Mirror"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Minecraft, which two items must be combined to craft a torch?",
+            "correct_answer": "Stick and Coal",
+            "incorrect_answers": [
+                "Stick and Fire",
+                "Wood and Coal",
+                "Wood and Fire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?",
+            "correct_answer": "Twin Ion Engine",
+            "incorrect_answers": [
+                "Twin Iron Engine",
+                "Twin Intercepter Engine",
+                "Twin Inception Engine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In Norse Mythology, what is the name of the symbol commonly referred to as the &quot;Tree of Life&quot;?",
+            "correct_answer": "Yggdrasil",
+            "incorrect_answers": [
+                "Ymir",
+                "Tree of the Earth",
+                "Odin&#039;s Roots"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In Scandinavian languages, the letter &Aring; means river.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these facilities was not present on the Titanic?",
+            "correct_answer": "Fainting room",
+            "incorrect_answers": [
+                "Turkish bath",
+                "Kennel",
+                "Squash court"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The 1969 Frank Sinatra Song &quot;My Way&quot; was ironically not written by him.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Spitfire L.F. Mk IX had what engine?",
+            "correct_answer": "Merlin 66",
+            "incorrect_answers": [
+                "Griffon 65",
+                "Merlin 50",
+                "Merlin X"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "You could walk from Norway to North Korea while only passing through Russia.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+            "correct_answer": "Should I Stay or Should I Go?",
+            "incorrect_answers": [
+                "Love Will Tear Us Apart",
+                "This Charming Man",
+                "Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+            "correct_answer": "The Polish President",
+            "incorrect_answers": [
+                "Pope John Paul II",
+                "Bang-Ding Ow",
+                "Albert Putin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+            "correct_answer": "Paul Revere",
+            "incorrect_answers": [
+                "Thomas Paine",
+                "Henry Longfellow",
+                "Nathan Hale"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+            "correct_answer": "Snow",
+            "incorrect_answers": [
+                "Rain",
+                "Hail",
+                "Sleet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the most commonly used noun in the English language?",
+            "correct_answer": "Time",
+            "incorrect_answers": [
+                "Home",
+                "Water",
+                "Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of these holidays is NOT usually celebrated in the month of December?",
+            "correct_answer": "Thanksgiving",
+            "incorrect_answers": [
+                "Christmas",
+                "Kwanzaa",
+                "Hanukkah"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who was not in the band &quot;The Smiths&quot;?",
+            "correct_answer": "Martin Chambers",
+            "incorrect_answers": [
+                "Morrissey",
+                "Andy Rourke",
+                "Mike Joyce"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Gadgets",
+            "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+            "correct_answer": "80 Hz",
+            "incorrect_answers": [
+                "70 Hz",
+                "90 Hz",
+                "100 Hz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "World War I",
+                "Vietnam War",
+                "Iraq War"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the 1988 film &quot;Akira&quot;, Tetsuo ends up destroying Tokyo.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "When was the 3rd album &quot;Notes from the Underground&quot; of the band &quot;Hollywood Undead&quot; released?",
+            "correct_answer": "2013",
+            "incorrect_answers": [
+                "2011",
+                "2014",
+                "2009"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft lore,  how many siblings does Sylvanas Windrunner have?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which team won 2014 FIFA World Cup in Brazil?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Netherlands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In which year was League of Legends released?",
+            "correct_answer": "2009",
+            "incorrect_answers": [
+                "2010",
+                "2003",
+                "2001"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who played &quot;Charlie Price&quot; in the musical &quot;Kinky Boots&quot; on Broadway in New York from May 26th - Aug 6th 2017?",
+            "correct_answer": "Brendon Urie",
+            "incorrect_answers": [
+                "Ed Sheeren",
+                "Tom Cruise",
+                "Dallon Weekes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these is NOT a Disney cartoon character?",
+            "correct_answer": "Daffy Duck",
+            "incorrect_answers": [
+                "Donald Duck",
+                "Daisy Duck",
+                "Scrooge McDuck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game DOTA 2, which of these is NOT a hero?",
+            "correct_answer": "Dragon Champion",
+            "incorrect_answers": [
+                "Dark Seer",
+                "Keeper of the Light",
+                "Mirana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "Which two men are credited with independently discovering differential calculus? ",
+            "correct_answer": "Newton and Leibnitz",
+            "incorrect_answers": [
+                "Plato and Aristotle",
+                "Asiimov and Rutherford",
+                "Dvorak and Smith"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the official name of Prince&#039;s backing band?",
+            "correct_answer": "The Revolution",
+            "incorrect_answers": [
+                "The Paupers",
+                "The Wailers",
+                "The Heartbreakers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Jewelpet Sunshine&quot;, what is the song that plays when Kanon and her friends bust out of prison?",
+            "correct_answer": "I Don&#039;t Want to Miss a Thing",
+            "incorrect_answers": [
+                "Eye Of The Tiger",
+                "Born to be Wild",
+                "Ruby Ring"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+            "correct_answer": "Jack and Jill",
+            "incorrect_answers": [
+                "The Girl with the Dragon Tattoo",
+                "Thor",
+                "The King&#039;s Speech"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Nickelodeon is owned by what parent company?",
+            "correct_answer": "Viacom",
+            "incorrect_answers": [
+                "CBS",
+                "FOX",
+                "ABC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the maximum HP in Terraria?",
+            "correct_answer": "500",
+            "incorrect_answers": [
+                "400",
+                "1000",
+                "100"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these game franchises were made by Namco?",
+            "correct_answer": "Tekken",
+            "incorrect_answers": [
+                "Street Fighter",
+                "Mortal Kombat",
+                "Dragon Quest"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Cold War ended with Joseph Stalin&#039;s death.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What color is the iconic arcade character Q*Bert?",
+            "correct_answer": "Orange",
+            "incorrect_answers": [
+                "Blue",
+                "Green",
+                "Brown"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Tony Hawk&#039;s extreme sports videogames revolve around performing professional BMX tricks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the name of the Alligator that The Simpsons &quot;killed&quot; in the episode &quot;Kill The Alligator and Run&quot;?",
+            "correct_answer": "Captain Jack",
+            "incorrect_answers": [
+                "Captain Jake",
+                "Captain Hector",
+                "Captain Flynn"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The flag of South Africa features 7 colours.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the main character in One Piece?",
+            "correct_answer": "Luffy",
+            "incorrect_answers": [
+                "Shanks",
+                "Zoro",
+                "Smoker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+            "correct_answer": "Masrani Global Corporation ",
+            "incorrect_answers": [
+                "Biology Synthetics Technologies",
+                "International Genetics Incorporated",
+                "International Genetic Technologies"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Ottawa is the capital of Canada.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+            "correct_answer": "Lamentation",
+            "incorrect_answers": [
+                "Galvanized Atomic Lead Insertion Liquidator",
+                "Gabig",
+                "Predictive Death Wish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+            "correct_answer": "Uma Thurman",
+            "incorrect_answers": [
+                "Kathy Griffin",
+                "Pam Grier",
+                "Bridget Fonda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+            "correct_answer": "Shamshi-Adad III",
+            "incorrect_answers": [
+                "Shalmaneser V",
+                "Esharhaddon",
+                "Ashur-nasir-pal II"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which continent do sweet potatoes originally come from?",
+            "correct_answer": "South America",
+            "incorrect_answers": [
+                "Asia",
+                "Africa",
+                "Europe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What&#039;s the name of Batman&#039;s parents?",
+            "correct_answer": "Thomas &amp; Martha",
+            "incorrect_answers": [
+                "Joey &amp; Jackie",
+                "Jason &amp; Sarah",
+                "Todd &amp; Mira"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these is NOT a part of the structure of a typical neuron?",
+            "correct_answer": "Islets of Langerhans",
+            "incorrect_answers": [
+                "Node of Ranvier",
+                "Schwann cell",
+                "Myelin sheath"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Ferrari has never made a V10 engine for any of its cars.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which actor has NOT portrayed Billy Flynn in the musical &quot;Chicago&quot;?",
+            "correct_answer": "Christopher Walken",
+            "incorrect_answers": [
+                "David Hasselhoff",
+                "Jerry Springer",
+                "Patrick Swayze"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
+            "correct_answer": "Sends out an advertisement for someone to move in.",
+            "incorrect_answers": [
+                "Teleports somebody from somewhere on the planet it is placed.",
+                "Teleports a random person to the location.",
+                "Materializes a new being at it&#039;s location."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "On which planet does the game Freedom Planet (2014) take place?",
+            "correct_answer": "Avalice",
+            "incorrect_answers": [
+                "Freedom",
+                "Galaxytrail",
+                "Shang Mu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In PROTOTYPE 2, which of the following abilities/weapons is NOT obtained by an Evolved?",
+            "correct_answer": "Tendrils",
+            "incorrect_answers": [
+                "Blade",
+                "Bio-Bomb",
+                "Pack Leader"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which character from the Mega Man series made a small cameo on Volt Catfish&#039;s introduction scene in CD versions of Mega Man X3?",
+            "correct_answer": "Auto",
+            "incorrect_answers": [
+                "Eddie",
+                "Tango",
+                "Rush"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "After India, which country produces the second most movies per year?",
+            "correct_answer": "Nigeria",
+            "incorrect_answers": [
+                "United States",
+                "China",
+                "France"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the longest bridge in the world?",
+            "correct_answer": "Danyang&ndash;Kunshan Grand Bridge, China",
+            "incorrect_answers": [
+                "Lake Pontchartrain Causeway, United States",
+                "King Fahd Causeway Bridge I, Saudi Arabia",
+                "Sultan Abdul Halim Muadzam Shah Bridge, Malaysia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+            "correct_answer": "Limitless Fury",
+            "incorrect_answers": [
+                "Let The Sparks Fly",
+                "Down",
+                "Give Up The Ghost"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Disney&#039;s &quot;Toontown Online&quot;, which of these species wasn&#039;t available as a Toon?",
+            "correct_answer": "Cow",
+            "incorrect_answers": [
+                "Monkey",
+                "Bear",
+                "Pig"
+            ]
+        }
+    ]
+}

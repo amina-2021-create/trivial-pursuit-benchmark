@@ -1,0 +1,579 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who won Big Brother 2014 UK?",
+            "correct_answer": "Helen Wood",
+            "incorrect_answers": [
+                "Christopher Hall",
+                "Pauline Bennett",
+                "Pavandeep &quot;Pav&quot; Paul"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "French is an official language in Canada.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which Sanrio character was introduced in 1996?",
+            "correct_answer": "Pompompurin",
+            "incorrect_answers": [
+                "My Melody",
+                "Badtz-Maru",
+                "Kerropi"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "In 1993, Prince changed his name to an unpronounceable symbol because he was unhappy with his contract with Warner Bros.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "A pencil&#039;s lead is typically made from graphite, not lead",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "What was the first successful and commercially viable photographic technique?",
+            "correct_answer": "The Daguerreotype",
+            "incorrect_answers": [
+                "Collodion process",
+                "The Turin Shroud",
+                "Kodachrome film"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "A Facebook campaign placed Rage Against The Machine&#039;s &quot;Killing in the Name Of&quot; as the UK Christmas Number 1 in 2009.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Rincewind from the 1995 Discworld game was voiced by which member of Monty Python?",
+            "correct_answer": "Eric Idle",
+            "incorrect_answers": [
+                "John Cleese",
+                "Terry Gilliam",
+                "Michael Palin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+            "correct_answer": "Francis, Bill, Zoey, and Louis",
+            "incorrect_answers": [
+                "Bender, Andrew, Allison, and Brian",
+                "Coach, Ellis, Nick, and Rochelle",
+                "Harry, Ron, Hermione and Dumbledore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who won NFL Super Bowl LI? (51)",
+            "correct_answer": "Patriots",
+            "incorrect_answers": [
+                "Falcons",
+                "Broncos",
+                "Eagles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who&#039;s the voice actor for Thrall in the Warcraft game series?",
+            "correct_answer": "Chris Metzen",
+            "incorrect_answers": [
+                "Ben Affleck",
+                "Jason Derulo",
+                "Jim Carrey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was Bitcoin&#039;s block size limit in 2010?",
+            "correct_answer": "1 MB",
+            "incorrect_answers": [
+                "1GB",
+                "1 KB",
+                "1 TB"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Portugal&#039;s modern territory was once a part of the Roman Empire.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Beatles album does NOT feature any of the band members on it&#039;s cover?",
+            "correct_answer": "The Beatles (White Album)",
+            "incorrect_answers": [
+                "Rubber Soul",
+                "Abbey Road",
+                "Magical Mystery Tour"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+            "correct_answer": "1502",
+            "incorrect_answers": [
+                "1702",
+                "1402",
+                "1602"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The anime Attack on Titan was directed by Tetsurō Araki, the same person who directed the anime Highschool of the Dead.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band released songs such as &quot;Electric Feel&quot;, &quot;Kids&quot;, and &quot;Time to Pretend&quot;?",
+            "correct_answer": "MGMT",
+            "incorrect_answers": [
+                "Passion Pit",
+                "Phoenix",
+                "Franz Ferdinand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Kuala Lumpur is the capital of which country?",
+            "correct_answer": "Malaysia",
+            "incorrect_answers": [
+                "Indonesia",
+                "Singapore",
+                "Thailand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the perimeter of a circle more commonly known as?",
+            "correct_answer": "Circumference",
+            "incorrect_answers": [
+                "Diameter",
+                "Radius",
+                "Arc"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "There is a Donald Trump Board Game, which was made in 1989.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
+            "correct_answer": "Post-Impressionism",
+            "incorrect_answers": [
+                "Romanticism",
+                "Neoclassical",
+                "Impressionism"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "What is the approximate value of mathematical constant e?",
+            "correct_answer": "2.72",
+            "incorrect_answers": [
+                "3.14",
+                "1.62",
+                "1.41"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ",
+            "correct_answer": "Chocolate syrup",
+            "incorrect_answers": [
+                "Ketchup",
+                "Red food coloring",
+                "Maple syrup"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of these are NOT a Men at Work song?",
+            "correct_answer": "Basket Case",
+            "incorrect_answers": [
+                "Dr. Heckyll and Mr. Jive",
+                "Who Can It Be Now?",
+                "Be Good Johnny"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+            "correct_answer": "Apple",
+            "incorrect_answers": [
+                "IBM",
+                "Microsoft",
+                "Google"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+            "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+            "incorrect_answers": [
+                "Tied to a boulder for eternity, being pecked by birds.",
+                "Standing in a lake filled with water he could not drink.",
+                "To fell a tree that regenerated after every axe swing."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?",
+            "correct_answer": "Ole Gunnar Solskj&aelig;r",
+            "incorrect_answers": [
+                "Dwight Yorke",
+                "Andy Cole",
+                "David Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Gambia is a nation found on which continent?",
+            "correct_answer": "Africa",
+            "incorrect_answers": [
+                "Asia",
+                "South America",
+                "Europe"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "According to Greek Mythology, Zeus can control lightning.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "The Killer Whale is considered a type of dolphin.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What was the callsign of Commander William Adama in Battlestar Galactica (2004)?",
+            "correct_answer": "Husker",
+            "incorrect_answers": [
+                "Starbuck",
+                "Apollo",
+                "Crashdown"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a game under the Worms series?",
+            "correct_answer": "Major Malfunction",
+            "incorrect_answers": [
+                "Crazy Golf",
+                "Clan Wars",
+                "Ultimate Mayhem"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not a playable character in &quot;Enter The Gungeon?&quot;",
+            "correct_answer": "The Heavy",
+            "incorrect_answers": [
+                "The Bullet",
+                "The Robot",
+                "The Cultist"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?",
+            "correct_answer": "Wolowizard",
+            "incorrect_answers": [
+                "Sheldor",
+                "Rajesh",
+                "Priya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+            "correct_answer": "Andrew Jackson",
+            "incorrect_answers": [
+                "Harry S. Truman",
+                "Martin Van Buren",
+                "John Quincy Adams"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Kill La Kill, the weapon of the main protagonist is a katana. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The Earth revolves around the Sun in one year.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the item required to summon the boss Duke Fishron in the game Terraria?",
+            "correct_answer": "Truffle Worm",
+            "incorrect_answers": [
+                "Suspicious Looking Fish",
+                "King Grasshopper",
+                "Slug"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these is NOT a character in the video game Overwatch",
+            "correct_answer": "Garen",
+            "incorrect_answers": [
+                "Reaper",
+                "Hana Song",
+                "Tracer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Venus",
+                "Mars",
+                "Uranus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The band Muse released their first album, Showbiz, in what year?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1998",
+                "2000",
+                "2001"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?",
+            "correct_answer": "Towelie",
+            "incorrect_answers": [
+                "Jesus",
+                "Mr. Hankey",
+                "Mr. Slave"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+            "correct_answer": "Memorze",
+            "incorrect_answers": [
+                "Deviluke",
+                "Mistletoe",
+                "Okiwana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What year did the Titanic sink?",
+            "correct_answer": "1912",
+            "incorrect_answers": [
+                "1930",
+                "1917",
+                "1941"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which variant of the MP5 is depicted in Counter-Strike 1.6?",
+            "correct_answer": "MP5N",
+            "incorrect_answers": [
+                "MP5SD",
+                "MP5K",
+                "MP5RAS"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The first Grand Theft Auto was also planned for the Nintendo 64.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a name of a city in the main island of PLAYERUNKNOWN&#039;S BATTLEGROUNDS?",
+            "correct_answer": "Belushya Guba",
+            "incorrect_answers": [
+                "Yasnaya Polyana",
+                "Pochinki",
+                "Georgopol"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "From where does the Nintendo video game character Mario derive his name?",
+            "correct_answer": "The landlord of the American headquarters",
+            "incorrect_answers": [
+                "Shigeru Miyamoto&#039;s father in law",
+                "Satoru Iwata&#039;s plumber",
+                "The date (Mar 10) that Donkey Kong was released."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "&quot;A3&quot;, &quot;B1&quot;, and &quot;Legal&quot; are typical names of sizes for what object?",
+            "correct_answer": "Paper",
+            "incorrect_answers": [
+                "Airplanes",
+                "Law books",
+                "Phone screens"
+            ]
+        }
+    ]
+}

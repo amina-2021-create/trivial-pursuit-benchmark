@@ -1,0 +1,577 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In which year did the British television series &quot;The Bill&quot; end?",
+            "correct_answer": "2010",
+            "incorrect_answers": [
+                "2001",
+                "2007",
+                "2012"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which river flows through the Scottish city of Glasgow?",
+            "correct_answer": "Clyde",
+            "incorrect_answers": [
+                "Tay",
+                "Dee",
+                "Tweed"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, where is &quot;Stamin-Up&quot; located?",
+            "correct_answer": "Generator 5",
+            "incorrect_answers": [
+                "Generator 3",
+                "Generator 4",
+                "Excavation Site"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The mitochondria is the powerhouse of the cell.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+            "correct_answer": "Aqua",
+            "incorrect_answers": [
+                "Vengaboys",
+                "Eiffel 65",
+                "Sash!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of these cities does NOT have a United States Minting location?",
+            "correct_answer": "St. Louis, MO",
+            "incorrect_answers": [
+                "San Fransisco, CA",
+                "Philidelphia, PA",
+                "West Point, NY"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The Honda Motor Corporation originates in Japan",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In which one of these cities did the Great Stink of 1858 occur?",
+            "correct_answer": "London",
+            "incorrect_answers": [
+                "Berlin",
+                "New York",
+                "Moscow"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "A universal set, or a set that contains all sets, exists.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Why were only only 300,000 copies of Uniracers were produced?",
+            "correct_answer": "DMA Designs was sued by Pixar, preventing more copies from being produced",
+            "incorrect_answers": [
+                "There was a disagreement between DMA Designs and Nintendo",
+                "It didn&#039;t sell well due to poor review scores",
+                "No public information is available"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In which country was the Statue of Liberty built and exported to the United States of America?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "Germany",
+                "Spain",
+                "England"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In baseball, how many fouls are an out?",
+            "correct_answer": "0",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Australia?",
+            "correct_answer": "Canberra",
+            "incorrect_answers": [
+                "Sydney",
+                "Melbourne",
+                "Brisbane"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the name of the family that the domestic cat is a member of?",
+            "correct_answer": "Felidae",
+            "incorrect_answers": [
+                "Felinae",
+                "Felis",
+                "Cat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+            "correct_answer": "T-800",
+            "incorrect_answers": [
+                "I-950",
+                "T-888",
+                "T-1000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What is the name of Sherlock Holmes&#039;s brother?",
+            "correct_answer": "Mycroft Holmes",
+            "incorrect_answers": [
+                "Mederi Holmes",
+                "Martin Holmes",
+                "Herbie Hancock Holmes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Warframe, what is the bipedal robot from the Corpus faction called?",
+            "correct_answer": "MOA",
+            "incorrect_answers": [
+                "Corpus Tech",
+                "Crewman",
+                "Corpus Walker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following cities is the capital of Latvia?",
+            "correct_answer": "Riga",
+            "incorrect_answers": [
+                "Minsk",
+                "Tallinn",
+                "Vilnius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Who invented Pastafarianism?",
+            "correct_answer": "Bobby Henderson",
+            "incorrect_answers": [
+                "Eric Tignor",
+                "Bill Nye",
+                "Zach Soldi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
+            "correct_answer": "Amazon",
+            "incorrect_answers": [
+                "Netflix",
+                "BBC",
+                "CCTV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which movie sequel had improved box office results compared to its original film?",
+            "correct_answer": "Toy Story 2",
+            "incorrect_answers": [
+                "Sin City: A Dame to Kill For",
+                "Speed 2: Cruise Control",
+                "Son of the Mask"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In past times, what would a gentleman keep in his fob pocket?",
+            "correct_answer": "Watch",
+            "incorrect_answers": [
+                "Money",
+                "Keys",
+                "Notebook"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How many bits make up the significand portion of a single precision floating point number?",
+            "correct_answer": "23",
+            "incorrect_answers": [
+                "8",
+                "53",
+                "15"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Zebras are white with black stripes.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "What is another name for La Gioconda / La Joconde?",
+            "correct_answer": "The Mona Lisa",
+            "incorrect_answers": [
+                "The Girl with a Pearl Earring",
+                "The Starry Night",
+                "Sunflowers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+            "correct_answer": "August 21",
+            "incorrect_answers": [
+                "August 23",
+                "August 19",
+                "August 17"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?",
+            "correct_answer": "Battle of Midway",
+            "incorrect_answers": [
+                "Attack on Truk Island",
+                "Attack on Pearl Harbor",
+                "Battle of the Coral Sea"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Rabbits can&#039;t vomit.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What year was the video game streaming platform TwitchTV founded?",
+            "correct_answer": "2011",
+            "incorrect_answers": [
+                "2012",
+                "2010",
+                "2014"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+            "correct_answer": "Kaliningrad",
+            "incorrect_answers": [
+                "Kazan",
+                "Kursk",
+                "Krasnodar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the name of Metallica&#039;s debut album, released in 1983?",
+            "correct_answer": "Kill &#039;Em All",
+            "incorrect_answers": [
+                "...And Justice for All",
+                "Master of Puppets",
+                "Countdown to Extinction"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Resident Evil 2&quot;, which virus was William Birkin mutated by?",
+            "correct_answer": "G-Virus",
+            "incorrect_answers": [
+                "T-Virus",
+                "C-Virus",
+                "E-Virus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the plane of existence in MicroProse&#039;s 1997 &quot;Magic the Gathering&quot;?",
+            "correct_answer": "Shandalar",
+            "incorrect_answers": [
+                "Theros",
+                "Ravnica",
+                "Amonkhet"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Resident Evil 7&quot; is the first first-person Resident Evil game.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What do you call a baby bat?",
+            "correct_answer": "Pup",
+            "incorrect_answers": [
+                "Cub",
+                "Chick",
+                "Kid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In the comics, which Sonic character took command of the Dark Legion after Luger&#039;s assassination?",
+            "correct_answer": "Lien-Da",
+            "incorrect_answers": [
+                "Kragok",
+                "Dimitri",
+                "Remington"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+            "correct_answer": "Dave",
+            "incorrect_answers": [
+                "John",
+                "Will",
+                "Carl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which artist released his third and final studio album &#039;Electric Ladyland&#039; before his death in 1970?",
+            "correct_answer": "Jimi Hendrix",
+            "incorrect_answers": [
+                "Prince",
+                "Eric Clapton",
+                "Captain Sensible"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which PBS station was the first station to air &quot;Monty Python&#039;s Flying Circus&quot; (1969-1974) in the United States?",
+            "correct_answer": "KERA (Dallas-Fort Worth)",
+            "incorrect_answers": [
+                "KLCS (Los Angeles)",
+                "WETA (Washington D.C.)",
+                "WNET (New York City)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Panic! At the Disco&#039;s sixth album &quot;Pray For The Wicked&quot; was released on which date?",
+            "correct_answer": "June 22, 2018",
+            "incorrect_answers": [
+                "May 9, 2018",
+                "March 13, 2018",
+                "February 21, 2018"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "DHCP stands for Dynamic Host Configuration Port.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first interactive movie video game?",
+            "correct_answer": "Astron Belt",
+            "incorrect_answers": [
+                "Dragon&#039;s Lair",
+                "Cube Quest",
+                "M.A.C.H. 3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these weapons is NOT available to the Terrorist team in the game, &quot;Counter-Strike: Global Offensive&quot;?",
+            "correct_answer": "SCAR-20",
+            "incorrect_answers": [
+                "SG 550",
+                "CZ-75",
+                "XM1014"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Tiananmen Square protests of 1989 were held in Hong Kong.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

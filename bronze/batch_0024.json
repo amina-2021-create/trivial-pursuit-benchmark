@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "incorrect_answers": [
+                "Central Process Unit",
+                "Computer Personal Unit",
+                "Central Processor Unit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the singer for Fall Out Boy?",
+            "correct_answer": "Patrick Stump",
+            "incorrect_answers": [
+                "Brendon Urie",
+                "Pete Wentz",
+                "Gary Lee Weinrib"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The game Garry&#039;s Mod originally took assets and codes from the popular Half Life 2 mod JBmod.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "The chemical element Lithium is named after the country of Lithuania.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which country does the band Rammstein hail from?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Austria",
+                "Armenia",
+                "Belgium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What position does Harry Potter play in Quidditch?",
+            "correct_answer": "Seeker",
+            "incorrect_answers": [
+                "Beater",
+                "Chaser",
+                "Keeper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the code name for the German invasion of the Soviet Union in WW2?",
+            "correct_answer": "Operation Barbarossa",
+            "incorrect_answers": [
+                "Operation Kaiserschlact",
+                "Operation Unthinkable",
+                "Operation Molotov"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "In Greek Mythology, who was the daughter of King Minos?",
+            "correct_answer": "Ariadne",
+            "incorrect_answers": [
+                "Athena",
+                "Ariel",
+                "Alana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+            "correct_answer": "Groovy.",
+            "incorrect_answers": [
+                "Gnarly.",
+                "Perfect.",
+                "Nice."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Who is the founder of &quot;The Lego Group&quot;?",
+            "correct_answer": "Ole Kirk Christiansen",
+            "incorrect_answers": [
+                " Jens Niels Christiansen",
+                "Kirstine Christiansen",
+                " Gerhardt Kirk Christiansen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Red Dead Redemption&quot;, what is the name of John Marston&#039;s dog?",
+            "correct_answer": "Rufus",
+            "incorrect_answers": [
+                "Rutus",
+                "Finn",
+                "Apollo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the protagonist of the 2017 anime &quot;Land of the Lustrous&quot;?",
+            "correct_answer": "Phosphophyllite",
+            "incorrect_answers": [
+                "Watermelon Tourmaline",
+                "Cinnabar",
+                "Padparadscha"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+            "correct_answer": "Scarlett Johansson",
+            "incorrect_answers": [
+                "Jared Leto",
+                "Will Smith",
+                "Margot Robbie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which television show has Dan Gheesling been on?",
+            "correct_answer": "Big Brother",
+            "incorrect_answers": [
+                "Jeopardy",
+                "Survivor",
+                "The Bachelor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many stars are there to collect in Super Mario 64?",
+            "correct_answer": "120",
+            "incorrect_answers": [
+                "60",
+                "80",
+                "100"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+            "correct_answer": "Bliss",
+            "incorrect_answers": [
+                "Azul",
+                "Red moon desert",
+                "Tulips"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+            "correct_answer": "I came, I saw, I conquered",
+            "incorrect_answers": [
+                "See no evil, hear no evil, speak no evil",
+                "Life, liberty, and happiness",
+                "Past, present, and future"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+            "correct_answer": "Jimmy Cooper",
+            "incorrect_answers": [
+                "Pete Townshend",
+                "Franc Roddam",
+                "Archie Bunker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of these words means &quot;idle spectator&quot;?",
+            "correct_answer": "Gongoozler",
+            "incorrect_answers": [
+                "Gossypiboma",
+                "Jentacular",
+                "Meupareunia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the film &quot;John Wick&quot; why does John Wick get out of retirement?",
+            "correct_answer": "His puppy is killed and his car was stolen",
+            "incorrect_answers": [
+                "He was punched in the face",
+                "He got mugged",
+                "He needed money"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "Which of the following mathematicians made major contributions to game theory?",
+            "correct_answer": "John Von Neumann",
+            "incorrect_answers": [
+                "Carl Friedrich Gauss",
+                "Leonhard Euler",
+                "Stefan Banach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which actor auditioned for the role of Luke Skywalker?",
+            "correct_answer": "Kurt Russell",
+            "incorrect_answers": [
+                "Christopher Lambert",
+                "Laurence Fishburne",
+                "James Remar"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The original ending of &quot;Little Shop Of Horrors&quot; has the plants taking over the world.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The 2010 song &quot;Eenie Meenie&quot; was a collaboration between which two popular artists?",
+            "correct_answer": "Sean Kingston &amp; Justin Bieber",
+            "incorrect_answers": [
+                "Eminem &amp; Rihanna",
+                "Usher &amp; Pitbull",
+                "Lady Gaga &amp; Beyonc&eacute;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The LS1 engine is how many cubic inches?",
+            "correct_answer": "346",
+            "incorrect_answers": [
+                "350",
+                "355",
+                "360"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the largest lake in the African continent?",
+            "correct_answer": "Lake Victoria",
+            "incorrect_answers": [
+                "Lake Tanganyika",
+                "Lake Malawi",
+                "Lake Turkana"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Frederick Banting and John Macleod won a Nobel Prize for their contributions to the scientific fields of quantum mechanics.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+            "correct_answer": "The Flamingo",
+            "incorrect_answers": [
+                "The MGM Grand",
+                "The Sands",
+                "The Sahara"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Who is the God Loki&#039;s son? ",
+            "correct_answer": "Fenrir ",
+            "incorrect_answers": [
+                "Odin",
+                "Hel",
+                "Sigyn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Aubrey Graham is better known as",
+            "correct_answer": "Drake",
+            "incorrect_answers": [
+                "Travis Scott",
+                "Lil Wayne",
+                "2 Chainz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When was the People&#039;s Republic of China founded?",
+            "correct_answer": "October 1, 1949",
+            "incorrect_answers": [
+                "April 3, 1947",
+                "May 7, 1945",
+                "December 6, 1950"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which country was an allied power in World War II?",
+            "correct_answer": "Soviet Union",
+            "incorrect_answers": [
+                "Italy",
+                "Germany",
+                "Japan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Which is NOT a book in the Harry Potter Series?",
+            "correct_answer": "The House Elf",
+            "incorrect_answers": [
+                "The Chamber of Secrets",
+                "The Prisoner of Azkaban",
+                "The Deathly Hallows"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "All strawberries are red.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+            "correct_answer": "The Balmoral",
+            "incorrect_answers": [
+                "The Dunstane Hotel",
+                "Hotel Novotel",
+                "Sheraton Grand Hotel &amp; Spa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
+            "correct_answer": "Max Tennyson (Ben 10)",
+            "incorrect_answers": [
+                "Carl Wheezer (Jimmy Neutron)",
+                "Yakko Warner (Animaniacs)",
+                "The Mask (The Mask, TV Series)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "How many hearts does an octopus have?",
+            "correct_answer": "Three",
+            "incorrect_answers": [
+                "One",
+                "Two",
+                "Four"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What year was the United States Declaration of Independence signed?",
+            "correct_answer": "1776",
+            "incorrect_answers": [
+                "1775",
+                "1774",
+                "1777"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Jeb Bush was elected as Governor of Florida in 2002, starting his political career.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The Windows ME operating system was released in the year 2000.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of the following is NOT a computer science algorithm?",
+            "correct_answer": "Float Sort",
+            "incorrect_answers": [
+                "Bubble Sort",
+                "Merge Sort",
+                "Quick Sort"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of these is used to show that Earth spins on an axis? ",
+            "correct_answer": "Foucault Pendulum ",
+            "incorrect_answers": [
+                "Polaris",
+                "Sundial",
+                "Tectonic Plates "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "When was the play &quot;Macbeth&quot; written?",
+            "correct_answer": "1606",
+            "incorrect_answers": [
+                "1605",
+                "1723",
+                "1628"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+            "correct_answer": "Tetris",
+            "incorrect_answers": [
+                "Jenga",
+                "Boulder Dash",
+                "Puzzled"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The game &quot;Jetpack Joyride&quot; was created by &quot;Redbrick Studios&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Korean girl group, TWICE, consists of 9 members",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "On what street did the 1666 Great Fire of London start?",
+            "correct_answer": "Pudding Lane",
+            "incorrect_answers": [
+                "Baker Street",
+                "Houses of Parliament",
+                "St Paul&#039;s Cathedral"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+            "correct_answer": "Objective-C",
+            "incorrect_answers": [
+                "C#",
+                "Ruby",
+                "C++"
+            ]
+        }
+    ]
+}

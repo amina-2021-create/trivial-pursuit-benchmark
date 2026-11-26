@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Gordon Freeman, the protagonist of &quot;Half-Life&quot;, is said to have once had a ponytail.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which Doom Patrol member was a later addition, first appearing in 1989?",
+            "correct_answer": "Crazy Jane",
+            "incorrect_answers": [
+                "Elast-Girl",
+                "Robotman",
+                "Negative Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "What are the Three Virtues of Bionicle?",
+            "correct_answer": "Unity, Duty, Destiny",
+            "incorrect_answers": [
+                "Build, Play, Change",
+                "Work, Play, Live",
+                "Forge, Build, Fight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The first version of Blockland came out in which year?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2007",
+                "2008",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the title of the game &quot;Luigi&#039;s Mansion&quot;, what is the only letter to not appear with a pair of eyes in it?",
+            "correct_answer": "s",
+            "incorrect_answers": [
+                "n",
+                "i",
+                "m"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What city is the Terracotta Army located in?",
+            "correct_answer": "Xi&#039;an",
+            "incorrect_answers": [
+                "Beijing",
+                "Shanghai",
+                "Hong Kong"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the code name for the &quot;Nintendo Gamecube&quot;?",
+            "correct_answer": "Dolphin",
+            "incorrect_answers": [
+                "Nitro",
+                "Revolution",
+                "Atlantis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What part of the brain takes its name from the Greek for seahorse?",
+            "correct_answer": "Hippocampus",
+            "incorrect_answers": [
+                "Cerebellum",
+                "Thalamus",
+                "Amygdala"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Kingdom of Prussia briefly held land in Estonia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which part from the JoJo&#039;s Bizarre Adventure manga is about a horse race across America?",
+            "correct_answer": "Part 7: Steel Ball Run",
+            "incorrect_answers": [
+                "Part 6: Stone Ocean",
+                "Part 3: Stardust Crusaders",
+                "Part 5: Golden Wind"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Polaris is the brightest star in the northern hemisphere night sky.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Baron Silas Greenback is the arch nemesis of which cartoon hero?",
+            "correct_answer": "Danger Mouse",
+            "incorrect_answers": [
+                "Bananaman",
+                "SuperTed",
+                "Captain Star"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?",
+            "correct_answer": "Sugar",
+            "incorrect_answers": [
+                "Honey",
+                "Caramel",
+                "Candy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the author of book series &#039;Percy Jackson&#039;?",
+            "correct_answer": "Rick Riordan",
+            "incorrect_answers": [
+                "J.K. Rowling",
+                "Sandra Bullock ",
+                "Roald Dahl"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",
+            "correct_answer": "15 Feet / 5 Meters",
+            "incorrect_answers": [
+                "25 Feet / 7.5 Meters",
+                "50 Feet / 15 Meters",
+                "75 Feet / 23 Meters"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?",
+            "correct_answer": "Radar",
+            "incorrect_answers": [
+                "Hawkeye",
+                "Hot Lips",
+                "Trapper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?",
+            "correct_answer": "Anti-mass spectrometer",
+            "incorrect_answers": [
+                "Oscillation generator",
+                "Dark fusion reactor",
+                "Dark fusion resonator"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "GoldenEye 007 on the Nintendo 64 was planned to allow you to play as all previous Bond actors, with the exception of who?",
+            "correct_answer": "George Lazenby",
+            "incorrect_answers": [
+                "Roger Moore",
+                "Sean Connery",
+                "Timothy Dalton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?",
+            "correct_answer": "Mason Pines",
+            "incorrect_answers": [
+                "Mable Pines",
+                "Jason Pines",
+                "Mark Pines"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the name of French electronic music producer Madeon&#039;s 2015 debut studio album?",
+            "correct_answer": "Adventure",
+            "incorrect_answers": [
+                "The City",
+                "Icarus",
+                "Pop Culture"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+            "correct_answer": "Midnight",
+            "incorrect_answers": [
+                "Evening",
+                "Morning",
+                "Afternoon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?",
+            "correct_answer": "Kumatora",
+            "incorrect_answers": [
+                "King K. Rool",
+                "Incineroar",
+                "Corrin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+            "correct_answer": "Ernest Rutherford",
+            "incorrect_answers": [
+                "Joseph John Thomson",
+                "Archimedes",
+                "Niels Henrik David Bohr"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "The board game, Nightmare was released in what year?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1992",
+                "1989",
+                "1995"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The 2010 film &quot;The Social Network&quot; is a biographical drama film about MySpace founder Tom Anderson.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which one of these countries was NOT in the Central Powers during WWI?",
+            "correct_answer": "Spain",
+            "incorrect_answers": [
+                "Austria-Hungary",
+                "Turkey",
+                "Germany"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+            "correct_answer": "Krill",
+            "incorrect_answers": [
+                "Lobsters",
+                "Shrimp",
+                "Crabs"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Adolf Hitler was a german soldier in World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "In the metal band Slipknot, there are 9 members, which member labelled themselves number 6? ",
+            "correct_answer": "Shawn Crahan (Clown)",
+            "incorrect_answers": [
+                "Sid Wilson",
+                "Cory Taylor",
+                "Mick Thomson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+            "correct_answer": "Gossypiboma",
+            "incorrect_answers": [
+                "Gongoozler",
+                "Jentacular",
+                "Meupareunia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?",
+            "correct_answer": "St. Helena",
+            "incorrect_answers": [
+                "Elba",
+                "Corsica",
+                "Canary"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?",
+            "correct_answer": "Les Paul Standard",
+            "incorrect_answers": [
+                "Fender Stratocaster",
+                "LsL Mongrel",
+                "Gretsch Falcon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+            "correct_answer": "1729",
+            "incorrect_answers": [
+                "91",
+                "561",
+                "4104"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Skylanders Giants, why was Zaps&#039; Wow Pow named &quot;For Riley&quot; ?",
+            "correct_answer": "As a tribute to a fan who passed away",
+            "incorrect_answers": [
+                "As a reference to a film",
+                "After one of the writers of the game",
+                "After a voice actor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the birth name of Michael Caine?",
+            "correct_answer": "Maurice Micklewhite",
+            "incorrect_answers": [
+                "Morris Coleman",
+                "Carl Myers",
+                "Martin Michaels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+            "correct_answer": "Eye of Cthulhu",
+            "incorrect_answers": [
+                "Plantera",
+                "Skeletron Prime",
+                "The Destroyer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "An atom contains a nucleus.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is the real full name of Captain America?",
+            "correct_answer": "Steven Grant Rogers ",
+            "incorrect_answers": [
+                "Steven John Rogers",
+                "Steven Peggy Rogers",
+                "Steven William Rogers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was Minecraft 1.0 released?",
+            "correct_answer": "November 18, 2011",
+            "incorrect_answers": [
+                "May 17, 2009",
+                "December 10, 2014",
+                "September 13, 2012"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+            "correct_answer": "My Neighbor Totoro",
+            "incorrect_answers": [
+                "Hop",
+                "Rise of the Guardians",
+                "Alice in Wonderland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "How many countries does the United States share a land border with?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+            "correct_answer": "The main character&#039;s trauma in childhood",
+            "incorrect_answers": [
+                "The relation it has with killing the innocents",
+                "The villain&#039;s favourite meal",
+                "The voice of innocent people being shut by the powerful"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Call Of Duty: Black Ops II, who is the main antagonist?",
+            "correct_answer": "Raul Men&eacute;ndez ",
+            "incorrect_answers": [
+                "Vladimir Makarov ",
+                "Frank Woods",
+                "DeFalco"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+            "correct_answer": "Yomba Shoshone Tribe",
+            "incorrect_answers": [
+                "Standing Rock Sioux Tribe",
+                "Kiowa Tribe of Oklahoma",
+                "Pawnee Nation of Oklahoma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Mario &amp; Sonic at the Olympic Games&quot;, characters are split into how many types?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "6",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+            "correct_answer": "Spy",
+            "incorrect_answers": [
+                "Heavy",
+                "Medic",
+                "Pyro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the busiest port in Europe?",
+            "correct_answer": "Port of Rotterdam",
+            "incorrect_answers": [
+                "Port of Antwerp",
+                "Port of Hamburg",
+                "Port of Amsterdam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+            "correct_answer": "Werner Heisenberg",
+            "incorrect_answers": [
+                "John von Neumann",
+                "Albert Einstein",
+                "Max Planck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "Ma Long (China)",
+            "incorrect_answers": [
+                "Zhang Jike (China)",
+                "Jun Mizutani (Japan)",
+                "Vladimir Samsonov (Belarus)"
+            ]
+        }
+    ]
+}

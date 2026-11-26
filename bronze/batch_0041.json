@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "6",
+                "10",
+                "12"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Sonic Adventure&quot;, you are able to transform into Super Sonic at will after completing the main story.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which company developed the free battle royale game Fortnite?",
+            "correct_answer": "Epic Games",
+            "incorrect_answers": [
+                "Valve",
+                "Ubisoft",
+                "Square Enix"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "How many countries does Mexico border?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the main character of Metal Gear Solid 2?",
+            "correct_answer": "Raiden",
+            "incorrect_answers": [
+                "Solidus Snake",
+                "Big Boss",
+                "Venom Snake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Where is Fort Marlborough located?",
+            "correct_answer": "Bengkulu",
+            "incorrect_answers": [
+                "Singapore",
+                "London",
+                "Dover"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When was the SS or Schutzstaffel established?",
+            "correct_answer": "April 4th, 1925",
+            "incorrect_answers": [
+                "September 1st, 1941",
+                "March 8th, 1935",
+                "February 21st, 1926"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "A Mac is not a PC",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the 1969 Cartoon show &quot;Dastardly and Muttley in Their Flying Machines&quot;, which were NOT one of the lyrics in the opening theme?",
+            "correct_answer": "Stab him",
+            "incorrect_answers": [
+                "Nab him",
+                "Jab him",
+                "Tab him"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which musical artist was NOT featured as playable avatars in the game &quot;DJ Hero&quot;?",
+            "correct_answer": "Dr. Dre",
+            "incorrect_answers": [
+                "DJ Shadow",
+                "Daft Punk",
+                "Grandmaster Flash"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Super Mario Bros.&quot;, the clouds and bushes have the same artwork and are just different colors.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of these is the name of the largest city in the US state Tennessee?",
+            "correct_answer": "Memphis",
+            "incorrect_answers": [
+                "Thebes",
+                "Alexandria",
+                "Luxor"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The &quot;Gympie Stinger&quot; is the deadliest plant in the world.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the videogame Bully, what is the protagonist&#039;s last name?",
+            "correct_answer": "Hopkins",
+            "incorrect_answers": [
+                "Smith",
+                "Kowalski",
+                "Crabblesnitch"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Sailor Moon&quot; series, what is Sailor Jupiter&#039;s civilian name?",
+            "correct_answer": "Makoto Kino",
+            "incorrect_answers": [
+                "Minako Aino",
+                "Usagi Tsukino",
+                "Rei Hino"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Nephelococcygia is the practice of doing what?",
+            "correct_answer": "Finding shapes in clouds",
+            "incorrect_answers": [
+                "Sleeping with your eyes open",
+                "Breaking glass with your voice",
+                "Swimming in freezing water"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which horizon in a soil profile consists of bedrock?",
+            "correct_answer": "R",
+            "incorrect_answers": [
+                "O",
+                "B",
+                "D"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Kraft &quot;Cheez Whiz&quot; contains cheese culture, but doesn&#039;t actually contain cheese",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?",
+            "correct_answer": "John Blunt",
+            "incorrect_answers": [
+                "Daniel Defoe",
+                "Robert Harley",
+                "John Churchill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Adolf Hitler was born on which date?",
+            "correct_answer": "April 20, 1889",
+            "incorrect_answers": [
+                "June 12, 1889",
+                "February 6, 1889",
+                "April 16, 1889"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In which year did the First World War begin?",
+            "correct_answer": "1914",
+            "incorrect_answers": [
+                "1930",
+                "1917",
+                "1939"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the game &quot;Eliminator&quot; released?",
+            "correct_answer": "1998",
+            "incorrect_answers": [
+                "2000",
+                "1999",
+                "2001"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?",
+            "correct_answer": "Sniper",
+            "incorrect_answers": [
+                "Heavy",
+                "Soldier",
+                "Scout"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many flagship monsters appear in Monster Hunter Gernerations?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pokemon Red &amp; Blue, what is the name of HM05?",
+            "correct_answer": "Flash",
+            "incorrect_answers": [
+                "Strength",
+                "Cut",
+                "Fly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What cell organelle is known as &quot;the powerhouse of the cell?&quot;",
+            "correct_answer": "Mitochondria",
+            "incorrect_answers": [
+                "Nucleus",
+                "Golgi apparatus",
+                "Endoplasmic reticulum"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "In Topology, the complement of an open set is a closed set.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What was the name of the security vulnerability found in Bash in 2014?",
+            "correct_answer": "Shellshock",
+            "incorrect_answers": [
+                "Heartbleed",
+                "Bashbug",
+                "Stagefright"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Pok&eacute;mon, Ash&#039;s Pikachu refuses to go into a pokeball.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The disease cancer in itself is not contagious.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "What was the cause of Marilyn Monroes suicide?",
+            "correct_answer": "Drug Overdose",
+            "incorrect_answers": [
+                "Knife Attack",
+                "House Fire",
+                "Gunshot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "The F1 season of 1994 is remembered for what tragic event?",
+            "correct_answer": "Death of Ayrton Senna (San Marino)",
+            "incorrect_answers": [
+                "The Showdown (Australia)",
+                "Verstappen on Fire (Germany)",
+                "Schumacher&#039;s Ban (Britain)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+            "correct_answer": "Coral",
+            "incorrect_answers": [
+                "Sandy",
+                "Pearl",
+                "Shelly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How tall is One World Trade Center in New York City?",
+            "correct_answer": "1,776 ft",
+            "incorrect_answers": [
+                "1,888 ft",
+                "1,225 ft",
+                "1,960 ft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Hippocampus is the Latin name for which marine creature?",
+            "correct_answer": "Seahorse",
+            "incorrect_answers": [
+                "Dolphin",
+                "Whale",
+                "Octopus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Band Aid&#039;s &#039;Do They Know It&#039;s Christmas&#039; was recorded to raise awareness of which issue in Ethiopia?",
+            "correct_answer": "Famine",
+            "incorrect_answers": [
+                "Human rights violations",
+                "Pollution",
+                "Terrorism"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In which year did the Tokyo Subway Sarin Attack occur?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "2001",
+                "2011",
+                "1991"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?",
+            "correct_answer": "Jeff Lynne&#039;s Electric Light Orchestra",
+            "incorrect_answers": [
+                "The Rolling Stones",
+                "Pink Floyd",
+                "The Who"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When was the website reddit founded ?",
+            "correct_answer": "2005",
+            "incorrect_answers": [
+                "2008",
+                "2004",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
+            "correct_answer": "Mana Clash",
+            "incorrect_answers": [
+                "Magic",
+                "Magic Clash",
+                "Mana Duels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+            "correct_answer": "An Unearthly Child",
+            "incorrect_answers": [
+                "The Daleks",
+                "The Aztecs",
+                "The Edge of Destruction"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+            "correct_answer": "Five",
+            "incorrect_answers": [
+                "Twenty",
+                "Ten",
+                "One hundred"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the main character in &quot;Life is Strange&quot;?",
+            "correct_answer": "Maxine Caulfield",
+            "incorrect_answers": [
+                "Victoria Chase",
+                "Stella Hill",
+                "Chloe Price"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In what Homestuck Update was [S] Game Over released?",
+            "correct_answer": "October 25th, 2014",
+            "incorrect_answers": [
+                "April 13th, 2009",
+                "April 8th, 2012",
+                "August 28th, 2003"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who wrote the play &#039;Angels in America&#039;?",
+            "correct_answer": "Tony Kusher",
+            "incorrect_answers": [
+                "Tom Stoppard",
+                "Matthew Lopez",
+                "Anthony Neilson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the real name of American rapper Pitbull?",
+            "correct_answer": "Armando Christian P&eacute;rez",
+            "incorrect_answers": [
+                "Ram&oacute;n Luis Ayala Rodr&iacute;guez",
+                "Benito Antonio Martinez Ocasio",
+                "Belcalis Marlenis Alm&aacute;nzar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Alan Reed is known for providing the voice of which character?",
+            "correct_answer": "Fred Flintstone",
+            "incorrect_answers": [
+                "Bugs Bunny",
+                "Fangface",
+                "G.I. Joe"
+            ]
+        }
+    ]
+}

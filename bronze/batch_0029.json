@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?",
+            "correct_answer": "Green Flu",
+            "incorrect_answers": [
+                "Yellow Fever",
+                "T-Virus",
+                "Raspberry Sniffles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "Papua New Guinea",
+                "Ethiopia",
+                "China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which operating system was released first?",
+            "correct_answer": "Mac OS",
+            "incorrect_answers": [
+                "Windows",
+                "Linux",
+                "OS/2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the planned invasion of Japan towards the end of World War II?",
+            "correct_answer": "Operation Downfall",
+            "incorrect_answers": [
+                "Operation Boarding Party",
+                "Operation Ironclad",
+                "Operation Aflame"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime &quot;Naruto&quot;, the main character is a female.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "The Dice Tower network of board game podcasts and videos is run by which individual?",
+            "correct_answer": "Tom Vasel",
+            "incorrect_answers": [
+                "Jason LeVine",
+                "Borth Sampson",
+                "Uncle Pennybags"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was Chapter 1 of the Source Engine mod &quot;Underhell&quot; released?",
+            "correct_answer": "September 1st, 2013",
+            "incorrect_answers": [
+                "March 3rd, 2011",
+                "September 12th, 2013",
+                "October 2nd, 2012"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "This trope refers to minor characters that are killed off to show how a monster works.",
+            "correct_answer": "Red Shirt",
+            "incorrect_answers": [
+                "Minions",
+                "Expendables",
+                "Cannon Fodder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&#039;74&ndash;&#039;75 is a 1993 single from the album Ring by what American band?",
+            "correct_answer": "The Connells",
+            "incorrect_answers": [
+                "R.E.M.",
+                "The Ocean Blue",
+                "The Bangles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which poet wrote &quot;The Ballad of Reading Gaol&quot; whilst imprisoned for being gay?",
+            "correct_answer": "Oscar Wilde",
+            "incorrect_answers": [
+                "Lord Byron",
+                "William Blake",
+                "Wilfred Owen"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "&quot;The Crucible&quot; was written by William Shakespeare.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "In what year was McDonald&#039;s founded?",
+            "correct_answer": "1955",
+            "incorrect_answers": [
+                "1964",
+                "1951",
+                "1947"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which of these voices wasn&#039;t a choice for the House AI in &quot;The Simpsons Treehouse of Horror&quot; short, House of Whacks?",
+            "correct_answer": "George Clooney",
+            "incorrect_answers": [
+                "Matthew Perry",
+                "Dennis Miller",
+                "Pierce Brosnan"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Destiny,&quot; the three subclasses of the Hunter are Bladedancer, Nightstalker, and Sunsinger.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
+            "correct_answer": "Jynx",
+            "incorrect_answers": [
+                "Electabuzz",
+                "Magmar",
+                "Rhydon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "La Fenice opera house is in which Italian city?",
+            "correct_answer": "Venice",
+            "incorrect_answers": [
+                "Milan",
+                "Rome",
+                "Pompeii"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "An Astronomical Unit is the distance between Earth and the Moon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Cryoshell, known for &quot;Creeping in My Soul&quot; did the advertising music for what Lego Theme?",
+            "correct_answer": "Bionicle",
+            "incorrect_answers": [
+                "Hero Factory",
+                "Ben 10 Alien Force",
+                "Star Wars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the relationship between the band members of American rock band King of Leon?",
+            "correct_answer": "Brothers &amp; cousins",
+            "incorrect_answers": [
+                "Childhood friends",
+                "Former classmates",
+                "Fraternity house members"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the frontman of the band 30 Seconds to Mars?",
+            "correct_answer": "Jared Leto",
+            "incorrect_answers": [
+                "Gerard Way",
+                "Matthew Bellamy",
+                "Mike Shinoda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+            "correct_answer": "Jim Stark",
+            "incorrect_answers": [
+                "Ned Stark",
+                "Jim Kane",
+                "Frank Stark"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In music theory, how many notes are in a seventh chord?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "7",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "In an orchestra, what is the lowest member of the brass family?",
+            "correct_answer": "Tuba",
+            "incorrect_answers": [
+                "Trombone",
+                "Contrabass",
+                "Bassoon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In what film was the Michael Jackson song &quot;Will You Be There&quot; featured?",
+            "correct_answer": "Free Willy",
+            "incorrect_answers": [
+                "Sleepless in Seattle",
+                "Men in Black",
+                "Bad Boys"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters from Final Fantasy VIII primarily spoke in one word sentences?",
+            "correct_answer": "Fujin",
+            "incorrect_answers": [
+                "Raijin",
+                "Seifer",
+                "Zell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Dota 1 hero changed gender when ported to Dota 2?",
+            "correct_answer": "Legion Commander",
+            "incorrect_answers": [
+                "Axe",
+                "Keeper of the Light",
+                "Templar Assassin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?",
+            "correct_answer": "Liver",
+            "incorrect_answers": [
+                "Chicken",
+                "Steak",
+                "Caribou"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which country hosted the 2018 FIFA World Cup?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Germany",
+                "United States",
+                "Saudi Arabia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+            "correct_answer": "Vistula-Oder Offensive",
+            "incorrect_answers": [
+                "Crimean Offensive",
+                "Leningrad-Novgorod Offensive",
+                "Operation Bagration"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;The Genius&quot; is the original and secondary name of which Wu-Tang Clan member?",
+            "correct_answer": "GZA",
+            "incorrect_answers": [
+                "Ghostface Killah",
+                "Ol&#039; Dirty Bastard",
+                "Raekwon the Chef"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How many manned moon landings have there been?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "7"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Studio Ghibli is a Japanese animation studio responsible for the films &quot;Wolf Children&quot; and &quot;The Boy and the Beast&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+            "correct_answer": "Yautja",
+            "incorrect_answers": [
+                "Xenomorph",
+                "Praetorian",
+                "Phocrex"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these games came out first?",
+            "correct_answer": "Terraria",
+            "incorrect_answers": [
+                "Minecraft",
+                "Starbound",
+                "Factorio"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many Mudokons are rescuable in &quot;Oddworld: New &#039;N&#039; Tasty&quot;?",
+            "correct_answer": "299",
+            "incorrect_answers": [
+                "301",
+                "50",
+                "300"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
+            "correct_answer": "Baryonyx",
+            "incorrect_answers": [
+                "Tyrannosaurus Rex",
+                "Velociraptor",
+                "Suchomimus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What scientific family does the Aardwolf belong to?",
+            "correct_answer": "Hyaenidae",
+            "incorrect_answers": [
+                "Canidae",
+                "Felidae",
+                "Eupleridae"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The capital of Brazil is Rio de Janeiro.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many planets are in our Solar System?",
+            "correct_answer": "Eight",
+            "incorrect_answers": [
+                "Nine",
+                "Seven",
+                "Ten"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who stars in Brutal Legend?",
+            "correct_answer": "Jack Black",
+            "incorrect_answers": [
+                "Kanye West",
+                "Lemmy",
+                "Ozzy Osbourne"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "A bear does NOT defecate during hibernation. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many carbon cars are there in Burnout Paradise?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The creator of the Touhou Project series is:",
+            "correct_answer": "ZUN",
+            "incorrect_answers": [
+                "SUN",
+                "RUN",
+                "PUN"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+            "correct_answer": "Bull Feces",
+            "incorrect_answers": [
+                "A Card Expansion",
+                "A Racist Toy",
+                "Cat Urine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the Spanish word for &quot;donkey&quot;?",
+            "correct_answer": "Burro",
+            "incorrect_answers": [
+                "Caballo",
+                "Toro",
+                "Perro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which United Nations principal organ has been suspended since 1994?",
+            "correct_answer": "Trusteeship Council",
+            "incorrect_answers": [
+                "Secretariat",
+                "General Assembly",
+                "Economic and Social Council"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Linux was first created as an alternative to Windows XP.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+            "correct_answer": "September 11, 1941",
+            "incorrect_answers": [
+                "June 15, 1947",
+                "January 15, 1943",
+                "September 2, 1962"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Kissing someone for one minute burns about 2 calories.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of these is the name of a song by Tears for Fears?",
+            "correct_answer": "Shout",
+            "incorrect_answers": [
+                "Scream",
+                "Yell",
+                "Shriek"
+            ]
+        }
+    ]
+}

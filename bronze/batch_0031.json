@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Trypophobia is the fear of ",
+            "correct_answer": "groups of holes",
+            "incorrect_answers": [
+                "swimming in deep water",
+                "public speaking",
+                "eating too much"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Tony Hawk&#039;s Underground&quot;, the main character&#039;s friend turned rival is named &quot;Jeff Sampson&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which year was the third Super Bowl held?",
+            "correct_answer": "1969",
+            "incorrect_answers": [
+                "1968",
+                "1971",
+                "1970"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the 2000 video game &quot;Crimson Skies,&quot; what was the name of the protagonists&#039; zeppelin?",
+            "correct_answer": "Pandora",
+            "incorrect_answers": [
+                "Helios",
+                "Icarus",
+                "Orion"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Miami is Florida&#039;s largest city.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "In what year did Halley&#039;s Comet, which will not appear again until the year 2061, previously approach Earth?",
+            "correct_answer": "1986",
+            "incorrect_answers": [
+                "2001",
+                "1942",
+                "1909"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these women is not a member of the Korean girl group TWICE?",
+            "correct_answer": "Kang Seulgi",
+            "incorrect_answers": [
+                "Myoui Mina",
+                "Kim Dahyun",
+                "Hirai Momo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of these is a stop codon in DNA?",
+            "correct_answer": "TAA",
+            "incorrect_answers": [
+                "ACT",
+                "ACA",
+                "GTA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+            "correct_answer": "Salvador Dali",
+            "incorrect_answers": [
+                "Jackson Pollock",
+                "Vincent van Gogh",
+                "Edgar Degas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What are tiny Thwomps called in Super Mario World?",
+            "correct_answer": "Thwimps",
+            "incorrect_answers": [
+                "Little Thwomp",
+                "Mini Thwomp",
+                "Tiny Tims"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which WWF wrestler had the nickname &quot;The Ayatollah of Rock &#039;N&#039; Rolla&quot;?",
+            "correct_answer": "Chris Jericho",
+            "incorrect_answers": [
+                "Marty Jannetty",
+                "Scott Hall",
+                "Shawn Michaels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Chile",
+                "New Zealand",
+                "Fiji"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what class is known for having the highest possible defense?",
+            "correct_answer": "The Knight",
+            "incorrect_answers": [
+                "The Wizard",
+                "The Archer",
+                "The Warrior"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what year did Microsoft release the original Xbox console in North America?",
+            "correct_answer": "2001",
+            "incorrect_answers": [
+                "1998",
+                "2003",
+                "1996"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first Call of Duty game to include the Zombies gamemode?",
+            "correct_answer": "Call of Duty: World at War",
+            "incorrect_answers": [
+                "Call of Duty: Black Ops",
+                "Call of Duty: Modern Warfare 2",
+                "Call of Duty: Black Ops III"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Pete Townshend was the first musician to destroy their intrument live on stage.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? ",
+            "correct_answer": "Shedinja ",
+            "incorrect_answers": [
+                "Sableye",
+                "Spiritomb",
+                "Silvally "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who succeded Josef Stalin as the leader of the Soviet Union?",
+            "correct_answer": "Nikita Krushchev",
+            "incorrect_answers": [
+                "Lavrentiy Beria",
+                "Vyacheslav Molotov",
+                "Georgy Malenkov"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "The song &#039;Little April Shower&#039; features in which Disney cartoon film?",
+            "correct_answer": "Bambi",
+            "incorrect_answers": [
+                "Cinderella",
+                "Pinocchio",
+                "The Jungle Book"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+            "correct_answer": "Non-impact printer",
+            "incorrect_answers": [
+                "Impact printer",
+                "Daisywheel printer",
+                "Dot matrix printer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+            "correct_answer": "Australia",
+            "incorrect_answers": [
+                "India",
+                "Canada",
+                "Brazil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games was not a launch title for the Nintendo Gamecube?",
+            "correct_answer": "Super Mario Sunshine",
+            "incorrect_answers": [
+                "Luigi&rsquo;s Mansion",
+                "Star Wars Rogue Squadron II",
+                "Disney&rsquo;s Tarzan Untamed"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "According to the Book of Genesis in the Old Testament, how many days did it take God to create the world?",
+            "correct_answer": "Six",
+            "incorrect_answers": [
+                "Seven",
+                "One",
+                "Twelve"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the province you explore in Runescape?",
+            "correct_answer": "Gielinor",
+            "incorrect_answers": [
+                "Mordor",
+                "Kopar",
+                "Ashendale"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who voices for Ruby in the animated series RWBY?",
+            "correct_answer": "Lindsay Jones",
+            "incorrect_answers": [
+                "Tara Strong",
+                "Jessica Nigri",
+                "Hayden Panettiere"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+            "correct_answer": "Boston Red Sox",
+            "incorrect_answers": [
+                "New York Mets",
+                "Baltimore Orioles",
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the real name of &quot;Warhead&quot; in the Sega Genesis game &quot;Vectorman&quot;?",
+            "correct_answer": "Raster",
+            "incorrect_answers": [
+                "Peacehead",
+                "Vectorkid",
+                "Bitmap"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The Great Wall of China is visible from the moon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime, &quot;Hunter X Hunter&quot;, what is the main protagonist&#039;s name?",
+            "correct_answer": "Gon",
+            "incorrect_answers": [
+                "Gin",
+                "Gan",
+                "Gen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Ecuador?",
+            "correct_answer": "Quito",
+            "incorrect_answers": [
+                "Bogota",
+                "Santiago",
+                "Santa F&eacute;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Halo 2, how many rounds does the M6C hold in a single magazine?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "6",
+                "36",
+                "18"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Pizza Tower&quot;, what is the protagonist&#039;s name?",
+            "correct_answer": "Peppino",
+            "incorrect_answers": [
+                "Pastachio",
+                "Pepper",
+                "Spinachio"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How long did World War II last?",
+            "correct_answer": "6 years",
+            "incorrect_answers": [
+                "4 years",
+                "5 years",
+                "7 years"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+            "correct_answer": "Mortal Kombat",
+            "incorrect_answers": [
+                "Duke Nukem",
+                "Resident Evil",
+                "Doom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the German word for &quot;spoon&quot;?",
+            "correct_answer": "L&ouml;ffel",
+            "incorrect_answers": [
+                "Gabel",
+                "Messer",
+                "Essst&auml;bchen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the indie farming game &quot;Stardew Valley&quot;, which NPC hates the &quot;prismatic shard&quot; item when received as a gift?",
+            "correct_answer": "Haley",
+            "incorrect_answers": [
+                "Abigail ",
+                "Elliott",
+                "Lewis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What year did the television company BBC officially launch the channel BBC One?",
+            "correct_answer": "1936",
+            "incorrect_answers": [
+                "1948",
+                "1932",
+                "1955"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What does DNA stand for?",
+            "correct_answer": "Deoxyribonucleic Acid",
+            "incorrect_answers": [
+                "Deoxyribogenetic Acid",
+                "Deoxyribogenetic Atoms",
+                "Detoxic Acid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which of the following was not an actor/actress on the American television show &quot;Saturday Night Live&quot; in Season 42?",
+            "correct_answer": "Tina Fey",
+            "incorrect_answers": [
+                "Mikey Day",
+                "Kate McKinnon",
+                "Sasheer Zamata"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Kirito and Asuna are main characters from which anime?",
+            "correct_answer": "Sword Art Online",
+            "incorrect_answers": [
+                "One Piece",
+                "Death Note",
+                "Fairy Tail"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "How many copies have Metallica album &quot;Metallica&quot; (A.K.A The Black Album) sold worldwide (in Millions of Copies)?",
+            "correct_answer": "20.5",
+            "incorrect_answers": [
+                "19.5",
+                "22.5",
+                "25.5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of the following is the oldest of these computers by release date?",
+            "correct_answer": "TRS-80",
+            "incorrect_answers": [
+                "Commodore 64",
+                "ZX Spectrum",
+                "Apple 3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In which movie does Robin Williams&#039; character have to disguise themselves into a woman?",
+            "correct_answer": "Mrs. Doubtfire",
+            "incorrect_answers": [
+                "Old Dogs",
+                "Jumanji",
+                "Awakenings"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which of the following authors was not born in England? ",
+            "correct_answer": "Arthur Conan Doyle",
+            "incorrect_answers": [
+                "Graham Greene",
+                "H G Wells",
+                "Arthur C Clarke"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the protagonist of the videogame &quot;Dead Rising 2&quot;?",
+            "correct_answer": "Chuck Greene",
+            "incorrect_answers": [
+                "Nick Ramos",
+                "Frank West",
+                "Katie Greene"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which musical instrument is nicknamed &#039;the clown of the orchestra&#039;?",
+            "correct_answer": "Bassoon",
+            "incorrect_answers": [
+                "Piccolo",
+                "Tuba",
+                "Flute"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of the following landlocked countries is entirely contained within another country?",
+            "correct_answer": "Lesotho",
+            "incorrect_answers": [
+                "Burkina Faso",
+                "Mongolia",
+                "Luxembourg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Which of the following characters is not in the board game Clue?",
+            "correct_answer": "Mister Indigo",
+            "incorrect_answers": [
+                "Colonel Mustard",
+                "Reverend Green",
+                "Miss Scarlet"
+            ]
+        }
+    ]
+}

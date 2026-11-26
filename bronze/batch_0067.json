@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What causes Lyme disease?",
+            "correct_answer": "A bacteria",
+            "incorrect_answers": [
+                "A virus",
+                "A parasitic worm",
+                "An amoeba"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft, What was the name of the spell that caused a plague that famously killed millions of players in 2005?",
+            "correct_answer": "Corrupted Blood",
+            "incorrect_answers": [
+                "Necrotic Plague",
+                "Unbound Infestation",
+                "Mutated Infection"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of the following is not a studio album by the band Pink Floyd?",
+            "correct_answer": "Moving Pictures",
+            "incorrect_answers": [
+                "The Dark Side of the Moon",
+                "Wish You Were Here",
+                "Animals"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What TV show featured older women named Blanche, Rose, Dorothy and Sophia?",
+            "correct_answer": "The Golden Girls",
+            "incorrect_answers": [
+                "Cheers",
+                "The Wonder Years",
+                "Family Ties"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?",
+            "correct_answer": "Slipping off a cliff, and nearly drowning in icy water",
+            "incorrect_answers": [
+                "Crash landing when arriving at Keflav&iacute;k airport",
+                "A minor car accident in a snowstorm",
+                "Being served under-cooked chicken at his hotel"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Kublai Khan is the grandchild of Genghis Khan?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which game was exclusive to Dreamcast?",
+            "correct_answer": "Pen Pen TriIcelon",
+            "incorrect_answers": [
+                "Sylvester &amp; Tweety in Cagey Capers",
+                "Perfect Dark",
+                "Tetrisphere"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "How many people are in the U.S. House of Representatives?",
+            "correct_answer": "435",
+            "incorrect_answers": [
+                "260",
+                "415",
+                "50"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The &quot;British Invasion&quot; was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+            "correct_answer": "60&#039;s",
+            "incorrect_answers": [
+                "50&#039;s",
+                "40&#039;s",
+                "30&#039;s"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The letters in the name of the band &quot;TWRP&quot; stand for what?",
+            "correct_answer": "Tupperware Remix Party",
+            "incorrect_answers": [
+                "Totally Wicked Robot Performers",
+                "Team Wild and the Radio Pirates",
+                "Taiwan Roleplay"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+            "correct_answer": "Mistletoe",
+            "incorrect_answers": [
+                "Wolf&#039;s Bane",
+                "Buckthorn",
+                "Hemlock"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
+            "correct_answer": "Game Boy Color",
+            "incorrect_answers": [
+                "Game Boy Advance",
+                "Game Boy Micro",
+                "Game Boy Advance SP"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The character that would eventually become Dr. Eggman was considered for the role of Sega&#039;s new flagship mascot before Sonic was.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What was the original name of the search engine &quot;Google&quot;?",
+            "correct_answer": "BackRub",
+            "incorrect_answers": [
+                "CatMassage",
+                "SearchPro",
+                "Netscape Navigator"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is NOT a real element?",
+            "correct_answer": "Vitrainium",
+            "incorrect_answers": [
+                "Praseodymium",
+                "Hassium",
+                "Lutetium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "In which country is Tallinn located?",
+            "correct_answer": "Estonia",
+            "incorrect_answers": [
+                "Finland",
+                "Sweden",
+                "Poland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What nucleotide pairs with guanine?",
+            "correct_answer": "Cytosine",
+            "incorrect_answers": [
+                "Thymine",
+                "Adenine",
+                "Uracil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the land connecting North America and South America?",
+            "correct_answer": "Isthmus of Panama",
+            "incorrect_answers": [
+                "Isthmus of Suez",
+                "Urals",
+                "Australasia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the hottest planet in the Solar System?",
+            "correct_answer": "Venus",
+            "incorrect_answers": [
+                "Mars",
+                "Mercury",
+                "Jupiter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these roles in Town of Salem is mafia?",
+            "correct_answer": "Disguiser",
+            "incorrect_answers": [
+                "Escort",
+                "Lookout",
+                "Transporter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "9",
+                "2"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+            "correct_answer": "Souls ",
+            "incorrect_answers": [
+                "Final Fantasy ",
+                "Monster Hunter",
+                "The Legend of Zelda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1999",
+                "1841",
+                "1900"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Automobiles produced by Tesla Motors operate on which form of energy?",
+            "correct_answer": "Electricity",
+            "incorrect_answers": [
+                "Gasoline",
+                "Diesel",
+                "Nuclear"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which character is from &quot;Splatoon&quot;?",
+            "correct_answer": "Marie",
+            "incorrect_answers": [
+                "Cyrus",
+                "Palutena",
+                "Shulk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Carbon",
+                "Hydrogen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who had a 1973 hit with the song &#039;Hocus Pocus&#039;?",
+            "correct_answer": "Focus",
+            "incorrect_answers": [
+                "Pilot",
+                "Rush",
+                "AC/DC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which chemical element has the lowest boiling point?",
+            "correct_answer": "Helium",
+            "incorrect_answers": [
+                "Hydrogen",
+                "Neon",
+                "Nitrogen"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Splatoon&quot;, the playable characters were originally going to be rabbits instead of squids.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+            "correct_answer": "David Childs",
+            "incorrect_answers": [
+                "Bjarke Ingels",
+                "Michael Arad",
+                "Fumihiko Maki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which is the chemical name of H2O?",
+            "correct_answer": "Dihydrogen Monoxide",
+            "incorrect_answers": [
+                "Ammonium chloride",
+                "Anhydrous Sodium Carbonate",
+                "Manganese dioxide"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
+            "correct_answer": "Rosalyn",
+            "incorrect_answers": [
+                "Rose",
+                "Ruby",
+                "Rachel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first video game in the Batman &quot;Arkham&quot; series?",
+            "correct_answer": "Arkham Asylum",
+            "incorrect_answers": [
+                "Arkham Knight",
+                "Arkham City",
+                "Arkham Origins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What mineral has the lowest number on the Mohs scale?",
+            "correct_answer": "Talc",
+            "incorrect_answers": [
+                "Quartz",
+                "Diamond",
+                "Gypsum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which anime heavily features music from the genre &quot;Eurobeat&quot;?",
+            "correct_answer": "Initial D",
+            "incorrect_answers": [
+                "Wangan Midnight",
+                "Kino no Tabi",
+                "Cowboy Bebop"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+            "correct_answer": "Binary",
+            "incorrect_answers": [
+                "JavaScript",
+                "C++",
+                "Python"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?",
+            "correct_answer": "Terri Brosius",
+            "incorrect_answers": [
+                " Jennifer Hale",
+                "Jenn Taylor",
+                "Lori Alan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
+            "correct_answer": "Mark Hamill",
+            "incorrect_answers": [
+                "Jason Dohring",
+                "Jesse McCartney",
+                "Haley Joel Osment"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the Gray Wolf&#039;s scientific name?",
+            "correct_answer": "Canis Lupus",
+            "incorrect_answers": [
+                "Canis Aureus",
+                "Canis Latrans",
+                "Canis Lupus Lycaon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What M83 was featured in Grand Theft Auto V&#039;s radio?",
+            "correct_answer": "Midnight City",
+            "incorrect_answers": [
+                "Outro",
+                "Reunion",
+                "Wait"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "DING Ning (China)",
+            "incorrect_answers": [
+                "LI Xiaoxia (China)",
+                "Ai FUKUHARA (Japan)",
+                "Song KIM (North Korea)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which German field marshal was known as the `Desert Fox`?",
+            "correct_answer": "Erwin Rommel",
+            "incorrect_answers": [
+                "Ernst Busch",
+                "Wolfram Freiherr von Richthofen",
+                "Wilhelm List"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Valve&#039;s &quot;Portal&quot; and &quot;Half-Life&quot; franchises exist within the same in-game universe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "What is the world&#039;s oldest known piece of fiction?",
+            "correct_answer": "Epic of Gilgamesh",
+            "incorrect_answers": [
+                "Papyrus of Ani",
+                "Code of Hammurabi",
+                "Rosetta Stone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the birth name of Michael Keaton?",
+            "correct_answer": "Michael Douglas",
+            "incorrect_answers": [
+                "Michael Fox",
+                "Michael Richards",
+                "Michael Kane"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these languages was NOT included in the 2016 song &quot;Don&#039;t Mind&quot; by Kent Jones?",
+            "correct_answer": "Portuguese",
+            "incorrect_answers": [
+                "Japanese",
+                "French",
+                "Spanish"
+            ]
+        }
+    ]
+}

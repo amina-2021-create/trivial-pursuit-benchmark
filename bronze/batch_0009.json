@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these Japanese islands is the largest by area?",
+            "correct_answer": "Shikoku",
+            "incorrect_answers": [
+                "Iki",
+                "Odaiba",
+                "Okinawa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Kingdom Hearts&quot;, who abducts Jasmine in the Lamp Chamber?",
+            "correct_answer": "Riku",
+            "incorrect_answers": [
+                "Riku Replica",
+                "Xaldin",
+                "Captain Hook"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "How did the Vikings call their short-lived colony in today&#039;s Canada?",
+            "correct_answer": "V&iacute;nland",
+            "incorrect_answers": [
+                "F&oslash;royar",
+                "H&aring;logaland",
+                "Sk&aring;ne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these albums is a Wu-Tang Clan album?",
+            "correct_answer": "Iron Flag",
+            "incorrect_answers": [
+                "Perfect Hair",
+                "The Low End Theory",
+                "Licensed to Ill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a Humongous Entertainment game franchise?",
+            "correct_answer": "Commander Keen",
+            "incorrect_answers": [
+                "Pajama Sam",
+                "Putt-Putt",
+                "Freddi Fish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+            "correct_answer": "Steve Buscemi",
+            "incorrect_answers": [
+                "Kevin Spacey",
+                "Benicio Del Toro",
+                "Gabriel Byrne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "What is the name of a simple machine that is made up of a stiff arm that can move freely around a fixed point?",
+            "correct_answer": "Lever",
+            "incorrect_answers": [
+                "Wedge",
+                "Screw",
+                "Pulley"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "What is the derivative of Acceleration with respect to time?",
+            "correct_answer": "Jerk",
+            "incorrect_answers": [
+                "Shift",
+                "Bump",
+                "Slide"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "San Marino is the only country completely surrounded by another country.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which one of these people has been in the band &#039;&#039;Metallica&#039;&#039; in the past?",
+            "correct_answer": "Dave Mustaine",
+            "incorrect_answers": [
+                "Kurt Cobain",
+                "Joey Belladonna",
+                "Dave Lombardo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+            "correct_answer": "Amor Gitano",
+            "incorrect_answers": [
+                "La ultima vez",
+                "Rocket",
+                "Hasta Dondes Estes"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the rules of the Danganronpa franchise, it states that a nighttime curfew for certain areas occurs between 12am and 8am.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who voices Max Payne in the 2001 game &quot;Max Payne&quot;?",
+            "correct_answer": "James McCaffrey",
+            "incorrect_answers": [
+                "Sam Lake",
+                "Troy Baker",
+                "Hideo Kojima"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was George Michael&#039;s chart-topping 1987 debut studio album?",
+            "correct_answer": "Faith",
+            "incorrect_answers": [
+                "Songs from the Last Century",
+                "Patience",
+                "Older"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "On the NBC show Community what was Star Burns&#039; real name?",
+            "correct_answer": "Alex",
+            "incorrect_answers": [
+                "Todd",
+                "Neal",
+                "Grimus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "There are 2 player roles in Trouble in Terrorist Town.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "The notion of a &quot;set that contains all sets which do not contain themselves&quot; is a paradoxical idea attributed to which English philosopher?",
+            "correct_answer": "Bertrand Russel",
+            "incorrect_answers": [
+                "Francis Bacon",
+                "John Locke",
+                "Alfred North Whitehead"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which river was dammed to create Gatun Lake and the Panama Canal?",
+            "correct_answer": "Chagres River",
+            "incorrect_answers": [
+                "Tuira River",
+                "Chucunaque River",
+                "Chepo River "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which one of these films did David Lynch direct, but not write?",
+            "correct_answer": "The Straight Story",
+            "incorrect_answers": [
+                "Inland Empire",
+                "Lost Highway",
+                "Twin Peaks Fire Walk With Me"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+            "correct_answer": "Previously independent automobile manufacturers",
+            "incorrect_answers": [
+                "States in which Audi makes the most sales",
+                "Main cities vital to Audi",
+                "Countries in which Audi makes the most sales"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What year did the movie &quot;Napoleon Dynamite&quot; come out?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2002",
+                "2003",
+                "2005"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "In which country was the 1992 Summer Olympics Games held?",
+            "correct_answer": "Spain",
+            "incorrect_answers": [
+                "Russia",
+                "Korea",
+                "USA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+            "correct_answer": "New York, New York",
+            "incorrect_answers": [
+                "Las Vegas, Nevada",
+                "Chicago, Illinois",
+                "Orlando, Florida"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
+            "correct_answer": "Can&#039;t Help Falling in Love",
+            "incorrect_answers": [
+                "Jailhouse Rock",
+                "In the Ghetto",
+                "Wooden Heart"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the collective noun for rats?",
+            "correct_answer": "Mischief",
+            "incorrect_answers": [
+                "Pack",
+                "Race",
+                "Drift"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In what year did the first &quot;The Walking Dead&quot; comic come out?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2001",
+                "2006",
+                "1999"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who voice acted the character Hiccup in the movie &quot;How to Train Your Dragon&quot;?",
+            "correct_answer": "Jay Baruchel",
+            "incorrect_answers": [
+                "Jack Brauchel",
+                "John Powell",
+                "Gerard Butler"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What team won the 2016 MLS Cup?",
+            "correct_answer": "Seattle Sounders",
+            "incorrect_answers": [
+                "Colorado Rapids",
+                "Toronto FC",
+                "Montreal Impact"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+            "correct_answer": "Catalan",
+            "incorrect_answers": [
+                "Portuguese",
+                "Spanish",
+                "French"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
+            "correct_answer": "Parasite Eve",
+            "incorrect_answers": [
+                "Final Fantasy VIII",
+                "Front Mission",
+                "Vagrant Story"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Worms&quot; series of video games, which of these weapons is affected by wind?",
+            "correct_answer": "Bazooka",
+            "incorrect_answers": [
+                "Grenade",
+                "Air Strike",
+                "Mortar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many unique items does &quot;Borderlands 2&quot; claim to have?",
+            "correct_answer": "87 Bazillion ",
+            "incorrect_answers": [
+                "87 Million",
+                "87 Trillion",
+                "87 Gazillion "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+            "correct_answer": "Herman Melville",
+            "incorrect_answers": [
+                "William Golding",
+                "William Shakespeare",
+                "J. R. R. Tolkien"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "IMAX stands for Image Maximum.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "On which day did the World Wide Web go online?",
+            "correct_answer": "December 20, 1990",
+            "incorrect_answers": [
+                "December 17, 1996",
+                "November 12, 1990",
+                "November 24, 1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of these is NOT an Australian state or territory?",
+            "correct_answer": "Alberta",
+            "incorrect_answers": [
+                "New South Wales",
+                "Victoria",
+                "Queensland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which location does Dark Sun Gwyndolin reside in &quot;Dark Souls&quot;?",
+            "correct_answer": "Anor Londo",
+            "incorrect_answers": [
+                "Firelink Shrine",
+                "Blighttown",
+                "Kiln of the first flame"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following snipers has the highest amount of confirmed kills?",
+            "correct_answer": "Simo H&auml;yh&auml;",
+            "incorrect_answers": [
+                "Chris Kyle",
+                "Vasily Zaytsev",
+                "Craig Harrison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Bohdan Khmelnytsky was which of the following?",
+            "correct_answer": "Leader of the Ukrainian Cossacks",
+            "incorrect_answers": [
+                "General Secretary of the Communist Party of the USSR",
+                "Prince of Wallachia",
+                "Grand Prince of Novgorod"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;Rumble&quot; by Link Wray is the only instrumental song to ever have been banned from US radio.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the fifth largest country by area?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "United States",
+                "Australia",
+                "India"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+            "correct_answer": "20",
+            "incorrect_answers": [
+                "30",
+                "15",
+                "25"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+            "correct_answer": "Jordan",
+            "incorrect_answers": [
+                "Benetton",
+                "Ferrari",
+                "Mercedes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who voices the character &quot;Vernon Cherry&quot; in &quot;Red Dead Redemption&quot;?",
+            "correct_answer": "Casey Mongillo",
+            "incorrect_answers": [
+                "Tara Strong",
+                "Troy Baker",
+                "Rob Wiethoff"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "There are no roads in/out of Juneau, Alaska.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+            "correct_answer": "Charlotte Bront&euml;",
+            "incorrect_answers": [
+                "Emily Bront&euml;",
+                "Jane Austen",
+                "Louisa May Alcott"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which movie released in 2016 features Superman and Batman fighting?",
+            "correct_answer": "Batman v Superman: Dawn of Justice",
+            "incorrect_answers": [
+                "Batman v Superman: Superapocalypse",
+                "Batman v Superman: Black of Knight",
+                "Batman v Superman: Knightfall"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Is Tartu the capital of Estonia?",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

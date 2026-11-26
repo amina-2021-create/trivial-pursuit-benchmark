@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Assyrian king Sennacherib&#039;s destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The first &quot;Metal Gear&quot; game was released for the PlayStation 1.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many normal endings are there in Cry Of Fear&#039;s campaign mode?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The word &quot;astasia&quot; means which of the following?",
+            "correct_answer": "The inability to stand up",
+            "incorrect_answers": [
+                "The inability to make decisions",
+                "The inability to concentrate on anything",
+                "A feverish desire to rip one&#039;s clothes off"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Persona 4&quot;, what is the canonical name of the protagonist?",
+            "correct_answer": "Yu Narukami",
+            "incorrect_answers": [
+                "Chino Mashido",
+                "Tunki Sunada",
+                "Masaki Narinaka"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+            "correct_answer": " Bryan Cranston",
+            "incorrect_answers": [
+                "Andrew Lincoln",
+                "Aaron Paul",
+                "RJ Mitte"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Before it&#039;s redesign of the company logo in the year 2000, which 3D shape is NOT represented in the Electronic Arts logo?",
+            "correct_answer": "Cylinder",
+            "incorrect_answers": [
+                "Pyramid",
+                "Cube",
+                "Sphere"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The video game &quot;Fuel&quot; has an open world that is 5,560 square miles?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the company in Lethal Company?",
+            "correct_answer": "The Company",
+            "incorrect_answers": [
+                "Planet Scrap Co.",
+                "Lethal Robotics",
+                "Gordian Shipping Co."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Five dollars is worth how many nickels?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "50",
+                "25",
+                "69"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Harvard University is located in which city?",
+            "correct_answer": "Cambridge",
+            "incorrect_answers": [
+                "Providence",
+                "New York",
+                "Washington D.C."
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Nutcracker Suite was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Volkswagen&#039;s legendary VR6 engine has cylinders positioned at what degree angle?",
+            "correct_answer": "15 Degree",
+            "incorrect_answers": [
+                "30 Degree",
+                "45 Degree",
+                "90 Degree"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+            "correct_answer": "Triple H",
+            "incorrect_answers": [
+                "Roman Reigns",
+                "AJ Styles",
+                "Dean Ambrose"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+            "correct_answer": "Chordata",
+            "incorrect_answers": [
+                "Echinodermata",
+                "Annelida",
+                "Placazoa"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "King Gizzard &amp; The Lizard Wizard&#039;s album &quot;Nonagon Infinity&quot; can be looped seamlessly.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first Game released using the Build Engine?",
+            "correct_answer": "Witchaven",
+            "incorrect_answers": [
+                "DOOM",
+                "Duke Nukem 3D",
+                "William Shatner&#039;s Tekwar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "What is the name of the first human being in Norse mythology?",
+            "correct_answer": "Ask",
+            "incorrect_answers": [
+                "Asmund",
+                "Ake",
+                "Asger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What event marked the start of World War II?",
+            "correct_answer": "Invasion of Poland (1939)",
+            "incorrect_answers": [
+                "Invasion of Russia (1942)",
+                "Battle of Britain (1940)",
+                "Invasion of Normandy (1944)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+            "correct_answer": "Jumping over an office chair",
+            "incorrect_answers": [
+                "Jumping backwards over a desk",
+                "Standing on his head",
+                "Typing on a keyboard during a handstand"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The Earth and the Moon roughly have the same mass.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was The Velvet Underground&#039;s first album called?",
+            "correct_answer": "The Velvet Underground &amp; Nico",
+            "incorrect_answers": [
+                "Loaded",
+                "The Velvet Underground",
+                "White Light / White Heat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Final Fantasy game consisted of a female-only cast of party members?",
+            "correct_answer": "Final Fantasy X-2",
+            "incorrect_answers": [
+                "Final Fantasy IX",
+                "Final Fantasy V",
+                "Final Fantasy XIII-2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In what year was Taylor Swift born?",
+            "correct_answer": "1989",
+            "incorrect_answers": [
+                "1988",
+                "1987",
+                "1990"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+            "correct_answer": "Tasmania, Australia",
+            "incorrect_answers": [
+                "Baluchistan, Pakistan",
+                "Wallachia, Romania",
+                "Oregon, United States"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the scientific term for &#039;taste&#039;?",
+            "correct_answer": "Gustatory Perception",
+            "incorrect_answers": [
+                "Olfaction",
+                "Somatosensation",
+                "Auditory Perception"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The two main characters of &quot;No Game No Life&quot;, Sora and Shiro, together go by what name?",
+            "correct_answer": "Blank",
+            "incorrect_answers": [
+                "Immanity",
+                "Disboard",
+                "Warbeasts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which mountain has the highest peak in Europe?",
+            "correct_answer": "Mount Elbrus, Russia",
+            "incorrect_answers": [
+                "Shkhara, Georgia",
+                "Mount Ararat, Turkey",
+                "Mont Blanc, France"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What was the reason for the banning of episode 35 of the &quot;Pok&eacute;mon Original Series&quot; Anime?",
+            "correct_answer": "Gun Usage",
+            "incorrect_answers": [
+                "Flashing Images",
+                "Jynx",
+                "Strong Violence"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What organ of the body produces bile?",
+            "correct_answer": "Liver",
+            "incorrect_answers": [
+                "Gallbladder",
+                "Pancreas",
+                "Stomach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+            "correct_answer": "At Summer Camp",
+            "incorrect_answers": [
+                "At High School",
+                "At Church",
+                "At 742 Evergreen Terrace"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Gravity Falls&quot;, how much does Waddles weigh when Mable wins him in &quot;The Time Traveler&#039;s Pig&quot;?",
+            "correct_answer": "15 pounds",
+            "incorrect_answers": [
+                "20 pounds",
+                "10 pounds",
+                "30 pounds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not a Fallout protagonist?",
+            "correct_answer": "Tunnel Snake",
+            "incorrect_answers": [
+                "Courier",
+                "Lone Wanderer",
+                "Vault Dweller"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the Swedish word for &quot;window&quot;?",
+            "correct_answer": "F&ouml;nster",
+            "incorrect_answers": [
+                "H&aring;l",
+                "Sk&auml;rm",
+                "Ruta"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these American cities has fewer than 1,000,000 people?",
+            "correct_answer": "San Francisco, California",
+            "incorrect_answers": [
+                "Phoenix, Arizona",
+                "San Antonio, Texas",
+                "Philadelphia, Pennsylvania"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
+            "correct_answer": "Lemnos",
+            "incorrect_answers": [
+                "Ithaca",
+                "Naxos",
+                "Anafi"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "You can tell the age of a ladybird by counting the spots on his back.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+            "correct_answer": "Gale",
+            "incorrect_answers": [
+                "Storm",
+                "Hurricane",
+                "Breeze"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What was Nickelodeon&#039;s original name?",
+            "correct_answer": "Pinwheel",
+            "incorrect_answers": [
+                "MTVKids",
+                "KidsTV",
+                "Splat!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what prison was Adolf Hitler held in 1924?",
+            "correct_answer": "Landsberg Prison",
+            "incorrect_answers": [
+                "Spandau Prison",
+                "Ebrach Abbey",
+                "Hohenasperg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which of following is rude and dishonorable by Klingon standards?",
+            "correct_answer": "Taking his D&#039;k tahg",
+            "incorrect_answers": [
+                "Insulting and laughing at him at the dinner table",
+                "Reaching over and taking his meal",
+                "Punching him and taking his ship station position"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What was the name of the first Bulgarian personal computer?",
+            "correct_answer": "IMKO-1",
+            "incorrect_answers": [
+                "Pravetz 82",
+                "Pravetz 8D",
+                "IZOT 1030"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+            "correct_answer": "Operation Typhoon",
+            "incorrect_answers": [
+                "Operation Sunflower",
+                "Operation Barbarossa",
+                "Case Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What was the world&#039;s first video game?",
+            "correct_answer": "Draughts",
+            "incorrect_answers": [
+                "Spacewar!",
+                "Pong",
+                "Space Travel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character in Metal Gear Rising: Revengeance?",
+            "correct_answer": "Raiden",
+            "incorrect_answers": [
+                "Solid Snake",
+                "Otacon",
+                "Revolver Ocelot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "To the nearest whole number, how many radians are in a whole circle?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What was the third country to have a McDonald&#039;s restaurant?",
+            "correct_answer": "Costa Rica",
+            "incorrect_answers": [
+                "Japan",
+                "France",
+                "Australia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is able to grab the survivors with his tongue in Left 4 Dead?",
+            "correct_answer": "Smoker",
+            "incorrect_answers": [
+                "Jockey",
+                "Hunter",
+                "Boomer"
+            ]
+        }
+    ]
+}

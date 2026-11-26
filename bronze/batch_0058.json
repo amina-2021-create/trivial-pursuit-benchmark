@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "What year was the first San Diego Comic-Con?",
+            "correct_answer": "1970",
+            "incorrect_answers": [
+                "2000",
+                "1990",
+                "1985"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What continent is the country Lesotho in?",
+            "correct_answer": "Africa",
+            "incorrect_answers": [
+                "Asia",
+                "South America",
+                "Europe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+            "correct_answer": "Neptune",
+            "incorrect_answers": [
+                "Enceladus",
+                "Pollux",
+                "Saturn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+            "correct_answer": "Post cards",
+            "incorrect_answers": [
+                "Alcohol",
+                "Cigarettes",
+                "Sodas "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "On which computer hardware device is the BIOS chip located?",
+            "correct_answer": "Motherboard",
+            "incorrect_answers": [
+                "Hard Disk Drive",
+                "Central Processing Unit",
+                "Graphics Processing Unit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is Fergie&#039;s debut album called?",
+            "correct_answer": "The Dutchess",
+            "incorrect_answers": [
+                "Fergalicious ",
+                "The Sweet Escape",
+                "Loose"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When someone is inexperienced they are said to be what color?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What do you study if you are studying entomology?",
+            "correct_answer": "Insects",
+            "incorrect_answers": [
+                "Humans",
+                "the Brain",
+                "Fish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Which of these species is not extinct?",
+            "correct_answer": "Komodo dragon",
+            "incorrect_answers": [
+                "Japanese sea lion",
+                "Tasmanian tiger",
+                "Saudi gazelle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the book &amp; video game Metro 2033, which Moscow Metro station is the main character Artyom&#039;s home station?",
+            "correct_answer": "VDNKh",
+            "incorrect_answers": [
+                "Prospekt Mira",
+                "Kitay-Gorod",
+                "Botanichesky Sad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the code name of Morgana the cat in Persona 5?",
+            "correct_answer": "Mona",
+            "incorrect_answers": [
+                "Panther",
+                "Nightstalker",
+                "Zorro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which one of these characters is from &quot;Legendz : Tale of the Dragon Kings&quot;?",
+            "correct_answer": "Shiron",
+            "incorrect_answers": [
+                "Jack",
+                "Axia",
+                "Drum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the most frequently used letter in the english alphabet?",
+            "correct_answer": "E",
+            "incorrect_answers": [
+                "A",
+                "I",
+                "O"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Only a small percentage of the world&#039;s population is lactose intolerant.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
+            "correct_answer": "The Shell",
+            "incorrect_answers": [
+                "The Limit",
+                "The Kids",
+                "The Gripes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the name of the Supermassive Black Hole in the centre of the Milky Way?",
+            "correct_answer": "Sagittarius A*",
+            "incorrect_answers": [
+                "Messier 87",
+                "Alpha Centauri",
+                "Andromeda"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Team Fortress 2, which class wields a shotgun?",
+            "correct_answer": "Everyone Listed",
+            "incorrect_answers": [
+                "Heavy",
+                "Soldier",
+                "Engineer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the true moon princess in Sailor Moon?",
+            "correct_answer": "Sailor Moon",
+            "incorrect_answers": [
+                "Sailor Venus",
+                "Sailor Mars",
+                "Sailor Jupiter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+            "correct_answer": "Yugoslavia",
+            "incorrect_answers": [
+                "Czechoslovakia",
+                "Abkhazia",
+                "South Ossetia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+            "correct_answer": "Corvus",
+            "incorrect_answers": [
+                "Cabal",
+                "Legion",
+                "Icarus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+            "correct_answer": "Europe and Africa",
+            "incorrect_answers": [
+                "Europe, Africa and Asia",
+                "Europe",
+                "Europe and Asia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Kerbol System (from Kerbal Space Program) includes a Saturn analogue.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Wooden molding scraps were used to make the original Monopoly houses and hotels.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What studio animated Ouran High School Host Club?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "Production I.G",
+                "Kyoto Animation",
+                "xebec"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Sciophobia is the fear of what?",
+            "correct_answer": "Shadows",
+            "incorrect_answers": [
+                "Eating",
+                "Bright lights",
+                "Transportation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which of these celebrities was not a member of the Jackson 5?",
+            "correct_answer": "Bo Jackson",
+            "incorrect_answers": [
+                "Tito Jackson",
+                "Jermaine Jackson",
+                "Marlon Jackson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+            "correct_answer": "Fruit Brute",
+            "incorrect_answers": [
+                "Count Chocula",
+                "Franken Berry",
+                "Boo-Berry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year was the last natural case of smallpox documented?",
+            "correct_answer": "1977",
+            "incorrect_answers": [
+                "1982",
+                "1980",
+                "1990"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+            "correct_answer": "Spark",
+            "incorrect_answers": [
+                "Candela",
+                "Blanche",
+                "Willow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "&quot;Silhouette&quot;, a song performed by the group &#039;KANA-BOON&#039; is featured as the sixteenth opening of which anime?",
+            "correct_answer": "Naruto: Shippūden",
+            "incorrect_answers": [
+                "One Piece",
+                "Naruto",
+                "Gurren Lagann"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who wrote and directed the animated movie &quot;Spirited Away&quot; (2001)?",
+            "correct_answer": "Hayao Miyazaki",
+            "incorrect_answers": [
+                "Isao Takahata",
+                "Mamoru Hosoda",
+                "Hidetaka Miyazaki"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Elephants are physically unable to jump.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+            "correct_answer": "Jacob&#039;s Syndrome",
+            "incorrect_answers": [
+                "Klinefelter&#039;s Syndrome",
+                "Turner&#039;s Syndrome",
+                "Down Syndrome"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Who developed the first successful polio vaccine in the 1950s?",
+            "correct_answer": "Jonas Salk",
+            "incorrect_answers": [
+                "John F. Enders",
+                "Thomas Weller",
+                "Frederick Robbins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who won the 1994 San Marino Grand Prix, the race in which Ayrton Senna was killed?",
+            "correct_answer": "Michael Schumacher",
+            "incorrect_answers": [
+                "Nicola Larini",
+                "Gerhard Berger",
+                "Mika H&auml;kkinen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+            "correct_answer": "Crown",
+            "incorrect_answers": [
+                "Bird",
+                "Sickle",
+                "Tree"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+            "correct_answer": "Sonic &amp; Knuckles",
+            "incorrect_answers": [
+                "Sonic 2",
+                "Sonic CD",
+                "Sonic 3D Blast"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the original name of New York City?",
+            "correct_answer": "New Amsterdam",
+            "incorrect_answers": [
+                "New London",
+                "New Paris",
+                "New Rome"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Liam Howlett founded which electronic music group in 1990?",
+            "correct_answer": "The Prodigy",
+            "incorrect_answers": [
+                "The Chemical Brothers",
+                "The Crystal Method",
+                "Infected Mushroom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+            "correct_answer": "Jose Fernandez",
+            "incorrect_answers": [
+                "Jacob deGrom",
+                "Shelby Miller",
+                "Matt Harvey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?",
+            "correct_answer": "Hamlet",
+            "incorrect_answers": [
+                "The Tempest",
+                "Othello",
+                "The Taming of the Shrew"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Peter Jackson&#039;s film series &quot;The Lord of the Rings&quot; was shot entirely in which country?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "Scotland",
+                "Canada",
+                "Iceland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first game to utilize Valve&#039;s &quot;Source 2&quot; engine?",
+            "correct_answer": "Dota 2",
+            "incorrect_answers": [
+                "Counter-Strike: Global Offensive",
+                "Pirates, Vikings &amp; Knights II",
+                "Artifact"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In the Marvel Universe, the planet of Svartalfheim is home to what race?",
+            "correct_answer": "Dark Elves",
+            "incorrect_answers": [
+                "Frost Giants",
+                "Kronans",
+                "Skrulls"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Santorini is an island belonging to what European Country?",
+            "correct_answer": "Greece",
+            "incorrect_answers": [
+                "Italy",
+                "Spain",
+                "Turkey"
+            ]
+        }
+    ]
+}

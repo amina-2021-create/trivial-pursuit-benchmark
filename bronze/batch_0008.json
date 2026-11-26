@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many counties in the Republic of Ireland.",
+            "correct_answer": "26",
+            "incorrect_answers": [
+                "32",
+                "28",
+                "30"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which country developed the AK-47 assault rifle?",
+            "correct_answer": "Soviet Union",
+            "incorrect_answers": [
+                "Iran",
+                "Israel",
+                "Poland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who was given the title &quot;Full Metal&quot; in the anime series &quot;Full Metal Alchemist&quot;?",
+            "correct_answer": "Edward Elric",
+            "incorrect_answers": [
+                "Alphonse Elric",
+                "Van Hohenheim",
+                "Izumi Curtis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "When was the Prince album &quot;Purple Rain&quot; released?",
+            "correct_answer": "1984",
+            "incorrect_answers": [
+                "1979",
+                "1983",
+                "1981"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+            "correct_answer": "Mexico",
+            "incorrect_answers": [
+                "France",
+                "Spain",
+                "Russia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+            "correct_answer": "Labrador Retriever",
+            "incorrect_answers": [
+                "Golden Retriever",
+                "Dalmatian",
+                "Shiba Inu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the scientific name for the Bald Eagle?",
+            "correct_answer": "Haliaeetus Leucocephalus ",
+            "incorrect_answers": [
+                "Tyto Alba",
+                "Cyanocitta Cristata",
+                "Aquila Chrysaetos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+            "correct_answer": "Bombardier Billy Wells",
+            "incorrect_answers": [
+                "Freddie Mills",
+                "Terry Spinks",
+                "Don Cockell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Overwatch, what is L&uacute;cio&#039;s full name?",
+            "correct_answer": "L&uacute;cio Correia Dos Santos",
+            "incorrect_answers": [
+                "L&uacute;cio Luiz L&oacute;s Guilherme",
+                "L&uacute;cio Jo&atilde;o Lucas",
+                "L&uacute;cio Chupar Prima"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game series &quot;Disgaea&quot;, what word does the character Prinny have to include in all sentences they speak?",
+            "correct_answer": "&quot;Dood&quot;",
+            "incorrect_answers": [
+                "&quot;Master&quot;",
+                "&quot;Plip&quot;",
+                "&quot;Boom&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+            "correct_answer": "Crete",
+            "incorrect_answers": [
+                "Sardinia",
+                "Sicily",
+                "Cyprus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When you cry in space, your tears stick to your face.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+            "correct_answer": "Lung Cancer",
+            "incorrect_answers": [
+                "Prostate Cancer",
+                "Brain Cancer",
+                "Testicular Cancer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?",
+            "correct_answer": "The Joker",
+            "incorrect_answers": [
+                "The Penguin",
+                "The Riddler",
+                "Mr. Freeze"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who performed the hit single &#039;Call Me&#039; for the 1980 film &#039;American Gigolo&#039;?",
+            "correct_answer": "Blondie",
+            "incorrect_answers": [
+                "Madonna",
+                "Tina Turner",
+                "Janet Jackson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Slovakia?",
+            "correct_answer": "Bratislava",
+            "incorrect_answers": [
+                "Sofia",
+                "Ljubljana",
+                "Sarajevo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What block in Minecraft has the highest blast resistance?",
+            "correct_answer": "Barrier",
+            "incorrect_answers": [
+                "Obsidian",
+                "Bedrock",
+                "Block of Diamond"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Oxygen",
+                "Argon",
+                "Carbon Dioxide"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Antarctica is the largest desert in the world.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek: The Next Generation&quot;, Data is the only android in existence.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year was the Italian firearms manufacturer Beretta founded?",
+            "correct_answer": "1526",
+            "incorrect_answers": [
+                "1776",
+                "1923",
+                "1998"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+            "correct_answer": "Micronesia",
+            "incorrect_answers": [
+                "Fiji",
+                "Tuvalu",
+                "Marshall Islands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "The HBO series &quot;Game of Thrones&quot; is based on which series of books?",
+            "correct_answer": "A Song of Ice and Fire",
+            "incorrect_answers": [
+                "The Wheel of Time",
+                "Harry Potter",
+                "The Notebook"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which year did the first Monster Hunter game get released?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2006",
+                "2005",
+                "2002"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+            "correct_answer": "Invoker",
+            "incorrect_answers": [
+                "Mercy",
+                "Winston",
+                "Zenyatta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+            "correct_answer": "Oswald",
+            "incorrect_answers": [
+                "James",
+                "Harold",
+                "Christopher"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "As of February 2019, the &quot;Donkey Kong Country&quot; series only had released five games (not counting remakes or ports).",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+            "correct_answer": "From Dusk till Dawn",
+            "incorrect_answers": [
+                "Jackie Brown",
+                "Pulp Fiction",
+                "Reservoir Dogs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the original Sonic the Hedgehog game released?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1989",
+                "1993",
+                "1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who led France during the &quot;Reign of Terror&quot; ?",
+            "correct_answer": "Maximilien Robespierre",
+            "incorrect_answers": [
+                "Napoleon Bonaparte",
+                "Jean-Paul Marat",
+                "Louis XVI"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In web design, what does CSS stand for?",
+            "correct_answer": "Cascading Style Sheet",
+            "incorrect_answers": [
+                "Counter Strike: Source",
+                "Corrective Style Sheet",
+                "Computer Style Sheet"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "The communication protocol NFC stands for Near-Field Control.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "The Angry Video Game Nerd&#039;s alter ego is &quot;Board James&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The US state of New York has about as many inhabitants as?",
+            "correct_answer": "Romania",
+            "incorrect_answers": [
+                "Poland",
+                "Germany",
+                "Hungary"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the largest non-continental island in the world?",
+            "correct_answer": "Greenland",
+            "incorrect_answers": [
+                "New Guinea",
+                "Borneo",
+                "Madagascar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Area 51 is located in which US state?",
+            "correct_answer": "Nevada",
+            "incorrect_answers": [
+                "Arizona",
+                "New Mexico",
+                "Utah"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "&quot;Gum arabic&quot; is a natural gum consisting of the hardened sap of which tree species?",
+            "correct_answer": "Acacia",
+            "incorrect_answers": [
+                "Palm",
+                "Ficus",
+                "Eucalyptus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Nidhogg is a mythical creature from what mythology?",
+            "correct_answer": "Norse",
+            "incorrect_answers": [
+                "Egyptian",
+                "Greek",
+                "Hindu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the hottest planet in the solar system",
+            "correct_answer": "Venus",
+            "incorrect_answers": [
+                "Jupiter",
+                "Mercury ",
+                "Mars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+            "correct_answer": "Nidhogg",
+            "incorrect_answers": [
+                "Bragi",
+                "Odin",
+                "Ymir"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the Canada&#039;s first capital?",
+            "correct_answer": "Kingston",
+            "incorrect_answers": [
+                "Toronto",
+                "Ottawa",
+                "Montreal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+            "correct_answer": "Key",
+            "incorrect_answers": [
+                "Sword",
+                "Pen",
+                "Cellphone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Minecraft, what update did foods like steak become stackable?",
+            "correct_answer": "Beta 1.8",
+            "incorrect_answers": [
+                "Alpha 1.2.0",
+                "Release 1.12.1",
+                "Release 1.7.2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which country has the Union Jack in its flag?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "South Africa",
+                "Canada",
+                "Hong Kong"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, Klaang is a typical Klingon male.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Pikmin&quot; games, which of the following pikmin colors lacks it&#039;s own &quot;Onion&quot; nest?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Winged",
+                "Blue",
+                "Rock"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "The top human players can easily beat the top computers at chess",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Resident Evil series, Leon S. Kennedy is a member of STARS.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

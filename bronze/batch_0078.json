@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the area of Vatican City?",
+            "correct_answer": "0.44km^2",
+            "incorrect_answers": [
+                "0.10km^2",
+                "0.86km^2",
+                "12.00km^2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "What is the name of Broadway&#039;s first &quot;long-run&quot; musical?",
+            "correct_answer": "The Elves",
+            "incorrect_answers": [
+                "Wicked",
+                "Hamilton",
+                "The Book of Mormon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did Spanish Peninsular War start?",
+            "correct_answer": "1808",
+            "incorrect_answers": [
+                "1806",
+                "1810",
+                "1809"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+            "correct_answer": "Cicero",
+            "incorrect_answers": [
+                "Lucien Lachance",
+                "Archimedes",
+                "Astrid"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Scatman John&#039;s real name was John Paul Larkin.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the total length of the Titanic?",
+            "correct_answer": "882 ft | 268.8 m",
+            "incorrect_answers": [
+                "759 ft | 231.3 m",
+                "1042 ft | 317.6 m",
+                "825 ft | 251.5 m"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of these names are not a character of JoJo&#039;s Bizarre Adventure?",
+            "correct_answer": "JoJo Kikasu",
+            "incorrect_answers": [
+                "Jean-Pierre Polnareff",
+                "George Joestar",
+                "Risotto Nero"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following years is commonly referred to as the &quot;Year Without a Summer&quot;?",
+            "correct_answer": "1816",
+            "incorrect_answers": [
+                "1823",
+                "1813",
+                "1808"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Super Mario and Paarthurnax (Skyrim) are voiced by the same actor.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which islands below have been claimed by both Japan and Russia?",
+            "correct_answer": "Kuril Islands",
+            "incorrect_answers": [
+                "Paracel Islands",
+                "Chagos Islands",
+                "Spratly Islands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?",
+            "correct_answer": "Black Forest",
+            "incorrect_answers": [
+                "Devil&#039;s Food",
+                "Molten Chocolate",
+                "German Chocolate"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The towns of Brugelette, Arlon and Ath are located in which country?",
+            "correct_answer": "Belgium",
+            "incorrect_answers": [
+                "Andorra",
+                "France",
+                "Luxembourg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which of these programming languages is a low-level language?",
+            "correct_answer": "Assembly",
+            "incorrect_answers": [
+                "Python",
+                "C#",
+                "Pascal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Grand Theft Auto (GTA) games have the same setting?",
+            "correct_answer": "GTA V and GTA San Andreas",
+            "incorrect_answers": [
+                "GTA V and GTA Vice City",
+                "GTA IV and GTA San Andreas",
+                "GTA IV and GTA Vice City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Spain?",
+            "correct_answer": "Madrid",
+            "incorrect_answers": [
+                "Barcelona",
+                "Sevilla",
+                "Toledo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these countries was NOT a part of the Soviet Union?",
+            "correct_answer": "Afghanistan",
+            "incorrect_answers": [
+                "Turkmenistan",
+                "Kazakhstan",
+                "Uzbekistan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "On which day did the attempted coup d&#039;etat of 1991 in the Soviet Union begin?",
+            "correct_answer": "August 19",
+            "incorrect_answers": [
+                "August 21",
+                "December 26",
+                "December 24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which Manchester nightclub was considered central to the &#039;Madchester&#039; music scene in the late 80&#039;s?",
+            "correct_answer": "The Ha&ccedil;ienda",
+            "incorrect_answers": [
+                "The Warehouse Project",
+                "LIV",
+                "The Liar&#039;s Club"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The Internet Meme &quot;All your base are belong to us&quot; is based on the poorly translated English Version of which Video Game?",
+            "correct_answer": "Zero Wing",
+            "incorrect_answers": [
+                "F-Zero",
+                "Wing Commander",
+                "Star Wars: X-Wing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The crown of the Empire State Building was originally built for what purpose?",
+            "correct_answer": "Airship Dock",
+            "incorrect_answers": [
+                "Lightning Rod",
+                "Antennae",
+                "Flag Pole"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+            "correct_answer": "Thing",
+            "incorrect_answers": [
+                "People",
+                "Place",
+                "Pineapple"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s easter egg will reward you with the achievement, &quot;Time Travel Will Tell&quot;?",
+            "correct_answer": "Shangri-La",
+            "incorrect_answers": [
+                "Ascension",
+                "Moon",
+                "Die Rise"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?",
+            "correct_answer": "Baba O&#039; Riley",
+            "incorrect_answers": [
+                "The Seeker",
+                "Won&#039;t Get Fooled Again",
+                "Pinball Wizard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Who won the 1998 Daytona 500?",
+            "correct_answer": "Dale Earnhardt",
+            "incorrect_answers": [
+                "John Anderson",
+                "Jeff Gordon",
+                "Michael Walltrip"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a playable character in &quot;Left 4 Dead&quot;?",
+            "correct_answer": "Nick",
+            "incorrect_answers": [
+                "Louis",
+                "Zoey",
+                "Bill"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+            "correct_answer": "Motherboard",
+            "incorrect_answers": [
+                "Central Processing Unit",
+                "Hard Disk Drive",
+                "Random Access Memory"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+            "correct_answer": "Silver",
+            "incorrect_answers": [
+                "Gold",
+                "Juno",
+                "Sword"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
+            "correct_answer": "Lily of the Valley",
+            "incorrect_answers": [
+                "Hydrangea",
+                "Harebell",
+                "Yarrow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What war did George Orwell famously volunteer for and nearly died in?",
+            "correct_answer": "Spanish Civil War",
+            "incorrect_answers": [
+                "World War I",
+                "World War II",
+                "Russian Civil War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+            "correct_answer": "Grand Banks",
+            "incorrect_answers": [
+                "Great Barrier Reef",
+                "Mariana Trench",
+                "Hudson Bay"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What was the name of Sqiudward&#039;s bad painting in the Spongebob episode &quot;Artist Unknown?&quot;",
+            "correct_answer": "Bold and Brash",
+            "incorrect_answers": [
+                "Squidward en Repose",
+                "Rippy Bits",
+                "Tilted Perspectives"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;The Sims&quot; series, the most members in a household you can have is 8.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When was the city of Rome, Italy founded?",
+            "correct_answer": "753 BCE",
+            "incorrect_answers": [
+                "902 BCE",
+                "524 BCE",
+                "697 BCE"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime &quot;Log Horizon&quot;?",
+            "correct_answer": "&quot;Database&quot;",
+            "incorrect_answers": [
+                "&quot;Dead End in Tokyo&quot;",
+                "&quot;Raise Your Flag&quot;",
+                "&quot;Out of Control&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What are the smallest blood vessels in the human body?",
+            "correct_answer": "Capillaries",
+            "incorrect_answers": [
+                "Arterioles",
+                "Veinules",
+                "Lymphatics"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Where is the Volga River?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Bulgaria",
+                "India",
+                "Sweden"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?",
+            "correct_answer": "60 lbs",
+            "incorrect_answers": [
+                "30 lbs",
+                "50 lbs",
+                "70 lbs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The term &quot;scientist&quot; was coined in which year?",
+            "correct_answer": "1833",
+            "incorrect_answers": [
+                "1933",
+                "1942",
+                "1796"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "A Boolean value of &quot;0&quot; represents which of these words?",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In what year was the card game Magic: the Gathering first introduced?",
+            "correct_answer": "1993",
+            "incorrect_answers": [
+                "1987",
+                "1998",
+                "2003"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of the following countries does &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot; not take place in?",
+            "correct_answer": "Philippines",
+            "incorrect_answers": [
+                "India",
+                "Pakistan",
+                "Egypt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Originally another word for poppy, coquelicot is a shade of what?",
+            "correct_answer": "Red",
+            "incorrect_answers": [
+                "Green",
+                "Blue",
+                "Pink"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Stevie Wonder&#039;s real name is Stevland Hardaway Morris.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was &quot;System Shock&quot; released?",
+            "correct_answer": "1994",
+            "incorrect_answers": [
+                "1995",
+                "2000",
+                "1998"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In what year was the first Transformers movie released?",
+            "correct_answer": "1986",
+            "incorrect_answers": [
+                "2007",
+                "1984",
+                "2009"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In The Elder Scrolls: Oblivion, the horse that goes by the name Shadowmere is given by what guild?",
+            "correct_answer": "Dark Brotherhood",
+            "incorrect_answers": [
+                "Thieves",
+                "Fighters",
+                "Mages"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the largest country in the world?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Canada",
+                "China",
+                "United States"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Skateboarding was included in the 2020 Summer Olympics in Tokyo.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}

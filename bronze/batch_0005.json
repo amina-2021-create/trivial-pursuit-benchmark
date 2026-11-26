@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the canonical name of the Persona 4 protagonist?",
+            "correct_answer": "Yu Narukami",
+            "incorrect_answers": [
+                "Minato Arisato",
+                "Soji Seta",
+                "Nagito Komaeda"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Klingons express emotion in art through opera and poetry.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which video game earned music composer Mike Morasky the most awards for his work?",
+            "correct_answer": "Portal 2",
+            "incorrect_answers": [
+                "Left 4 Dead 2",
+                "Team Fortress 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the defining characteristic of someone who is described as hirsute?",
+            "correct_answer": "Hairy",
+            "incorrect_answers": [
+                "Rude",
+                "Funny",
+                "Tall"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What 1970&#039;s American ballad referred to the 1959 plane crash as the &quot;the day the music died&quot;?",
+            "correct_answer": "American Pie",
+            "incorrect_answers": [
+                "Kentucky Rain",
+                "I Will Always Love You",
+                "Rock &#039;n&#039; Roll Suicide"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What year did Dire Straits&#039;s Song &quot;Money for Nothing&quot; release?",
+            "correct_answer": "1985",
+            "incorrect_answers": [
+                "1973",
+                "1980",
+                "1991"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Upwelling in the ocean provides colder nutrient rich water for plants and decomposers.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the show &quot;The Office&quot; who does Michael Scott eventually end up with?",
+            "correct_answer": "Holly Flax",
+            "incorrect_answers": [
+                "Angela Martin",
+                "Jan Levinson",
+                "Pam Beesly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was the original Star Wars: Battlefront II released?",
+            "correct_answer": "October 31, 2005",
+            "incorrect_answers": [
+                "December 18, 2004",
+                "November 21, 2006",
+                "September 9, 2007"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What was Daft Punk&#039;s first studio album?",
+            "correct_answer": "Homework",
+            "incorrect_answers": [
+                "Discovery",
+                "Random Access Memories",
+                "Human After All"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who sculpted the statue of David?",
+            "correct_answer": "Michelangelo",
+            "incorrect_answers": [
+                "Gian Lorenzo Bernini",
+                "Auguste Rodin",
+                "Donatello"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "How many teeth does the average adult mouth have (except for wisdom teeth)?",
+            "correct_answer": "32",
+            "incorrect_answers": [
+                "36",
+                "20",
+                "28"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+            "correct_answer": "Dirty Dancing",
+            "incorrect_answers": [
+                "Three Men and a Baby",
+                "Ferris Bueller&#039;s Day Off",
+                "Pretty in Pink"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "The Watergate Scandal occured in what year?",
+            "correct_answer": "1972",
+            "incorrect_answers": [
+                "1973",
+                "1974",
+                "1971"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year did William the Conqueror take control of England?",
+            "correct_answer": "1066",
+            "incorrect_answers": [
+                "1123",
+                "1205",
+                "901"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which souls game was not directed by Hidetaka Miyazaki?",
+            "correct_answer": "Dark Souls 2",
+            "incorrect_answers": [
+                "Demon Souls",
+                "Dark Souls",
+                "Dark Souls 3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "What is the most challenging monster in the Dungeons &amp; Dragons 5th Edition Monster Manual?",
+            "correct_answer": "Tarrasque",
+            "incorrect_answers": [
+                "Beholder",
+                "Displacer Beast",
+                "Lich"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these English football clubs is based in Liverpool?",
+            "correct_answer": "Everton",
+            "incorrect_answers": [
+                "West Ham United",
+                "Crystal Palace",
+                "Arsenal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which of these Disney shows is classified as an anime?",
+            "correct_answer": "Stitch!",
+            "incorrect_answers": [
+                "Cory in the House",
+                "The Emperor&#039;s New School",
+                "Hannah Montana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which South American country fought Great Britain over the Falkland Islands in 1982?",
+            "correct_answer": "Argentina",
+            "incorrect_answers": [
+                "Brazil",
+                "Chile",
+                "Venezuela"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+            "correct_answer": "Frankenstein&#039;s monster",
+            "incorrect_answers": [
+                "Dracula",
+                "The Thing",
+                "The Invisible Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which small country is located between the borders of France and Spain?",
+            "correct_answer": "Andorra",
+            "incorrect_answers": [
+                "San Marino",
+                "Vatican City",
+                "Lichtenstein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+            "correct_answer": "Spider",
+            "incorrect_answers": [
+                "Wild dog",
+                "Monkey",
+                "Crocodile"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Joseph Smith was the founder of what religion?",
+            "correct_answer": "Mormonism",
+            "incorrect_answers": [
+                "Buddhism",
+                "Christianity",
+                "Hinduism"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What was the name of Ross&#039; pet monkey on &quot;Friends&quot;?",
+            "correct_answer": "Marcel",
+            "incorrect_answers": [
+                "Jojo",
+                "George",
+                "Champ"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+            "correct_answer": "Homer",
+            "incorrect_answers": [
+                "Aristotle",
+                "Odysseus",
+                "Socrates"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "From which country did the song &quot;Gangnam Style&quot; originate from?",
+            "correct_answer": "South Korea",
+            "incorrect_answers": [
+                "Japan",
+                "North Korea",
+                "China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+            "correct_answer": "Challenger and Columbia",
+            "incorrect_answers": [
+                "Enterprise and Atlantis",
+                "Discovery and Endeavour",
+                "None of the Above"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "How many times was Albert Einstein married in his lifetime?",
+            "correct_answer": "Twice",
+            "incorrect_answers": [
+                "Five",
+                "Thrice",
+                "Once"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the thin, outermost layer of the Earth?",
+            "correct_answer": "Crust",
+            "incorrect_answers": [
+                "Exosphere",
+                "Mantle",
+                "Outer Core"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+            "correct_answer": "Bullfighting",
+            "incorrect_answers": [
+                "Fiestas",
+                "Flamenco",
+                "Mariachi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "Which of these probability distributions is NOT discrete?",
+            "correct_answer": "Normal",
+            "incorrect_answers": [
+                "Binomial",
+                "Poisson",
+                "Hyper-geometric"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What year was the first Pizza Hut restaurant opened?",
+            "correct_answer": "1958",
+            "incorrect_answers": [
+                "1976",
+                "1965",
+                "1942"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Greenland is covered with grass and Iceland covered with ice.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Halo series, which era of SPARTAN is Master Chief? ",
+            "correct_answer": "SPARTAN-II",
+            "incorrect_answers": [
+                "SPARTAN-I",
+                "SPARTAN-III",
+                "SPARTAN-IV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character in the video game &quot;Just Cause 3&quot;?",
+            "correct_answer": "Rico Rodriguez",
+            "incorrect_answers": [
+                "Tom Sheldon",
+                "Marcus Holloway",
+                "Mario Frigo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine&#039;s bones and claws?",
+            "correct_answer": "Adamantium",
+            "incorrect_answers": [
+                "Titanium",
+                "Vibranium",
+                "Carbonadium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+            "correct_answer": "Say You Will",
+            "incorrect_answers": [
+                "Welcome to Heartbreak",
+                "Street Lights",
+                "Heartless"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the beginning of the game &quot;Sonic Adventure&quot;, what color Chaos Emerald does Tails own?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Red",
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Where are the cars of the brand &quot;Ferrari&quot; manufactured?",
+            "correct_answer": "Italy",
+            "incorrect_answers": [
+                "Romania",
+                "Germany",
+                "Russia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In which year was Constantinople conquered by the Turks?",
+            "correct_answer": "1453",
+            "incorrect_answers": [
+                "1435",
+                "1454",
+                "1440"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Tennis was once known as Racquetball.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The British Rail Class 700, Class 707 and the Class 717 are part of what train family?",
+            "correct_answer": "Desiro City",
+            "incorrect_answers": [
+                "Networker",
+                "Aventra",
+                "Electrostar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What&#039;s the first National Park designated in the United States?",
+            "correct_answer": "Yellowstone",
+            "incorrect_answers": [
+                "Sequoia ",
+                "Yosemite",
+                "Rocky Mountain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In JoJo&#039;s Bizarre Adventure, who says &quot;Yare yare daze&quot;?",
+            "correct_answer": "Jotaro Kujo",
+            "incorrect_answers": [
+                "Joseph Joestar",
+                "Jolyne Cujoh",
+                "Koichi Hirose"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "19",
+                "21",
+                "25"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many differently shaped Tetris pieces are there?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "5",
+                "6",
+                "8"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Botanically speaking, which of these fruits is NOT a berry?",
+            "correct_answer": "Strawberry",
+            "incorrect_answers": [
+                "Blueberry",
+                "Banana",
+                "Concord Grape"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime &quot;Gintama&quot; which accessory/article of clothing is the character Shinpachi commonly referred to as?",
+            "correct_answer": "Glasses",
+            "incorrect_answers": [
+                "Nose Ring",
+                "T-Shirt",
+                "Underwear"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+            "correct_answer": "C#",
+            "incorrect_answers": [
+                "Java",
+                "C++",
+                "Objective-C"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The idea of Socialism was articulated and advanced by whom?",
+            "correct_answer": "Karl Marx",
+            "incorrect_answers": [
+                "Vladimir Lenin",
+                "Joseph Stalin",
+                "Vladimir Putin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Who painted the painting &quot;Nighthawks&quot;?",
+            "correct_answer": "Edward Hopper",
+            "incorrect_answers": [
+                "Johannes Vermeer",
+                "Vincent van Gogh",
+                "Salvador Dali"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "When was Tesla founded?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2008",
+                "2005",
+                "2007"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who is the author of the &quot;A Song of Ice and Fire&quot; book series, starting with &quot;A Game of Thrones&quot;?",
+            "correct_answer": "George R. R. Martin",
+            "incorrect_answers": [
+                "Brandon Sanderson",
+                "J. R. R. Tolkien",
+                "Steven Erikson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who wrote &quot;Harry Potter&quot;?",
+            "correct_answer": "J.K. Rowling",
+            "incorrect_answers": [
+                "J.R.R. Tolkien",
+                "Terry Pratchett",
+                "Daniel Radcliffe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What country is the Hussarya supercar, made by the car manufacturer &quot;Arrinera&quot;, assembled in?",
+            "correct_answer": "Poland",
+            "incorrect_answers": [
+                "China",
+                "Sweden",
+                "Italy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Along with Gabe Newell, who co-founded Valve?",
+            "correct_answer": "Mike Harrington",
+            "incorrect_answers": [
+                "Robin Walker",
+                "Marc Laidlaw",
+                "Stephen Bahl"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Israel is 7 hours ahead of New York.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+            "correct_answer": "DD-445",
+            "incorrect_answers": [
+                "DD-992",
+                "DD-444",
+                "DD-446"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+            "correct_answer": "Unknown Pleasures",
+            "incorrect_answers": [
+                "The Dark Side of the Moon",
+                "London Calling",
+                "The Velvet Underground &amp; Nico"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is not an Ed Sheeran album?",
+            "correct_answer": "-",
+            "incorrect_answers": [
+                "+",
+                "X",
+                "&divide;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who is revealed to be the villain at the end of the first live action Scooby Doo movie?",
+            "correct_answer": "Scrappy Doo",
+            "incorrect_answers": [
+                "Old Man Mason",
+                "The Local News Team",
+                "Fred"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+            "correct_answer": "Romani Ite Domum",
+            "incorrect_answers": [
+                "Romans Go Home",
+                "Roxani Ite Domum",
+                "Tomate Ite Domum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+            "correct_answer": "Gooty",
+            "incorrect_answers": [
+                "Hopper",
+                "Silver Stripe",
+                "Woebegone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who did the score to the original Blade Runner?",
+            "correct_answer": "Vangelis",
+            "incorrect_answers": [
+                "Kitaro",
+                "Yanni",
+                "Enya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+            "correct_answer": "Wales",
+            "incorrect_answers": [
+                "Moldova",
+                "Czech Republic",
+                "Denmark"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
+            "correct_answer": "Sabrina",
+            "incorrect_answers": [
+                "Hermione",
+                "Dorothy",
+                "Dahlia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?",
+            "correct_answer": "60",
+            "incorrect_answers": [
+                "65",
+                "55",
+                "70"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "How old is the universe?",
+            "correct_answer": "13.8 Billion Years",
+            "incorrect_answers": [
+                "4.5 Billion Years",
+                "7.9 Billion Years",
+                "16.2 Billion Years"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the island introduced in the ARMA III: APEX expansion pack?",
+            "correct_answer": "Tanoa",
+            "incorrect_answers": [
+                "Altis",
+                "Stratis",
+                "Malden"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Grand Theft Auto V, what was Michael De Santa&#039;s former surname?",
+            "correct_answer": "Townley",
+            "incorrect_answers": [
+                "De Santos",
+                "Watson",
+                "Simpson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+            "correct_answer": "Quentin Tarantino",
+            "incorrect_answers": [
+                "Martin Scorcese",
+                "Steven Spielberg",
+                "James Cameron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following blood vessels carries deoxygenated blood?",
+            "correct_answer": "Pulmonary Artery",
+            "incorrect_answers": [
+                "Pulmonary Vein",
+                "Aorta",
+                "Coronary Artery"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
+            "correct_answer": "Viktor Tsoi",
+            "incorrect_answers": [
+                "Jimi Hendrix",
+                "Brian Jones",
+                "Vladimir Vysotsky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Counter-Strike maps is a bomb defuse scenario?",
+            "correct_answer": "Prodigy",
+            "incorrect_answers": [
+                "747",
+                "Havana",
+                "Oilrig"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the leader of Sweden in the Great Northern War?",
+            "correct_answer": "Charles XII",
+            "incorrect_answers": [
+                "Per Albin Hansson",
+                "Peter the Great",
+                "Gustavus Adolphus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who was the most streamed artist on Spotify in 2019?",
+            "correct_answer": "Post Malone",
+            "incorrect_answers": [
+                "Billie Eilish",
+                "Ariana Grande",
+                "Drake"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "An octopus can fit through any hole larger than its beak.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+            "correct_answer": "United States",
+            "incorrect_answers": [
+                "Australia",
+                "Chile",
+                "Norway"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "In the Greek Mythology, the god of war is called Mars.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Au on the Periodic Table refers to which element?",
+            "correct_answer": "Gold",
+            "incorrect_answers": [
+                "Silver",
+                "Oxygen",
+                "Nickel"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Albert Einstein had trouble with mathematics when he was in school.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When someone is cowardly, they are said to have what color belly?",
+            "correct_answer": "Yellow",
+            "incorrect_answers": [
+                "Green",
+                "Red",
+                "Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+            "correct_answer": "Ursus Maritimus",
+            "incorrect_answers": [
+                "Polar Bear",
+                "Ursus Spelaeus",
+                "Ursus Arctos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Dallon Weekes, former touring basist of Panic! At the Disco, created his own band in 2016 called...",
+            "correct_answer": "I Don&#039;t Know How But They Found Me",
+            "incorrect_answers": [
+                "Cheats At Hide And Seek",
+                "Where Did You All Come From?",
+                "Run Away From The People"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Future Diary&quot;, what is the name of Yuno Gasai&#039;s Phone Diary?",
+            "correct_answer": "Yukiteru Diary",
+            "incorrect_answers": [
+                "Murder Diary",
+                "Escape Diary ",
+                "Justice Diary "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the bloodiest event in United States history, in terms of casualties?",
+            "correct_answer": "Battle of Antietam",
+            "incorrect_answers": [
+                "Pearl Harbor",
+                "September 11th",
+                "D-Day"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What American actor directed and co-starred alongside Emily Blunt in 2018&#039;s horror film &quot;A Quiet Place&quot;?",
+            "correct_answer": "John Krasinski",
+            "incorrect_answers": [
+                "Keanu Reeves",
+                "Willem Dafoe",
+                "Josh Brolin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What was the first feature-length computer-animated movie?",
+            "correct_answer": "Toy Story",
+            "incorrect_answers": [
+                "Tron",
+                "Lion king",
+                "101 Dalmatians"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+            "correct_answer": "Peace",
+            "incorrect_answers": [
+                "Physics",
+                "Economics",
+                "Physiology/Medicine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who plays Jack Burton in the movie &quot;Big Trouble in Little China?&quot;",
+            "correct_answer": "Kurt Russell",
+            "incorrect_answers": [
+                "Patrick Swayze",
+                "John Cusack",
+                "Harrison Ford"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following colors does the Zombie eyes glow in the &quot;Nuketown&quot; map in &quot;Call of Duty: Black Ops II&quot; Zombies mode?",
+            "correct_answer": "Yellow and Blue",
+            "incorrect_answers": [
+                "Yellow and Red",
+                "Red and Blue",
+                "Blue and White"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+            "correct_answer": "Replicants",
+            "incorrect_answers": [
+                "Cylons",
+                "Synthetics",
+                "Skinjobs"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The planet Mars has two moons orbiting it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of Bastille?",
+            "correct_answer": "Dan Smith",
+            "incorrect_answers": [
+                "Will Farquarson",
+                "Kyle Simmons",
+                "Chris Wood"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+            "correct_answer": "Harpies",
+            "incorrect_answers": [
+                "Mermaids",
+                "Nymph",
+                "Lilith"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Hitman&quot; series, what is the name of the main character?",
+            "correct_answer": "Agent 47",
+            "incorrect_answers": [
+                "Agent 27",
+                "Agent Smith",
+                "Agent 67"
+            ]
+        }
+    ]
+}

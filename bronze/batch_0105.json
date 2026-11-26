@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the punishment for playing Postal 2 in New Zealand?",
+            "correct_answer": "10 years in prison and a fine of $50,000",
+            "incorrect_answers": [
+                "Fine of $5,000",
+                "Nothing",
+                "15 years in prison and a fine of $10,000"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Sound can travel through a vacuum.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is not a song on the album Graduation by Kanye West?",
+            "correct_answer": "Waves",
+            "incorrect_answers": [
+                "I Wonder",
+                "Big Brother",
+                "The Glory"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the Secret Organization in the Hotline Miami series? ",
+            "correct_answer": "50 Blessings",
+            "incorrect_answers": [
+                "American Blessings",
+                "50 Saints",
+                "USSR&#039;s Blessings"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "The success of DC Comics&#039; Swamp Thing, Sandman, and other books in a similar style, led to the creation of what new imprint in 1993?",
+            "correct_answer": "Vertigo",
+            "incorrect_answers": [
+                "Impact",
+                "New Universe",
+                "Red Circle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country has the abbreviation &quot;CH&quot;?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": [
+                "China",
+                "Canada",
+                "No Country"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft, which raid instance features a chess event?",
+            "correct_answer": "Karazhan",
+            "incorrect_answers": [
+                "Zul&#039;Aman",
+                "Blackwing Lair",
+                "Temple of Ahn&#039;Qiraj"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Closers Online: Dimension Conflict&quot;, who is the administrator of team Wildh&uuml;ter?",
+            "correct_answer": "Alice Wiseman",
+            "incorrect_answers": [
+                "Kim Yujung",
+                "Wolfgang Schneider",
+                "Hong Siyoung"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Gouda cheese is from which European country?",
+            "correct_answer": "The Netherlands",
+            "incorrect_answers": [
+                "Belgium",
+                "Germany",
+                "France"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "In France, a hunting license or a sport-shooting license is needed to purchase any firearm.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?",
+            "correct_answer": "Casey Mongillo",
+            "incorrect_answers": [
+                "Ben Diskin",
+                "Chris Niosi",
+                "David Naughton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What type of animal is a natterjack?",
+            "correct_answer": "Toad",
+            "incorrect_answers": [
+                "Bird",
+                "Fish",
+                "Insect"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country claims ownership of the disputed state Kosovo?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": [
+                "Croatia",
+                "Albania",
+                "Macedonia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "How many time zones does China have?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "3",
+                "4",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The term Luddite originally applied to disgruntled workers in which industry?",
+            "correct_answer": "Textile",
+            "incorrect_answers": [
+                "Farming",
+                "Mining",
+                "Ceramics"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
+            "correct_answer": "Rahm Kota",
+            "incorrect_answers": [
+                "Ahsoka Tano",
+                "Kazdan Paratus",
+                "Kento Marek"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
+            "correct_answer": "Drew",
+            "incorrect_answers": [
+                "Jerome",
+                "Greg",
+                "Joe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+            "correct_answer": "Orpheus",
+            "incorrect_answers": [
+                "Hercules",
+                "Perseus",
+                "Daedalus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
+            "correct_answer": "Essos",
+            "incorrect_answers": [
+                "Easteros",
+                "Westereast",
+                "Esuntos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+            "correct_answer": "Saphira",
+            "incorrect_answers": [
+                "Glaedr",
+                "Thorn",
+                "Arya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who created the digital distribution platform Steam?",
+            "correct_answer": "Valve",
+            "incorrect_answers": [
+                "Pixeltail Games",
+                "Ubisoft",
+                "Electronic Arts"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Clefairy was intended to be Ash&#039;s starting Pok&eacute;mon in the pilot episode of the cartoon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What system was &quot;Touhou: Highly Responsive to Prayers&quot; released on?",
+            "correct_answer": "PC-98",
+            "incorrect_answers": [
+                "OSX 10.9.5",
+                "Windows ME",
+                "Windows 98"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What does Solid Snake use to hide himself with?",
+            "correct_answer": "Cardboard Box",
+            "incorrect_answers": [
+                "Cloaking Device",
+                "Metal Crate",
+                "Cardboard cut-out"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The first PlayStation console was released in the USA on December 3rd, 1994.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?",
+            "correct_answer": "Link",
+            "incorrect_answers": [
+                "Wario",
+                "Q*bert",
+                "Solid Snake"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which canal connects the Mediterranean Sea with the Red Sea?",
+            "correct_answer": "Suez Canal",
+            "incorrect_answers": [
+                "Panama Canal",
+                "Sinai Canal",
+                "Qaraqum Canal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which day in &quot;Papers, Please&quot; does the man in red appear?",
+            "correct_answer": "Day 23",
+            "incorrect_answers": [
+                "Day 20",
+                "Day 17",
+                "Day 15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of his six wives was Henry VIII married to the longest?",
+            "correct_answer": "Catherine of Aragon",
+            "incorrect_answers": [
+                "Anne Boleyn",
+                "Jane Seymour",
+                "Catherine Parr"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+            "correct_answer": "center",
+            "incorrect_answers": [
+                "static",
+                "absolute",
+                "relative"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The Rush song &quot;YYZ&quot; derives its name from the IATA aiport identification code for which city?",
+            "correct_answer": "Toronto",
+            "incorrect_answers": [
+                "Vancouver",
+                "Ottawa",
+                "Calgary"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?",
+            "correct_answer": "Kris",
+            "incorrect_answers": [
+                "Frisk",
+                "Chara",
+                "Gaster"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year did the North American Video Game Crash occur?",
+            "correct_answer": "1983",
+            "incorrect_answers": [
+                "1982",
+                "1993",
+                "1970"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "When was Cadillac founded?",
+            "correct_answer": "1902",
+            "incorrect_answers": [
+                "1964",
+                "1898",
+                "1985"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "&quot;PAYDAY: The Heist&quot; is a sequel to the board game &quot;Payday&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main antagonist of Ori and the Blind Forest?",
+            "correct_answer": "Kuro",
+            "incorrect_answers": [
+                "Nibel",
+                "Gumo",
+                "King Rammer XII"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+            "correct_answer": "Beryllium",
+            "incorrect_answers": [
+                "Gallium",
+                "Caesium",
+                "Mercury"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What color/colour is a polar bear&#039;s skin?",
+            "correct_answer": "Black",
+            "incorrect_answers": [
+                "White",
+                "Pink",
+                "Green"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The vapor produced by e-cigarettes is actually water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the highest belt you can get in Taekwondo?",
+            "correct_answer": "Black",
+            "incorrect_answers": [
+                "White",
+                "Red",
+                "Green"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the most populous Muslim-majority nation in 2010?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Saudi Arabia",
+                "Iran",
+                "Sudan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these bands is the oldest?",
+            "correct_answer": "Pink Floyd",
+            "incorrect_answers": [
+                "AC/DC",
+                "Metallica",
+                "Red Hot Chili Peppers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these characters from &quot;SpongeBob SquarePants&quot; is not a squid?",
+            "correct_answer": "Gary",
+            "incorrect_answers": [
+                "Orvillie",
+                "Squidward",
+                "Squidette"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which European city is known as the &quot;City of Light&quot;?",
+            "correct_answer": "Paris",
+            "incorrect_answers": [
+                "Rome",
+                "London",
+                "Madrid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+            "correct_answer": "SCP-173",
+            "incorrect_answers": [
+                "SCP-001",
+                "SCP-999",
+                "SCP-1459"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What is the maximum value of a 32-bit signed binary integer?",
+            "correct_answer": "2,147,483,647",
+            "incorrect_answers": [
+                "255",
+                "2048",
+                "9,223,372,036,854,775,807"
+            ]
+        }
+    ]
+}

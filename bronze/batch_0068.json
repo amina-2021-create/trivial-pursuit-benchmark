@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+            "correct_answer": "Brasil",
+            "incorrect_answers": [
+                "Brazil",
+                "Brasilia",
+                "Bras&iacute;l"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In bowling, what is the term used for getting three consecutive strikes?",
+            "correct_answer": "Turkey",
+            "incorrect_answers": [
+                "Flamingo",
+                "Birdie",
+                "Eagle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Who wrote the Batman comic series &quot;The Killing Joke&quot;?",
+            "correct_answer": "Alan Moore",
+            "incorrect_answers": [
+                "Bill Finger",
+                "Frank Miller",
+                "Jerry Siegel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which song in rapper Kanye West&#039;s album &quot;The Life of Pablo&quot; features Rihanna?",
+            "correct_answer": "Famous",
+            "incorrect_answers": [
+                "Wolves",
+                "Ultralight Beam",
+                "Highlights"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What step in cellular respiration forms ATP?",
+            "correct_answer": "Oxidative Phosphorylation",
+            "incorrect_answers": [
+                "Glycolysis",
+                "Pyruvate Oxidation",
+                "Calvin Cycle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who is the protagonist of the 2002 film &quot;Kung Pow! Enter the Fist&quot;?",
+            "correct_answer": "Chosen One",
+            "incorrect_answers": [
+                "Dragon King",
+                "Iron Monkey",
+                "Master Tang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which of the following sports is not part of the triathlon?",
+            "correct_answer": "Horse-Riding",
+            "incorrect_answers": [
+                "Cycling",
+                "Swimming",
+                "Running"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What mountain range lines the border between Spain and France?",
+            "correct_answer": "Pyrenees",
+            "incorrect_answers": [
+                "Alps",
+                "Carpathians",
+                "Urals"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The music group Daft Punk got their name from a negative review they received.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "How many points is the Z tile worth in Scrabble?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "8",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which one of these archipelagos are NOT a part of the United Kingdom?",
+            "correct_answer": "The Channel Islands ",
+            "incorrect_answers": [
+                "Orkney Islands",
+                "Isles of Scilly",
+                "Shetland Islands "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the capital of Wisconsin, USA?",
+            "correct_answer": "Madison",
+            "incorrect_answers": [
+                "Milwaukee",
+                "Wisconsin Dells",
+                "Green Bay"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the first book of the Old Testament?",
+            "correct_answer": "Genesis",
+            "incorrect_answers": [
+                "Exodus",
+                "Leviticus",
+                "Numbers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the foley artist who designed the famous sounds of Star Wars, including Chewbacca&#039;s roar and R2-D2&#039;s beeps and whistles?",
+            "correct_answer": "Ben Burtt",
+            "incorrect_answers": [
+                "Ken Burns",
+                "Ralph McQuarrie",
+                "Miranda Keyes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+            "correct_answer": "Johnny Depp",
+            "incorrect_answers": [
+                " Clint Eastwood",
+                "Leonardo DiCaprio",
+                "Ben Stiller"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+            "correct_answer": "Uranus",
+            "incorrect_answers": [
+                "Jupiter",
+                "Venus",
+                "Neptune"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What&#039;s the most common time signature for rock songs?",
+            "correct_answer": "4/4",
+            "incorrect_answers": [
+                "1/2",
+                "8/12",
+                "2/4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+            "correct_answer": "House Majority Whip",
+            "incorrect_answers": [
+                "Attorney General",
+                "President",
+                "Chief of Staff"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which year was the album &quot;Year of the Snitch&quot; by Death Grips released?",
+            "correct_answer": "2018",
+            "incorrect_answers": [
+                "2013",
+                "2017",
+                "2011"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Myoui Mina, member of Korean girl group TWICE, was born in South Korea, despite being Japanese.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the romanized Russian word for &quot;winter&quot;?",
+            "correct_answer": "Zima",
+            "incorrect_answers": [
+                "Leto",
+                "Vesna",
+                "Osen&#039;"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?",
+            "correct_answer": "U2",
+            "incorrect_answers": [
+                "Radiohead",
+                "Coldplay",
+                "Bon Jovi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What Led Zeppelin album contains &quot;Stairway to Heaven&quot;?",
+            "correct_answer": "Led Zeppelin IV",
+            "incorrect_answers": [
+                "Houses of the Holy",
+                "Physical Graffiti",
+                "Led Zeppelin III"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which Landsat Satellite currently has had the longest operational life?",
+            "correct_answer": "Landsat 5",
+            "incorrect_answers": [
+                "Landsat 8",
+                "Landsat 7",
+                "Landsat 6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the atomic mass of Carbon?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "14",
+                "16",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
+            "correct_answer": "Tommy Lee Jones",
+            "incorrect_answers": [
+                "Harrison Ford",
+                "Harvey Keitel",
+                "Martin Landau"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Ryuji Sakamoto is a character from Final Fantasy.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "The &quot;Pepe&quot; meme originated from a comic drawn by Matt Furie called &quot;Boy&#039;s Club&quot;?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+            "correct_answer": "Keegan-Michael Key",
+            "incorrect_answers": [
+                "Seth Rogan",
+                "Charlie Day",
+                "Jack Black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+            "correct_answer": "Scarface",
+            "incorrect_answers": [
+                "Reservoir Dogs",
+                "Heat",
+                "Goodfellas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who was the first man to travel into outer space twice?",
+            "correct_answer": "Gus Grissom",
+            "incorrect_answers": [
+                "Vladimir Komarov",
+                "Charles Conrad",
+                "Yuri Gagarin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following Presidents of the United States was assassinated?",
+            "correct_answer": "William McKinley",
+            "incorrect_answers": [
+                "Lyndon Johnson",
+                "Chester Arthur",
+                "Franklin Roosevelt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the TV series &quot;Person of Interest&quot;, who plays the character &quot;Harold Finch&quot;?",
+            "correct_answer": "Michael Emerson",
+            "incorrect_answers": [
+                "Jim Caviezel",
+                "Taraji P. Henson",
+                "Kevin Chapman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the full title of the Prime Minister of the UK?",
+            "correct_answer": "First Lord of the Treasury",
+            "incorrect_answers": [
+                "Duke of Cambridge",
+                "Her Majesty&#039;s Loyal Opposition",
+                "Manager of the Crown Estate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Call of Duty: Modern Warfare 2, how many consecutive kills does it require to earn the &quot;Tactical Nuke&quot; killstreak?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "20",
+                "30",
+                "35"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Approximately what percentage of Earth&#039;s atmosphere is Oxygen?",
+            "correct_answer": "21%",
+            "incorrect_answers": [
+                "54%",
+                "78%",
+                "7%"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who is frozen at the end of the movie &quot;Goldeneye&quot;?",
+            "correct_answer": "Boris Grishenko",
+            "incorrect_answers": [
+                "James Bond",
+                "Natalya Simonova",
+                "Alec Travelyan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+            "correct_answer": "7 years",
+            "incorrect_answers": [
+                "2 years",
+                "8 years",
+                "6 months"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Thailand",
+                "Brunei",
+                "Malaysia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;The Simpsons&quot;, what is the real name of &quot;Comic Book Guy&quot;?",
+            "correct_answer": "Jeff Albertson",
+            "incorrect_answers": [
+                "Comic Book Guy",
+                "Edward Stone",
+                "Jack Richardson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Madonna&#039;s song &quot;Hung Up&quot; includes a piece from which popular 70s song?",
+            "correct_answer": "Gimmie! Gimmie! Gimme! (A Man After Midnight)",
+            "incorrect_answers": [
+                "Staying Alive",
+                "Night Fever",
+                "The Chain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Animal Crossing game was for the Nintendo Wii?",
+            "correct_answer": "Animal Crossing: City Folk",
+            "incorrect_answers": [
+                "Animal Crossing: New Leaf",
+                "Animal Crossing: Wild World",
+                "Animal Crossing: Population Growing!"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",
+            "correct_answer": "Honey Trees",
+            "incorrect_answers": [
+                "Trading with an NPC",
+                "Grass on Route 209",
+                "Wayward Cave"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+            "correct_answer": "Laura Roslin",
+            "incorrect_answers": [
+                "William Adama",
+                "Tricia Helfer",
+                "Harry Stills"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who painted &quot;The Starry Night&quot;?",
+            "correct_answer": "Vincent van Gogh",
+            "incorrect_answers": [
+                "Edvard Munch",
+                "Pablo Picasso",
+                "Claude Monet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the 15th letter of the Greek alphabet?",
+            "correct_answer": "Omicron (&Omicron;)",
+            "incorrect_answers": [
+                "Sigma (&Sigma;)",
+                "Pi (&Pi;)",
+                "Nu (&Nu;)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which element has the highest melting point?",
+            "correct_answer": "Carbon",
+            "incorrect_answers": [
+                "Tungsten",
+                "Platinum",
+                "Osmium"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+            "correct_answer": "Goldsboro, North Carolina",
+            "incorrect_answers": [
+                "Hicksville, New York",
+                "Jacksonville, Florida",
+                "Conway, Arkansas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these is a type of stretch/deep tendon reflex?",
+            "correct_answer": "Ankle jerk reflex",
+            "incorrect_answers": [
+                "Gag reflex",
+                "Pupillary light reflex",
+                "Scratch reflex"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The Windows 7 operating system has six main editions.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The first Maxis game to feature the fictional language &quot;Simlish&quot; was The Sims (2000).",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which of these European cities was the first to host the modern Summer Olympic Games three times?",
+            "correct_answer": "London",
+            "incorrect_answers": [
+                "Paris",
+                "Athens",
+                "Rome"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "What is Hermione Granger&#039;s middle name?",
+            "correct_answer": "Jean",
+            "incorrect_answers": [
+                "Jane",
+                "Emma",
+                "Jo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "In 1991, Mazda became the first Japanese car manufacturer to win Le Mans.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Why was the character Trevor Philips discharged from the Air Force?",
+            "correct_answer": "Mental Health Issues",
+            "incorrect_answers": [
+                "Injuries",
+                "Disease",
+                "Danger to Others"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What vehicle in PUBG has the highest top speed?",
+            "correct_answer": "Motorcycle",
+            "incorrect_answers": [
+                "PG-117",
+                "Dacia",
+                "Buggy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who was the Author of the manga Monster Hunter Orage?",
+            "correct_answer": "Hiro Mashima",
+            "incorrect_answers": [
+                "Shin Yamamoto",
+                "Keiichi Hikami",
+                "Hirohiko Araki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country was NOT part of the Soviet Union?",
+            "correct_answer": "Romania",
+            "incorrect_answers": [
+                "Turkmenistan",
+                "Belarus",
+                "Tajikistan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a team leader in Pok&eacute;mon GO?",
+            "correct_answer": "Leif",
+            "incorrect_answers": [
+                "Blanche",
+                "Spark",
+                "Candela"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was the official German currency until 2002?",
+            "correct_answer": "Mark",
+            "incorrect_answers": [
+                "Frank",
+                "Pound sterling",
+                "Reichtoken"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Highschool of the Dead&quot;, where did Komuro and Saeko establish to meet after the bus explosion?",
+            "correct_answer": "Eastern Police Station",
+            "incorrect_answers": [
+                "The Center Mall",
+                "Komuro&#039;s House",
+                "On The Main Bridge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Where was the Games of the XXII Olympiad held?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": [
+                "Barcelona",
+                "Tokyo",
+                "Los Angeles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the protagonist in Portal and Portal 2?",
+            "correct_answer": "Chell",
+            "incorrect_answers": [
+                "Mel",
+                "Chloe",
+                "Christine"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Sitting for more than three hours a day can cut two years off a person&#039;s life expectancy.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which country does the power metal band &quot;Sabaton&quot; originate from?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": [
+                "Germany",
+                "United States",
+                "Finland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the molecular formula of Ozone?",
+            "correct_answer": "O3",
+            "incorrect_answers": [
+                "C6H2O6",
+                "N2O",
+                "SO4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When was Adolf Hitler appointed as Chancellor of Germany?",
+            "correct_answer": "January 30, 1933",
+            "incorrect_answers": [
+                "September 1, 1939",
+                "February 27, 1933",
+                "October 6, 1939"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the main character with yellow hair in the anime Naruto?",
+            "correct_answer": "Naruto",
+            "incorrect_answers": [
+                "Ten Ten",
+                "Sasuke",
+                "Kakashi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Etihad Stadium is the home stadium for which team?",
+            "correct_answer": "Manchester City",
+            "incorrect_answers": [
+                "Manchester United",
+                "Arsenal",
+                "Blackpool"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Shang Tsung is a playable character in Mortal Kombat XL.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these island countries is located in the Caribbean?",
+            "correct_answer": "Barbados",
+            "incorrect_answers": [
+                "Fiji",
+                "Maldives",
+                "Seychelles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What country hosted the 2014 Winter Olympics?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Canada",
+                "United States",
+                "Germany"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was &quot;Super Mario Sunshine&quot; released?",
+            "correct_answer": "2002",
+            "incorrect_answers": [
+                "2003",
+                "2000",
+                "2004"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?",
+            "correct_answer": "Eris",
+            "incorrect_answers": [
+                "Hades",
+                "Ares",
+                "Artemis"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The fork came to Italy before any other European country.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In poker, &quot;EV&quot; means what?",
+            "correct_answer": "Expected Value",
+            "incorrect_answers": [
+                "Equity Value",
+                "Equivalent Variation",
+                "Equity Variation"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Melancholy of Haruhi Suzumiya&quot; series, the narrator goes by the nickname Kyon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the name of the capital of Turkey?",
+            "correct_answer": "Ankara",
+            "incorrect_answers": [
+                "Istanbul",
+                "Izmir",
+                "Bursa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What studio animated Fullmetal Alchemist?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "Trigger",
+                "Pierrot",
+                "xebec"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the largest Muslim country in the world?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Pakistan",
+                "Saudi Arabia",
+                "Iran"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?",
+            "correct_answer": "Yana and Bronislava",
+            "incorrect_answers": [
+                "Gaba and Anna",
+                "Yanna and Gaba",
+                "Anna and Bronislava"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+            "correct_answer": "Plan 9 from Outer Space",
+            "incorrect_answers": [
+                "The Man from Planet X",
+                "It Came from Outer Space",
+                "The Day The Earth Stood Still"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+            "correct_answer": "STS-107",
+            "incorrect_answers": [
+                "STS-51-L",
+                "STS-61-C",
+                "STS-109"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which is the protagonist of Bioshock Infinite?",
+            "correct_answer": "Booker DeWitt",
+            "incorrect_answers": [
+                "Zachary Comstock",
+                "Arthas Menethil",
+                "Herbie Hancock"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
+            "correct_answer": "Devil May Cry 3: Dante&#039;s Awakening ",
+            "incorrect_answers": [
+                "Devil May Cry 4",
+                "Devil May Cry",
+                "Devil May Cry 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Beatle wrote and sang the song &quot;Why Don&#039;t We Do It in the Road&quot; after being inspired by seeing two monkeys copulating in the street?",
+            "correct_answer": "Paul",
+            "incorrect_answers": [
+                "John",
+                "George",
+                "Ringo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which CS:GO eSports team won the major event ESL One Cologne 2016?",
+            "correct_answer": "SK Gaming",
+            "incorrect_answers": [
+                "Team Liquid",
+                "Fnatic",
+                "Virtus.pro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": " What color is produced by mixing black and white?",
+            "correct_answer": "Grey",
+            "incorrect_answers": [
+                "Black",
+                "Brown",
+                "White"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+            "correct_answer": "Clipper Chip",
+            "incorrect_answers": [
+                "Enigma Machine",
+                "Skipjack",
+                "Nautilus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Sonoran Desert is located in eastern Africa.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Fire Emblem: Shadow Dragon&quot;, what is the central protagonist&#039;s name?",
+            "correct_answer": "Marth",
+            "incorrect_answers": [
+                "Roy",
+                "Eliwood",
+                "Robin"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Shrimp can swim backwards.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+            "correct_answer": "Richard III",
+            "incorrect_answers": [
+                "Edward V",
+                "Henry VII",
+                "James I"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The band, HEALTH, is called HEALTH because they wanted to choose an everyday word for the band name.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio animated &quot;Hidamari Sketch&quot;?",
+            "correct_answer": "Shaft",
+            "incorrect_answers": [
+                "Trigger",
+                "Kyoto Animation",
+                "Production I.G"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+            "correct_answer": "Shepard Tone",
+            "incorrect_answers": [
+                "Glissandro Illusion",
+                "Fransen Effect",
+                "McGurck Effect"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+            "correct_answer": " Osteogenesis Imperfecta",
+            "incorrect_answers": [
+                "Spinocerebellar ataxia",
+                "Adrenoleukodystrophy",
+                "Cystic Fibrosis"
+            ]
+        }
+    ]
+}

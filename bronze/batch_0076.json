@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Martin Luther King Jr. and Anne Frank were born the same year. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What is generally considered to be William Shakespeare&#039;s birth date?",
+            "correct_answer": "April 23rd, 1564",
+            "incorrect_answers": [
+                "July 4th, 1409",
+                "September 29th, 1699",
+                "December 1st, 1750"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+            "correct_answer": "Cube",
+            "incorrect_answers": [
+                "Sphere",
+                "Cylinder",
+                "Pyramid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;To Love-Ru&quot;, who is the first to hear of Yami&#039;s past from her?",
+            "correct_answer": "Rito",
+            "incorrect_answers": [
+                "Mikan",
+                "Lala",
+                "Haruna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+            "correct_answer": "1985",
+            "incorrect_answers": [
+                "1988",
+                "1986",
+                "1993"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following spacecraft never touched the moon?",
+            "correct_answer": "Mariner 4",
+            "incorrect_answers": [
+                "Apollo 11",
+                "Luna 2",
+                "SMART-1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Who became Prime Minister of the United Kingdom in July 2016?",
+            "correct_answer": "Theresa May",
+            "incorrect_answers": [
+                "Boris Johnson",
+                "David Cameron",
+                "Tony Blair"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Folic acid is the synthetic form of which vitamin?",
+            "correct_answer": "Vitamin B",
+            "incorrect_answers": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which film star has his statue in Leicester Square?",
+            "correct_answer": "Charlie Chaplin",
+            "incorrect_answers": [
+                "Paul Newman",
+                "Rowan Atkinson ",
+                "Alfred Hitchcock"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What does the F stand for in the FBI?",
+            "correct_answer": "Federal",
+            "incorrect_answers": [
+                "Foreign",
+                "Formal",
+                "First"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the superhero anime, &quot;One Punch Man&quot;, what is the main protagonist&#039;s Hero name?",
+            "correct_answer": "Caped Baldy",
+            "incorrect_answers": [
+                "Strong Fist",
+                "Mad Boxer",
+                "Justice Puncher"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
+            "correct_answer": "$180",
+            "incorrect_answers": [
+                "$200",
+                "$160",
+                "$220"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the scientific name of the red fox?",
+            "correct_answer": "Vulpes Vulpes",
+            "incorrect_answers": [
+                "Vulpes Redus",
+                "Red Fox",
+                "Vulpes Vulpie"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How many letters are there in the English alphabet?",
+            "correct_answer": "26",
+            "incorrect_answers": [
+                "28",
+                "23",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "What play is the quote &quot;Hell is other people&quot; from?",
+            "correct_answer": "No Exit",
+            "incorrect_answers": [
+                "The Devil and the Good Lord",
+                "The Condemned of Altona",
+                "The Flies"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
+            "correct_answer": "38",
+            "incorrect_answers": [
+                "51",
+                "49",
+                "22"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In Prokofiev&#039;s &#039;Peter and the Wolf&#039;, the wolf itself is represented by a trio of which musical instrument?",
+            "correct_answer": "French horn",
+            "incorrect_answers": [
+                "Oboe",
+                "Clarinet",
+                "Cello"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the Anno series introduced the &quot;Eco Balance&quot; gameplay mechanic?",
+            "correct_answer": "Anno 2070",
+            "incorrect_answers": [
+                "Anno 1404",
+                "Anno 2205",
+                " Anno 1701"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What Ultimate does Makoto Naegi, protagonist of Danganronpa: Trigger Happy Havoc, have? ",
+            "correct_answer": "Ultimate Lucky Student",
+            "incorrect_answers": [
+                "Ultimate Unlucky Student",
+                "Ultimate Detective",
+                "Ultimate Runner"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+            "correct_answer": "The HECU",
+            "incorrect_answers": [
+                "Navy Seals",
+                "The Combine",
+                "The Marines"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+            "correct_answer": "Injection ",
+            "incorrect_answers": [
+                "Broken Authentication",
+                "Cross-Site Scripting",
+                "Insecure Direct Object References"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+            "correct_answer": "M.I.A.",
+            "incorrect_answers": [
+                "K.I.A.",
+                "C.I.A.",
+                "A.I.A."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What programming language was used to create the game &quot;Minecraft&quot;?",
+            "correct_answer": "Java",
+            "incorrect_answers": [
+                "HTML 5",
+                "C++",
+                "Python"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was &quot;Antichamber&quot; released?",
+            "correct_answer": "2013",
+            "incorrect_answers": [
+                "2012",
+                "2014",
+                "2011"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+            "correct_answer": "Lightning Dragon",
+            "incorrect_answers": [
+                "Revenant",
+                "Beast of Burden",
+                "Dirtcowl Wurm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the FIRST Valve game to have VR?",
+            "correct_answer": "The Lab",
+            "incorrect_answers": [
+                "Dota 2",
+                "Destinations",
+                "Half-Life 2"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Adolf Hitler was accepted into the Vienna Academy of Fine Arts.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+            "correct_answer": "Astoria Greengrass",
+            "incorrect_answers": [
+                "Pansy Parkinson",
+                "Millicent Bulstrode",
+                "Hermione Granger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What vault in the video game &quot;Fallout 3&quot; is the home of multiple clones named Gary?",
+            "correct_answer": "Vault 108",
+            "incorrect_answers": [
+                "Vault 101",
+                "Vault 87",
+                "Vault 21"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+            "correct_answer": "Wilson",
+            "incorrect_answers": [
+                "Carson",
+                "Jackson",
+                "Willy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the final game of the &quot;Zero Escape&quot; series called?",
+            "correct_answer": "Zero Escape Zero Time Dilemma ",
+            "incorrect_answers": [
+                "Nine Hours, Nine Persons, Nine Doors ",
+                "Zero Escape Virtue&#039;s Last Reward",
+                "The Nonary Game: Sigma&#039;s Last Life"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+            "correct_answer": "Shamir",
+            "incorrect_answers": [
+                "Secure",
+                "Schottky",
+                "Stable"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the only US state located entirely within the Appalachia region?",
+            "correct_answer": "West Virginia",
+            "incorrect_answers": [
+                "Pennsylvania",
+                "Alabama",
+                "Kentucky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the official national language of Pakistan?",
+            "correct_answer": "Urdu",
+            "incorrect_answers": [
+                "Indian",
+                "Punjabi",
+                "Pashto"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "On what date did the original &quot;Fruits Basket&quot; anime air in Japan?",
+            "correct_answer": "July 5th, 2001",
+            "incorrect_answers": [
+                "November 1st, 2006",
+                "December 27th, 2001",
+                "October 11th, 2001"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What two characters from the game Undertale are never in a relationship or not related?",
+            "correct_answer": "Frisk &amp; Chara",
+            "incorrect_answers": [
+                "Sans &amp; Papyrus",
+                "Toriel &amp; Asgore",
+                "Alphys &amp; Undyne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
+            "correct_answer": "Cretaceous-Paleogene",
+            "incorrect_answers": [
+                "Triassic&ndash;Jurassic",
+                "Permian&ndash;Triassic",
+                "Ordovician&ndash;Silurian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+            "correct_answer": "Thomas Jefferson",
+            "incorrect_answers": [
+                "Martin Van Buren",
+                "Ulysses Grant",
+                "John Quincy Adams"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
+            "correct_answer": "All Dogs Go To Heaven",
+            "incorrect_answers": [
+                "Titan A.E.",
+                "Anastasia",
+                "The Land Before Time"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+            "correct_answer": "Masta Killa",
+            "incorrect_answers": [
+                "Method Man",
+                "Inspectah Deck",
+                "GZA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What fast food chain has the most locations globally? ",
+            "correct_answer": "Subway",
+            "incorrect_answers": [
+                "Starbucks",
+                "McDonalds",
+                "KFC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Against which country did the Dutch Republic fight the Eighty Years&#039; War?",
+            "correct_answer": "Spain",
+            "incorrect_answers": [
+                "France",
+                "England",
+                "Portugal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Night In The Woods, where does Gregg work?",
+            "correct_answer": "Snack Falcon",
+            "incorrect_answers": [
+                "Ol&#039; Pickaxe",
+                "Video Outpost &quot;Too&quot;",
+                "Food Donkey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What was Sir Donald Bradman&#039;s batting average in test matches?",
+            "correct_answer": "99.94",
+            "incorrect_answers": [
+                "100",
+                "69.51",
+                "44.78"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of the following chemicals are found in eggplant seeds?",
+            "correct_answer": "Nicotine",
+            "incorrect_answers": [
+                "Mescaline",
+                "Cyanide",
+                "Psilocybin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+            "correct_answer": "Mega Man",
+            "incorrect_answers": [
+                "Super Mario Brothers",
+                "Alex Kidd",
+                "Super Monkey Ball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+            "correct_answer": "Apocalypse Now",
+            "incorrect_answers": [
+                "Platoon",
+                "The Deer Hunter",
+                "Full Metal Jacket"
+            ]
+        }
+    ]
+}

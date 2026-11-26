@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Copy Abilities was only featured in &quot;Kirby &amp; The Amazing Mirror&quot;?",
+            "correct_answer": "Mini",
+            "incorrect_answers": [
+                "Magic",
+                "Smash",
+                "Missile"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How many cores does the Intel i7-6950X have?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "12",
+                "8",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "When was Elvis Presley born?",
+            "correct_answer": "January 8, 1935",
+            "incorrect_answers": [
+                "December 13, 1931",
+                "July 18, 1940",
+                "April 17, 1938"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which 90&#039;s comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+            "correct_answer": "Wayne&#039;s World",
+            "incorrect_answers": [
+                "Bill &amp; Ted&#039;s Excellent Adventure",
+                "Dumb and Dumber",
+                "Austin Powers: International Man of Mystery"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who painted the Mona Lisa?",
+            "correct_answer": "Leonardo da Vinci",
+            "incorrect_answers": [
+                "Pablo Picasso",
+                "Claude Monet",
+                "Vincent van Gogh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year did Kentucky become the 15th state to join the union?",
+            "correct_answer": "1792",
+            "incorrect_answers": [
+                "1782",
+                "1798",
+                "1788"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which of these companies does NOT manufacture motorcycles?",
+            "correct_answer": "Toyota",
+            "incorrect_answers": [
+                "Honda",
+                "Kawasaki",
+                "Yamaha"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Stardew Valley, what is the reward for completing all of the Bulletin Board bundles?",
+            "correct_answer": "Additional Friendship points",
+            "incorrect_answers": [
+                "Glittering Boulder removed",
+                "Bus is repaired",
+                "Greenhouse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+            "correct_answer": "Māori",
+            "incorrect_answers": [
+                "Papuans",
+                "Aborigines",
+                "Polynesians"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the first track on the Dave Matthews Band album &quot;Before These Crowded Streets&quot;?",
+            "correct_answer": "Pantala Naga Pampa",
+            "incorrect_answers": [
+                "Stay (Wasting Time)",
+                "Rapunzel",
+                "Don&#039;t Drink The Water"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Europa Universalis is a strategy video game based on which French board game?",
+            "correct_answer": "Europa Universalis",
+            "incorrect_answers": [
+                "Europe and the Universe",
+                "Europa!",
+                "Power in Europe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What fruit is a traditional ingredient of a Black Forest Gateau?",
+            "correct_answer": "Cherries",
+            "incorrect_answers": [
+                "Apricots",
+                "Raisins",
+                "Apples"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the English title of the vaporwave track &quot;リサフランク420 / 現代のコンピュー&quot; by Macintosh Plus (Vektroid)?",
+            "correct_answer": "Lisa Frank 420 / Modern Computing",
+            "incorrect_answers": [
+                "Smoke Weed 420 / Everyday",
+                "Make Your Move 420 / My Mind",
+                "It&#039;s All In Your Head 420 / Understand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Which species of Brown Bear is not extinct?",
+            "correct_answer": "Syrian Brown Bear",
+            "incorrect_answers": [
+                "California Grizzly Bear",
+                "Atlas Bear",
+                "Mexican Grizzly Bear"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "On a dartboard, what number is directly opposite No. 1?",
+            "correct_answer": "19",
+            "incorrect_answers": [
+                "20",
+                "12",
+                "15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of &quot;Metal Gear Solid 3&quot;?",
+            "correct_answer": "Naked Snake",
+            "incorrect_answers": [
+                "Solid Snake",
+                "Liquid Snake",
+                "Venom Snake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "If you planted the seeds of Quercus robur, what would grow?",
+            "correct_answer": "Trees",
+            "incorrect_answers": [
+                "Grains",
+                "Vegetables",
+                "Flowers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Brawlhalla&quot;, what species is the character B&ouml;dvar is?",
+            "correct_answer": "Half Human / Half Bear",
+            "incorrect_answers": [
+                "A Human",
+                "Half Wolf / Half Bear",
+                "Half Tiger /  Half Human"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "DragonForce&#039;s &#039;Through the Fire and Flames&#039; is widely considered to be the hardest song in the Guitar Hero series.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Five Nights at Freddy&#039;s 1, how can you make Golden Freddy disappear?",
+            "correct_answer": "Enable cameras",
+            "incorrect_answers": [
+                "Turn on the light",
+                "Shut the door",
+                "Do nothing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who is the main antagonist of Christopher Nolan&#039;s 2012 film &quot;The Dark Knight Rises&quot;?",
+            "correct_answer": "Bane",
+            "incorrect_answers": [
+                "The Joker",
+                "CIA",
+                "The Riddler"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Dihydrogen Monoxide is a dangerous chemical.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": " In what movie does Eddie Murphy swap identities with Dan Aykroyd?",
+            "correct_answer": "Trading Places",
+            "incorrect_answers": [
+                "Ghostbusters",
+                "Coming to America",
+                "The Blues Brothers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How many syllables make up a haiku?",
+            "correct_answer": "17",
+            "incorrect_answers": [
+                "15",
+                "10",
+                "21"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+            "correct_answer": "Professor Charles the Hedgehog",
+            "incorrect_answers": [
+                "Julian Robotnik",
+                "Ivo Robotnik",
+                "Snively Robotnik"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who directed the Kill Bill movies?",
+            "correct_answer": "Quentin Tarantino",
+            "incorrect_answers": [
+                "Arnold Schwarzenegger",
+                "David Lean",
+                "Stanley Kubrick"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was Genghis Khan&#039;s real name?",
+            "correct_answer": "Tem&uuml;jin",
+            "incorrect_answers": [
+                "M&ouml;ngke",
+                "&Ouml;gedei",
+                "Tem&uuml;r"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what year were screenshots added to Steam?",
+            "correct_answer": "2011",
+            "incorrect_answers": [
+                "2010",
+                "2008",
+                "2009"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?",
+            "correct_answer": "Ursula",
+            "incorrect_answers": [
+                "Madam Mim",
+                "Maleficent",
+                "Lady Tremaine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "When was Left 4 Dead 2 released?",
+            "correct_answer": "November 17, 2009",
+            "incorrect_answers": [
+                "May 3, 2008",
+                "November 30, 2009",
+                "June 30, 2010"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+            "correct_answer": "Orange",
+            "incorrect_answers": [
+                "Blue",
+                "Green",
+                "Magenta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following names is the &quot;Mega Man&quot; Franchise known as in Japan?",
+            "correct_answer": "Rockman",
+            "incorrect_answers": [
+                "Paperman",
+                "Scissorsman",
+                "Mega Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is Pikachu&#039;s National Pok&eacute;Dex Number?",
+            "correct_answer": "#025",
+            "incorrect_answers": [
+                "#001",
+                "#031",
+                "#109"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Pok&eacute;mon games released first?",
+            "correct_answer": "Pok&eacute;mon Crystal",
+            "incorrect_answers": [
+                "Pok&eacute;mon Platinum",
+                "Pok&eacute;mon FireRed",
+                "Pok&eacute;mon Black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+            "correct_answer": "Dog Blood",
+            "incorrect_answers": [
+                "Jack &Uuml;",
+                "What So Not",
+                "Noisia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How was Socrates executed?",
+            "correct_answer": "Poison",
+            "incorrect_answers": [
+                "Decapitation",
+                "Firing squad",
+                "Crucifixion "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+            "correct_answer": "A robot",
+            "incorrect_answers": [
+                "A pickup truck",
+                "An motorcycle",
+                "A motorboat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many classes are there in Team Fortress 2?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "10",
+                "8",
+                "7"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country is the home of the largest Japanese population outside of Japan?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "China",
+                "Russia",
+                "The United States"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did L. L. Zamenhof first publish &quot;Unua Libro&quot;, the first publication describing his international language Esperanto?",
+            "correct_answer": "1887",
+            "incorrect_answers": [
+                "1897",
+                "1905",
+                "1915"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the Master levels in &quot;Super Monkey Ball&quot; is also used in the arcade version of the game, simply named &quot;Monkey Ball&quot;?",
+            "correct_answer": "MASTER 9 - Bridge Master",
+            "incorrect_answers": [
+                "MASTER 3 - Stamina Master",
+                "MASTER 10 - Monkey Master",
+                "MASTER 6 - Roll Master"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "How many &quot;JoJos&quot; that are protagonists are there in the series &quot;Jojo&#039;s Bizarre Adventure&quot;?",
+            "correct_answer": "8+",
+            "incorrect_answers": [
+                "6+",
+                "4+",
+                "5+"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Night In The Woods, what is Mae Borowski mother&#039;s name?",
+            "correct_answer": "Candy",
+            "incorrect_answers": [
+                "Jenny",
+                "Margaret",
+                "Kate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which U.S. President was famously &#039;attacked&#039; by a swimming rabbit?",
+            "correct_answer": "Jimmy Carter",
+            "incorrect_answers": [
+                "Ronald Reagan",
+                "Lydon B. Johnson",
+                "Gerald Ford"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Rhode Island is actually located on the US mainland, despite its name.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Sea sponges can have hearts.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Brian May was the guitarist for which band?",
+            "correct_answer": "Queen",
+            "incorrect_answers": [
+                "Pink Floyd",
+                "Rolling Stones",
+                "The Doors"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the episode of SpongeBob SquarePants, &quot;Survival of the Idiots&quot;, Spongebob called Patrick which nickname?",
+            "correct_answer": "Pinhead",
+            "incorrect_answers": [
+                "Starfish",
+                "Larry",
+                "Dirty Dan"
+            ]
+        }
+    ]
+}

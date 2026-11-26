@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Nickelodeon rejected the pilot to Adventure Time.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+            "correct_answer": "0.1m",
+            "incorrect_answers": [
+                "1m",
+                "10m ",
+                "100m"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Need For Speed: Most Wanted (2005), how many people are there to defeat on the blacklist?",
+            "correct_answer": "15",
+            "incorrect_answers": [
+                "5",
+                "10",
+                "20"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which JoJo&#039;s Bizarre Adventure character possesses the Stand named Silver Chariot?",
+            "correct_answer": "Jean Pierre Polnareff",
+            "incorrect_answers": [
+                "Noriaki Kakyoin",
+                "Hol Horse",
+                "Hermes Costello"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+            "correct_answer": "15%",
+            "incorrect_answers": [
+                "20%",
+                "10%",
+                "25%"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+            "correct_answer": "RiDGiD STUDiOS",
+            "incorrect_answers": [
+                "Dan Bell",
+                "Billy Familia",
+                "VeganGainz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Northampton Town",
+                "Bradford City",
+                "West Bromwich Albion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the second-largest city in Lithuania?",
+            "correct_answer": "Kaunas",
+            "incorrect_answers": [
+                "Panevėžys",
+                "Vilnius",
+                "Klaipėda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+            "correct_answer": "Gorilla",
+            "incorrect_answers": [
+                "Tiger",
+                "Panda",
+                "Crocodile"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Grand Theft Auto V is the fifteenth installment of the Grand Theft Auto series.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the comedy series &quot;Trailer Park Boys&quot;, which of the following characters takes care of stray cats?",
+            "correct_answer": "Bubbles",
+            "incorrect_answers": [
+                "Ricky",
+                "Julian",
+                "Randy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+            "correct_answer": "Rhyme",
+            "incorrect_answers": [
+                "Shiki",
+                "Joshua",
+                "Beat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Fallout: New Vegas, which one of these casinos can you not play in?",
+            "correct_answer": "Lucky 38",
+            "incorrect_answers": [
+                "The Tops",
+                "Gammorah",
+                "Ultra-Luxe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which English county will you find the University of East Anglia?",
+            "correct_answer": "Norfolk",
+            "incorrect_answers": [
+                "Suffolk",
+                "Essex",
+                "Cambridgeshire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+            "correct_answer": "Sonic the Hedgehog #11",
+            "incorrect_answers": [
+                "Sonic Universe #32",
+                "Sonic the Hedgehog #161",
+                "Sonic the Hedgehog #47"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these covert groups employs Sam Fisher to work as a Splinter Cell?",
+            "correct_answer": "Third Echelon",
+            "incorrect_answers": [
+                "Voron",
+                "Black Arrow",
+                "The Engineers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+            "correct_answer": "Steven Erikson",
+            "incorrect_answers": [
+                "Ian Cameron Esslemont",
+                "George R. R. Martin",
+                "J. R. R. Tolkien"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the protagonist of Life Is Strange?",
+            "correct_answer": "Max Caulfield",
+            "incorrect_answers": [
+                "Frank Bowers",
+                "Rachel Amber",
+                "Kate Marsh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+            "correct_answer": "Dunning-Kruger effect",
+            "incorrect_answers": [
+                "Meyers-Briggs effect",
+                "M&uuml;ller-Lyer effect",
+                "Freud-Hall effect"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What video game genre were the original Warcraft games?",
+            "correct_answer": "RTS (Real Time Strategy)",
+            "incorrect_answers": [
+                "RPG (Role Playing Game)",
+                "TBS (Turn Based Strategy)",
+                "MMO (Massively Multiplayer Online)"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Kiznaiver is an adaptation of a manga.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Portal series of games, who was the founder of Aperture Science?",
+            "correct_answer": "Cave Johnson",
+            "incorrect_answers": [
+                "GLaDOs",
+                "Wallace Breen",
+                "Gordon Freeman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the game developer who created &quot;Call Of Duty: Zombies&quot;?",
+            "correct_answer": "Treyarch",
+            "incorrect_answers": [
+                "Sledgehammer Games",
+                "Infinity Ward",
+                "Naughty Dog"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Tomb Raider&quot; icon Lara Croft was originally called...",
+            "correct_answer": "Laura Cruz",
+            "incorrect_answers": [
+                "Laura Craft",
+                "Laura Croft",
+                "Lara Craft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The first game in the Touhou Project, &quot;Highly Responsive to Prayers&quot;, is part of which genre?",
+            "correct_answer": "Breakout/Arkanoid",
+            "incorrect_answers": [
+                "Shoot &#039;em Up",
+                "Puzzle",
+                "Fighter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+            "correct_answer": "The Joker",
+            "incorrect_answers": [
+                "Fandango",
+                "Take The Money and Run",
+                "Fly Like an Eagle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "Which art movement was Pablo Picasso known for co-founding?",
+            "correct_answer": "Cubism",
+            "incorrect_answers": [
+                "Futurism",
+                "Expressionism",
+                "Impressionism"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Vietnam is the only country in the world that starts with V. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these TrackMania environments was NOT in the original game?",
+            "correct_answer": "Bay",
+            "incorrect_answers": [
+                "Desert",
+                "Snow",
+                "Rally"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Ace Attorney&quot; series, what is the relationship between Apollo Justice and Trucy Wright?",
+            "correct_answer": "They&#039;re half-siblings",
+            "incorrect_answers": [
+                "They&#039;re co-workers",
+                "They&#039;re friends",
+                "They&#039;re both attorneys"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the infamous pachinko machine from &quot;Kaiji&quot;?",
+            "correct_answer": "The Bog",
+            "incorrect_answers": [
+                "The Devil",
+                "The Undefeated",
+                "The Dragon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the PAYDAY series, who betrayed the PAYDAY gang that got Hoxton arrested?",
+            "correct_answer": "Hector",
+            "incorrect_answers": [
+                "Vlad",
+                "The Dentist",
+                "The Elephant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which one of these Pink Floyd albums were also a movie?",
+            "correct_answer": "The Wall",
+            "incorrect_answers": [
+                "The Dark Side of the Moon",
+                "Wish You Were Here",
+                "Animals"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+            "correct_answer": "Monty Python",
+            "incorrect_answers": [
+                "The Goodies&lrm;",
+                "The League of Gentlemen&lrm;",
+                "The Penny Dreadfuls"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a map included in the game Counter-Strike: Global Offensive?",
+            "correct_answer": "Oilrig",
+            "incorrect_answers": [
+                "Assault",
+                "Mirage",
+                "Cache"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+            "correct_answer": "1971",
+            "incorrect_answers": [
+                "1975",
+                "1983",
+                "1969"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The longest shared border in the world can be found between which two nations?",
+            "correct_answer": "Canada and the United States",
+            "incorrect_answers": [
+                "Chile and Argentina",
+                "Russia and China",
+                "India and Pakistan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In the &quot;Archie&quot; comics, who was Jughead&#039;s first girlfriend?",
+            "correct_answer": "Joani",
+            "incorrect_answers": [
+                "Ethel",
+                "Debbi",
+                "Margret"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The French word for &quot;glass&quot; is &quot;glace&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio produced the anime adaptation of &quot;xxxHolic&quot;?",
+            "correct_answer": "Production I.G",
+            "incorrect_answers": [
+                "Sunrise",
+                "Xebec",
+                "Kyoto Animation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+            "correct_answer": "USS Pueblo",
+            "incorrect_answers": [
+                "USS North Carolina",
+                "USS Constitution",
+                "USS Indianapolis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is special about Lake Titicaca?",
+            "correct_answer": "Highest navigable lake",
+            "incorrect_answers": [
+                "Longest lake in the world",
+                "Deepest lake in the world",
+                "Remains frozen all year round"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In what year did &quot;The Big Bang Theory&quot; debut on CBS?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2008",
+                "2006",
+                "2009"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Druid is a mage class in &quot;Log Horizon&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters was NOT planned to be playable for Super Smash Bros. 64?",
+            "correct_answer": "Peach",
+            "incorrect_answers": [
+                "Bowser",
+                "Mewtwo",
+                "King Dedede"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who painted the Sistine Chapel?",
+            "correct_answer": "Michelangelo",
+            "incorrect_answers": [
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Raphael"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which country were potatoes originally grown?",
+            "correct_answer": "Peru",
+            "incorrect_answers": [
+                "United States ",
+                "Ireland",
+                "New Zealand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who won the 10th season of Big Brother in the United States?",
+            "correct_answer": "Dan Gheesling",
+            "incorrect_answers": [
+                "Adam Jasinski",
+                "Hayden Moss",
+                "Dick Donato"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+            "correct_answer": "Scar-20/G3SG1",
+            "incorrect_answers": [
+                "M4A1",
+                "AWP",
+                "R8 Revolver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Before 2016, in which other year did Donald Trump run for President?",
+            "correct_answer": "2000",
+            "incorrect_answers": [
+                "2012",
+                "1988",
+                "2008"
+            ]
+        }
+    ]
+}

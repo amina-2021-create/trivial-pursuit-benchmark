@@ -1,0 +1,581 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many degrees make a full circle?",
+            "correct_answer": "360",
+            "incorrect_answers": [
+                "180",
+                "90",
+                "720"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "There was a satirical candidate named &quot;Deez Nuts&quot; running in the 2016 US presidential elections.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of Foo Fighters?",
+            "correct_answer": "Dave Grohl",
+            "incorrect_answers": [
+                "Dave Mustaine",
+                "James Hetfield",
+                "Little Red Riding Hood"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Samuel L. Jackson had the words, &#039;Bad Motherf*cker&#039; in-scripted on his lightsaber during the filming of Star Wars.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Which of the following is the world&#039;s best-selling book?",
+            "correct_answer": "The Lord of the Rings",
+            "incorrect_answers": [
+                "The Little Prince",
+                "Harry Potter and the Philosopher&#039;s Stone",
+                "The Da Vinci Code"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+            "correct_answer": "84.39m",
+            "incorrect_answers": [
+                "100m",
+                "100yd",
+                "109.36yd"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country has three capital cities?",
+            "correct_answer": "South Africa",
+            "incorrect_answers": [
+                "Somalia",
+                "China",
+                "United Kingdom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the co-op shooter Payday 2, which contact helps you break out Hoxton?",
+            "correct_answer": "The Dentist",
+            "incorrect_answers": [
+                "Vlad",
+                "The Elephant",
+                "The Butcher"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Metal Gear Solid&quot;, what did Revolver Ocelot consider the greatest handgun ever made?",
+            "correct_answer": "Colt Single Action Army",
+            "incorrect_answers": [
+                "Colt Python",
+                "Colt M1892",
+                "Colt 1851 Navy Revolver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "0",
+                "1",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the leader of the Brotherhood of Nod in the Command and Conquer series?",
+            "correct_answer": "Kane",
+            "incorrect_answers": [
+                "Joseph Stalin",
+                "CABAL",
+                "Yuri"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
+            "correct_answer": "Intercepting",
+            "incorrect_answers": [
+                "Blocking",
+                "Resisting",
+                "Shielding"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is Pink Floyd&#039;s first album?",
+            "correct_answer": "The Piper at the Gates of Dawn",
+            "incorrect_answers": [
+                "The Dark Side of the Moon",
+                "Wish You Were Here",
+                "Meddle"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the Season 1 SpongeBob Squarepants episode, &quot;Help Wanted,&quot; the song &quot;Living in the Sunlight&quot; by Tiny Tim can be heard.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs was NOT released in the 90s?",
+            "correct_answer": "&quot;I Want It All&quot; by Queen",
+            "incorrect_answers": [
+                "&quot;Vogue&quot; by Madonna",
+                "&quot;Can&#039;t Stop This Thing We Started&quot; by Bryan Adams",
+                "&quot;King of Wishful Thinking&quot; by Go West"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What was the soft drink Pepsi originally introduced as?",
+            "correct_answer": "Brad&#039;s Drink",
+            "incorrect_answers": [
+                "Pepsin Pop",
+                "Carolina Cola",
+                "Pepsin Syrup"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Monster Hunter Generations, guild style is a type of hunting style.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Highschool DxD&quot;, Koneko Toujou is from what race?",
+            "correct_answer": "Nekomata",
+            "incorrect_answers": [
+                "Kitsune",
+                "Human",
+                "Kappa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the 1980s, a service called Gameline allowed users to download games to what console?",
+            "correct_answer": "Atari 2600",
+            "incorrect_answers": [
+                "Sega Genesis",
+                "Nintendo Entertainment System",
+                "ColecoVision"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is Sonic&#039;s sidekick?",
+            "correct_answer": "Tails",
+            "incorrect_answers": [
+                "Shadow",
+                "Amy",
+                "Knuckles"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?",
+            "correct_answer": "66",
+            "incorrect_answers": [
+                "91",
+                "45",
+                "39"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What color is Ryūko Matoi&#039;s half of the Scissor Blade in the anime Kill la KIll?",
+            "correct_answer": "Red",
+            "incorrect_answers": [
+                "Green",
+                "Blue",
+                "Purple"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who won the 2011 Stanley Cup?",
+            "correct_answer": "Boston Bruins",
+            "incorrect_answers": [
+                "Montreal Canadiens",
+                "New York Rangers",
+                "Toronto Maple Leafs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which of the following Argentinian presidents was elected in 2015?",
+            "correct_answer": "Mauricio Macri",
+            "incorrect_answers": [
+                "Cristina Fernandez de Kirchner",
+                "Nestor Kirchner",
+                "Juan Domingo Peron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
+            "correct_answer": "Delirium",
+            "incorrect_answers": [
+                "Mega Satan",
+                "Hush",
+                "The Lamb"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;Scream&quot; who is Ghost Face?",
+            "correct_answer": "Billy Loomis and Stu Macher",
+            "incorrect_answers": [
+                "Dewey Riley",
+                "Sidney Prescott",
+                "Archie Prescott and Philip Marv"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did the Crisis of the Third Century begin?",
+            "correct_answer": "235 AD",
+            "incorrect_answers": [
+                "235 BC",
+                "242 AD",
+                "210 AD"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The name of technology company HP stands for what?",
+            "correct_answer": "Hewlett-Packard",
+            "incorrect_answers": [
+                "Howard Packmann",
+                "Husker-Pollosk",
+                "Hellman-Pohl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+            "correct_answer": "Tree",
+            "incorrect_answers": [
+                "Mountain",
+                "Temple",
+                "Castle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?",
+            "correct_answer": "Titus Andronicus",
+            "incorrect_answers": [
+                "Othello",
+                "Macbeth",
+                "King Lear"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+            "correct_answer": "Beer",
+            "incorrect_answers": [
+                "Fast food",
+                "Food stamps",
+                "They weren&#039;t paid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Which celebrity announced his presidency in 2015?",
+            "correct_answer": "Kanye West",
+            "incorrect_answers": [
+                "Donald Trump",
+                "Leonardo DiCaprio",
+                "Miley Cyrus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+            "correct_answer": "Center Parcs",
+            "incorrect_answers": [
+                "Yelloh Village",
+                "Keycamp",
+                "Villa Plus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who did Steven Gerrard win the Champions League with?",
+            "correct_answer": "Liverpool",
+            "incorrect_answers": [
+                "Real Madrid",
+                "Chelsea",
+                "Man City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The acronym DOTA stands for",
+            "correct_answer": "Defense of the Ancients",
+            "incorrect_answers": [
+                "Defense of the Artifacts",
+                "Defense of the Antiques",
+                "Defense of the Animated"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Subnautica&quot;, which feature was removed due to performance issues in 2016?",
+            "correct_answer": "Terraforming",
+            "incorrect_answers": [
+                "Building",
+                "Crafting",
+                "Multiplayer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
+            "correct_answer": "Eddie the Mean Old Yeti",
+            "incorrect_answers": [
+                "Kiddy Kong",
+                "Diddy Kong",
+                "King K. Rool"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "In the play Oedipus Rex, Oedipus kills his father due to jealousy in loving his mother.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In &quot;Jurassic World&quot;, what is the name of the dinosaur that is a genetic hybrid?",
+            "correct_answer": "Indominus Rex",
+            "incorrect_answers": [
+                "Mosasaurus",
+                "Pteranodon",
+                "Tyrannosaurus Rex "
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Coca-Cola&#039;s original colour was green.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+            "correct_answer": "Jules Bianchi",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Ronald Ratzenberger",
+                "Gilles Villeneuve"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of 2 Valve Games are set in the same universe?",
+            "correct_answer": "Half-life and Portal",
+            "incorrect_answers": [
+                "Portal and Left 4 Dead",
+                "Half-life and Left 4 Dead",
+                "Half-life and Counter Strike"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+            "correct_answer": "US Open",
+            "incorrect_answers": [
+                "French Open",
+                "Wimbledon",
+                "Australian Open"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Deadpool&#039;s identity is Slade Wilson.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Fallout 4&quot; which faction is not present in the game?",
+            "correct_answer": "The Enclave",
+            "incorrect_answers": [
+                "The Minutemen",
+                "The Brotherhood of Steel",
+                "The Institute"
+            ]
+        }
+    ]
+}

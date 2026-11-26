@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Apple was on the verge of bankruptcy in 1997 and was saved by Microsoft",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the protagonist in the game &quot;The Walking Dead: Season One&quot;?",
+            "correct_answer": "Lee Everett",
+            "incorrect_answers": [
+                "Clementine",
+                "Kenny",
+                "Rick Grimes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did Jamaica receive its independence from England? ",
+            "correct_answer": "1962",
+            "incorrect_answers": [
+                "1492",
+                "1963",
+                "1987"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
+            "correct_answer": "Dr. N. Gin",
+            "incorrect_answers": [
+                "Dr. Neo Cortex",
+                "Komodo Brothers",
+                "Tiny Tiger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the original Spyro game who is the first villain?",
+            "correct_answer": "Gnasty Gnorc",
+            "incorrect_answers": [
+                "Ripto",
+                "Sorceress",
+                "Cynder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+            "correct_answer": "Freedom",
+            "incorrect_answers": [
+                "Promise",
+                "Adventure",
+                "Friendship"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What year was Weezer&#039;s album &quot;Pinkerton&quot; released? ",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "1990",
+                "2001",
+                "1994"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "What is centralism?",
+            "correct_answer": " Concentration of power and authority in a central organization.",
+            "incorrect_answers": [
+                "Conforming to one single common political agenda.",
+                "Remaining politically neutral.",
+                "The grey area in the spectrum of political left and right."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Neil Hamburger is played by which comedian?",
+            "correct_answer": "Gregg Turkington",
+            "incorrect_answers": [
+                "Nathan Fielder",
+                "Tim Heidecker",
+                "Todd Glass"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who voices the character &quot;Reigen&quot;  in the English dub of &quot;Mob Psycho 100&quot;?",
+            "correct_answer": "Chris Niosi",
+            "incorrect_answers": [
+                "Max Mittelman",
+                "Kyle McCarley",
+                "Casey Mongillo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Nuclear Throne, the boss &quot;Big Dog&quot; was made into a character on April Fool&#039;s Day 2015.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which one of these artists appears in the album Deltron 3030?",
+            "correct_answer": "Dan the Automater",
+            "incorrect_answers": [
+                "Lamarr Kendrick",
+                "Danger Mouse",
+                "CeeLo Green"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
+            "correct_answer": "20,000",
+            "incorrect_answers": [
+                "10,000",
+                "15,000",
+                "25,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "The ancient Roman god of war was commonly known as which of the following?",
+            "correct_answer": "Mars",
+            "incorrect_answers": [
+                "Jupiter",
+                "Juno",
+                "Ares"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Where is the &quot;Sonoran Desert&quot; located?",
+            "correct_answer": "North America",
+            "incorrect_answers": [
+                "South America",
+                "Asia",
+                "Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the name given to Android 4.3?",
+            "correct_answer": "Jelly Bean",
+            "incorrect_answers": [
+                "Lollipop",
+                "Nutella",
+                "Froyo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Nick Mason is the only member to appear on every Pink Floyd album.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What date was the first flight of the P-40 Warhawk?",
+            "correct_answer": "October 14 1938",
+            "incorrect_answers": [
+                "August 21 1939",
+                "January 12 1940",
+                "June 1 1939"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who directed Marvel&#039;s Avengers Endgame?",
+            "correct_answer": "The Russo Brothers",
+            "incorrect_answers": [
+                "Zack Synder",
+                "Josh Whedon",
+                "Kevin Feige"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the nickname of the US state of California?",
+            "correct_answer": "Golden State",
+            "incorrect_answers": [
+                "Sunshine State",
+                "Bay State",
+                "Treasure State"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which novelty band was best known for their UK chart hits &quot;Combine Harvester&quot; and &quot;I Am a Cider Drinker&quot; in 1976?",
+            "correct_answer": "The Wurzels",
+            "incorrect_answers": [
+                "Goldie Lookin Chain",
+                "Bonzo Dog Doo-Dah Band",
+                "The Firm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the French word for &quot;hat&quot;?",
+            "correct_answer": "Chapeau",
+            "incorrect_answers": [
+                "Bonnet",
+                " &Eacute;charpe",
+                " Casque"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following Japanese islands is the biggest?",
+            "correct_answer": "Honshu",
+            "incorrect_answers": [
+                "Hokkaido",
+                "Shikoku",
+                "Kyushu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The Hunua Ranges is located in...",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "Nepal",
+                "China",
+                "Mexico"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
+            "correct_answer": "Abnormal Shrimp",
+            "incorrect_answers": [
+                "Deformed Fish",
+                "Strange Crab",
+                "Anomalous Clam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In what year did the Battle of Verdun take place?",
+            "correct_answer": "1916",
+            "incorrect_answers": [
+                "1917",
+                "1915",
+                "1918"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the series JoJo&#039;s Bizarre Adventure, which main character makes the greatest number of recurring appearances?",
+            "correct_answer": "Jotaro Kujo",
+            "incorrect_answers": [
+                "Giorno Giovanna",
+                "Joseph Joestar",
+                "Josuke Higashikata"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the surname of the character Daryl in AMC&#039;s show The Walking Dead?",
+            "correct_answer": "Dixon",
+            "incorrect_answers": [
+                "Grimes",
+                "Dickinson",
+                "Dicketson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "How old was Muhammad Ali when he died?",
+            "correct_answer": "74",
+            "incorrect_answers": [
+                "61",
+                "He&#039;s still alive",
+                "56"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+            "correct_answer": "Momoko Koigakubo",
+            "incorrect_answers": [
+                "Hajime Aoyama",
+                "Satsuki Miyanoshita",
+                "Mio Itai"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "David Baszucki was a co-founder of ROBLOX Corporation.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the name of the Canadian national anthem?",
+            "correct_answer": "O Canada",
+            "incorrect_answers": [
+                "O Red Maple",
+                "Leaf-Spangled Banner",
+                "March of the Puck Drop"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?",
+            "correct_answer": "Esteem",
+            "incorrect_answers": [
+                "Love",
+                "Safety",
+                "Physiological"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+            "correct_answer": "Polio",
+            "incorrect_answers": [
+                "Cancer",
+                "Meningitis",
+                "HIV"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "According to Greek Mythology, Atlas was an Olympian God.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which programming language was developed by Sun Microsystems in 1995?",
+            "correct_answer": "Java",
+            "incorrect_answers": [
+                "Python",
+                "Solaris OS",
+                "C++"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The Panama Canal was officially opened by which US president?",
+            "correct_answer": "Woodrow Wilson",
+            "incorrect_answers": [
+                "Calvin Coolidge",
+                "Herbert Hoover",
+                "Theodore Roosevelt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "Vietnam War",
+                "American Civil War",
+                "American Revolutionary War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime, &quot;Fullmetal Alchemist&quot;, who is known as the &#039;Flame Alchemist&#039;?",
+            "correct_answer": "Roy Mustang",
+            "incorrect_answers": [
+                "Edward Elric",
+                "Maes Hughes",
+                "Lin Yao"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is Scooby-Doo&#039;s real name?",
+            "correct_answer": "Scoobert",
+            "incorrect_answers": [
+                "Scooter",
+                "Scrappy",
+                "Shooby"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Finland?",
+            "correct_answer": "Helsinki",
+            "incorrect_answers": [
+                "Jabraltar",
+                "Macedonia",
+                "Oslo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Starbound races has a Wild West culture?",
+            "correct_answer": "Novakid",
+            "incorrect_answers": [
+                "Avian",
+                "Human",
+                "Hylotl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When did the Byzantine Empire collapse?",
+            "correct_answer": "1453",
+            "incorrect_answers": [
+                "1299",
+                "1353",
+                "1498"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?",
+            "correct_answer": "Don&#039;t Ever Play Yourself",
+            "incorrect_answers": [
+                "Major Key",
+                "Suffering From Success",
+                "I Changed A Lot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+            "correct_answer": "2035",
+            "incorrect_answers": [
+                "2030",
+                "2040",
+                "2045"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country ranks first in the number of historically active volcanoes?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Japan",
+                "USA",
+                "India"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": " What Texas city is nicknamed &quot;The Yellow Rose of Texas&quot;?",
+            "correct_answer": "Amarillo",
+            "incorrect_answers": [
+                "Corpus Christi",
+                "Frisco",
+                "Houston"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which British female singer and songwriter was sampled Eminem&#039;s hit single &#039;Stan&#039;?",
+            "correct_answer": "Dido",
+            "incorrect_answers": [
+                "Adele",
+                "Lily Allen",
+                "Leona Lewis"
+            ]
+        }
+    ]
+}

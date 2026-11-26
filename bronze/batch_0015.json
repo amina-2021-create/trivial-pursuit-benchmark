@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Deuterium is an isotope of which element?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Helium",
+                "Neon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Which of the following is true when alligators are behaving territorially?",
+            "correct_answer": "They bellow while showing their tail and neck",
+            "incorrect_answers": [
+                "Open their jaws while making a clicking noise",
+                "They run full force at the threat",
+                "Slap their tails on the ground"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the device used by Scarecrow in Batman: Arkham Knight to cover Gotham in fear gas?",
+            "correct_answer": "The Cloudburst",
+            "incorrect_answers": [
+                "The Fear Bomb",
+                "The Fearburst",
+                "Cloud Dispersal System"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Which company manufactured the iconic TR-808 drum machine?",
+            "correct_answer": "Roland",
+            "incorrect_answers": [
+                "Technics",
+                "Korg",
+                "Casio"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "In Les Mis&eacute;rables, who is Prison Code 24601?",
+            "correct_answer": "Jean Valjean",
+            "incorrect_answers": [
+                "Marius Pontmercy",
+                "Javert",
+                "Jean Claude Van Damme"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Call of Duty games was a PS3 launch title?",
+            "correct_answer": "Call of Duty 3",
+            "incorrect_answers": [
+                "Call of Duty 4: Modern Warfare",
+                "Call of Duty: World at War",
+                "Call of Duty: Roads to Victory"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Jaguar Cars was previously owned by which car manfacturer?",
+            "correct_answer": "Ford",
+            "incorrect_answers": [
+                "Chrysler",
+                "General Motors",
+                "Fiat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+            "correct_answer": "24",
+            "incorrect_answers": [
+                "8",
+                "16",
+                "32"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?",
+            "correct_answer": "Pablo",
+            "incorrect_answers": [
+                "Esteban",
+                "Carlos",
+                "Duckster"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+            "correct_answer": "Mitochondria",
+            "incorrect_answers": [
+                "Nucleus",
+                "Chloroplast",
+                "Endoplasmic Reticulum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which city hosted the CS:GO Dreamhack Open 2015?",
+            "correct_answer": "Cluj-Napoca",
+            "incorrect_answers": [
+                "Cologne",
+                "Atlanta",
+                "London"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Which classic horror character killed Elizabeth Lavenza?",
+            "correct_answer": "Frankenstein&#039;s Monster",
+            "incorrect_answers": [
+                "Count Dracula",
+                "Werewolf",
+                "The Creature from the Black Lagoon"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In Greek mythology, Hera is the goddess of harvest.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+            "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+            "incorrect_answers": [
+                "&lt;scroll&gt;&lt;/scroll&gt;",
+                "&lt;move&gt;&lt;/move&gt;",
+                "&lt;slide&gt;&lt;/slide&gt;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Battle of the Somme in World War I took place in which country?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "Germany",
+                "Italy",
+                "Austria"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which team was the 2014-2015 NBA Champions?",
+            "correct_answer": "Golden State Warriors",
+            "incorrect_answers": [
+                "Cleveland Cavaliers",
+                "Houston Rockets",
+                "Atlanta Hawks"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was Pok&eacute;mon Diamond &amp; Pearl released in Japan?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2009",
+                "2007",
+                "2008"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Finnish Lapphund dogs were used for herding reindeer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Pok&eacute;mon Chronicles, why was Misty afraid of Gyarados?",
+            "correct_answer": "She crawled into it&#039;s mouth as a baby.",
+            "incorrect_answers": [
+                "She found it scary.",
+                "She was badly injured from it.",
+                "It is part Bug."
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The Original Jack-o-Lanterns were actually hollowed out turnips.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "In 2006, which band released their debut album &quot;A Fever You Can&#039;t Sweat Out&quot;?",
+            "correct_answer": "Panic! At the Disco",
+            "incorrect_answers": [
+                "Twenty One Pilots",
+                "My Chemical Romance",
+                "Fall Out Boy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard atomic weight of a Plutonium nucleus?",
+            "correct_answer": "244",
+            "incorrect_answers": [
+                "94",
+                "481",
+                "128"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+            "correct_answer": "35 Pounds",
+            "incorrect_answers": [
+                "30 Pounds",
+                "40 Pounds",
+                "32.50 Pounds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Rocket League is a game which features..",
+            "correct_answer": "Cars",
+            "incorrect_answers": [
+                "Helicopters",
+                "Planes",
+                "Submarines"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What do the letters in the GMT time zone stand for?",
+            "correct_answer": "Greenwich Mean Time",
+            "incorrect_answers": [
+                "Global Meridian Time",
+                "General Median Time",
+                "Glasgow Man Time"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is a Tetris piece called?",
+            "correct_answer": "Tetromino",
+            "incorrect_answers": [
+                "Tetratile",
+                "Tetris",
+                "Tetripiece"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "According to their longtime nickname, what kind of &quot;duo&quot; are Batman &amp; Robin?",
+            "correct_answer": "Dynamic",
+            "incorrect_answers": [
+                "Dangerous",
+                "Dynastic",
+                "Delirious"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many games are there in the &quot;Colony Wars&quot; series for the PlayStation?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What day did the Battle of Gettysburg begin?",
+            "correct_answer": "July 1, 1863",
+            "incorrect_answers": [
+                "September 17, 1862",
+                "July 21, 1861",
+                "Apr 30, 1863"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which M83 album is the song &quot;Midnight City&quot; featured in?",
+            "correct_answer": "Hurry Up, We&#039;re Dreaming",
+            "incorrect_answers": [
+                "Saturdays = Youth",
+                "Before the Dawn Heals Us",
+                "Junk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?",
+            "correct_answer": "Ctrl + C",
+            "incorrect_answers": [
+                "Ctrl + X",
+                "Alt + C",
+                "Alt + X"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which Japanese company is the world&#039;s largest manufacturer of motorcycles?",
+            "correct_answer": "Honda",
+            "incorrect_answers": [
+                "Yamaha",
+                "Suzuki",
+                "Kawasaki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which achievement name is shared between Team Fortress 2 and Left 4 Dead 2?",
+            "correct_answer": "Rode Hard, Put Away Wet",
+            "incorrect_answers": [
+                "The Quick and the Dead",
+                "Cache Grab",
+                "F in Chemistry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which video game was recalled for containing a hidden, playable South Park episode?",
+            "correct_answer": "Tiger Woods 99 PGA Tour",
+            "incorrect_answers": [
+                "Tony Hawk&#039;s Pro Skater 3",
+                "Sonic Adventure",
+                "Madden 99"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did Norway become free from Sweden?",
+            "correct_answer": "1905",
+            "incorrect_answers": [
+                "1925",
+                "1814",
+                "1834"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The pantheon in Rome was used to worship what god?",
+            "correct_answer": "Any god they wanted",
+            "incorrect_answers": [
+                "Athena",
+                "Zeus",
+                "Both Athena and Zeus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What city  has the busiest airport in the world?",
+            "correct_answer": "Atlanta, Georgia USA",
+            "incorrect_answers": [
+                "London, England",
+                "Chicago,Illinois ISA",
+                "Tokyo,Japan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The protagonist of the hit game, Half-Life 2 is called:",
+            "correct_answer": "Gordon Freeman",
+            "incorrect_answers": [
+                "Alyx Vance",
+                "Isaac Kleiner",
+                "Wallace Breen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the original release date of Grand Theft Auto V?",
+            "correct_answer": "September 17, 2013",
+            "incorrect_answers": [
+                "August 17, 2013",
+                "April 14, 2015",
+                "November 18, 2014"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the second-generation Pok&eacute;mon games, which Pok&eacute;mon can you start with?",
+            "correct_answer": "Chikorita, Cyndaquil, and Totodile",
+            "incorrect_answers": [
+                "Bulbasaur, Charmander, and Squirtle",
+                "Treecko,Torchic, and Mudkip",
+                "Grassy, Firey, and Watery"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?",
+            "correct_answer": "Dave Navarro",
+            "incorrect_answers": [
+                "Tom Morello ",
+                "Billy Corgan",
+                "Ed O&#039;Brien"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+            "correct_answer": "Jill",
+            "incorrect_answers": [
+                "Dana",
+                "Alma",
+                "Anna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What song on ScHoolboy Q&#039;s album Black Face LP featured Kanye West?",
+            "correct_answer": "THat Part",
+            "incorrect_answers": [
+                "Neva CHange",
+                "Big Body",
+                "Blank Face"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did Norway get its constitution?",
+            "correct_answer": "1814",
+            "incorrect_answers": [
+                "1932",
+                "1905",
+                "1854"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The band &quot;Panic! At the Disco&quot; has released 4 albums total",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show &quot;Rick and Morty&quot;?",
+            "correct_answer": "Slam dunk, nothing but net!",
+            "incorrect_answers": [
+                "Hit the sack, Jack!",
+                "Rikki-Tikki-Tavi, biatch!",
+                "Wubba-lubba-dub-dub!"
+            ]
+        }
+    ]
+}

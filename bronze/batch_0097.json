@@ -1,0 +1,581 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What was the first James Bond film?",
+            "correct_answer": "Dr. No",
+            "incorrect_answers": [
+                "Goldfinger",
+                "From Russia With Love",
+                "Thunderball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What zodiac sign is represented by a pair of scales?",
+            "correct_answer": "Libra",
+            "incorrect_answers": [
+                "Aries",
+                "Capricorn",
+                "Sagittarius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Pok&eacute;mon Sun and Moon&quot;, Team Skull took over which town?",
+            "correct_answer": "Po Town",
+            "incorrect_answers": [
+                "Heahea City",
+                "Tapu Village",
+                "Iki Town"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Who is the Egyptian god of reproduction and lettuce?",
+            "correct_answer": "Min",
+            "incorrect_answers": [
+                "Menu",
+                "Mut",
+                "Meret"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+            "correct_answer": "Sal DeLuca and Finn O&#039;Leary",
+            "incorrect_answers": [
+                "Richtofen",
+                "Al Arlington and Sal DeLuca",
+                "Jessica Rose and Jack Vincent"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What event led to Liechenstein adding a crown to its flag?",
+            "correct_answer": "The 1936 Olympics",
+            "incorrect_answers": [
+                "Coronation of Prince Johann I Joseph in 1805",
+                "Charles VI&#039;s decree in 1719",
+                "Signing of the 1862 Constitution of Liechtenstein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which type of rock is created by intense heat AND pressure?",
+            "correct_answer": "Metamorphic",
+            "incorrect_answers": [
+                "Sedimentary",
+                "Igneous",
+                "Diamond"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Pink Floyd&#039;s 1973 album &quot;Animals&quot; features a photograph of Battersea Power Station.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+            "correct_answer": "Custard and Raspberry Sauce",
+            "incorrect_answers": [
+                "Strawberry Ice Cream",
+                "Cherry Yogurt",
+                "Raspberry Sorbet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is Canada&#039;s smallest province?",
+            "correct_answer": "Prince Edward Island",
+            "incorrect_answers": [
+                "New Brunswick",
+                "Nova Scotia",
+                "Yukon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who is the star of the AMC series Breaking Bad?",
+            "correct_answer": "Walter White",
+            "incorrect_answers": [
+                "Saul Goodman",
+                "Jesse Pinkman",
+                "Skyler White"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Throughout the entirety of &quot;Dragon Ball Z&quot;, Goku only kills two characters: a miniboss named Yakon and Kid Buu.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the first Studio Album to be released on the Internet with a &quot;Pay-What-You-Want&quot; price?",
+            "correct_answer": "In Rainbows",
+            "incorrect_answers": [
+                "The Help Album",
+                "Skrillex and Diplo Present Jack &Uuml;",
+                "Blackstar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does SSD stand for?",
+            "correct_answer": "Solid State Drive",
+            "incorrect_answers": [
+                "Solution Source Disk",
+                "Solid State Disk",
+                "Source Solution Drive"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these is NOT a city in India?",
+            "correct_answer": "Islamabad",
+            "incorrect_answers": [
+                "Hyderabad",
+                "Ahmedabad",
+                "Ghaziabad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+            "correct_answer": "Chinese",
+            "incorrect_answers": [
+                "Japanese",
+                "Russian",
+                "Indian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which game does a character say, &quot;Sometimes, I dream about cheese&quot;?",
+            "correct_answer": "Half Life 2",
+            "incorrect_answers": [
+                "Team Fortress 2",
+                "Dark Souls",
+                "Serious Sam: The Second Encounter"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+            "correct_answer": "8 hours",
+            "incorrect_answers": [
+                "4 hours",
+                "12 hours",
+                "5 hours"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Who patented a steam engine that produced continuous rotary motion?",
+            "correct_answer": "James Watt",
+            "incorrect_answers": [
+                "Nikola Tesla",
+                "Albert Einstein",
+                "Alessandro Volta"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The Sun is considered a star.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?",
+            "correct_answer": "Caroline",
+            "incorrect_answers": [
+                "Abigail",
+                "Haley",
+                "Leah"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of these is not a layer in the OSI model for data communications?",
+            "correct_answer": "Connection Layer",
+            "incorrect_answers": [
+                "Application Layer",
+                "Transport Layer",
+                "Physical Layer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Hungary is the only country in the world beginning with H.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What major programming language does Unreal Engine 4 use?",
+            "correct_answer": "C++",
+            "incorrect_answers": [
+                "Assembly",
+                "C#",
+                "ECMAScript"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Psych-Horror &quot;Eternal Darkness: Sanity&#039;s Requiem&quot;, developed by Silicon Knights in 2002, was published by who and on what platform?",
+            "correct_answer": "Nintendo&reg; Co. Ltd. | GameCube&trade;",
+            "incorrect_answers": [
+                "Sony&reg; Computer Entertainment&trade; Inc. | PlayStation&reg; 2",
+                "Microsoft&reg; Game Studios&trade; | XBox&trade;",
+                "Sega&reg; Enterprises Co. Ltd. | Dreamcast&trade;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What geometric shape is generally used for stop signs?",
+            "correct_answer": "Octagon",
+            "incorrect_answers": [
+                "Hexagon",
+                "Circle",
+                "Triangle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": " In which country was the Michelin tire company founded in 1889?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "United Kingdom",
+                "Italy",
+                "Germany"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the protagonist of Metal Gear Solid V: The Phantom Pain?",
+            "correct_answer": "Punished &quot;Venom&quot; Snake",
+            "incorrect_answers": [
+                "Miller",
+                "Solid Snake",
+                "Ocelot"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "There is 47 prefectures in Japan.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the currency of Poland?",
+            "correct_answer": "Złoty",
+            "incorrect_answers": [
+                "Ruble",
+                "Euro",
+                "Krone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?",
+            "correct_answer": "Sheik",
+            "incorrect_answers": [
+                "Samus",
+                "Lucas",
+                "Mega Man"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Stanley Kubrick&#039;s &quot;Dr. Strangelove&quot; (1964) originally ended with a large pie fight in the war room.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following is not in the Indo-European language family?",
+            "correct_answer": "Finnish",
+            "incorrect_answers": [
+                "English",
+                "Hindi",
+                "Russian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who plays the Nemesis in the Resident Evil movies?",
+            "correct_answer": "Matthew Taylor",
+            "incorrect_answers": [
+                "Jason Dip",
+                "Eric Mabius",
+                "Jimmy Matts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+            "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+            "incorrect_answers": [
+                "Albus Valum Jetta Mobius Dumbledore",
+                "Albus James Lunae Otto Dumbledore",
+                "Albus Valencium Horatio Kul Dumbledore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Splatoon 2&#039;s Hero Mode, which agent does the player take the role of?",
+            "correct_answer": "Agent 4",
+            "incorrect_answers": [
+                "Agent 1",
+                "Agent 2",
+                "Agent 3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the oldest team in Major League Baseball?",
+            "correct_answer": "Atlanta Braves",
+            "incorrect_answers": [
+                "Chicago Cubs",
+                "Cincinnati Reds",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In August 1964, who introduced the Beatles to cannabis?",
+            "correct_answer": "Bob Dylan",
+            "incorrect_answers": [
+                "Jim Morrison",
+                "Brian Epstein",
+                "Jerry Garcia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many planets make up our Solar System?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Undertale, MEGALOVANIA is a theme for which character?",
+            "correct_answer": "Sans",
+            "incorrect_answers": [
+                "Flowey",
+                "Papyrus",
+                "Undyne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+            "correct_answer": "Snare Drum",
+            "incorrect_answers": [
+                "Cow Bell",
+                "Bass Drum",
+                "Maraca"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+            "correct_answer": "Typewriters",
+            "incorrect_answers": [
+                "Blenders",
+                "Ceiling Fans",
+                "Door Knobs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+            "correct_answer": "Friedrich Engels",
+            "incorrect_answers": [
+                "Robert Owen",
+                "Alexander Kerensky",
+                "Paul Lafargue"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "The set of all algebraic numbers is countable.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
+            "correct_answer": "Mushroom Hill",
+            "incorrect_answers": [
+                "City Escape",
+                "Planet Wisp",
+                "Sky Sanctuary"
+            ]
+        }
+    ]
+}

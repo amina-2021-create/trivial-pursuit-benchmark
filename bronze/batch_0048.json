@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In what year did the manga &quot;Ping Pong&quot; begin serialization?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "2014",
+                "2010",
+                "2003"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who created the indie adventure game &quot;Night in the Woods&quot;?",
+            "correct_answer": "Alec Holowka",
+            "incorrect_answers": [
+                "Ron Gilbert",
+                "Tim Schafer",
+                " Tommy Refenes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the highest number of Michelin stars a restaurant can receive?",
+            "correct_answer": "Three",
+            "incorrect_answers": [
+                "Four",
+                "Five",
+                "Six"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who plays the character of Dennis Reynolds on It&#039;s Always Sunny in Philadelphia?",
+            "correct_answer": "Glenn Howerton",
+            "incorrect_answers": [
+                "Rob McElhenney",
+                "Charlie Day",
+                "Danny DeVito"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+            "correct_answer": "Yale University",
+            "incorrect_answers": [
+                "Princeton University",
+                "Harvard University",
+                "Columbia University"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "Which of the following famous mathematicians died in a duel at the age of 20?",
+            "correct_answer": "Galois",
+            "incorrect_answers": [
+                "Abel",
+                "Euler",
+                "Gauss"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the collective noun for vultures?",
+            "correct_answer": "Wake",
+            "incorrect_answers": [
+                "Ambush",
+                "Building",
+                "Gaze"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In 2019, Minecraft outsold Tetris to become the world&#039;s best-selling video game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "What is the fourth digit of &pi;?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...",
+            "correct_answer": "x86 Assembly",
+            "incorrect_answers": [
+                "C++",
+                "C",
+                "ALGOL"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;Little Lost Girl&quot;?",
+            "correct_answer": "Origins",
+            "incorrect_answers": [
+                "Revelations",
+                "Moon",
+                "Tranzit"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+            "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+            "incorrect_answers": [
+                "Christopher Nolan",
+                "David Fincher",
+                "Wes Anderson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many Wii consoles were sold worldwide?",
+            "correct_answer": "101,630,000",
+            "incorrect_answers": [
+                "67,000,000",
+                "148,000,000",
+                "80,000,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the Star Trek universe, what color is Vulcan blood?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Blue",
+                "Red",
+                "Purple"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+            "correct_answer": "Seinfeld",
+            "incorrect_answers": [
+                "Frasier",
+                "Becker",
+                "Friends"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Scotland?",
+            "correct_answer": "Edinburgh",
+            "incorrect_answers": [
+                "Glasgow",
+                "Dundee",
+                "London"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which retro video game was released first?",
+            "correct_answer": "Space Invaders",
+            "incorrect_answers": [
+                "Galaga",
+                "Pac-Man",
+                "Asteroids"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What is the derivative of sin(x)",
+            "correct_answer": "cos(x)",
+            "incorrect_answers": [
+                "csc(x)",
+                "-cos(x)",
+                "-sin(x)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+            "correct_answer": "Zodiac",
+            "incorrect_answers": [
+                "Scorpio",
+                "Tiger Mafia",
+                "The Union"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What happened on June 6, 1944?",
+            "correct_answer": "D-Day",
+            "incorrect_answers": [
+                "Atomic bombings of Hiroshima and Nagasaki",
+                "Attack on Pearl Harbor",
+                "The Liberation of Paris"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+            "correct_answer": "Electric Company",
+            "incorrect_answers": [
+                "Water Works",
+                "Chance",
+                "Community Chest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the real name of Canadian electronic music producer deadmau5?",
+            "correct_answer": "Joel Zimmerman",
+            "incorrect_answers": [
+                "Sonny Moore",
+                "Adam Richard Wiles",
+                "Thomas Wesley Pentz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "The main six year old protagonist in Calvin and Hobbes is named after what theologian?",
+            "correct_answer": "John Calvin",
+            "incorrect_answers": [
+                "Calvin Klein",
+                "Calvin Coolidge",
+                "Phillip Calvin McGraw"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call of Duty: Black Ops III&quot; Zombies, what does completing all the main easter eggs reward you with?",
+            "correct_answer": "1,000,000 XP",
+            "incorrect_answers": [
+                "Juggernog at the start of each game",
+                "50 Liquid Diviniums",
+                "All three options."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+            "correct_answer": "The Cure",
+            "incorrect_answers": [
+                "The Smiths",
+                "Echo &amp; the Bunnymen",
+                "New Order"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The creeper in Minecraft was the result of a bug while implementing which creature?",
+            "correct_answer": "Pig",
+            "incorrect_answers": [
+                "Zombie",
+                "Chicken",
+                "Cow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "How many albums did King Gizzard &amp; the Lizard Wizard release in 2017?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "3",
+                "6",
+                "2"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the musical artist who released the hit song, &quot;Love Song,&quot; in 2007?",
+            "correct_answer": "Sara Bareilles",
+            "incorrect_answers": [
+                "Taylor Swift",
+                "Katy Perry",
+                "Sarah Silverman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who created the 2011 Video Game &quot;Minecraft&quot;?",
+            "correct_answer": "Markus Persson",
+            "incorrect_answers": [
+                "Jens Bergensten",
+                "Daniel Rosenfeld",
+                "Carl Manneh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Super Smash Bros. Ultimate, which of the following pair of characters are NOT considered &quot;Echo Fighters&quot;?",
+            "correct_answer": "Link &amp; Young Link",
+            "incorrect_answers": [
+                "Marth &amp; Lucina",
+                "Richter &amp; Simon",
+                "Peach &amp; Daisy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Touhou character is a Hell Raven?",
+            "correct_answer": "Utsuho Reiuji",
+            "incorrect_answers": [
+                "Flandre Scarlet",
+                "Marisa Kirisame",
+                "Aya Shameimaru"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The RMS Titanic sunk during her maiden voyage from Southampton, England to which American city?",
+            "correct_answer": "New York City",
+            "incorrect_answers": [
+                "Boston ",
+                "Philadelphia",
+                "Washington"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "In Shakespeare&#039;s play Julius Caesar, Caesar&#039;s last words were...",
+            "correct_answer": "Et tu, Brute? ",
+            "incorrect_answers": [
+                "Iacta alea est!",
+                "Vidi, vini, vici.",
+                "Aegri somnia vana."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+            "correct_answer": "Heartbleed",
+            "incorrect_answers": [
+                "Shellshock",
+                "Corrupted Blood",
+                "Shellscript"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What technology is named after a tenth-century ruler of Denmark and Norway?",
+            "correct_answer": "Bluetooth",
+            "incorrect_answers": [
+                "Wi-Fi",
+                "GPS",
+                "Internet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+            "correct_answer": "1000",
+            "incorrect_answers": [
+                "512",
+                "1024",
+                "500"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which former US president used &quot;Let&#039;s Make America Great Again&quot; as his campaign slogan before Donald Trump&#039;s campaign?",
+            "correct_answer": "Ronald Reagan",
+            "incorrect_answers": [
+                "Jimmy Carter",
+                "Gerald Ford",
+                "Richard Nixon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is a polygon with eight sides called?",
+            "correct_answer": "Octagon",
+            "incorrect_answers": [
+                "Hexagon",
+                "Nanagon",
+                "Heptagon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Mary Shelley is the author of what classic horror story?",
+            "correct_answer": "Frankenstein",
+            "incorrect_answers": [
+                "Dracula",
+                "Strange Case of Dr Jekyll and Mr Hyde",
+                "The Legend of Sleepy Hollow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is a Burgee?",
+            "correct_answer": "A flag",
+            "incorrect_answers": [
+                "A rope",
+                "A window",
+                "A type of food"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Indonesia?",
+            "correct_answer": "Jakarta",
+            "incorrect_answers": [
+                "Bandung",
+                "Medan",
+                "Palembang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these video game series have NOT had a promotional item appear in Team Fortress 2?",
+            "correct_answer": "Half-Life",
+            "incorrect_answers": [
+                "Quake",
+                "The Binding of Isaac",
+                "Fallout"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+            "correct_answer": "Big Mouth Billy Bass",
+            "incorrect_answers": [
+                "Big Billy Bass",
+                "Singing Fish",
+                "Sardeen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following is NOT classified as a Semetic language?",
+            "correct_answer": "Sumerian",
+            "incorrect_answers": [
+                "Maltese",
+                "Akkadian",
+                "Mandaic"
+            ]
+        }
+    ]
+}

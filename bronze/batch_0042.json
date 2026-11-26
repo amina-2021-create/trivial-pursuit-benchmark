@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+            "correct_answer": "Titan",
+            "incorrect_answers": [
+                "Europa",
+                "Miranda",
+                "Callisto"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the children&#039;s book series, where is Paddington Bear originally from?",
+            "correct_answer": "Peru",
+            "incorrect_answers": [
+                "India",
+                "Iceland",
+                "Canada"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Where was Abraham Lincoln when he was assassinated by John Wilkes Booth in 1865?",
+            "correct_answer": "At the theatre",
+            "incorrect_answers": [
+                "On a boat",
+                "On his horse",
+                "In bed"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Silent Hill 2, who was James Sunderland&#039;s late wife?",
+            "correct_answer": "Mary",
+            "incorrect_answers": [
+                "Maria",
+                "Angela",
+                "Laura"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+            "correct_answer": "print(&quot;Hello World&quot;)",
+            "incorrect_answers": [
+                "console.log(&quot;Hello World&quot;)",
+                "echo &quot;Hello World&quot;",
+                "printf(&quot;Hello World&quot;)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "This composer worked on the 2003 TV series Battlestar Galatica.",
+            "correct_answer": "Bear McCreary",
+            "incorrect_answers": [
+                "Ramin Djawadi",
+                "Jeremy Soule",
+                "Harry Gregson-Williams"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Ms. Kobayashi&#039;s Dragon Maid, who is Kobayashi&#039;s maid?",
+            "correct_answer": "Tohru",
+            "incorrect_answers": [
+                "Lucoa",
+                "Kanna",
+                "Elma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "In which city is the Big Nickel located in Canada?",
+            "correct_answer": "Sudbury, Ontario",
+            "incorrect_answers": [
+                "Calgary, Alberta",
+                "Halifax, Nova Scotia ",
+                "Victoria, British Columbia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of the following African countries was most successful in resisting colonization?",
+            "correct_answer": "Ethiopia",
+            "incorrect_answers": [
+                "C&ocirc;te d&rsquo;Ivoire",
+                "Congo",
+                "Namibia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What major event caused the events of Half-Life 1?",
+            "correct_answer": "The Resonance Cascade ",
+            "incorrect_answers": [
+                "The Blue Shift",
+                "The Seven Hour War",
+                "The Narbacular Drop"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+            "correct_answer": "Irish Republican Army",
+            "incorrect_answers": [
+                "Irish Rebel Alliance",
+                "Irish Reformation Army",
+                "Irish-Royal Alliance"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Until Dawn, both characters Sam and Mike cannot be killed under any means until the final chapter of the game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Portal 2, the iconic character GLaDOS is turned into:",
+            "correct_answer": "A potato",
+            "incorrect_answers": [
+                "A tomato",
+                "A lemon",
+                "An apple"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these countries is NOT a part of the Asian continent?",
+            "correct_answer": "Suriname",
+            "incorrect_answers": [
+                "Georgia",
+                "Russia",
+                "Singapore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+            "correct_answer": "OCBC",
+            "incorrect_answers": [
+                "HSBC",
+                "Standard Chartered",
+                "Bank of China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Pokemon Types was present in the original games, Red and Blue?",
+            "correct_answer": "Ice",
+            "incorrect_answers": [
+                "Steel",
+                "Dark",
+                "Fairy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of these places is a location in Cornwall?",
+            "correct_answer": "Barcelona",
+            "incorrect_answers": [
+                "Madrid",
+                "Alicante",
+                "Lisbon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?",
+            "correct_answer": "Timbermare",
+            "incorrect_answers": [
+                "Loyal Pegasus",
+                "Vryn Wingmare",
+                "Sungrace Pegasus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the 2011 TV anime series, &quot;THE iDOLM@STER&quot;, what was the name of Iori&#039;s stuffed toy bunny?",
+            "correct_answer": "Charles",
+            "incorrect_answers": [
+                "Bubsy",
+                "Kero",
+                "Usagi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "How long is an IPv6 address?",
+            "correct_answer": "128 bits",
+            "incorrect_answers": [
+                "32 bits",
+                "64 bits",
+                "128 bytes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "In Jeff Wayne&#039;s Musical Version of War of the Worlds, the chances of anything coming from Mars are...",
+            "correct_answer": "A million to one",
+            "incorrect_answers": [
+                "A billion to one",
+                "A trillion to one",
+                "A hundred to one"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does the &quot;MP&quot; stand for in MP3?",
+            "correct_answer": "Moving Picture",
+            "incorrect_answers": [
+                "Music Player",
+                "Multi Pass",
+                "Micro Point"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which drive form was added into Kingdom Hearts II Final Mix?",
+            "correct_answer": "Limit Form",
+            "incorrect_answers": [
+                "Valor Form",
+                "Wisdom Form",
+                "Anti Form"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+            "correct_answer": "Brown",
+            "incorrect_answers": [
+                "Green",
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Nutella is produced by the German company Ferrero.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which Death Grips album is the only one to feature a band member?",
+            "correct_answer": "No Love Deep Web",
+            "incorrect_answers": [
+                "Bottomless Pit",
+                "The Money Store",
+                "The Powers That B"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "In what sport does Fanny Chmelar compete for Germany?",
+            "correct_answer": "Skiing",
+            "incorrect_answers": [
+                "Swimming",
+                "Showjumping",
+                "Gymnastics"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Second Boer War in 1899 was fought where?",
+            "correct_answer": "South Africa",
+            "incorrect_answers": [
+                "Argentina",
+                "Nepal",
+                "Bulgaria"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the artist of the recent new album the Uncanny Valley?",
+            "correct_answer": "Perturbator",
+            "incorrect_answers": [
+                "Carpenter Brut",
+                "GOST",
+                "Dan Terminus "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct_answer": "Kars",
+            "incorrect_answers": [
+                "Erina Joestar",
+                "Santana",
+                "Wired Beck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+            "correct_answer": "Auguste Picard",
+            "incorrect_answers": [
+                "Jacques Piccard",
+                "Will Morris",
+                "J. Cecil Maby"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+            "correct_answer": "Bruce Lee",
+            "incorrect_answers": [
+                "Jackie Chan",
+                "Jet Li",
+                " Yun-Fat Chow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Undertale&quot;, who was Mettaton&#039;s creator?",
+            "correct_answer": "Alphys",
+            "incorrect_answers": [
+                "Undyne",
+                "Sans",
+                "Asgore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who was the first Big Brother US winner to win with a perfect game?",
+            "correct_answer": "Dan Gheesling",
+            "incorrect_answers": [
+                "Ian Terry",
+                "Jordan Lloyd",
+                "Rachael Reilly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following former Yugoslavian states is landlocked?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": [
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "Croatia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+            "correct_answer": "Nuts",
+            "incorrect_answers": [
+                "Nothing",
+                "Fruit",
+                "Seaweed"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+            "correct_answer": "Puma",
+            "incorrect_answers": [
+                "Nike",
+                "Adidas",
+                "Reebok"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Pok&eacute;mon Sun and Moon, a male Salandit can evolve to a Salazzle.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Which Pokemon is #39 in the National Pokedex?",
+            "correct_answer": "Jigglypuff",
+            "incorrect_answers": [
+                "Pikachu",
+                "Psyduck",
+                "Fearow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+            "correct_answer": "Bard",
+            "incorrect_answers": [
+                "Bilbo Baggins",
+                "Gandalf the Grey",
+                "Frodo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of these car models are produced by Lamborghini?",
+            "correct_answer": "Aventador",
+            "incorrect_answers": [
+                "Huayra",
+                "918",
+                "Chiron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+            "correct_answer": "Drums",
+            "incorrect_answers": [
+                "Saxophone",
+                "Violin",
+                "Actual Live Birds Singing"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The CEO of tech company Apple following Steve Jobs is named Tim Apple.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the first MMORPG to popularize the genre?",
+            "correct_answer": "Ultima Online",
+            "incorrect_answers": [
+                "World of Warcraft",
+                "Meridian 59",
+                "Guild Wars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+            "correct_answer": "Halo",
+            "incorrect_answers": [
+                "Battlefield",
+                "Call of Duty",
+                "Borderlands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Which company developed the Hololens?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": [
+                "HTC",
+                "Oculus",
+                "Tobii"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What are the scales on all snakes and most lizards are made of?",
+            "correct_answer": "Keratin",
+            "incorrect_answers": [
+                "Ecdysis",
+                "Epidermis",
+                "Ankyloglossia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+            "correct_answer": "Blue Sky",
+            "incorrect_answers": [
+                "Baby Blue",
+                "Rock Candy",
+                "Pure Glass"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?",
+            "correct_answer": "Africa",
+            "incorrect_answers": [
+                "Europe",
+                "Asia",
+                "South America"
+            ]
+        }
+    ]
+}

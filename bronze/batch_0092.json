@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
+            "correct_answer": "Microwave",
+            "incorrect_answers": [
+                "Computer",
+                "Refrigerator",
+                "Televison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following created and directed the Katamari Damacy series?",
+            "correct_answer": "Keita Takahashi",
+            "incorrect_answers": [
+                "Hideki Kamiya",
+                "Shu Takumi",
+                "Shinji Mikami"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What does a funambulist walk on?",
+            "correct_answer": "A Tight Rope",
+            "incorrect_answers": [
+                "Broken Glass",
+                "Balls",
+                "The Moon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+            "correct_answer": "A",
+            "incorrect_answers": [
+                "X",
+                "D",
+                "B"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio produced &quot;Log Horizon&quot;?",
+            "correct_answer": "Satelite",
+            "incorrect_answers": [
+                "Sunrise",
+                "Xebec",
+                "Production I.G"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Approximately how many Apple I personal computers were created?",
+            "correct_answer": "200",
+            "incorrect_answers": [
+                "100",
+                "500",
+                "1000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the town in which Lily and James Potter are buried?",
+            "correct_answer": "Godric&#039;s Hollow",
+            "incorrect_answers": [
+                "Hogsmeade",
+                "Ottery St. Catchpole",
+                "Little Hangleton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which song in Drake&#039;s &quot;Views&quot; features Future?",
+            "correct_answer": "Grammys",
+            "incorrect_answers": [
+                "Too Good",
+                "Faithful",
+                "Pop Style"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?",
+            "correct_answer": "Enola Gay",
+            "incorrect_answers": [
+                "Necessary Evil",
+                "The Great Artiste",
+                "Full House"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In &quot;The Hobbit,&quot; who was head of the White Council? ",
+            "correct_answer": "Saruman",
+            "incorrect_answers": [
+                "Lady Galadriel ",
+                "Gandalf",
+                "Elrond"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+            "correct_answer": "Daniel Dreiberg",
+            "incorrect_answers": [
+                "Nelson Gardner",
+                "Hollis Mason",
+                "Adrian Veidt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
+            "correct_answer": "Andariel",
+            "incorrect_answers": [
+                "Valla",
+                "Malthael",
+                "Kashya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Unlike on most salamanders, this part of a newt is flat?",
+            "correct_answer": "Tail",
+            "incorrect_answers": [
+                "Head",
+                "Teeth",
+                "Feet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "A statue of Charles Darwin sits in what London museum?",
+            "correct_answer": "Natural History Museum",
+            "incorrect_answers": [
+                "Tate",
+                "British Museum",
+                "Science Museum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; what is the name of the Military Base island?",
+            "correct_answer": "Sosnovka",
+            "incorrect_answers": [
+                "Novorepnoye",
+                "Mylta",
+                "Yasnaya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+            "correct_answer": "Californian",
+            "incorrect_answers": [
+                "Carpathia",
+                "Cristol",
+                "Commerce"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The M41 Walker Bulldog remains in service in some countries to this day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which Irish village in County Mayo built a tourism industry on the back of an alleged appearance by the Virgin Mary in 1879?",
+            "correct_answer": "Knock",
+            "incorrect_answers": [
+                "Ballycastle",
+                "Swinford",
+                "Turlough"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How many fingers does a single human hand have?",
+            "correct_answer": "Four",
+            "incorrect_answers": [
+                "Five",
+                "Ten",
+                "Eight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "How many semitones are in an octave?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "7",
+                "11",
+                "14"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Toaru Majutsu no Index&quot; anime, Touma Kamijou is a level 0 esper that has the ability to do what?",
+            "correct_answer": "Dispell any esper or magical powers",
+            "incorrect_answers": [
+                "Teleport",
+                "Make telepathic communications",
+                "Create electricity from his own body"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Minecraft wasn&rsquo;t the original name to Minecraft.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not the name of a city in the Grand Theft Auto series?",
+            "correct_answer": "San Andreas",
+            "incorrect_answers": [
+                "San Fierro",
+                "Las Venturas",
+                "Vice City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What number does the Roman numeral &quot;D&quot; stand for?",
+            "correct_answer": "500",
+            "incorrect_answers": [
+                "100",
+                "1000",
+                "50"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What country is Sean Matsuda from in Street Fighter?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "Japan",
+                "USA",
+                "UK"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the original Doctor Who series (1963), fourth doctor Tom Baker&#039;s scarf was how long?",
+            "correct_answer": "7 Meters",
+            "incorrect_answers": [
+                "10 Meters",
+                "2 Meters",
+                "5 Meters"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first president of the United States?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "James Madison",
+                "Thomas Jefferson",
+                "James K. Polk"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Pink Guy&#039;s debut album was &quot;Pink Season&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+            "correct_answer": "1721",
+            "incorrect_answers": [
+                "1726",
+                "1727",
+                "1724"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "The largest consumer market in 2015 was...",
+            "correct_answer": "The United States of America",
+            "incorrect_answers": [
+                "Germany",
+                "Japan",
+                "United Kingdom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Hunter x Hunter&quot;, what are members in Killua&#039;s family known for being?",
+            "correct_answer": "Assassins",
+            "incorrect_answers": [
+                "Bandits",
+                "Hunters",
+                "Ninjas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend/potential love interest?",
+            "correct_answer": "Sophie",
+            "incorrect_answers": [
+                "Olivia",
+                "Jessica",
+                "Alice"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What is the fourth book of the Old Testament?",
+            "correct_answer": "Numbers",
+            "incorrect_answers": [
+                "Genesis",
+                "Exodus",
+                "Leviticus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The LS7 engine is how many cubic inches?",
+            "correct_answer": "427",
+            "incorrect_answers": [
+                "346",
+                "364",
+                "376"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "How many seasons did &quot;Stargate SG-1&quot; have?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "3",
+                "7",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+            "correct_answer": "The presence or absence of a nucleus",
+            "incorrect_answers": [
+                "The overall size",
+                "The presence or absence of certain organelles",
+                "The mode of reproduction"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",
+            "correct_answer": "Lagwagon",
+            "incorrect_answers": [
+                "Goldfinger",
+                "Less Than Jake",
+                "Lit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which one of these films are shot entirely in one-take?",
+            "correct_answer": "Russian Ark",
+            "incorrect_answers": [
+                "Good Will Hunting",
+                "Birdman",
+                "Schindler&#039;s List"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In AMC&#039;s &quot;The Walking Dead,&quot; the characters Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced in Season 1.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The television show Doctor Who first aired in 1963.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Grand Theft Autumn/Where Is Your Boy is a song by which band?",
+            "correct_answer": "Fall Out Boy",
+            "incorrect_answers": [
+                "Panic! At The Disco",
+                "Paramore",
+                "Blink-182"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The film &quot;2001: A Space Odyssey&quot; was released on December 31st, 2000.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What were the first two blocks in &quot;Minecraft&quot;?",
+            "correct_answer": "Grass and Cobblestone",
+            "incorrect_answers": [
+                "Grass and Stone",
+                "Crafting Table and Cobblestone",
+                "Cobblestone and Stone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+            "correct_answer": "Secret sharing scheme",
+            "incorrect_answers": [
+                "Hashing algorithm",
+                "Asymmetric encryption",
+                "Stream cipher"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What was the name of the planet in &quot;Aliens&quot;?",
+            "correct_answer": "LV-426",
+            "incorrect_answers": [
+                "Weyland Yutani Corporation Base",
+                "FR-838",
+                "DI-621"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+            "correct_answer": "7355608",
+            "incorrect_answers": [
+                "7890728",
+                "7256380",
+                "7726354"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Mobile hardware and software company &quot;Blackberry Limited&quot; was founded in which country?",
+            "correct_answer": "Canada",
+            "incorrect_answers": [
+                "Norway",
+                "United States of America",
+                "United Kingdom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",
+            "correct_answer": "BMW M3 GTR",
+            "incorrect_answers": [
+                "Porsche 911 Turbo",
+                "Nissan 240SX",
+                "Ford Mustang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Where and when was the first cardboard box made for industrial use?",
+            "correct_answer": "England, 1817",
+            "incorrect_answers": [
+                "United States, 1817",
+                "England, 1917",
+                "United States, 1917"
+            ]
+        }
+    ]
+}

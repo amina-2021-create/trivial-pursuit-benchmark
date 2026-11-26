@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who directed the 2017 movie &quot;The Shape of Water&quot;?",
+            "correct_answer": "Guillermo del Toro",
+            "incorrect_answers": [
+                "Steven Spielberg",
+                "James Cameron",
+                "Martin Scorsese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which country is singer Kyary Pamyu Pamyu from?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "South Korea",
+                "China",
+                "Vietnam"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "During pre-production of &quot;Super Mario Bros.&quot;, Mario originally was meant to shoot bullets.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Donald J. Trump&#039;s Middle Name is...",
+            "correct_answer": "John",
+            "incorrect_answers": [
+                "Jeff",
+                "Jerald",
+                "Jason"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+            "correct_answer": "2005",
+            "incorrect_answers": [
+                "1999",
+                "2002",
+                "2008"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+            "correct_answer": "Modernism",
+            "incorrect_answers": [
+                "Neoclassical",
+                "Baroque",
+                "Gothic Revival"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the first permanent English settlement in America?",
+            "correct_answer": "Jamestown",
+            "incorrect_answers": [
+                "New York",
+                "St. John&#039;s",
+                "Plymouth"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these cartoon girlfriends of popular characters first appeared before their boyfriends?",
+            "correct_answer": "Olive Oyl",
+            "incorrect_answers": [
+                "Minnie Mouse",
+                "Lola Bunny",
+                "Daisy Duck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How much does the &#039;AWP&#039; cost in Counter-Strike: Global Offensive?",
+            "correct_answer": "$4750",
+            "incorrect_answers": [
+                "$4500",
+                "$4650",
+                "$5000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The medical term for the belly button is which of the following?",
+            "correct_answer": "Umbilicus",
+            "incorrect_answers": [
+                "Nevus",
+                "Nares",
+                "Paxillus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In the TV Show &quot;Donkey Kong Country&quot;, which episode did the song &quot;Eddie, Let Me Go Back To My Home&quot; play in?",
+            "correct_answer": "It&#039;s a Wonderful Life",
+            "incorrect_answers": [
+                "Message In A Bottle Show",
+                "To The Moon Baboon",
+                "Ape-Nesia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of the following bands is Tom DeLonge not a part of?",
+            "correct_answer": "+44",
+            "incorrect_answers": [
+                "Box Car Racer",
+                "Blink-182",
+                "Angels &amp; Airwaves"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Cry of Fear, which enemy can cause the player to kill themselves if they are wielding a loaded firearm?",
+            "correct_answer": "Drowned",
+            "incorrect_answers": [
+                "Suicider",
+                "Citalopram",
+                "Psycho"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Grant Gustin plays which superhero on the CW show of the same name?",
+            "correct_answer": "The Flash",
+            "incorrect_answers": [
+                "The Arrow",
+                "Black Canary",
+                "Daredevil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "In which Shakespearean play will you find the suicide of Ophelia?",
+            "correct_answer": "Hamlet",
+            "incorrect_answers": [
+                "Macbeth",
+                "Othello",
+                "King Lear"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+            "correct_answer": "ADPCM Sampler",
+            "incorrect_answers": [
+                "FM Synthesizer",
+                "Programmable Sound Generator (PSG)",
+                "PCM Sampler"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+            "correct_answer": "?:",
+            "incorrect_answers": [
+                "??",
+                "if then",
+                "?"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band had hits in 1972 with the songs &quot;Baby I&#039;m A Want You&quot;, &quot;Everything I Own&quot; and &quot;The Guitar Man&quot;",
+            "correct_answer": "Bread",
+            "incorrect_answers": [
+                "America",
+                "Chicago",
+                "Smokie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What five letter word is the motto of the IBM Computer company?",
+            "correct_answer": "Think",
+            "incorrect_answers": [
+                "Click",
+                "Logic",
+                "Pixel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Bikini Atoll is in which country?",
+            "correct_answer": "Marshall Islands",
+            "incorrect_answers": [
+                "Fiji",
+                "Christmas Islands",
+                "Bahamas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?",
+            "correct_answer": "Unggoy",
+            "incorrect_answers": [
+                "Huragok",
+                "Sangheili",
+                "Yanme&#039;e"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the lowest amount of max health you can have in Team Fortress 2?",
+            "correct_answer": "70",
+            "incorrect_answers": [
+                "100",
+                "50",
+                "95"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the &quot;Star Wars&quot; universe, what species is Grand Admiral Thrawn?",
+            "correct_answer": "Chiss",
+            "incorrect_answers": [
+                "Gungans",
+                "Pantorans",
+                "Twi&#039;lek"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "How many points did LeBron James score in his first NBA game?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "19",
+                "69",
+                "41"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+            "correct_answer": "6th",
+            "incorrect_answers": [
+                "2nd",
+                "7th",
+                "4th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+            "correct_answer": "Graviton",
+            "incorrect_answers": [
+                "Z boson",
+                "Tau neutrino",
+                "Gluon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In what year was Tchaikovsky&#039;s 1812 Overture composed?",
+            "correct_answer": "1880",
+            "incorrect_answers": [
+                "1812",
+                "1790",
+                "1840"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which member of &quot;The Beatles&quot; narrated episodes of &quot;Thomas the Tank Engine&quot;?",
+            "correct_answer": "Ringo Starr",
+            "incorrect_answers": [
+                "George Harrison",
+                "John Lennon",
+                "Paul McCartney"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many times do you fight Gilgamesh in &quot;Final Fantasy 5&quot;?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The following Spanish provinces are located in the northern area of Spain except:",
+            "correct_answer": "Murcia",
+            "incorrect_answers": [
+                "Asturias",
+                "Navarre",
+                "Le&oacute;n"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Calvin and Hobbes, what is the name of the principal at Calvin&#039;s school?",
+            "correct_answer": "Mr. Spittle",
+            "incorrect_answers": [
+                "Mr. Boreman",
+                "Mr. Spitling",
+                "Mr. Moe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the mad scientist who owns Planet Express in Futurama?",
+            "correct_answer": "Hubert J. Farnsworth",
+            "incorrect_answers": [
+                "Philip J. Fry",
+                "Rick Sanchez",
+                "Ogden Wernstrom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the state capital of South Dakota?",
+            "correct_answer": "Pierre",
+            "incorrect_answers": [
+                "Sioux Falls",
+                "Rapid City",
+                "Watertown"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Dry ice is the solid form of what substance?",
+            "correct_answer": "Carbon dioxide",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Ammonia",
+                "Oxygen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+            "correct_answer": "Twilight Zone Tower of Terror",
+            "incorrect_answers": [
+                "The Haunted Mansion",
+                "Pirates of the Caribbean",
+                "Peter Pan&#039;s Flight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Johnny Depp made his big-screen acting debut in which film?",
+            "correct_answer": "A Nightmare on Elm Street",
+            "incorrect_answers": [
+                "My Bloody Valentine",
+                "Halloween",
+                "Friday the 13th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+            "correct_answer": "Carlos Sainz Jr.",
+            "incorrect_answers": [
+                "Daniil Kvyat",
+                "Jolyon Palmer",
+                "Rio Haryanto"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which Russian oblast forms a border with Poland?",
+            "correct_answer": "Kaliningrad",
+            "incorrect_answers": [
+                "Samara",
+                "Nizhny Novgorod",
+                "Omsk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these founding fathers of the United States of America later became president?",
+            "correct_answer": "James Monroe",
+            "incorrect_answers": [
+                "Alexander Hamilton",
+                "Samuel Adams",
+                "Roger Sherman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the chemical formula for ammonia?",
+            "correct_answer": "NH3",
+            "incorrect_answers": [
+                "CO2",
+                "NO3",
+                "CH4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the first level in &quot;Call of Duty: World at War&quot;?",
+            "correct_answer": "Semper Fi",
+            "incorrect_answers": [
+                "Ring of Steel",
+                "Vendetta",
+                "Eviction"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the alligator in Where&#039;s My Water?",
+            "correct_answer": "Swampy",
+            "incorrect_answers": [
+                "Cranky",
+                "Crocky",
+                "Justice"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following weapons in &quot;Counter-Strike: Global Offensive&quot; does not have a right-click function?",
+            "correct_answer": "XM1014",
+            "incorrect_answers": [
+                "SG553",
+                "R8 Revolver",
+                "USP-S"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the cancelled sequel of Team Fortress?",
+            "correct_answer": "Team Fortress 2: Brotherhood of Arms",
+            "incorrect_answers": [
+                "Team Fortress 2: Desert Mercenaries",
+                "Team Fortress 2: Operation Gear Grinder",
+                "Team Fortress 2: Return to Classic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The city of Rockport is featured in which of the following video games?",
+            "correct_answer": "Need for Speed: Most Wanted (2005)",
+            "incorrect_answers": [
+                "Infamous 2",
+                "Saints Row: The Third",
+                "Burnout Revenge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the capital of Suriname?",
+            "correct_answer": "Paramaribo",
+            "incorrect_answers": [
+                "Antananarivo",
+                "Tegucigalpa",
+                "Sucre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+            "correct_answer": "Jason",
+            "incorrect_answers": [
+                "Castor",
+                "Daedalus",
+                "Odysseus"
+            ]
+        }
+    ]
+}

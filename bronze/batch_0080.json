@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the 1986 film &quot;The Wraith&quot;, what concept car is used for the Turbo Interceptor?",
+            "correct_answer": "Dodge M4S",
+            "incorrect_answers": [
+                "Pontiac Banshee",
+                "General Motors Firebird",
+                "Dodge Copperhead"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What country is Cory in the House set in?",
+            "correct_answer": "The United States of America",
+            "incorrect_answers": [
+                "Canada",
+                "Venezuala",
+                "England"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who was the youngest member of The Beatles?",
+            "correct_answer": "George Harrison",
+            "incorrect_answers": [
+                "Paul McCartney",
+                "John Lennon",
+                "Ringo Starr"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
+            "correct_answer": "Sour Appletini",
+            "incorrect_answers": [
+                "Fringe Weaver",
+                "Piano Man",
+                "Bad Touch"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Portal, the Companion Cube&#039;s ARE sentient.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which city is the seat of government of the Netherlands?",
+            "correct_answer": "The Hague",
+            "incorrect_answers": [
+                "Amsterdam",
+                "Utrecht",
+                "Rotterdam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+            "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+            "incorrect_answers": [
+                "A lack of nutrition in microenviroments",
+                "The nitrogen level in soil",
+                "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+            "correct_answer": "Aphie",
+            "incorrect_answers": [
+                "Flik",
+                "Hopper",
+                "Dot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, &#039;Top Gear&#039;?",
+            "correct_answer": "Jessica",
+            "incorrect_answers": [
+                "Angela",
+                "Erica",
+                "Sandra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which of the following vehicles from Ford is named after a WW2 Fighter Plane?",
+            "correct_answer": "Mustang",
+            "incorrect_answers": [
+                "Explorer",
+                "Ranger",
+                "Galaxy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does LTS stand for in the software market?",
+            "correct_answer": "Long Term Support",
+            "incorrect_answers": [
+                "Long Taco Service",
+                "Ludicrous Transfer Speed",
+                "Ludicrous Turbo Speed"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In the Hellboy universe, who founded the BPRD?",
+            "correct_answer": "Trevor Bruttenholm",
+            "incorrect_answers": [
+                "Kate Corrigan",
+                "Johann Kraus",
+                "Benjamin Daimio"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+            "correct_answer": "Left Alone",
+            "incorrect_answers": [
+                "What About Us",
+                "This Song Is Not About A Girl",
+                "Drop The Game"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+            "correct_answer": "100 Megatons",
+            "incorrect_answers": [
+                "200 Megatons",
+                "75 Megatons",
+                "150 Megatons"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of the following movies was not based on a novel by Stephen King? ",
+            "correct_answer": "The Thing",
+            "incorrect_answers": [
+                "Carrie",
+                "Misery",
+                "The Green Mile"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "In most traditions, who was the wife of Zeus?",
+            "correct_answer": "Hera",
+            "incorrect_answers": [
+                "Aphrodite",
+                "Athena",
+                "Hestia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "2",
+                "6",
+                "1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+            "correct_answer": "C18H27NO3",
+            "incorrect_answers": [
+                "C21H23NO3",
+                "C6H4Cl2",
+                "C13H25NO4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The rights to the &quot;Rayman&quot; series are owned by which company?",
+            "correct_answer": "Ubisoft",
+            "incorrect_answers": [
+                "Nintendo",
+                "EA",
+                "Sony"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&quot;Friday,&quot; the single by Rebecca Black, was released in February 10th, 2011.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which town was Seamus &quot;Sledge&quot; Cowden from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+            "correct_answer": "John O&#039;Groats",
+            "incorrect_answers": [
+                "Brawl",
+                "Kearvaig",
+                "Talmine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+            "correct_answer": "The Kingfish",
+            "incorrect_answers": [
+                "The Champ",
+                "The Hoot Owl",
+                "The Oracle"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Adolf Hitler was tried at the Nuremberg trials.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "HTML is what type of language?",
+            "correct_answer": "Markup Language",
+            "incorrect_answers": [
+                "Macro Language",
+                "Programming Language",
+                "Scripting Language"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these African countries displays a gun on their flag?",
+            "correct_answer": "Mozambique",
+            "incorrect_answers": [
+                "Uganda",
+                "Ethiopia",
+                "Nigeria"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Chronic Wasting Disease (CWD) exclusively infects members of which family of animals?",
+            "correct_answer": "Cervids",
+            "incorrect_answers": [
+                "Hominids",
+                "Felids",
+                "Canids"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of the following stars was not mentioned in the lyrics of Madonna&#039;s &quot;Vogue&quot;?",
+            "correct_answer": "Mae West",
+            "incorrect_answers": [
+                "Marlene Dietrich",
+                "Lana Turner",
+                "Grace Kelly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the creator of the free, open-source rhythm game &#039;osu!&#039;?",
+            "correct_answer": "Dean &#039;Peppy&#039; Herbert",
+            "incorrect_answers": [
+                "Daisuke &#039;Pixel&#039; Amaya",
+                "Eric &#039;ConcernedApe&#039; Barone",
+                "Toby &#039;FwugRadiation&#039; Fox"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the browser game Kantai Collection heavily inspired by?",
+            "correct_answer": "Second World War",
+            "incorrect_answers": [
+                "Manga",
+                "World of Warcraft",
+                "An Anime"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+            "correct_answer": "Athena",
+            "incorrect_answers": [
+                "Ares",
+                "Artemis",
+                "Apollo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Need for Speed: Underground, what car does Eddie drive?",
+            "correct_answer": "Nissan Skyline GT-R (R34)",
+            "incorrect_answers": [
+                "Mazda RX-7 FD3S",
+                "Acura Integra Type R",
+                "Subaru Impreza 2.5 RS"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "How many countries share a land border with Russia? (Not including disputed territories)",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "12",
+                "10",
+                "8"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "How many known living species of hyenas are there?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "8",
+                "2",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",
+            "correct_answer": "Batman",
+            "incorrect_answers": [
+                "Superman",
+                "Iron Man",
+                "Spiderman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft lore, who was first to have the title &quot;The Ashbringer&quot;?",
+            "correct_answer": "Alexandros Mograine",
+            "incorrect_answers": [
+                "Tirion Fordring",
+                "Arthas Menethil",
+                "Uther the Lightbringer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the game &quot;Galaga&quot; was a sequel to?",
+            "correct_answer": "Galaxian",
+            "incorrect_answers": [
+                "Galactica",
+                "Space Invaders",
+                "Galactic Wars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was the Sega Genesis released in Japan?",
+            "correct_answer": "October 29, 1988",
+            "incorrect_answers": [
+                "August 14, 1989",
+                "November 30, 1990",
+                "September 1, 1986"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "By which name is Ramon Estevez better known as?",
+            "correct_answer": "Martin Sheen",
+            "incorrect_answers": [
+                "Charlie Sheen",
+                "Ramon Sheen",
+                "Emilio Estevez"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What year did World War II end?",
+            "correct_answer": "1945",
+            "incorrect_answers": [
+                "1943",
+                "1947",
+                "1950"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "In which country is located the municipality of Arteijo?",
+            "correct_answer": "Spain",
+            "incorrect_answers": [
+                "Morocco",
+                "France",
+                "Belgium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "The asteroid belt is located between which two planets?",
+            "correct_answer": "Mars and Jupiter",
+            "incorrect_answers": [
+                "Jupiter and Saturn",
+                "Mercury and Venus",
+                "Earth and Mars"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+            "correct_answer": "Shaquille O&#039;Neal",
+            "incorrect_answers": [
+                "Allen Iverson",
+                "Kobe Bryant",
+                "Paul Pierce"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+            "correct_answer": "Thinking Machines CM-5",
+            "incorrect_answers": [
+                "Cray X-MP",
+                "Cray XK7",
+                "IBM Blue Gene/Q"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+            "correct_answer": "Edward VIII",
+            "incorrect_answers": [
+                "Victoria",
+                "George VI",
+                "Charles II"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Roger Federer is a famous soccer player.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+            "correct_answer": "Blondie",
+            "incorrect_answers": [
+                "Paramore",
+                "Coldplay",
+                "The Police"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many playable worlds were there?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "13",
+                "16",
+                "11"
+            ]
+        }
+    ]
+}

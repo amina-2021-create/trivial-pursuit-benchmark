@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?",
+            "correct_answer": "300",
+            "incorrect_answers": [
+                "100",
+                "200",
+                "400"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which &quot;Fallout: New Vegas&quot; quest is NOT named after a real-life song?",
+            "correct_answer": "They Went That-a-Way",
+            "incorrect_answers": [
+                "Come Fly With Me",
+                "Ain&#039;t That a Kick in the Head",
+                "Ring-a-Ding Ding"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Furby was released in 1998.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How many Sister Ships were related to the TItanic?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Haikyuu!!, who is not a member of Karasuno VBC?",
+            "correct_answer": "Shigeru Yahaba",
+            "incorrect_answers": [
+                "Tadashi Yamaguchi",
+                "Hisashi Kinoshita",
+                "Kazuhito Narita"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;It&#039;s Always Sunny in Philadelphia&quot; what was the name of Frank&#039;s wrestling persona?",
+            "correct_answer": "The Trash Man",
+            "incorrect_answers": [
+                "Bird of War",
+                "Day Man",
+                "The Maniac"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the 1974 Christmas flick &quot;The Year Without a Santa Claus,&quot; what are the names of the two elves who help Mrs. Claus save Christmas?",
+            "correct_answer": "Jingle &amp; Jangle",
+            "incorrect_answers": [
+                "Buddy &amp; Bobby",
+                "Holly &amp; Jolly",
+                "Snowflake &amp; Icicle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What company owns Outlook?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": [
+                "Google",
+                "Apple",
+                "Yahoo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+            "correct_answer": "Continuum",
+            "incorrect_answers": [
+                "GIFU",
+                "Santos Dexterity",
+                "eRa Eternity"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1990",
+                "2000",
+                "1987"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "Australia",
+                "Turkey",
+                "Cambodia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "New Haven is the capital city of the state of Connecticut in the United States.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch,&quot; an allied McCree will say &quot;Step right up&quot; upon using his ultimate ability Deadeye.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of the State of Washington, United States?",
+            "correct_answer": "Olympia",
+            "incorrect_answers": [
+                "Washington D.C.",
+                "Seattle",
+                "Yukon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
+            "correct_answer": "GLaDOS",
+            "incorrect_answers": [
+                "Cave Johnson",
+                "Wheatley",
+                "Atlas / P-Body"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+            "correct_answer": "William Golding",
+            "incorrect_answers": [
+                "Stephen King",
+                "F. Scott Fitzgerald",
+                "Hunter Fox"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The animated film &quot;Spirited Away&quot; won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The capital of the US State Ohio is the city of Chillicothe.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Alaska and Hawaii are the only US states that have their own timezones.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "When was the first episode of Soul Eater released?",
+            "correct_answer": "2008",
+            "incorrect_answers": [
+                "2003",
+                "2005",
+                "2011"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?",
+            "correct_answer": "Disk Operating System",
+            "incorrect_answers": [
+                "Dumb Operating System",
+                "Driver Oriented System",
+                "Diskless Operating System"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+            "correct_answer": "Isuzu Trooper",
+            "incorrect_answers": [
+                "Holden Monaro",
+                "Suzuki Swift",
+                "Chevy Camaro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What color is a Steller&#039;s Jay?",
+            "correct_answer": "blue and black",
+            "incorrect_answers": [
+                "blue and grey",
+                "blue and white",
+                "grey and black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the surname of one of the male teachers in the BBC series Postman Pat?",
+            "correct_answer": "Pringle",
+            "incorrect_answers": [
+                "Walker",
+                "Dorito",
+                "Lays"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
+            "correct_answer": "Crawfish",
+            "incorrect_answers": [
+                "Lobster",
+                "Salmon",
+                "Swordfish"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Celebrities",
+            "question": "What was the religion of famous singer &quot;Freddie Mercury&quot;?",
+            "correct_answer": "Zoroastrianism",
+            "incorrect_answers": [
+                "Paganism",
+                "Ashurism",
+                "Judaism"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which Borough is the farthest in the north of New York City?",
+            "correct_answer": "Bronx",
+            "incorrect_answers": [
+                "Queens",
+                "Brooklyn",
+                "Manhattan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+            "correct_answer": "The Thorn of Camorr",
+            "incorrect_answers": [
+                "The Rose of the Marrows",
+                "The Thorn of Emberlain",
+                "The Thorn of the Marrows"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+            "correct_answer": "Haplogroup U",
+            "incorrect_answers": [
+                "Haplogroup L",
+                "Haplogroup T",
+                "Haplogroup J"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+            "correct_answer": "Snivy, Tepig, Oshawott",
+            "incorrect_answers": [
+                "Snivy, Fennekin, Froakie",
+                "Chespin, Tepig, Froakie",
+                "Chespin, Fennekin, Oshawott"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?",
+            "correct_answer": "White",
+            "incorrect_answers": [
+                "Black",
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Which species is a &quot;mountain chicken&quot;?",
+            "correct_answer": "Frog",
+            "incorrect_answers": [
+                "Chicken",
+                "Horse",
+                "Fly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+            "correct_answer": "Georges Seurat",
+            "incorrect_answers": [
+                "Paul C&eacute;zanne",
+                "Vincent Van Gogh",
+                "Henri Rousseau"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is rapper Drake&#039;s real name?",
+            "correct_answer": "Aubrey Graham",
+            "incorrect_answers": [
+                "Shaun Carter",
+                "Dwayne Carter",
+                "Andre Young"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+            "correct_answer": "Pugs",
+            "incorrect_answers": [
+                "Bulldogs",
+                "Boxers",
+                "Chihuahua"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?",
+            "correct_answer": "Once Upon a Time in Shaolin",
+            "incorrect_answers": [
+                "A Better Tomorrow",
+                "8 Diagrams",
+                "The Saga Continues"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",
+            "correct_answer": "Pomegranate",
+            "incorrect_answers": [
+                "Sunflower",
+                "Orange",
+                "Fig"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the show &quot;Fat Albert and the Cosby Kids&quot;, what is the name of the characters&#039; fictional gang?",
+            "correct_answer": "The Junkyard Gang",
+            "incorrect_answers": [
+                "The Trash Troupe",
+                "The Scrapyard Seven",
+                "The Rotten Posse"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Oxford University is older than the Aztec Empire. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Just Cause 2 was mainly set in what fictional Southeast Asian island country?",
+            "correct_answer": "Panau",
+            "incorrect_answers": [
+                "Davao",
+                "Macau",
+                "Palau"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "In which English county is the city of Portsmouth?",
+            "correct_answer": "Hampshire",
+            "incorrect_answers": [
+                "Oxfordshire",
+                "Buckinghamshire",
+                "Surrey"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Africa is a country.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Resident Evil 4, the Chicago Typewriter has infinite ammo.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What is Doug Walker&#039;s YouTube name?",
+            "correct_answer": "The Nostalgia Critic",
+            "incorrect_answers": [
+                "The Angry Video Game Nerd",
+                "AngryJoeShow",
+                "The Cinema Snob"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+            "correct_answer": "Nikita Khrushchev",
+            "incorrect_answers": [
+                "Leonid Brezhnev",
+                "Mikhail Gorbachev",
+                "Boris Yeltsin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the largest living species of penguin?",
+            "correct_answer": "Emperor",
+            "incorrect_answers": [
+                "King",
+                "Gentoo",
+                "Adele"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When was Finland&#039;s 100th year of being independent?",
+            "correct_answer": "2017",
+            "incorrect_answers": [
+                "2016",
+                "2018",
+                "2015"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?",
+            "correct_answer": "First Lieutenant",
+            "incorrect_answers": [
+                "Captain",
+                "First Sargent ",
+                "Staff Sargent"
+            ]
+        }
+    ]
+}

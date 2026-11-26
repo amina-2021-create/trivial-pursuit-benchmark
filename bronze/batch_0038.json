@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Nintendo started out as a playing card manufacturer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;VA-11 Hall-A&quot; during Virgilio&#039;s ending, Virgilio opens his own:",
+            "correct_answer": "Curry Stand",
+            "incorrect_answers": [
+                "Bar",
+                "Museum",
+                "Law Firm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+            "correct_answer": "San Francisco",
+            "incorrect_answers": [
+                "Los Angeles",
+                "Sacramento",
+                "San Jose"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "How many islands does Kuwait have?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "3",
+                "6",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many laws of thermodynamics are there?",
+            "correct_answer": "Four",
+            "incorrect_answers": [
+                "Three",
+                "Two",
+                "Five"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What programming language was GitHub written in?",
+            "correct_answer": "Ruby",
+            "incorrect_answers": [
+                "JavaScript",
+                "Python",
+                "Lua"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In Chess, the Queen has the combined movement of which two pieces?",
+            "correct_answer": "Bishop and Rook",
+            "incorrect_answers": [
+                "Rook and King",
+                "Knight and Bishop",
+                "King and Knight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of the following films was NOT directed by Hayao Miyazaki?",
+            "correct_answer": "Wolf Children",
+            "incorrect_answers": [
+                "Princess Mononoke",
+                "Spirited Away",
+                "Kiki&#039;s Delivery Service"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the largest city and commercial capital of Sri Lanka?",
+            "correct_answer": "Colombo",
+            "incorrect_answers": [
+                "Moratuwa",
+                "Negombo",
+                "Kandy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is NOT a Nintendo game console?",
+            "correct_answer": "Dreamcast",
+            "incorrect_answers": [
+                "SNES",
+                "Wii",
+                "Switch"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The &quot;Tibia&quot; is found in which part of the body?",
+            "correct_answer": "Leg",
+            "incorrect_answers": [
+                "Arm",
+                "Hand",
+                "Head"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+            "correct_answer": "Highlander",
+            "incorrect_answers": [
+                "Flash Gordon",
+                "Labyrinth",
+                "Howard the Duck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the theme song of &quot;Neon Genesis Evangelion&quot;?",
+            "correct_answer": "A Cruel Angel&#039;s Thesis",
+            "incorrect_answers": [
+                "Stardust Crusaders",
+                "Requiem for a Dream",
+                "God Knows"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "At what temperature does temp in &deg;C equal temp in &deg;F?",
+            "correct_answer": "-40",
+            "incorrect_answers": [
+                "+40",
+                "0",
+                "+100"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "&quot;I disapprove of what you say, but I will defend to the death your right to say it&quot; is a quote from French philosopher Voltaire.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Death Valley&#039;s Badwater Basin is North America&#039;s point of lowest elevation at how many feet below sea level?",
+            "correct_answer": "282 feet",
+            "incorrect_answers": [
+                "79 feet",
+                "1,640 feet",
+                "12,092 feet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;World of Warcraft,&quot; what dragon appears in the human guise of Lord Victor Nefarius?",
+            "correct_answer": "Nefarian",
+            "incorrect_answers": [
+                "Nefarius",
+                "Neltharion",
+                "Nefaran"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Super Hang-On&quot; which is the top speed WITH the use of turbo?",
+            "correct_answer": "324 km/h",
+            "incorrect_answers": [
+                "320 km/h",
+                "280 km/h",
+                "286 km/h"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Ana was added as a new hero for the game Overwatch on July 19th, 2016.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Who is the chemical element Curium named after?",
+            "correct_answer": "Marie &amp; Pierre Curie",
+            "incorrect_answers": [
+                "The Curiosity Rover",
+                "Curious George",
+                "Stephen Curry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the ARPG &quot;Path of Exile,&quot; what is the highest amount of sockets that an item can have?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "5",
+                "4",
+                "8"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the scientific name of the Budgerigar?",
+            "correct_answer": "Melopsittacus undulatus",
+            "incorrect_answers": [
+                "Nymphicus hollandicus",
+                "Pyrrhura molinae",
+                "Ara macao"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which NASA Space Shuttle broke apart during atmospheric re-entry on February 1, 2003? ",
+            "correct_answer": "Columbia",
+            "incorrect_answers": [
+                "Challenger",
+                "Discovery",
+                "Endeavour"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+            "correct_answer": "Hexidecimal",
+            "incorrect_answers": [
+                "Binary",
+                "Duodecimal",
+                "Octal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these stages is not playable in &quot;Super Smash Bros. for Wii U&quot;?",
+            "correct_answer": "Fountain of Dreams",
+            "incorrect_answers": [
+                "Bridge of Eldin",
+                "75m",
+                "Miiverse"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2006",
+                "2008",
+                "2002"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+            "correct_answer": "Thailand",
+            "incorrect_answers": [
+                "Peru",
+                "Mexico",
+                "South Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard SI unit for mass?",
+            "correct_answer": "Kilogram",
+            "incorrect_answers": [
+                "Tonne",
+                "Pound",
+                "Gram"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Why was The Green Monster at Fenway Park was originally built?",
+            "correct_answer": "To prevent viewing games from outside the park.",
+            "incorrect_answers": [
+                "To make getting home runs harder.",
+                "To display advertisements.",
+                "To provide extra seating."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of these cartoons had a character named Heinz Doofenshmirtz?",
+            "correct_answer": "Phineas &amp; Ferb",
+            "incorrect_answers": [
+                "Ren &amp; Stimpy",
+                "Ben 10",
+                "Batman: The Animated Series"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+            "correct_answer": "John McVie",
+            "incorrect_answers": [
+                "Christine McVie",
+                "Mac McAnally",
+                "David Tennant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Townsend Coleman provided the voice for which turtle in the original 1987 series of &quot;Teenage Mutant Ninja Turtles&quot;?",
+            "correct_answer": "Michelangelo",
+            "incorrect_answers": [
+                "Leonardo",
+                "Donatello",
+                "Raphael"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Left 4 Dead, what is the name of the Special Infected that is unplayable in Versus mode?",
+            "correct_answer": "The Witch",
+            "incorrect_answers": [
+                "The Tank",
+                "The Smoker",
+                "The Spitter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Phil Fish was the designer of which game?",
+            "correct_answer": "Fez",
+            "incorrect_answers": [
+                "Super Meat Boy",
+                "Hotline Miami",
+                "FTL"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What device allows Tracer to manipulate her own time in the game &quot;Overwatch&quot;?",
+            "correct_answer": "Chronal Accelerator",
+            "incorrect_answers": [
+                "B.L.I.N.K",
+                "Spacial Displacement Manipulator",
+                "TMD (Time Manipulation Device)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which of the following is not a Flintstones character?",
+            "correct_answer": "Lord Rockingham IX",
+            "incorrect_answers": [
+                "Rockhead Slate",
+                "The Great Gazoo",
+                "Barney Rubble"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The edutainment video game series character, Carmen Sandiego, is partially named after Brazilian actress, Carmen Miranda.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?",
+            "correct_answer": "Mars",
+            "incorrect_answers": [
+                "Saturn",
+                "Jupiter",
+                "Venus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the world&#039;s first video game console?",
+            "correct_answer": "Magnavox Odyssey",
+            "incorrect_answers": [
+                "Coleco Telstar",
+                "Nintendo Color TV Game",
+                "Atari 2600"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The White Ranger was the leader of the Power Rangers.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "The 1988 Formula 1 season had McLaren win all but one race, what race did they not win?",
+            "correct_answer": "Italian Grand Prix",
+            "incorrect_answers": [
+                "Japanese Grand Prix",
+                "Monaco Grand Prix",
+                "Brazilian Grand Prix"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which one of these is not a typical European sword design?",
+            "correct_answer": "Scimitar",
+            "incorrect_answers": [
+                "Falchion",
+                "Ulfberht",
+                "Flamberge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "According to the United States Constitution, how old must a person be to be elected President of the United States?",
+            "correct_answer": "35",
+            "incorrect_answers": [
+                "30",
+                "40",
+                "45"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "The board game &quot;Ra&quot; was designed by which designer? ",
+            "correct_answer": "Reiner Knizia",
+            "incorrect_answers": [
+                "Bruno Cathala",
+                "Uwe Rosenburg",
+                "Allison Kline"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which character does the player play as in the video game &quot;Bastion&quot;?",
+            "correct_answer": "The Kid",
+            "incorrect_answers": [
+                "Rucks",
+                "Zulf",
+                "Zia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which TV chef wrote an autobiography titled &quot;Humble Pie&quot;?",
+            "correct_answer": "Gordon Ramsay",
+            "incorrect_answers": [
+                "Jamie Oliver",
+                "Ainsley Harriott",
+                "Antony Worrall Thompson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When did construction of the Suez Canal finish?",
+            "correct_answer": "1869",
+            "incorrect_answers": [
+                "1859",
+                "1860",
+                "1850"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The Japanese Shinkansen beat the French TGV&#039;s speed record for fastest electric rail train.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which language is NOT Indo-European?",
+            "correct_answer": "Hungarian",
+            "incorrect_answers": [
+                "Russian",
+                "Greek",
+                "Latvian"
+            ]
+        }
+    ]
+}

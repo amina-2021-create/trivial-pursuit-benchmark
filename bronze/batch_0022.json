@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Disgaea series, any character can equip any weapon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The tale of Robin Hood originates from which country?",
+            "correct_answer": "England",
+            "incorrect_answers": [
+                "France",
+                "Portugal",
+                "Scotland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1996",
+                "1998",
+                "1999"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Fourth Crusade lasted from 1095-1099 AD.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+            "correct_answer": "Reactivity",
+            "incorrect_answers": [
+                "Health",
+                "Flammability",
+                "Radioactivity"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+            "correct_answer": "Goat testicles transplant",
+            "incorrect_answers": [
+                "Pig blood transfusion",
+                "Cow liver transplant",
+                "Turkey breast implants"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the main developer of the Suez Canal?",
+            "correct_answer": "Ferdinand de Lesseps",
+            "incorrect_answers": [
+                "Louis-Eug&egrave;ne Cavaignac",
+                "John Milton",
+                "Johann Lukas von Hildebrandt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+            "correct_answer": "1992 Ford Explorer XLT",
+            "incorrect_answers": [
+                "1992 Toyota Land Cruiser",
+                "1992 Jeep Wrangler YJ Sahar",
+                "Mercedes M-Class"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the 4-armed Chaos Witch from the 2016 video game &quot;Battleborn&quot;?",
+            "correct_answer": "Orendi",
+            "incorrect_answers": [
+                "Orendoo",
+                "Oranda",
+                "Randy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the aim of the &quot;Umbrella Revolution&quot; in Hong Kong in 2014?",
+            "correct_answer": "Genuine universal suffrage",
+            "incorrect_answers": [
+                "Gaining Independence",
+                "Go back under British Rule",
+                "Lower taxes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which modern day country is the region that was known as Phrygia in ancient times?",
+            "correct_answer": "Turkey",
+            "incorrect_answers": [
+                "Syria",
+                "Greece",
+                "Egypt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+            "correct_answer": "Apple",
+            "incorrect_answers": [
+                "Microsoft",
+                "Atari",
+                "Commodore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these stars is the largest?",
+            "correct_answer": "UY Scuti",
+            "incorrect_answers": [
+                "VY Canis Majoris",
+                "Betelgeuse",
+                "RW Cephei"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What do sailors call the back of a boat?",
+            "correct_answer": "Stern",
+            "incorrect_answers": [
+                "Bow",
+                "Starboard",
+                "Port"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+            "correct_answer": "31-79 JGb215",
+            "incorrect_answers": [
+                "Sliquifier",
+                "V-R11",
+                "Wunderwaffe DG-2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Wombats are native to which Country?",
+            "correct_answer": "Australia",
+            "incorrect_answers": [
+                "New Zealand",
+                "Papua New Guinea",
+                "Palau"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Greenland is almost as big as Africa.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which major bank&#039;s collapse was notable as one of the causes of the Financal Crisis of 2008?",
+            "correct_answer": "Lehman Brothers",
+            "incorrect_answers": [
+                "HSBC",
+                "Barclays",
+                "Lloyds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+            "correct_answer": "Ian Fleming",
+            "incorrect_answers": [
+                "Joseph Conrad",
+                "John Buchan",
+                "Graham Greene"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?",
+            "correct_answer": "Harry S. Truman",
+            "incorrect_answers": [
+                "Dwight D. Eisenhower",
+                "Franklin D. Roosevelt",
+                "Herbert Hoover"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following is NOT a capital city?",
+            "correct_answer": "Sydney",
+            "incorrect_answers": [
+                "Cairo",
+                "Moscow",
+                "Beijing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+            "correct_answer": "Hans Christian Andersen",
+            "incorrect_answers": [
+                "Charles Dickens",
+                "Lewis Carroll",
+                "Oscar Wilde"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Benny, Brain, Fancy-Fancy, Spook and Choo-Choo were known associates of what Hanna Barbera cartoon character?",
+            "correct_answer": "Top Cat",
+            "incorrect_answers": [
+                "Yogi Bear",
+                "Snagglepuss",
+                "Scooby-Doo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+            "correct_answer": "TCAS",
+            "incorrect_answers": [
+                "GPWS",
+                "OCAS",
+                "TAWS"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the unit of electrical capacitance?",
+            "correct_answer": "Farad",
+            "incorrect_answers": [
+                "Gauss",
+                "Henry",
+                "Watt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+            "correct_answer": "Fight Club",
+            "incorrect_answers": [
+                "The Island",
+                "Unthinkable",
+                "American Pie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the name of the famous Apache leader who died in 1909 at the age of 70?",
+            "correct_answer": "Geronimo",
+            "incorrect_answers": [
+                "Sitting Bull",
+                "Red Cloud",
+                "Crazy Horse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Pok&eacute;mon Go is a location-based augmented reality game developed and published by which company?",
+            "correct_answer": "Niantic",
+            "incorrect_answers": [
+                "Rovio",
+                "Zynga",
+                "Supercell"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the elemental symbol for mercury?",
+            "correct_answer": "Hg",
+            "incorrect_answers": [
+                "Me",
+                "Mc",
+                "Hy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+            "correct_answer": "We Love to See You Smile",
+            "incorrect_answers": [
+                "Why Pay More!?",
+                "Have It Your Way",
+                "Making People Happy Through Food"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "What mythology did the god &quot;Apollo&quot; come from?",
+            "correct_answer": "Greek and Roman",
+            "incorrect_answers": [
+                "Roman and Spanish",
+                "Greek and Chinese",
+                "Greek, Roman and Norse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In Greek Mythology, who killed Achilles?",
+            "correct_answer": "Paris",
+            "incorrect_answers": [
+                "Hector",
+                "Helen",
+                "Pericles"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "The echidna is a monotreme.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the average life span of a garden ant?",
+            "correct_answer": "15 years",
+            "incorrect_answers": [
+                "24 hours",
+                "1 week",
+                "3 years"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Samhainophobia is the term used for an abnormal and persistent fear of halloween.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+            "correct_answer": "Nervousness",
+            "incorrect_answers": [
+                "Excitement",
+                "Aggression",
+                "Exhaustion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Animal Crossing: New Leaf, which of these paintings from Redd&#039;s Art Gallery is always genuine?",
+            "correct_answer": "Warm Painting",
+            "incorrect_answers": [
+                "Jolly Painting",
+                "Neutral Painting",
+                "Wistful Painting"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is Justin Bieber&#039;s debut Album?",
+            "correct_answer": "My World 2.0",
+            "incorrect_answers": [
+                "U Smile",
+                "Baby",
+                "Purpose"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The 2023 Beatles song &quot;Now and Then&quot; originated from an unfinished demo recorded by which Beatle?",
+            "correct_answer": "John Lennon",
+            "incorrect_answers": [
+                "Paul McCartney",
+                "George Harrison",
+                "Ringo Starr"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+            "correct_answer": "Wizard and Glass",
+            "incorrect_answers": [
+                "Wolves of the Calla",
+                "Hearts in Atlantis",
+                "The Dark Half"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who was the villain of &#039;&#039;The Lion King&#039;&#039;?",
+            "correct_answer": "Scar",
+            "incorrect_answers": [
+                "Fred",
+                "Jafar",
+                "Vada"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
+            "correct_answer": "Hajime Hinata",
+            "incorrect_answers": [
+                "Nagito Komaeda",
+                "Makoto Naegi",
+                "Junko Enoshima"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?",
+            "correct_answer": "Quake Engine",
+            "incorrect_answers": [
+                "Doom Engine",
+                "id Engine",
+                "Source Engine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?",
+            "correct_answer": "Spookit",
+            "incorrect_answers": [
+                "Petricub",
+                "Trictus",
+                "Pyromantle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+            "correct_answer": "Mazda",
+            "incorrect_answers": [
+                "Toyota",
+                "Subaru",
+                "Nissan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which artists&#039; version of the song &quot;The Tide is High&quot; came first?",
+            "correct_answer": "The Paragons",
+            "incorrect_answers": [
+                "Blondie",
+                "Kardinal Offishall",
+                "Atomic Kitten"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+            "correct_answer": "JavaScript",
+            "incorrect_answers": [
+                "C#",
+                "Python",
+                "PHP"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

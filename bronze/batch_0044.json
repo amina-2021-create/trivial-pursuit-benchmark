@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the title of Sakamoto Kyu&#039;s song &quot;Ue o Muite Arukou&quot; (I Look Up As I Walk) changed to in the United States?",
+            "correct_answer": "Sukiyaki",
+            "incorrect_answers": [
+                "Takoyaki",
+                "Sushi",
+                "Oden"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Fallout 4, which type of power armor is first encountered in the early mission &quot;When Freedom Calls&quot; in a crashed Vertibird?",
+            "correct_answer": "T-45",
+            "incorrect_answers": [
+                "T-51",
+                "T-60",
+                "X-01"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Austria",
+                "Canada",
+                "Sweden"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Russia passed a law in 2013 which outlaws telling children that homosexuals exist.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Game Development company made No Man&#039;s Sky?",
+            "correct_answer": "Hello Games",
+            "incorrect_answers": [
+                "Dovetail Games",
+                "Valve",
+                "Blizzard Entertainment"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who is believed to have been the first European to &#039;discover&#039; the land of New Zealand?",
+            "correct_answer": "Abel Tasman",
+            "incorrect_answers": [
+                "Christopher Columbus",
+                "Jeanne Bar&eacute;",
+                "John Cabot "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "With which country does France share its largest land border",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "Germany",
+                "Spain",
+                "Canada"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the f*** a Quarter Pounder is.&quot;",
+            "correct_answer": "Vincent Vega",
+            "incorrect_answers": [
+                "Jules Winnfield",
+                "Jimmie Dimmick",
+                "Butch Coolidge"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Mario Kart 64&quot;, Waluigi is a playable character.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+            "correct_answer": "Romeo and Juliet",
+            "incorrect_answers": [
+                "Hamlet",
+                "The Tempest",
+                "King Lear"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+            "correct_answer": "Wax sculptures",
+            "incorrect_answers": [
+                "Designer clothing",
+                "Unreleased film reels",
+                "Vintage cars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+            "correct_answer": "My Struggle",
+            "incorrect_answers": [
+                "My Hatred",
+                "My Sadness",
+                "My Desire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Postal 2&quot;, what is the name of Postal Dude&#039;s dog?",
+            "correct_answer": "Champ",
+            "incorrect_answers": [
+                "Snoopy",
+                "Krotchy",
+                "Duke"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the full name of the protagonist from the indie adventure game &quot;Night in the Woods&quot;?",
+            "correct_answer": "Margaret Borowski",
+            "incorrect_answers": [
+                "Marlena Woborski",
+                "Milena Catharina",
+                "Katia Managan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": " What is the chemical symbol for Helium?",
+            "correct_answer": "He",
+            "incorrect_answers": [
+                "H",
+                "Hg",
+                "Hs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+            "correct_answer": "Constantinople",
+            "incorrect_answers": [
+                "H&uuml;davendigar",
+                "S&ouml;ğ&uuml;t",
+                "Adrianople"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "A cancelled Call Of Duty title would have taken place in ancient Rome.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was Radiohead&#039;s first album?",
+            "correct_answer": "Pablo Honey",
+            "incorrect_answers": [
+                "The Bends",
+                "Kid A",
+                "A Moon Shaped Pool"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What does the D stand for in D-pad, found on most video game controllers?",
+            "correct_answer": "Directional",
+            "incorrect_answers": [
+                "Dynamic",
+                "Dial-up",
+                "Design"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Artis Leon Ivey Jr. is better known as which rap artist?",
+            "correct_answer": "Coolio",
+            "incorrect_answers": [
+                "Dr Dre",
+                "Snoop Dogg",
+                "Ice T"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;JoJo&#039;s Bizarre Adventure&quot;, which of the following Stands does NOT have a time-based ability?",
+            "correct_answer": "20th Century Boy",
+            "incorrect_answers": [
+                "Made in Heaven",
+                "Star Platinum",
+                "The World"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the unofficial name for Germany between 1919 and 1933?",
+            "correct_answer": "Weimar Republic",
+            "incorrect_answers": [
+                "German Democratic Republic",
+                "Federal Republic of Germany",
+                "Oesterreich "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who won the 2015 Formula 1 World Championship?",
+            "correct_answer": "Lewis Hamilton",
+            "incorrect_answers": [
+                "Nico Rosberg",
+                "Sebastian Vettel",
+                "Jenson Button"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the romanized Japanese word for &quot;university&quot;?",
+            "correct_answer": "Daigaku",
+            "incorrect_answers": [
+                "Toshokan",
+                "Jimusho",
+                "Shokudou"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Night in the Woods, which instrument did Casey play?",
+            "correct_answer": "Drums",
+            "incorrect_answers": [
+                "Bass",
+                "Piano",
+                "Sax"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "In the Panic! At the Disco&#039;s song &quot;Nothern Downpour&quot;, which lyric follows &#039;I know the world&#039;s a broken bone&#039;.",
+            "correct_answer": "&quot;So melt your headaches call it home&quot;",
+            "incorrect_answers": [
+                "&quot;So sing your song until you&#039;re home&quot;",
+                "&quot;So let them know they&#039;re on their own&quot;",
+                "&quot;So start a fire in their cold stone&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Where are Terror Fiends more commonly found in the Nintendo game Miitopia?",
+            "correct_answer": "New Lumos",
+            "incorrect_answers": [
+                "Peculia",
+                "The Sky Scraper",
+                "Otherworld"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The football video game series &quot;Pro Evolution Soccer&quot; is developed by which company?",
+            "correct_answer": "Konami",
+            "incorrect_answers": [
+                "Square Enix",
+                "Electronic Arts",
+                "THQ"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What were the first two Pok&eacute;mon games released?",
+            "correct_answer": "Red and Green",
+            "incorrect_answers": [
+                "Red and Blue",
+                "Green and Blue",
+                "Red and Yellow"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The album reputation by Taylor Swift has 15 songs",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of these bones is hardest to break?",
+            "correct_answer": "Femur",
+            "incorrect_answers": [
+                "Cranium",
+                "Humerus",
+                "Tibia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "The iPhone 3G was the second iPhone generation.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of Funny Valentine&#039;s stand in Jojo&#039;s Bizarre Adventure Part 7, Steel Ball Run?",
+            "correct_answer": "Dirty Deeds Done Dirt Cheap",
+            "incorrect_answers": [
+                "Filthy Acts Done For A Reasonable Price",
+                "Civil War",
+                "God Bless The USA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who played Stan&#039;s dog in the South Park episode &quot;Big Gay Al&#039;s Big Gay Boat Ride&quot;?",
+            "correct_answer": "George Clooney",
+            "incorrect_answers": [
+                "Jay Leno",
+                "Matt Stone",
+                "Robert Smith"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which of these paintings did Johannes Vermeer not paint?",
+            "correct_answer": "Bacchus",
+            "incorrect_answers": [
+                "Girl with a Pearl Earring",
+                "The Milkmaid",
+                "The Lacemaker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who assassinated Archduke Franz Ferdinand?",
+            "correct_answer": "Gavrilo Princip",
+            "incorrect_answers": [
+                "Nedeljko Čabrinović",
+                "Oskar Potiorek",
+                "Ferdinand Cohen-Blind"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the &quot;Flash&quot; and &quot;Arrow&quot; spinoff featuring a team of characters that have appeared on both shows?",
+            "correct_answer": "Legends of Tomorrow",
+            "incorrect_answers": [
+                "Heroes of Tomorrow",
+                "The Justice Society of America",
+                "The Justice Society"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The game &quot;Pocket Morty&quot; has a Morty called &quot;Pocket Mortys Morty&quot;?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+            "correct_answer": "Bulldog",
+            "incorrect_answers": [
+                "Yorkshire Terrier",
+                "Boxer",
+                "Pug"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is not one of the groups on the periodic table?",
+            "correct_answer": "Fluorines",
+            "incorrect_answers": [
+                "Alkali Metals",
+                "Halogens",
+                "Noble Gases"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the title of ABBA`s first UK hit single?",
+            "correct_answer": "Waterloo",
+            "incorrect_answers": [
+                "Mamma Mia",
+                "Fernando",
+                "Dancing Queen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+            "correct_answer": "Fluffy",
+            "incorrect_answers": [
+                "Spike",
+                "Poofy",
+                "Spot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 2002 film &quot;Kung Pow! Enter the Fist&quot;, why was Wimp Lo purposely trained wrong?",
+            "correct_answer": "As a joke",
+            "incorrect_answers": [
+                "For cheating",
+                "Revenge",
+                "To test him"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+            "correct_answer": "Rad Mobile",
+            "incorrect_answers": [
+                "Sonic The Hedgehog",
+                "Super Mario 64",
+                "Mega Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who was the first man to travel into outer space?",
+            "correct_answer": "Yuri Gagarin",
+            "incorrect_answers": [
+                "Virgil Ivan &quot;Gus&quot; Grissom",
+                "Neil Armstrong",
+                "Buzz Aldrin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the PAYDAY series, where did Dallas start his criminal career?",
+            "correct_answer": "Chicago, Illinois",
+            "incorrect_answers": [
+                "Dallas, Texas",
+                "New York City, New York",
+                "Boston, Massachusetts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is Brian May&#039;s guitar called?",
+            "correct_answer": "Red Special",
+            "incorrect_answers": [
+                "Blue Special",
+                "Green Special",
+                "Yellow Special"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Pearl Jam was originally named after which sports figure?",
+            "correct_answer": "Mookie Blaylock",
+            "incorrect_answers": [
+                "Oil Can Boyd",
+                "Danger Fourpence",
+                "Blue Moon Odom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+            "correct_answer": "Professor Layton",
+            "incorrect_answers": [
+                "Persona",
+                "Etrian Odyssey",
+                "Sam &amp; Max"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The majority of Subaru vehicles are made in China.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

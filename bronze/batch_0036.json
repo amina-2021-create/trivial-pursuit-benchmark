@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "Carcassonne is based on which French town?",
+            "correct_answer": "Carcassonne",
+            "incorrect_answers": [
+                "Paris",
+                "Marseille",
+                "Clermont-Ferrand"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "There are 13 months in the Ethiopian calendar.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In computing, what does LAN stand for?",
+            "correct_answer": "Local Area Network",
+            "incorrect_answers": [
+                "Long Antenna Node",
+                "Light Access Node",
+                "Land Address Navigation"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The color of the pills in the Matrix were Blue and Yellow.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "This movie contains the quote, &quot;What we&#039;ve got here is a failure to communicate.&quot;",
+            "correct_answer": "Cool Hand Luke",
+            "incorrect_answers": [
+                "Bonnie and Clyde",
+                "The Graduate",
+                "In the Heat of the Night"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Nintendo Game Splatoon 2, what is Marina&#039;s screen name?",
+            "correct_answer": "DJ_Hyperfresh",
+            "incorrect_answers": [
+                "MC.princess",
+                "Kidnotsquid123",
+                "I&lt;30ffTh3H00k"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What&#039;s the Team Fortress 2 Scout&#039;s city of origin?",
+            "correct_answer": "Boston",
+            "incorrect_answers": [
+                "Sydney",
+                "Detroit",
+                "New York"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
+            "correct_answer": "Charcoal",
+            "incorrect_answers": [
+                "Coal",
+                "Wheat",
+                "String"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Gothenburg is the capital of Sweden.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When was Google founded?",
+            "correct_answer": "September 4, 1998",
+            "incorrect_answers": [
+                "October 9, 1997",
+                "December 12, 1989",
+                "Feburary 7th, 2000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who is the main character in the show &quot;Burn Notice&quot;?",
+            "correct_answer": "Michael Westen",
+            "incorrect_answers": [
+                "Sam Axe",
+                "Fiona Glenanne",
+                "Madeline Westen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which term best describes the connection of two sections of a musical piece through a transitional passage?",
+            "correct_answer": "Bridge",
+            "incorrect_answers": [
+                "Coda",
+                "Capo",
+                "Binary Form"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the real name of rapper, The Notorious B.I.G?",
+            "correct_answer": "Christopher Wallace",
+            "incorrect_answers": [
+                "Calvin Cordozar Broadus Jr.",
+                "O&#039;Shea Jackson",
+                "Eric Lynn Wright"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Dave Grohl recorded the Foo Fighters&#039; debut, &quot;Foo Fighters,&quot; by himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Dead Rising&quot;, what is the profession of the main character Frank West?",
+            "correct_answer": "Photojournalist",
+            "incorrect_answers": [
+                "Motorbike Performer",
+                "Bartender",
+                "Mechanic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
+            "correct_answer": "Aloe Blacc",
+            "incorrect_answers": [
+                "John Legend",
+                "CeeLo Green",
+                "Pharrell Williams"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Who is the protagonist of the book: &quot;The Catcher in the Rye&quot; by J.D. Salinger",
+            "correct_answer": "Holden Caulfield",
+            "incorrect_answers": [
+                "Holden David",
+                "Jerome Caulfield",
+                "Jerome David"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;The Witness&quot;, how many lasers must be activated to get into the mountain area?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "5",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the world strategy game &#039;Sid Meier&#039;s Civilization&#039;, a programming bug caused the AI depiction of Gandhi to do which of the following?",
+            "correct_answer": "Become aggressive and launch nuclear strikes",
+            "incorrect_answers": [
+                "Begin speaking in German ",
+                "Become friendly and trade his entire wealth",
+                "Launch attacks on his own cities and assets"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+            "correct_answer": "Compton",
+            "incorrect_answers": [
+                "Detroit",
+                "New York",
+                "Baltimore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which cartoon family lives in 31 Spooner Street, Quahog, Rhode Island USA?",
+            "correct_answer": "The Griffins",
+            "incorrect_answers": [
+                "The Simpsons",
+                "The Jetsons",
+                "The Hills"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The French word to travel is &quot;Travail&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Ashley Frangipane performs under the stage name Halsey.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Washington, D.C. is considered a US state.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What does the United States of America celebrate during the 4th of July?",
+            "correct_answer": "The signing of the Declaration of Independence",
+            "incorrect_answers": [
+                "The anniversary of the Battle of Gettysburg",
+                "The crossing of the Delaware River",
+                "The ratification of the Constitution"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+            "correct_answer": "1984",
+            "incorrect_answers": [
+                "The Old Man and the Sea",
+                "Catcher and the Rye",
+                "To Kill a Mockingbird"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Mirror&#039;s Edge Catalyst takes place in the City of...?",
+            "correct_answer": "Glass",
+            "incorrect_answers": [
+                "Mirrors",
+                "Purity",
+                "Diamonds"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The open source program Redis is a relational database server.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "List the following Iranic empires in chronological order:",
+            "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+            "incorrect_answers": [
+                "Median, Achaemenid, Sassanid, Parthian",
+                "Achaemenid, Median, Parthian, Sassanid",
+                "Achaemenid, Median, Sassanid, Parthian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Former United States President Bill Clinton famously played which instrument?",
+            "correct_answer": "Saxophone",
+            "incorrect_answers": [
+                "Baritone horn",
+                "Piano",
+                "Violin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+            "correct_answer": "90",
+            "incorrect_answers": [
+                "180",
+                "270",
+                "0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year was &quot;JoJo&#039;s Bizarre Adventure: Phantom Blood&quot; first released?",
+            "correct_answer": "1987",
+            "incorrect_answers": [
+                "2013",
+                "1983",
+                "1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Ace Attorney&quot; series, who was the truly responsible of the forging of the autopsy report of the pivotal IS-7 incident?",
+            "correct_answer": "Bansai Ichiyanagi",
+            "incorrect_answers": [
+                "Manfred Von Karma",
+                "Gregory Edgeworth",
+                "Tateyuki Shigaraki"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Panama Canal was opened to traffic within 30 days of the beginning of World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Color model CMYK stands for?",
+            "correct_answer": "Cyan, Magenta, Yellow, and Black",
+            "incorrect_answers": [
+                "Cream, Maroon, Yellow, and Black",
+                "Cyan, Magenta, Yellow, and Khaki",
+                "Cream, Maroon, Yellow, and Khaki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "In Greek mythology, who is the god of wine?",
+            "correct_answer": "Dionysus",
+            "incorrect_answers": [
+                "Hephaestus",
+                "Demeter",
+                "Apollo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which country had an &quot;Orange Revolution&quot; between 2004 and 2005?",
+            "correct_answer": "Ukraine",
+            "incorrect_answers": [
+                "Belarus",
+                "Latvia",
+                "Lithuania"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "When was the game &#039;Portal 2&#039; released?",
+            "correct_answer": "2011",
+            "incorrect_answers": [
+                "2014",
+                "2009",
+                "2007"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which of the following car manufacturers had a war named after it?",
+            "correct_answer": "Toyota",
+            "incorrect_answers": [
+                "Honda",
+                "Ford",
+                "Volkswagen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "United States of America",
+                "Soviet Union",
+                "Poland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+            "correct_answer": "Animalympics",
+            "incorrect_answers": [
+                "The Fox and the Hound",
+                "The Black Cauldron",
+                "The Great Mouse Detecive"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1997",
+                "2000",
+                "1992"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named &quot;Stitch&quot;?",
+            "correct_answer": "Lilo",
+            "incorrect_answers": [
+                "Lolo",
+                "Lucy",
+                "Lulu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+            "correct_answer": "Carbon",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Oxygen",
+                "Hydrogen"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Switzerland has four national languages, English being one of them.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "What round is a classic AK-47 chambered in?",
+            "correct_answer": "7.62x39mm",
+            "incorrect_answers": [
+                "7.62x51mm",
+                "5.56x45mm",
+                "5.45x39mm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "From which album is the Gorillaz song, &quot;On Melancholy Hill&quot; featured in?",
+            "correct_answer": "Plastic Beach",
+            "incorrect_answers": [
+                "Demon Days",
+                "Humanz",
+                "The Fall"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
+            "correct_answer": "Petronas Twin Towers, Malaysia",
+            "incorrect_answers": [
+                "Zifeng Tower, China",
+                "Trump Intl. Hotel &amp; Tower, United States",
+                "Al Hamra Tower, Kuwait"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What album did Bon Iver release in 2016?",
+            "correct_answer": "22, A Million",
+            "incorrect_answers": [
+                "Bon Iver, Bon Iver",
+                "Blood Bank EP",
+                "For Emma, Forever Ago"
+            ]
+        }
+    ]
+}

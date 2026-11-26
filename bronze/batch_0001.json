@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
+            "correct_answer": "Shirley Basey",
+            "incorrect_answers": [
+                "Tom Jones",
+                "John Barry",
+                "Sheena Easton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the official language in Liechtenstein?",
+            "correct_answer": "German",
+            "incorrect_answers": [
+                "French",
+                "English",
+                "Italian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was Steam first released?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2004",
+                "2011",
+                "2007"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the real name of viral internet meme Grumpy Cat?",
+            "correct_answer": "Tardar Sauce",
+            "incorrect_answers": [
+                "Lil Bub",
+                "Maru",
+                "Colonel Meow"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Shub-Niggurath is a creature that was created by J. R. R. Tolkien in his novel &quot;The Lord of The Rings&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;The Elder Scrolls 3: Morrowind&quot;, which of the following factions is not joinable?",
+            "correct_answer": "The Dark Brotherhood",
+            "incorrect_answers": [
+                "Fighters Guild",
+                "Mages Guild",
+                "Thieves Guild"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Assassin&#039;s Creed series,what was the name of Desmond Miles given by Abstergo?",
+            "correct_answer": "Subject 17",
+            "incorrect_answers": [
+                "Subject 16",
+                "Subject 18",
+                "Alta&iuml;r Ibn-La&#039;Ahad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What event inspired The Cranberries song &quot;Zombie&quot; ?",
+            "correct_answer": "The Warrington Bombings",
+            "incorrect_answers": [
+                "September 11 Attacks",
+                "The Manchester Arena Bombing",
+                "The July 7th bombings"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the SHMUP series, &quot;Darius&quot;, what is the name of the antagonist faction you fight against?",
+            "correct_answer": "Belsar",
+            "incorrect_answers": [
+                "Bacterion",
+                "Bydo",
+                "Orn Empire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which &quot;Perk-A-Cola&quot; in &quot;Call Of Duty: Zombies&quot; was &quot;reworked&quot; in &quot;Call of Duty: Black Ops II&quot;?",
+            "correct_answer": "Double Tap Root Beer",
+            "incorrect_answers": [
+                "Who&#039;s Who",
+                "Juggernog",
+                "Mule Kick"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What date is referenced in the 1971 song &quot;September&quot; by Earth, Wind &amp; Fire?",
+            "correct_answer": "21st of September",
+            "incorrect_answers": [
+                "26th of September",
+                "23rd of September",
+                "24th of September"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is Sora&#039;s Nobody in Kingdom Hearts?",
+            "correct_answer": "Roxas",
+            "incorrect_answers": [
+                "Riku",
+                "Kairi",
+                "Mickey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
+            "correct_answer": "Vectors",
+            "incorrect_answers": [
+                "Velocity",
+                "Quantums",
+                "Wormholes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of the following is a castle?",
+            "correct_answer": "Elizabeth Castle",
+            "incorrect_answers": [
+                "Frank Castle",
+                "Richard Castle",
+                "Olivia Castle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the lore of the PAYDAY series, which criminal was arrested and then latered rescued by the PAYDAY gang?",
+            "correct_answer": "Hoxton",
+            "incorrect_answers": [
+                "Dallas",
+                "Wolf",
+                "Chains"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of the U.S. state Texas?",
+            "correct_answer": "Austin",
+            "incorrect_answers": [
+                "Dallas",
+                "Santa Fe",
+                "Houston"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which part of the body does glaucoma affect?",
+            "correct_answer": "Eyes",
+            "incorrect_answers": [
+                "Throat",
+                "Stomach",
+                "Blood"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year did &quot;Attack on Titan&quot; Season 2 begin airing?",
+            "correct_answer": "2017",
+            "incorrect_answers": [
+                "2018",
+                "2019",
+                "2020"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How would one say goodbye in Spanish?",
+            "correct_answer": "Adi&oacute;s",
+            "incorrect_answers": [
+                " Hola",
+                "Au Revoir",
+                "Salir"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many countries are larger than Australia?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+            "correct_answer": "Surveyor to the City of London",
+            "incorrect_answers": [
+                "Professor of Mathematics",
+                "Warden of the Royal Mint",
+                "Member of Parliament"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What colour is the circle on the Japanese flag?",
+            "correct_answer": "Red",
+            "incorrect_answers": [
+                "White",
+                "Yellow",
+                "Black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which US state has the highest population?",
+            "correct_answer": "California",
+            "incorrect_answers": [
+                "New York",
+                "Texas",
+                "Florida"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What was the year of estabilishment of the Bari Italian Football Club?",
+            "correct_answer": "1908",
+            "incorrect_answers": [
+                "1945",
+                "2014",
+                "1895"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.",
+            "correct_answer": "Bobby Shmurda",
+            "incorrect_answers": [
+                "DJ Snake",
+                "Swae Lee",
+                "Young Thug"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main protagonist of &quot;Ace Combat Zero: The Belkan War&quot;?",
+            "correct_answer": "Cipher",
+            "incorrect_answers": [
+                "Mobius 1",
+                "Blaze",
+                "Pixy"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Rabbits are carnivores.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+            "correct_answer": "Harry",
+            "incorrect_answers": [
+                "Gus",
+                "Phineas",
+                "Ezra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the full meaning of RAM?",
+            "correct_answer": "Random Access Memory",
+            "incorrect_answers": [
+                "Random Assist Memory",
+                "Rand Assist Mandate",
+                "Ram"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Antibiotics are generally taken to combat what?",
+            "correct_answer": "Bacterial infections",
+            "incorrect_answers": [
+                "Viruses",
+                "Migraines",
+                "Muscular pains"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the most-visited website out of these options?",
+            "correct_answer": "Google",
+            "incorrect_answers": [
+                "YouTube",
+                "Facebook",
+                "Wikipedia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In what year were achivements added to Steam?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2008",
+                "2009",
+                "2006"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The Electron computer was released in Britain during 1983 for the home computing market, by which company? ",
+            "correct_answer": "Acorn Computers",
+            "incorrect_answers": [
+                "Sinclair Research",
+                "Amstrad PLC",
+                "Commodore Business Machines"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Bugatti was an Italian car manufacturer.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+            "correct_answer": "Iron",
+            "incorrect_answers": [
+                "Gold",
+                "Silver",
+                "Tin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+            "correct_answer": "Illyrians",
+            "incorrect_answers": [
+                "Dorians",
+                "Achaeans",
+                "Ionians"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these characters appeared in Marvel vs Capcom: Infinite? ",
+            "correct_answer": "Firebrand",
+            "incorrect_answers": [
+                "Wolverine",
+                "Dr. Doom",
+                "Jill Valentine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the first recorded object to ever reach space?",
+            "correct_answer": "Bumper-WAC",
+            "incorrect_answers": [
+                "American Manhole Cover",
+                "Sputnik I ",
+                "Sputnik II"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "A pasodoble is a type of Italian pasta sauce.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "When did the last episode of &quot;Futurama&quot; air before returning in 2023?",
+            "correct_answer": "September 4, 2013",
+            "incorrect_answers": [
+                "December 25, 2010",
+                "March 28, 1999",
+                "November 4, 2021"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which country is featured in Ace Combat 5: The Unsung War?",
+            "correct_answer": "Osea",
+            "incorrect_answers": [
+                "Aurelia",
+                "Australia",
+                "Japan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+            "correct_answer": "Nick Offerman",
+            "incorrect_answers": [
+                "Liam Neeson",
+                "Morgan Freeman",
+                "Will Arnet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio animated &quot;Psycho Pass&quot;?",
+            "correct_answer": "Production I.G",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "Shaft",
+                "Trigger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+            "correct_answer": "Participating in cannibalism.",
+            "incorrect_answers": [
+                "Excessive mutilation of animal corpses.",
+                "Performing a ritual involving murder.",
+                "Drinking the blood of many slain animals."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+            "correct_answer": "Atreyu",
+            "incorrect_answers": [
+                "Atrayu",
+                "Atraiyu",
+                "Atraeyu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+            "correct_answer": "Gunnar Hansen",
+            "incorrect_answers": [
+                "Edwin Neal",
+                "John Dugan",
+                "Joe Bill Hogan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
+            "correct_answer": "Deid Mann",
+            "incorrect_answers": [
+                "Frank Sahwit",
+                "Shey De Killer",
+                "Raymond Shields"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a faction included in the game Counter-Strike: Global Offensive?",
+            "correct_answer": "BOPE",
+            "incorrect_answers": [
+                "GSG-9",
+                "Elite Crew",
+                "Phoenix Connexion"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

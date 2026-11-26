@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What year did the game &quot;Overwatch&quot; enter closed beta?",
+            "correct_answer": "2015",
+            "incorrect_answers": [
+                "2013",
+                "2011",
+                "2016"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "English new wave musician Gary Numan founded the video game development company Facepunch Studios in March 2009.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the only US President to be elected four times?",
+            "correct_answer": "Franklin Roosevelt",
+            "incorrect_answers": [
+                "Theodore Roosevelt",
+                "George Washington",
+                "Abraham Lincoln"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Where is Timbuktu located?",
+            "correct_answer": "Mali, Africa",
+            "incorrect_answers": [
+                "Azerbaijan, Asia",
+                "Bangladesh, Asia",
+                "Mauritania, Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+            "correct_answer": "Spruce Goose",
+            "incorrect_answers": [
+                "Noah&#039;s Ark",
+                "Fat Man",
+                "Trojan Horse"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was Maggie Simpson&#039;s first canonical word, not including the Tracey Ullman shorts?",
+            "correct_answer": "Daddy.",
+            "incorrect_answers": [
+                "Sequel?",
+                "Ja!",
+                "Rusty!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Terraria, which of these items is NOT crafted at a Mythril Anvil?",
+            "correct_answer": "Ankh Charm",
+            "incorrect_answers": [
+                "Venom Staff",
+                "Sky Fracture",
+                "Orichalcum Tools"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "&quot;Santa Claus&quot; is a variety of melon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+            "correct_answer": "Swiss Air",
+            "incorrect_answers": [
+                "Air France",
+                "British Airways",
+                "TWA"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What character is NOT apart of the Grand Theft Auto series?",
+            "correct_answer": "Michael Cardenas",
+            "incorrect_answers": [
+                "Packie McReary",
+                "Tommy Vercetti",
+                "Lester Crest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What was the most populous city in the Americas in 2015?",
+            "correct_answer": "S&atilde;o Paulo",
+            "incorrect_answers": [
+                "New York",
+                "Mexico City",
+                "Los Angeles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+            "correct_answer": "Pancreas",
+            "incorrect_answers": [
+                "Kidney",
+                "Liver",
+                "Brain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who made Garry&#039;s Mod?",
+            "correct_answer": "Garry Newman",
+            "incorrect_answers": [
+                "Randy Newman",
+                "Facepunch Studios",
+                "Gabe Newell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?",
+            "correct_answer": "Goodyear",
+            "incorrect_answers": [
+                "Pirelli",
+                "Bridgestone",
+                "Michelin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What is the historical name of Sri Lanka?",
+            "correct_answer": "Ceylon",
+            "incorrect_answers": [
+                "Myanmar",
+                "Colombo",
+                "Badulla"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the largest hot desert in the world?",
+            "correct_answer": "Sahara",
+            "incorrect_answers": [
+                "Gobi",
+                "Mojave",
+                "Kalahari"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the largest of these 4 islands?",
+            "correct_answer": "Borneo",
+            "incorrect_answers": [
+                "Great Britain",
+                "Cuba",
+                "Madagascar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The LS2 engine is how many cubic inches?",
+            "correct_answer": "364",
+            "incorrect_answers": [
+                "346",
+                "376",
+                "402"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the only Generation III Pokemon whose name begins with the letter I?",
+            "correct_answer": "Illumise",
+            "incorrect_answers": [
+                "Infernape",
+                "Ivysaur",
+                "Igglybuff"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+            "correct_answer": "Nose",
+            "incorrect_answers": [
+                "Ears",
+                "Chin",
+                "Neck"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+            "correct_answer": "Demolition",
+            "incorrect_answers": [
+                "The Dream Team",
+                "The Bushwhackers",
+                "The British Bulldogs"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "How many teeth does an adult rabbit have?",
+            "correct_answer": "28",
+            "incorrect_answers": [
+                "30",
+                "26",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs is NOT in The Beatles&#039; album &quot;Sgt. Pepper&#039;s Lonely Hearts Club Band&quot;?",
+            "correct_answer": "Strawberry Fields Forever",
+            "incorrect_answers": [
+                "Getting Better",
+                "Fixing a Hole",
+                "Lucy in the Sky with Diamonds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The Space Needle is located in which city?",
+            "correct_answer": "Seattle",
+            "incorrect_answers": [
+                "Los Angles",
+                "Toronto",
+                "Vancouver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of the following is NOT a song in BROCKHAMPTON&#039;s SATURATION album series?",
+            "correct_answer": "LAMB",
+            "incorrect_answers": [
+                "HOTTIE",
+                "SWAMP",
+                "BUMP"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What was the first vehicle that came with air conditioning as a factory standard?",
+            "correct_answer": "Packard",
+            "incorrect_answers": [
+                "Tucker",
+                "Ford",
+                "Hudson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Pok&eacute;mon can learn the move &quot;Secret Power&quot; by leveling up?",
+            "correct_answer": "Audino",
+            "incorrect_answers": [
+                "Type:Null",
+                "Arceus",
+                "Silvally"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the main Character from the Series: Dead Space?",
+            "correct_answer": "Isaac Clarke",
+            "incorrect_answers": [
+                "Ellen Ripley",
+                "Commander Shepard",
+                "Captain Kirk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which city is the biggest in Canada?",
+            "correct_answer": "Toronto",
+            "incorrect_answers": [
+                "Montreal",
+                "Vancouver",
+                "Ottawa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "How many stars are featured on New Zealand&#039;s flag?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Albert Einstein won a noble prize for his theory of relativity.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is radiation measured in?",
+            "correct_answer": "Gray ",
+            "incorrect_answers": [
+                "Watt",
+                "Decibel",
+                "Kelvin"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The 1952 musical composition 4&#039;33&quot;, composed by prolific American composer John Cage, is mainly comprised of what sound?",
+            "correct_answer": "Silence",
+            "incorrect_answers": [
+                "Farts",
+                "People talking",
+                "Cricket chirps"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of the following James Bond villains is not affiliated with the SPECTRE organization?",
+            "correct_answer": "Auric Goldfinger",
+            "incorrect_answers": [
+                "Dr. Julius No",
+                "Rosa Klebb",
+                "Emilio Largo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which documentary film maker wrote and starred in the film &quot;My Scientology Movie&quot; which first debuted in 2015?",
+            "correct_answer": "Louis Theroux",
+            "incorrect_answers": [
+                "Errol Morris",
+                "Joe Berlinger",
+                "Adam Curtis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The co-creator of Gorillaz, Damon Albarn, is also the lead singer of what band?",
+            "correct_answer": "Blur",
+            "incorrect_answers": [
+                "Oasis",
+                "Radiohead",
+                "Queens of the Stone Age"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime Initial D, how does Takumi Fujiwara describe a drift?",
+            "correct_answer": "&#039;. . . the front tires slide so the car won&#039;t face the inside&#039;",
+            "incorrect_answers": [
+                "&#039;. . . the wheels lose traction, making the car slide sideways&#039;",
+                "&#039;. . . the car oversteers through a curve, causing it to turn faster&#039;",
+                "&#039;. . . you turn a lot&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the mod &quot;Cry of Fear&quot; based off of?",
+            "correct_answer": "Half-Life",
+            "incorrect_answers": [
+                "Counter Strike: Source",
+                "Half-Life 2",
+                "It&#039;s a stand alone game, not a mod"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many square faces does a cube have?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "8",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What type of animal is Disney&#039;s Bambi?",
+            "correct_answer": "Deer",
+            "incorrect_answers": [
+                "Elephant",
+                "Wolf",
+                "Mouse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?",
+            "correct_answer": "Phidias",
+            "incorrect_answers": [
+                "Scopas",
+                "Hesiod",
+                "Praxiteles"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which mountain has the highest peak in South America?",
+            "correct_answer": "Aconcagua, Argentina",
+            "incorrect_answers": [
+                "Ojos del Salado, Argentina/Chile border",
+                "Monte Pissis, Argentina",
+                "Huascar&aacute;n, Peru"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the game &quot;Fallout&quot; released?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1998",
+                "1999",
+                "1996"
+            ]
+        }
+    ]
+}

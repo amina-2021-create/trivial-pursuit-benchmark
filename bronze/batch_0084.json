@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+            "correct_answer": "Hunter S. Thompson",
+            "incorrect_answers": [
+                "F. Scott Fitzgerald",
+                "Henry Miller",
+                "William S. Burroughs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+            "correct_answer": "Winny Hathersham",
+            "incorrect_answers": [
+                "Granny Weatherwax",
+                "Nanny Ogg",
+                "Magrat Garlick"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "The Harry Potter series of books, combined, are over 1,000,000 words in length.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?",
+            "correct_answer": "Izayoi Sakuya",
+            "incorrect_answers": [
+                "Hakurei Reimu",
+                "Kirisame Marisa",
+                "Kochiya Sanae"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+            "correct_answer": "Poland",
+            "incorrect_answers": [
+                "Czechoslovakia",
+                "Austria",
+                "Hungary"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What year was the game &quot;Overwatch&quot; revealed?",
+            "correct_answer": "2014",
+            "incorrect_answers": [
+                "2015",
+                "2011",
+                "2008"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the horror manga artist who made Uzumaki?",
+            "correct_answer": "Junji Ito",
+            "incorrect_answers": [
+                "Kazuo Umezu",
+                "Shintaro Kago",
+                "Sui Ishida"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The commercial UK channel ITV stands for &quot;International Television&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What was the first monster to appear alongside Godzilla?",
+            "correct_answer": "Anguirus",
+            "incorrect_answers": [
+                "King Kong",
+                "Mothra",
+                "King Ghidora"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?",
+            "correct_answer": "Andy",
+            "incorrect_answers": [
+                "Edward",
+                "Danny",
+                "Matt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which is the capital of Spain?",
+            "correct_answer": "Madrid",
+            "incorrect_answers": [
+                "Paris",
+                "Barcelona",
+                "Lisboa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which company developed the MMO Spiral Knights (2011)?",
+            "correct_answer": "Three Rings Design",
+            "incorrect_answers": [
+                "Sega",
+                "Electronic Arts",
+                "Double Fine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+            "correct_answer": "Final",
+            "incorrect_answers": [
+                "Static",
+                "Private",
+                "Public"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
+            "correct_answer": "United Kingdom",
+            "incorrect_answers": [
+                "France",
+                "Italy",
+                "Germany"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of Green Day?",
+            "correct_answer": "Billie Joe Armstrong",
+            "incorrect_answers": [
+                "Mike Dirnt",
+                "Sean Hughes",
+                "Tr&eacute; Cool"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these songs does NOT play during the Ruins segments of the 2015 game &quot;Undertale&quot;?",
+            "correct_answer": "Another Medium",
+            "incorrect_answers": [
+                "Anticipation",
+                "Unnecessary Tension",
+                "Ruins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "When did Radiohead release their album &quot;OK Computer&quot;?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1995",
+                "2000",
+                "1993"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "The board game &quot;Monopoly&quot; is a variation of what board game?",
+            "correct_answer": "The Landlord&#039;s Game",
+            "incorrect_answers": [
+                "Territorial Dispute",
+                "Property Feud",
+                "The Monopolist&#039;s Game"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Avatar: The Last Airbender&quot; and &quot;The Legend of Korra&quot;, Lavabending is a specialized bending technique of Firebending.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Chile?",
+            "correct_answer": "Santiago",
+            "incorrect_answers": [
+                "Valpara&iacute;so",
+                "Copiap&oacute;",
+                "Antofagasta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+            "correct_answer": "Polycarbonate",
+            "incorrect_answers": [
+                "Rubber",
+                "Nylon",
+                "Bakelite"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which genre is the Touhou Project associated with?",
+            "correct_answer": "Shoot &#039;em up (bullet-hell) &amp; Fighting",
+            "incorrect_answers": [
+                "Turn-Based Strategy",
+                "MMORPG",
+                "Building "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+            "correct_answer": "Ohio",
+            "incorrect_answers": [
+                "Florida",
+                "Idaho",
+                "New Mexico"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which actor provided the voice for the main character&#039;s father in Fallout 3?",
+            "correct_answer": "Liam Neeson",
+            "incorrect_answers": [
+                "Kiefer Sutherland",
+                "Brendan Gleeson",
+                "Robbie Coltrane"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "A classic 1976 song by Blue Oyster Cult features the advice &ldquo;Don&rsquo;t Fear The&rdquo; what?",
+            "correct_answer": "Reaper",
+            "incorrect_answers": [
+                "Dark",
+                "Silence",
+                "Clowns"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?",
+            "correct_answer": "Serpent worms",
+            "incorrect_answers": [
+                "Earthworms",
+                "Spaghetti noodles",
+                "Klingworms"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Who was the first official world chess champion?",
+            "correct_answer": "Wilhelm Steinitz",
+            "incorrect_answers": [
+                "Jos&eacute; Ra&uacute;l Capablanca",
+                "Emanuel Lasker",
+                "Bobby Fischer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+            "correct_answer": "Adam the Clown",
+            "incorrect_answers": [
+                "Cliff Hudson",
+                "The convicts",
+                "Larry the butcher"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "According to their 1974 hit, what were Brownsville Station doing &quot;In The Boys&#039; Room&quot;?",
+            "correct_answer": "Smokin&#039;",
+            "incorrect_answers": [
+                "Hangin&#039;",
+                "Lovin&#039;",
+                "Peein&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+            "correct_answer": "Tango",
+            "incorrect_answers": [
+                "Target",
+                "Taxi",
+                "Turkey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?",
+            "correct_answer": "July 16, 1945",
+            "incorrect_answers": [
+                "June 22, 1945",
+                "August 6, 1945",
+                "April 5, 1945"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the colour of unoxidized blood?",
+            "correct_answer": "Red",
+            "incorrect_answers": [
+                "Blue",
+                "Purple",
+                "Green"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Which of the following Union Pacific &#039;Big Boy&#039; locomotives was restored to working order in 2019?",
+            "correct_answer": "4014",
+            "incorrect_answers": [
+                "4012",
+                "4004",
+                "4000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+            "correct_answer": ".svg",
+            "incorrect_answers": [
+                ".png",
+                ".jpeg",
+                ".gif"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+            "correct_answer": "June",
+            "incorrect_answers": [
+                "August",
+                "April",
+                "May"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?",
+            "correct_answer": "Night Trap",
+            "incorrect_answers": [
+                "Sewer Shark",
+                "The Daedalus Encounter",
+                "Corpse Killer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+            "correct_answer": "IDCLIP",
+            "incorrect_answers": [
+                "IDFA",
+                "IDDQD",
+                "IDSPISPOPD"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In which video game did Michael Fassbender star?",
+            "correct_answer": "Fable 3",
+            "incorrect_answers": [
+                "Call of Duty: Modern Warfare",
+                "Assassin&#039;s Creed 3",
+                "Red Dead Redemption"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "What year did the Chevrolet LUV mini truck make its debut?",
+            "correct_answer": "1972",
+            "incorrect_answers": [
+                "1982",
+                "1975",
+                "1973"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which game did NOT get financed via Crowdfunding?",
+            "correct_answer": "Enter the Gungeon",
+            "incorrect_answers": [
+                "Town of Salem",
+                "Undertale",
+                "Tower Unite"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+            "correct_answer": "Capture scent particles",
+            "incorrect_answers": [
+                "Taste the sweet air",
+                "Threaten other species",
+                "Attract female mates"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+            "correct_answer": "Neoplasticism",
+            "incorrect_answers": [
+                "Precisionism",
+                "Cubism",
+                "Impressionism"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the molecular formula of Glucose?",
+            "correct_answer": "C6H12O6",
+            "incorrect_answers": [
+                "C2H4O2",
+                "K+",
+                "CH4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
+            "correct_answer": "Lobster Johnson",
+            "incorrect_answers": [
+                "Roger the Homunculus",
+                "The Spider",
+                "The Wendigo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the standard SI unit for time?",
+            "correct_answer": "Second",
+            "incorrect_answers": [
+                "Minute",
+                "Hour",
+                "Day"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of these Marvel games was released on the Playstation 2?",
+            "correct_answer": "Spider-Man 2",
+            "incorrect_answers": [
+                "Silver Surfer",
+                "Howard the Duck",
+                "Wolverine: Adamantium Rage"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
+            "correct_answer": "Velociraptor",
+            "incorrect_answers": [
+                "Triceratops",
+                "Troodon",
+                "Brachiosaurus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What amount of bits commonly equals one byte?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "64"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+            "correct_answer": "Pac-Man",
+            "incorrect_answers": [
+                "Gauntlet",
+                "Space Invaders",
+                "Street Fighter"
+            ]
+        }
+    ]
+}

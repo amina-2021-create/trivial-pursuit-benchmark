@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is H2O?",
+            "correct_answer": "Water",
+            "incorrect_answers": [
+                "Oxygen",
+                "Hydrogen",
+                "None"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Arcade Fire&#039;s &#039;The Suburbs&#039; won the Album of the Year award in the 2011 Grammys.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was William Frederick Cody better known as?",
+            "correct_answer": "Buffalo Bill",
+            "incorrect_answers": [
+                "Billy the Kid",
+                "Wild Bill Hickok",
+                "Pawnee Bill"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Super Mario 64&quot;, collecting 100 coins on a level will give you a 1-UP.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of South Korea?",
+            "correct_answer": "Seoul",
+            "incorrect_answers": [
+                "Pyongyang",
+                "Taegu",
+                "Kitakyushu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the name of Finnish DJ Darude&#039;s hit single released in October 1999?",
+            "correct_answer": "Sandstorm",
+            "incorrect_answers": [
+                "Dust Devil",
+                "Sirocco",
+                "Khamsin"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "In Norse mythology, Thor once dressed as a woman.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The cover of The Beatles album &quot;Abbey Road&quot; featured a Volkswagen Beetle in the background.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What part of the body produces insulin?",
+            "correct_answer": "Pancreas",
+            "incorrect_answers": [
+                "Kidney",
+                "Liver",
+                "Stomach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which one of these paintings is not by Caspar David Friedrich?",
+            "correct_answer": "The Black Sea",
+            "incorrect_answers": [
+                "The Sea of Ice",
+                "Wanderer above the Sea of Fog",
+                "The Monk by the Sea"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which game in the &quot;Monster Hunter&quot; series introduced the &quot;Insect Glaive&quot; weapon?",
+            "correct_answer": "Monster Hunter 4",
+            "incorrect_answers": [
+                "Monster Hunter Freedom",
+                "Monster Hunter Stories",
+                "Monster Hunter 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In 2015, David Hasselhof released a single called...",
+            "correct_answer": "True Survivor",
+            "incorrect_answers": [
+                "True Fighter",
+                "Real Kung-Fury",
+                "Real Warrior"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Sonic the Hedgehog game introudced Knuckles the Echidna?",
+            "correct_answer": "Sonic the Hedgehog 3",
+            "incorrect_answers": [
+                "Sonic the Hedgehog 2",
+                "Sonic &amp; Knuckles",
+                "Sonic Adventure"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "The Klingon home planet is Qo&#039;noS.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "A piccolo is a smaller version of what instrument?",
+            "correct_answer": "Flute",
+            "incorrect_answers": [
+                "Trumpet",
+                "Harp",
+                "Violin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which company did Bethesda purchase the Fallout Series from?",
+            "correct_answer": "Interplay Entertainment ",
+            "incorrect_answers": [
+                "Capcom",
+                "Blizzard Entertainment",
+                "Nintendo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+            "correct_answer": "Gloin",
+            "incorrect_answers": [
+                "Thorin Oakenshield",
+                "Bombur",
+                "Dwalin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+            "correct_answer": "Faulty ignition switch",
+            "incorrect_answers": [
+                "Malfunctioning gas pedal",
+                "Breaking fuel lines",
+                "Faulty brake pads"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+            "correct_answer": "Boron",
+            "incorrect_answers": [
+                "Oxygen",
+                "Carbon",
+                "Iron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake &quot;Virt&quot; Kaufman?",
+            "correct_answer": "Uncle Eli",
+            "incorrect_answers": [
+                "Cadence",
+                "Nocturna",
+                "Octavian (Bard)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The name of Junko Enoshima&#039;s imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+            "correct_answer": "Mukuro Ikusaba",
+            "incorrect_answers": [
+                "Ryota Mitarai",
+                "Ultimate Imposter",
+                "Komaru Naegi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the northernmost human settlement with year round inhabitants?",
+            "correct_answer": "Alert, Canada",
+            "incorrect_answers": [
+                "Nagurskoye, Russia",
+                "McMurdo Station, Antarctica ",
+                "Honningsv&aring;g, Norway"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these is Daft Punk&#039;s debut single?",
+            "correct_answer": "The New Wave",
+            "incorrect_answers": [
+                "Da Funk",
+                "Discovery",
+                "Around the World"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+            "correct_answer": "Photojournalist",
+            "incorrect_answers": [
+                "Janitor",
+                "Chef",
+                "Taxi Driver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "On a London Underground map, what colour is the Circle Line?",
+            "correct_answer": "Yellow",
+            "incorrect_answers": [
+                "Red",
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character in most of the games of the YS series?",
+            "correct_answer": "Adol Christin ",
+            "incorrect_answers": [
+                "Character doesn&#039;t have a name",
+                "Estelle Bright",
+                "Roger Wilco"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called? ",
+            "correct_answer": "The Ancient One",
+            "incorrect_answers": [
+                "Anomalous",
+                "Eater of Souls",
+                "The Lich King"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?",
+            "correct_answer": "Bobby Darin",
+            "incorrect_answers": [
+                "Louis Armstrong",
+                "Frank Sinatra",
+                "Dean Martin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In the Hellboy universe, what was Abe Sapien&#039;s birth name?",
+            "correct_answer": "Langdon Everett Caul",
+            "incorrect_answers": [
+                "Lord Baltimore",
+                "Sir Edward Grey",
+                "Landis Pope"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "When did The Beatles release the LP &quot;Please Please Me&quot;?",
+            "correct_answer": "1963",
+            "incorrect_answers": [
+                "1970",
+                "1960",
+                "1969"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Who was the King of Gods in Ancient Greek mythology?",
+            "correct_answer": "Zeus",
+            "incorrect_answers": [
+                "Apollo",
+                "Hermes",
+                "Poseidon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games was NOT developed by Markus Persson?",
+            "correct_answer": "Dwarf Fortress",
+            "incorrect_answers": [
+                "Minecraft",
+                "Wurm Online",
+                "0x10c"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which unlockable character in Super Smash Bros. For Wii U and 3DS does not have to be fought to be unlocked?",
+            "correct_answer": "Mii Fighters",
+            "incorrect_answers": [
+                "Ness",
+                "R.O.B.",
+                "Mewtwo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these &quot;Worms&quot; games featured 3D gameplay?",
+            "correct_answer": "Worms 4: Mayhem",
+            "incorrect_answers": [
+                "Worms W.M.D",
+                "Worms Reloaded",
+                "Worms: Open Warfare 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which &quot;Call of Duty&quot; game are the &quot;Apothicons&quot; introduced in the Zombies mode?",
+            "correct_answer": "Call Of Duty: Black Ops III",
+            "incorrect_answers": [
+                "Call Of Duty: Black Ops",
+                "Call Of Duty: World At War",
+                "Call Of Duty: Black Ops II"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+            "correct_answer": "Preventing unreasonable searches and seizures",
+            "incorrect_answers": [
+                "Preventing cruel and unusual punishments",
+                "Protecting against imprisonment without due process of law",
+                "Protecting the right to keep and bear arms"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What was the aircraft registration for the last Concorde built?",
+            "correct_answer": "G-BOAF",
+            "incorrect_answers": [
+                "F-BTSC",
+                "G-BOAC",
+                "F-BVFF"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which musical has won the most Tony awards?",
+            "correct_answer": "The Producers",
+            "incorrect_answers": [
+                "Hamilton",
+                "Chicago",
+                "Phantom of the Opera"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the Finnish word for &quot;Finland&quot;?",
+            "correct_answer": "Suomi",
+            "incorrect_answers": [
+                "Eesti",
+                "Magyarorsz&aacute;g",
+                "Sverige"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In My Little Pony, what is the name of Applejack&#039;s younger sister?",
+            "correct_answer": "Apple Bloom",
+            "incorrect_answers": [
+                "Red Delicious",
+                "Apple Sweets",
+                "Apple Fritter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which country features a maple leaf on its flag?",
+            "correct_answer": "Canada",
+            "incorrect_answers": [
+                "Mexico",
+                "Brazil",
+                "India"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+            "correct_answer": "Vietnam War",
+            "incorrect_answers": [
+                "World War 2",
+                "World War 1",
+                "Cold War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the vocalist and frontman of rock band &quot;Guns N&#039; Roses&quot;?",
+            "correct_answer": "Axl Rose",
+            "incorrect_answers": [
+                "Kurt Cobain",
+                "Slash",
+                "Bono"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "10",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which African American is in part responsible for integrating  Major League baseball?",
+            "correct_answer": "Jackie Robinson",
+            "incorrect_answers": [
+                "Curt Flood",
+                "Roy Campanella",
+                "Satchell Paige"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the average amount of chinchillas born into a single litter?",
+            "correct_answer": "2-3",
+            "incorrect_answers": [
+                "10-15",
+                "5-8",
+                "15-18"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Celebrities",
+            "question": "Which school in Surrey, England did Steve Backshall attend?",
+            "correct_answer": "Collingwood College",
+            "incorrect_answers": [
+                "Tomlinscote School",
+                "Kings International College",
+                "Lyndhurst School"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which company did Valve cooperate with in the creation of the Vive?",
+            "correct_answer": "HTC",
+            "incorrect_answers": [
+                "Oculus",
+                "Google",
+                "Razer"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which anime did Seiji Kishi NOT direct?",
+            "correct_answer": "Another",
+            "incorrect_answers": [
+                "Humanity Has Declined",
+                "Assassination Classroom",
+                "Danganronpa: The Animation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Which of these is NOT one of Donald Trump&#039;s children?",
+            "correct_answer": "Julius",
+            "incorrect_answers": [
+                "Donald Jr.",
+                "Ivanka",
+                "Eric"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What video game engine does the videogame Quake 2 run in?",
+            "correct_answer": "iD Tech 2",
+            "incorrect_answers": [
+                "iD Tech 3",
+                "iD Tech 1",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "George Lucas directed the entire original Star Wars trilogy.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band, with Boy George on lead vocals, won the Brit Awards in 1984?",
+            "correct_answer": "Culture Club\t",
+            "incorrect_answers": [
+                "Eurythmics",
+                "UB40",
+                "The Police"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the school in the anime and manga &quot;Gosick&quot;?",
+            "correct_answer": "St. Marguerite",
+            "incorrect_answers": [
+                "St. Augustine",
+                "St. Mary",
+                "St. Bernadette"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "What is the name of the wildman that Gilgamesh befriends and goes on adventures with?",
+            "correct_answer": "Enkidu",
+            "incorrect_answers": [
+                "Ishtar",
+                "Inanna",
+                "Agga"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Sir Bobby Charlton",
+                "Ryan Giggs",
+                "David Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The heavy metal band Black Sabbath hail from which English city?",
+            "correct_answer": "Birmingham",
+            "incorrect_answers": [
+                "Manchester",
+                "London",
+                "Newcastle-Upon-Tyne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?",
+            "correct_answer": "The Falador Massacre",
+            "incorrect_answers": [
+                "Noclip glitch",
+                "Party-hat Duplication Glitch",
+                "TzHaar Massacre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "At which race was the 2018 F1 Drivers Championship won?",
+            "correct_answer": "Mexico",
+            "incorrect_answers": [
+                "United States",
+                "Belgium",
+                "Abu Dhabi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Who is the creator of the comic series &quot;The Walking Dead&quot;?",
+            "correct_answer": "Robert Kirkman",
+            "incorrect_answers": [
+                "Stan Lee",
+                "Malcolm Wheeler-Nicholson",
+                "Robert Crumb"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Need for Speed: Porsche Unleashed&quot;, the player can only drive cars manufactured by Porsche.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who made the video game, &quot;Bendy and the Ink Machine&quot;?",
+            "correct_answer": "TheMeatly",
+            "incorrect_answers": [
+                "Scott Cawthon",
+                " Jeff Kaplan",
+                "Konami"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Dee from &quot;It&#039;s Always Sunny in Philadelphia&quot; has dated all of the following guys EXCEPT",
+            "correct_answer": "Matthew &quot;Rickety Cricket&quot; Mara",
+            "incorrect_answers": [
+                "Colin the Thief",
+                "Ben the Soldier",
+                "Kevin Gallagher aka Lil&#039; Kevin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+            "correct_answer": "Silk Road",
+            "incorrect_answers": [
+                "Spice Road",
+                "Clay Road",
+                "Salt Road"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What is the fastest  land animal?",
+            "correct_answer": "Cheetah",
+            "incorrect_answers": [
+                "Lion",
+                "Thomson&rsquo;s Gazelle",
+                "Pronghorn Antelope"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft lore, which of the following is known as the God of Spiders in the troll&#039;s loa beliefs?",
+            "correct_answer": "Elortha no Shadra",
+            "incorrect_answers": [
+                "Bwonsamdi",
+                "Hakkar",
+                "Shirvallah"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of these films is NOT set in Los Angeles?",
+            "correct_answer": "RoboCop",
+            "incorrect_answers": [
+                "Blade Runner",
+                "The Terminator",
+                "Predator 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The character Wario was first introduced in which game of the Mario video game franchise?",
+            "correct_answer": "Super Mario Land 2: 6 Golden Coins (1992)",
+            "incorrect_answers": [
+                "Super Mario Bros. 3 (1988)",
+                "Wario Land: Super Mario Land 3 (1994)",
+                "Mario Party (1998)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+            "correct_answer": "Helicopter",
+            "incorrect_answers": [
+                "Stealth Blimp",
+                "Jet",
+                "Space Capsule"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which team won the first Overwatch League championship?",
+            "correct_answer": "London Spitfire",
+            "incorrect_answers": [
+                "Philadelphia Fusion",
+                "New York Excelsior",
+                "Seoul Dynasty"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is the real name of the &quot;Master Of Magnetism&quot; Magneto?",
+            "correct_answer": "Max Eisenhardt",
+            "incorrect_answers": [
+                "Charles Xavier",
+                "Pietro Maximoff",
+                "Johann Schmidt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the release date of the They Might Be Giants album, &#039;Mink Car?&#039;",
+            "correct_answer": "September 11th, 2001",
+            "incorrect_answers": [
+                "April 17th, 2003",
+                "November 4th, 1999",
+                "December 20th, 2002"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the original Star Trek TV series, what was Captain James T. Kirk&#039;s middle name?",
+            "correct_answer": "Tiberius",
+            "incorrect_answers": [
+                "Trevor",
+                "Travis",
+                "Tyrone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+            "correct_answer": "Verdi",
+            "incorrect_answers": [
+                "Mozart",
+                "Berlioz",
+                "Brahms"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What year was the Disney film &quot;A Goofy Movie&quot; released?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1999",
+                "2001",
+                "1997"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+            "correct_answer": "Basque",
+            "incorrect_answers": [
+                "Galician",
+                "Maltese",
+                "Hungarian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
+            "correct_answer": "Howard Stern",
+            "incorrect_answers": [
+                "Rush Limbaugh",
+                "Pete Tong",
+                "Ryan Seacrest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which Oceanian nation is known in Māori as Aotearoa?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "Australia",
+                "Solomon Islands",
+                "New Caledonia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+            "correct_answer": "Palace of the Dead",
+            "incorrect_answers": [
+                "Heaven on High",
+                "Aetherochemical Research Facility",
+                "Sunken Temple of Qarn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which famous 90&#039;s rap album is commonly referred to as &quot;The Bible of Hip Hop&quot;?",
+            "correct_answer": "Illmatic",
+            "incorrect_answers": [
+                "The Low End Theory",
+                "The Chronic",
+                "Enter The Wu-Tang (36 Chambers)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Where in the human body is the Pineal Gland located?",
+            "correct_answer": "Brain",
+            "incorrect_answers": [
+                "Groin",
+                "Chest",
+                "Throat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "What is Jean ValJean&#039;s first prisoner number?",
+            "correct_answer": "24601",
+            "incorrect_answers": [
+                "9430",
+                "1729",
+                "32769"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+            "correct_answer": "Ulgrotha",
+            "incorrect_answers": [
+                "Bant",
+                "Llanowar",
+                "Tazeem"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "What nationality was the surrealist painter Salvador Dali?",
+            "correct_answer": "Spanish",
+            "incorrect_answers": [
+                "Italian",
+                "French",
+                "Portuguese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the frontman&#039;s name of the metal band Megadeth?",
+            "correct_answer": "Dave Mustaine",
+            "incorrect_answers": [
+                "Rob Halford",
+                "Vince Neil",
+                "James Hetfield"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which is the model number of the common laser rifle found in Fallout 3, Fallout: New Vegas, and Fallout 4?",
+            "correct_answer": "AER9",
+            "incorrect_answers": [
+                "AER10",
+                "AER12",
+                "AER14"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What does VR stand for?",
+            "correct_answer": "Virtual Reality",
+            "incorrect_answers": [
+                "Very Real",
+                "Visual Recognition",
+                "Voice Recognition"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of these companies does NOT manufacture automobiles?",
+            "correct_answer": "Ducati",
+            "incorrect_answers": [
+                "Nissan",
+                "GMC",
+                "Fiat"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The song &quot;Megalovania&quot; by Toby Fox made its third appearence in the 2015 RPG &quot;Undertale&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "In what country were the 2014 Winter Olympics held in the town of Sochi?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "South Korea",
+                "Norway",
+                "Canada"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "What happens when you roll 3 doubles in a row in Monopoly?",
+            "correct_answer": "Go to jail",
+            "incorrect_answers": [
+                "Get paid $200",
+                "Pay $200",
+                "Move to Free Parking"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is the name of a cut enemy from &quot;Half-Life 2&quot;?",
+            "correct_answer": "Hydra",
+            "incorrect_answers": [
+                "Cthulu",
+                "Spike",
+                "Tremor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What shape does sin(x) or cos(x) make on a graph?",
+            "correct_answer": "Waves",
+            "incorrect_answers": [
+                "A Parabola",
+                "A Straight Line",
+                "Zig-Zags"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the original Mega Man series, who is Mega Man&#039;s arch nemesis?",
+            "correct_answer": "Dr. Wily",
+            "incorrect_answers": [
+                "Dr. Light",
+                "Dr. Bad",
+                "Mr. Z"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+            "correct_answer": "Monopoly",
+            "incorrect_answers": [
+                "Pay Day",
+                "Cluedo",
+                "Coppit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+            "correct_answer": "Fiat",
+            "incorrect_answers": [
+                "Maserati",
+                "Alfa Romeo",
+                "Ferrari"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "The dish Fugu, is made from what family of fish?",
+            "correct_answer": "Pufferfish",
+            "incorrect_answers": [
+                "Bass",
+                "Salmon",
+                "Mackerel"
+            ]
+        }
+    ]
+}

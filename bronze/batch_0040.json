@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The land of Gotland is located in which European country?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": [
+                "Denmark",
+                "Norway",
+                "Germany"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "On the periodic table of elements, what is the symbol for Tin?",
+            "correct_answer": "Sn",
+            "incorrect_answers": [
+                "Ti",
+                "Ni",
+                "Na"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In the fictional SCP universe what &ldquo;Object Class&rdquo; is given to SCP&rsquo;s that cannot be contained.",
+            "correct_answer": "Apollyon",
+            "incorrect_answers": [
+                "Thaumiel",
+                "Keter-Thaumiel",
+                "Esoteric/Narrative Classes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which Elton John hit starts with the line &quot;When are you gonna come down&quot;?",
+            "correct_answer": "Goodbye Yellow Brick Road",
+            "incorrect_answers": [
+                "Rocket Man",
+                "Bennie and the Jets",
+                "Crocodile Rock"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of the following songs was not originally released by Sir Elton John? ",
+            "correct_answer": "You&#039;ll Be In My Heart",
+            "incorrect_answers": [
+                "Crocodile Rock",
+                "Candle in the Wind",
+                "I Don&#039;t Wanna Go On With You Like That"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Australia is greater than Greenland in size.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Sugar contains fat.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What was Rage Against the Machine&#039;s debut album?",
+            "correct_answer": "Rage Against the Machine",
+            "incorrect_answers": [
+                "Evil Empire",
+                "Bombtrack",
+                "The Battle Of Los Angeles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first &quot;Team Fortress 2&quot; update to include a war?",
+            "correct_answer": "Sniper vs. Spy Update",
+            "incorrect_answers": [
+                "WAR! Update",
+                "Meet Your Match Update",
+                "Spy Vs. Engineer Update"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Who is the father of Icarus, who flew too close to the sun?",
+            "correct_answer": "Daedalus",
+            "incorrect_answers": [
+                "Minos",
+                "Perseus",
+                "Zeus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the extra pedal on a manual or standard transmission car?",
+            "correct_answer": "Clutch",
+            "incorrect_answers": [
+                "Shifter",
+                "Booster",
+                "Parking Brake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What was the last Aphex Twin album released before his decade-long hiatus?",
+            "correct_answer": "Drukqs",
+            "incorrect_answers": [
+                "Windowlicker",
+                "Syro",
+                "Collected Ambient Works 85-92"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year is considered to be the year that the British Empire ended?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1986",
+                "1981",
+                "1971"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who voiced the character Draco in the 1996 movie &#039;DragonHeart&#039;?",
+            "correct_answer": "Sean Connery",
+            "incorrect_answers": [
+                "Dennis Quaid",
+                "Pete Postlethwaite",
+                "Brian Thompson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Undertale&quot;, how many main endings are there?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "5",
+                "13"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main protagonist of Dead Space?",
+            "correct_answer": "Isaac Clarke",
+            "incorrect_answers": [
+                "Commander Shepard",
+                "Gordon Freeman",
+                "Master Chief"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+            "correct_answer": "Python",
+            "incorrect_answers": [
+                "Cobra",
+                "Anaconda",
+                "Viper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, which of these items can&#039;t be used to lower the player&#039;s accumulated radiation?",
+            "correct_answer": "Radioprotectant",
+            "incorrect_answers": [
+                "Anti-rad",
+                "Medkit",
+                "Vodka"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who designed the album cover for True Romance, an album by Estelle?",
+            "correct_answer": "Rebecca Sugar",
+            "incorrect_answers": [
+                "Matt Burnett",
+                "Ian Jones Quartey",
+                "Ben Leven"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+            "correct_answer": "Tron",
+            "incorrect_answers": [
+                "Big Hero 6",
+                "Fantasia",
+                "Monsters, Inc."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Going by the International Code of Signals, which single flag is interpreted as &quot;I require assistance (not distress)&quot;?",
+            "correct_answer": "Victor",
+            "incorrect_answers": [
+                "Kilo",
+                "Papa",
+                "Delta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What was the African nation of Zimbabwe formerly known as?",
+            "correct_answer": "Rhodesia",
+            "incorrect_answers": [
+                "Zambia",
+                "Mozambique",
+                " Bulawayo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Team Fortress 2&quot;, which class is able to double jump?",
+            "correct_answer": "Scout",
+            "incorrect_answers": [
+                "Spy",
+                "Engineer",
+                "Pyro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "What UK Train does NOT go over 125MPH?",
+            "correct_answer": "Sprinter",
+            "incorrect_answers": [
+                "Class 43",
+                "Javelin",
+                "Pendolino"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these countries is not written in its native language?",
+            "correct_answer": "Slova&scaron;ko",
+            "incorrect_answers": [
+                "Suomi",
+                "Schweiz",
+                "Ell&aacute;da"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Overwatch, which ape species is the hero Winston?",
+            "correct_answer": "Gorilla",
+            "incorrect_answers": [
+                "Orangutan",
+                "Chimpanzee",
+                "Gibbon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": " What is the only nation that borders both Uruguay and Venezuela?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "Mexico",
+                "Chile",
+                "Panama"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
+            "correct_answer": "Did I ever tell you the definition of Insanity?",
+            "incorrect_answers": [
+                "Have I failed to entertain you?",
+                "You&#039;re my b*tch!",
+                "Maybe your best course...would be to tread lightly."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Yakuza 4 who is the first character you play as?",
+            "correct_answer": "Shun Akiyama",
+            "incorrect_answers": [
+                "Taiga Saejima",
+                "Kazuma Kiryu",
+                "Goro Majima"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which game was the first time Mario was voiced by Charles Martinet?",
+            "correct_answer": "Mario&#039;s Game Gallery",
+            "incorrect_answers": [
+                "Super Mario 64",
+                "Mario Tennis",
+                "Dr. Mario 64"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+            "correct_answer": "Max Payne",
+            "incorrect_answers": [
+                "Alan Wake",
+                "Hitman",
+                "God Of War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which constellation contains the center of the Milky Way?",
+            "correct_answer": "Sagittarius",
+            "incorrect_answers": [
+                "Scorpius",
+                "Ophiuchus",
+                "Capricornus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the official language of Costa Rica?",
+            "correct_answer": "Spanish",
+            "incorrect_answers": [
+                "English",
+                "Portuguese",
+                "Creole"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Lego Island trilogy, who taught Pepper Roni how to read?",
+            "correct_answer": "Officer Laura Brick",
+            "incorrect_answers": [
+                "Papa Brickolini",
+                "Officer Nick Brick",
+                "Mama Brickolini"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In Star Trek, what is the name of Spock&#039;s father?",
+            "correct_answer": "Sarek",
+            "incorrect_answers": [
+                "Tuvok",
+                "T&#039;Pal",
+                "Surak"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Who was the Roman god of fire?",
+            "correct_answer": "Vulcan",
+            "incorrect_answers": [
+                "Apollo",
+                "Jupiter",
+                "Mercury"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who plays Alice in the Resident Evil movies?",
+            "correct_answer": "Milla Jovovich",
+            "incorrect_answers": [
+                "Madison Derpe",
+                "Milla Johnson",
+                "Kim Demp"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "Who proved Fermat&#039;s Last Theorem?",
+            "correct_answer": "Andrew Wiles",
+            "incorrect_answers": [
+                "Leonhard Euler",
+                "Carl Friedrich Gauss",
+                "Srinivasa Ramanujan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "How many studio albums have the duo Daft Punk released?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The Lego Group was founded in 1932.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The HTML5 standard was published in 2014.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?",
+            "correct_answer": "Fantastic Four (2015)",
+            "incorrect_answers": [
+                " Spider-Man: Homecoming (2017)",
+                "The Incredible Hulk (2008)",
+                "Captain Marvel (2019)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did the French Revolution begin?",
+            "correct_answer": "1789",
+            "incorrect_answers": [
+                "1823",
+                "1756",
+                "1799"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which country is the Taedong River in?",
+            "correct_answer": "North Korea",
+            "incorrect_answers": [
+                "South Korea",
+                "Japan",
+                "China"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
+            "correct_answer": "Rudyard Kipling",
+            "incorrect_answers": [
+                "Edgar Allan Poe",
+                "William Shakespeare",
+                "William Wordsworth"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "The musical &quot;Dirty Rotten Scoundrels&quot; is set in what country?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "USA",
+                "Germany",
+                "Sweden"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Re:Zero&quot; manga series, which of the following Sin Archbishops eats Rem&#039;s existence?",
+            "correct_answer": "Ley Batenkaitos",
+            "incorrect_answers": [
+                "Roy Alphard",
+                "Petelgeuse Romanee-Conti",
+                "Louis Arneb"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the main theme song of &quot;Sonic Adventure 2&quot;?",
+            "correct_answer": "Live and Learn",
+            "incorrect_answers": [
+                "Open Your Heart",
+                "Can You Feel the Sunshine?",
+                "His World"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
+            "correct_answer": "Wasp",
+            "incorrect_answers": [
+                "Raptor",
+                "Hornet",
+                "Behemoth"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the world&#039;s longest venomous snake?",
+            "correct_answer": "King Cobra",
+            "incorrect_answers": [
+                "Green Anaconda",
+                "Inland Taipan",
+                "Yellow Bellied Sea Snake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "On what day did Germany invade Poland?",
+            "correct_answer": "September 1, 1939",
+            "incorrect_answers": [
+                "December 7, 1941",
+                "June 22, 1941",
+                "July 7, 1937"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "When is the Ides of March?",
+            "correct_answer": "March 15",
+            "incorrect_answers": [
+                "March 14",
+                "March 31",
+                "March 1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+            "correct_answer": "Putney",
+            "incorrect_answers": [
+                "Hammersmith",
+                "Vauxhall ",
+                "Battersea"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What port does HTTP run on?",
+            "correct_answer": "80",
+            "incorrect_answers": [
+                "53",
+                "443",
+                "23"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "According to Overwatch&#039;s lore, who was once a member of the Deadlock Gang?",
+            "correct_answer": "McCree",
+            "incorrect_answers": [
+                "Roadhog",
+                "Soldier 76",
+                "Junkrat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The American company &quot;Campbell&#039;s&quot; is most well known for making what food product?",
+            "correct_answer": "Canned soups",
+            "incorrect_answers": [
+                "Chocolate",
+                "Soft drinks",
+                "Sausages"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "Paul Gauguin moved to which country in 1895?",
+            "correct_answer": "Tahiti",
+            "incorrect_answers": [
+                "France",
+                "Atuona",
+                "Lithuania"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What English word means to &quot;think deeply&quot;?",
+            "correct_answer": "Contemplate",
+            "incorrect_answers": [
+                "Confiscate",
+                "Constipate",
+                "Condensate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Denmark?",
+            "correct_answer": "Copenhagen",
+            "incorrect_answers": [
+                "Aarhus",
+                "Odense",
+                "Aalborg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "In &quot;Last Supper&quot; by Leonardo Da Vinci, what two colors were the robes worn by Jesus?",
+            "correct_answer": "Red and Blue",
+            "incorrect_answers": [
+                "Red and White",
+                "Red and Yellow",
+                "Red and Black"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Nintendo&#039;s Luigi was originally just called Green Mario?",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+            "correct_answer": "Petra",
+            "incorrect_answers": [
+                "The Pyramids",
+                "Alhambra",
+                "Mausoleum of Maussollos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What album did The Lumineers release in 2016?",
+            "correct_answer": "Cleopatra",
+            "incorrect_answers": [
+                "Winter",
+                "The Lumineers",
+                "Tracks From The Attic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "According to the RIAA: Which artist has sold the most albums by the million?",
+            "correct_answer": "The Beatles",
+            "incorrect_answers": [
+                "Elvis Presley",
+                "Michael Jackson",
+                "Pink Floyd"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which video game company developed the 2019 game Rage 2?",
+            "correct_answer": "Avalanche Studios",
+            "incorrect_answers": [
+                "Bethesda Game Studios",
+                "Infinity Ward",
+                "Gearbox Software"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In Avengers: Infinity War, where was the Soul Stone located?",
+            "correct_answer": "Vormir",
+            "incorrect_answers": [
+                "Xandar",
+                "Knowhere",
+                "Asgard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+            "correct_answer": "Cognitive Dissonance",
+            "incorrect_answers": [
+                "Flip-Flop Syndrome",
+                "Split-Brain",
+                "Blind Sight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
+            "correct_answer": "LazyTown",
+            "incorrect_answers": [
+                "Sofia the First",
+                "DuckTales",
+                "Tom and Jerry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The killer in the 1981 film &#039;My Bloody Valentine&#039; wears what sort of outfit?",
+            "correct_answer": "Mining gear",
+            "incorrect_answers": [
+                "Clown costume",
+                "Santa suit",
+                "Police uniform"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What prime number comes next after 19?",
+            "correct_answer": "23",
+            "incorrect_answers": [
+                "25",
+                "21",
+                "27"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
+            "correct_answer": "Major Fraud",
+            "incorrect_answers": [
+                "Ingram Cheater",
+                "Coughing Major",
+                "Millionaire Crime"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Which character class in Dungeons and Dragons 5th edition gains it&#039;s powers from making a pact with a being of higher power?",
+            "correct_answer": "Warlock",
+            "incorrect_answers": [
+                "Wizard",
+                "Sorceror",
+                "Cleric"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is Solid Snake&#039;s real name?",
+            "correct_answer": "David",
+            "incorrect_answers": [
+                "Solid Snake",
+                "John",
+                "Huey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The four strings on a violin are the G string, D string, A string, and...",
+            "correct_answer": "E string",
+            "incorrect_answers": [
+                "C string",
+                "B string",
+                "F string"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
+            "correct_answer": "300 Million",
+            "incorrect_answers": [
+                "100 Million",
+                "450 Million",
+                "1 Billion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+            "correct_answer": "Plum",
+            "incorrect_answers": [
+                "Apple",
+                "Peach",
+                "Pear"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+            "correct_answer": "Brooklyn",
+            "incorrect_answers": [
+                "Las Vegas",
+                "Boston",
+                "Seattle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT the name of an album released by American rapper Viper?",
+            "correct_answer": "The Life of Pablo",
+            "incorrect_answers": [
+                "Kill Urself My Man",
+                "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
+                "Yo Wife Handcuffin&#039; Me"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Terraria, what does the Wall of Flesh not drop upon defeat?",
+            "correct_answer": "Picksaw",
+            "incorrect_answers": [
+                "Pwnhammer",
+                "Breaker Blade",
+                "Laser Rifle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+            "correct_answer": "Quote",
+            "incorrect_answers": [
+                "Kazuma",
+                "Curly",
+                "Arthur"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Peru?",
+            "correct_answer": "Lima",
+            "incorrect_answers": [
+                "Santiago",
+                "Montevideo",
+                "Buenos Aires"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
+            "correct_answer": "He&#039;s the big kahuna.",
+            "incorrect_answers": [
+                "To find out where all the bananas are.",
+                "Because Diddy Kong forced him.",
+                "He wants to punish brutes."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is credited with having created the world&#039;s first video game Easter Egg?",
+            "correct_answer": "Warren Robinett",
+            "incorrect_answers": [
+                "Julius Smith",
+                "Will Crowther",
+                "Don Woods"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who sings the rap song &quot;Secret Wars Part 1&quot;?",
+            "correct_answer": "The Last Emperor",
+            "incorrect_answers": [
+                "MC Frontalot",
+                "Busdriver",
+                "Masta Killa"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The author behind the acclaimed novel &quot;Leaving Las Vegas&quot; also wrote an episode of Rugrats.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Brendan Fraser starred in the following movies, except which one?",
+            "correct_answer": "Titanic",
+            "incorrect_answers": [
+                "Monkeybone",
+                "Encino Man",
+                "Mrs. Winterbourne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What is the Roman numeral for 500?",
+            "correct_answer": "D",
+            "incorrect_answers": [
+                "L",
+                "C",
+                "X"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "According to a Beatles song, who kept her face in a jar by the door?",
+            "correct_answer": "Eleanor Rigby",
+            "incorrect_answers": [
+                "Loretta Martin",
+                "Molly Jones",
+                "Lady Madonna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What was the original name of Ho Chi Minh City?",
+            "correct_answer": "Saigon",
+            "incorrect_answers": [
+                "Hanoi",
+                "Dar Es Salaam",
+                "Angkor Wat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "If a person&#039;s hair is described as &#039;Titian&#039;, what colour is it?",
+            "correct_answer": "Red",
+            "incorrect_answers": [
+                "Blonde",
+                "Brunette",
+                "Black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+            "correct_answer": "Amy",
+            "incorrect_answers": [
+                "Beth",
+                "Jo",
+                "Meg"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "A typical trait of the Expressionist art movement is to distort the world radically for emotional effect.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+            "correct_answer": "Ludvig Van Beethoven",
+            "incorrect_answers": [
+                "Chief Keef",
+                "Wolfgang Amadeus Mozart",
+                "Johannes Brahms"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "What nationality was the famous artist Pablo Picasso?",
+            "correct_answer": "Spanish",
+            "incorrect_answers": [
+                "French",
+                "Italian",
+                "German"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Which of the following FIA Rally cars was approved for use in the Group B class first? ",
+            "correct_answer": "Porsche 911 Turbo",
+            "incorrect_answers": [
+                "Audi Quattro A2",
+                "BMW M1",
+                "Lancia Rally 037"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Love Live: School Idol Project&quot; what pseudonym does Kotori Minami use in her job as a maid?",
+            "correct_answer": "Minalinsky",
+            "incorrect_answers": [
+                "Stanoytchev",
+                "Kuznetsov",
+                "Aqours"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many times do you fight the Imprisoned in The Legend of Zelda: Skyward Sword?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "There are a total of 20 races in Formula One 2016 season.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

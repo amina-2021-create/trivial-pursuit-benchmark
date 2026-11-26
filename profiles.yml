@@ -1,0 +1,8 @@
+trivial_pursuit:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /home/aaouari/projects/trivial-pursuit/gold/warehouse.duckdb
+      schema: main
+      threads: 1

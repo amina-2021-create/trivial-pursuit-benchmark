@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+            "correct_answer": "Bull",
+            "incorrect_answers": [
+                "Pig",
+                "Ox",
+                "Horse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What type of genre is the controversial 2015 game &quot;Hatred&quot;?",
+            "correct_answer": "Shoot &#039;Em Up",
+            "incorrect_answers": [
+                "Point &amp; Click",
+                "MMORPG",
+                "Simulation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+            "correct_answer": "A New Hope",
+            "incorrect_answers": [
+                "The Phantom Menace",
+                "The Force Awakens",
+                "Revenge of the Sith"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "How many sides does a trapezium have?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Which of the following is not a color of mana in Magic: The Gathering?",
+            "correct_answer": "Yellow",
+            "incorrect_answers": [
+                "White",
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+            "correct_answer": "Oliver Stone",
+            "incorrect_answers": [
+                "Francis Ford Coppola",
+                "Stanley Kubrick",
+                "Michael Cimino"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Apollo mission was the last one in NASA&#039;s Apollo program?",
+            "correct_answer": "Apollo 17",
+            "incorrect_answers": [
+                "Apollo 13",
+                "Apollo 11",
+                "Apollo 15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+            "correct_answer": "2005",
+            "incorrect_answers": [
+                "2007",
+                "2015",
+                "2020"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+            "correct_answer": "The Artful Dodger",
+            "incorrect_answers": [
+                "Fagin",
+                "Bull&rsquo;s-eye",
+                "Mr. Fang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+            "correct_answer": "Dr. Mario",
+            "incorrect_answers": [
+                "Mewtwo",
+                "Lucas",
+                "Roy"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The ADAM collecters in the Bioshock series are known as Little Sisters.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of the US state Nevada?",
+            "correct_answer": "Carson City",
+            "incorrect_answers": [
+                "Las Vegas",
+                "Henderson",
+                "Reno"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Which superhero is known for his super speed?",
+            "correct_answer": "Flash",
+            "incorrect_answers": [
+                "Superman",
+                "Batman",
+                "Spiderman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Given that all party members are maxed, who is the fastest party member in Super Mario RPG: Legend of The Seven Stars?",
+            "correct_answer": "Geno",
+            "incorrect_answers": [
+                "Mario",
+                "Bowser",
+                "Peach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+            "correct_answer": "Wally West",
+            "incorrect_answers": [
+                "Johnny Quick",
+                "Jay Garrick",
+                "Eobard Thawne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?",
+            "correct_answer": "Prince",
+            "incorrect_answers": [
+                "Michael Jackson",
+                "Cameo",
+                "Rick James"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which mountain has the highest peak in North America?",
+            "correct_answer": "Denali, USA",
+            "incorrect_answers": [
+                "Mount Saint Elias, US/Canada border",
+                "Mount Logan, Canada",
+                "Pico de Orizaba, Mexico"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which British writer wrote for both Doctor Who and Sherlock?",
+            "correct_answer": "Steven Moffatt",
+            "incorrect_answers": [
+                "Phil Ford",
+                "Russell T Davies",
+                "Toby Whithouse"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Brandon Routh plays the titular character in the movie &quot;John Wick&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What are the names of the Ice Climbers in the video game Ice Climber?",
+            "correct_answer": "Popo and Nana",
+            "incorrect_answers": [
+                "Popo and Nina",
+                "Papi and Nana",
+                "Papi and Nina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+            "correct_answer": "United Kingdom",
+            "incorrect_answers": [
+                "Spain",
+                "Portugal",
+                "France"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "The X-Men&#039;s Storm and Nightcrawler were originally planned to be characters in DC Comics&#039; Legion of Super-Heroes.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is not a character in the Street Fighter series?",
+            "correct_answer": "Mai Shiranui",
+            "incorrect_answers": [
+                "Laura Matsuda",
+                "Sakura Kasugano",
+                "Ibuki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Tom Clancy&#039;s Rainbow 6 Siege, what organization is Valkyrie from?",
+            "correct_answer": "Navy Seals",
+            "incorrect_answers": [
+                "S.A.S",
+                "G.I.G.N",
+                "F.B.I"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+            "correct_answer": "1989 Toyota Land Cruiser",
+            "incorrect_answers": [
+                "1989 Jeep Wrangler YJ Sahar",
+                "1989 Ford Explorer XLT",
+                "Mercedes M-Class"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+            "correct_answer": "Gene Wilder",
+            "incorrect_answers": [
+                "Shia LeBouf",
+                "Peter Ostrum",
+                "Johnny Depp"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Which of the following is NOT a work done by Shakespeare?",
+            "correct_answer": "Trial of Temperance",
+            "incorrect_answers": [
+                "Measure For Measure",
+                "Titus Andronicus",
+                "Cymbeline"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+            "correct_answer": "Philadelphia Flyers",
+            "incorrect_answers": [
+                "New York Rangers",
+                "Toronto Maple Leafs",
+                "Boston Bruins"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Undertale&quot;, the main character of the game is Sans.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "Which of the following rings from the DC Comics&#039; &quot;Lantern Corps&quot; are classified as Parasitic?",
+            "correct_answer": "Indigo (Compassion)",
+            "incorrect_answers": [
+                "Green (Willpower)",
+                "White (Life)",
+                "Yellow (Fear)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who performed the guitar solo on Michael Jackson&#039;s hit &quot;Beat It&quot;?",
+            "correct_answer": "Eddie Van Halen",
+            "incorrect_answers": [
+                "Steve Vai",
+                "Kirk Hammett",
+                "Zakk Wylde"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following characters from the game &quot;Overwatch&quot; was revealed to be homosexual in December of 2016?",
+            "correct_answer": "Tracer",
+            "incorrect_answers": [
+                "Widowmaker",
+                "Sombra",
+                "Symmetra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "EDM record label Monstercat is based in which country?",
+            "correct_answer": "Canada",
+            "incorrect_answers": [
+                "United States",
+                "Australia",
+                "United Kingdom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
+            "correct_answer": "Emeralds",
+            "incorrect_answers": [
+                "Diamonds",
+                "Iron",
+                "Leather"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of Joel&#039;s daughter in the game, &quot;The Last of Us&quot;? ",
+            "correct_answer": "Sarah",
+            "incorrect_answers": [
+                "Ellie",
+                "Tess",
+                "Marlene"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?",
+            "correct_answer": "Edgar Wright",
+            "incorrect_answers": [
+                "Phil Lord",
+                "Chris Miller",
+                "Seth Rogan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Hitman: Blood Money, what is the name of the target in the mission &quot;Death of a Showman&quot;?",
+            "correct_answer": "Joseph Clarence",
+            "incorrect_answers": [
+                "The Swing King",
+                "Maynard John",
+                "Manuel Delgado"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the Linnean name of the domestic apple tree?",
+            "correct_answer": "Malus pumila",
+            "incorrect_answers": [
+                "Malus americana",
+                "Pomus domestica",
+                "Appelus delectica"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?",
+            "correct_answer": "Glock-18",
+            "incorrect_answers": [
+                "Tec-9",
+                "Desert Eagle",
+                "Dual Berretas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+            "correct_answer": "Isla Sorna",
+            "incorrect_answers": [
+                "Isla Nublar",
+                "Isla Pena",
+                "Isla Muerta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+            "correct_answer": "Frank Bruno",
+            "incorrect_answers": [
+                "Henry Cooper",
+                "Muhammad Ali",
+                "Joe Fraiser"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What was the nickname of the original model for Half-Life&#039;s protagonist Gordon Freeman?",
+            "correct_answer": "Ivan the Space Biker",
+            "incorrect_answers": [
+                "Gordon the Space Biker",
+                "Ivan the Alien Biker",
+                "Gordon the Alien Biker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+            "correct_answer": "Ohio State Buckeyes",
+            "incorrect_answers": [
+                "Alabama Crimson Tide",
+                "Clemson Tigers",
+                "Wisconsin Badgers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these NHL teams have never moved since their inception?",
+            "correct_answer": "St. Louis Blues",
+            "incorrect_answers": [
+                "New Jersey Devils",
+                "Carolina Hurricanes",
+                "Dallas Stars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Mario spin-off game did Waluigi make his debut?",
+            "correct_answer": "Mario Tennis",
+            "incorrect_answers": [
+                "Mario Party 3",
+                "Mario Kart: Double Dash!!",
+                "Mario Golf: Toadstool Tour"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many aces can be shot down through the entirety of &quot;Ace Combat Zero: The Belkan War&quot;?",
+            "correct_answer": "169",
+            "incorrect_answers": [
+                "100",
+                "132",
+                "245"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+            "correct_answer": "Fastball",
+            "incorrect_answers": [
+                "Slowball",
+                "Screwball",
+                "Palmball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+            "correct_answer": "John Steinbeck",
+            "incorrect_answers": [
+                "F. Scott Fitzgerald",
+                "Ernest Hemingway",
+                "William Faulkner"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "What is former United States President Bill Clinton&#039;s full name?",
+            "correct_answer": "William Jefferson Clinton",
+            "incorrect_answers": [
+                "William Roosevelt Clinton",
+                "William Truman Clinton",
+                "William Lincoln Clinton"
+            ]
+        }
+    ]
+}

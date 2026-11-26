@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime, &quot;Super Sonico&quot;, what is Super Sonico&#039;s favorite food?",
+            "correct_answer": "Macroons",
+            "incorrect_answers": [
+                "Ice Cream",
+                "Pizza",
+                "Chips"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of the Smashing Pumpkins?",
+            "correct_answer": "Billy Corgan",
+            "incorrect_answers": [
+                "Brett Scallions",
+                "Eddie Vedder",
+                "Chino Moreno"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+            "correct_answer": "Where The Wild Things Are",
+            "incorrect_answers": [
+                "The Neverending Story",
+                "Charlie and the Chocolate Factory",
+                "The Cat in the Hat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
+            "correct_answer": "74",
+            "incorrect_answers": [
+                "88",
+                "49",
+                "62"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+            "correct_answer": "Pennsylvania",
+            "incorrect_answers": [
+                "Florida",
+                "California",
+                "New Jersey"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Night on Bald Mountain was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+            "correct_answer": "Romeo &amp; Juliet",
+            "incorrect_answers": [
+                "Hamlet",
+                "Macbeth",
+                "Othello"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which franchise does the creature &quot;Slowpoke&quot; originate from?",
+            "correct_answer": "Pokemon",
+            "incorrect_answers": [
+                "Dragon Ball",
+                "Sonic The Hedgehog",
+                "Yugioh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these following weapon or equipment exists in Counter Strike but not in Counter Strike: Source?",
+            "correct_answer": "Tactical Shield",
+            "incorrect_answers": [
+                "Molotov Cocktail",
+                "MP5 Navy",
+                "TMP"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The United States Army Air Corps became the United States Air Force on what date?",
+            "correct_answer": "September 18, 1947",
+            "incorrect_answers": [
+                "December 14, 1946",
+                "October 27, 1945",
+                "November 08, 1944"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Hera is god of...",
+            "correct_answer": "Marriage",
+            "incorrect_answers": [
+                "Agriculture",
+                "Sea",
+                "War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+            "correct_answer": "Apollo",
+            "incorrect_answers": [
+                "Aphrodite",
+                "Artemis",
+                "Athena"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+            "correct_answer": "To know",
+            "incorrect_answers": [
+                "To measure",
+                "To live",
+                "To count"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ",
+            "correct_answer": "John Ratzenberger",
+            "incorrect_answers": [
+                "Tom Hanks",
+                "Dave Foley",
+                "Geoffrey Rush"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
+            "correct_answer": "Entra&ntilde;as",
+            "incorrect_answers": [
+                "&amp;&amp;&amp;&amp;&amp;&amp;",
+                "Sheep",
+                "Xen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which wrestler won the 2019 Men&rsquo;s Royal Rumble?",
+            "correct_answer": "Seth Rollins",
+            "incorrect_answers": [
+                "Braun Strowman",
+                "AJ Styles",
+                "Andrade"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who serves as the speaker of the prologue in Shakespeare&#039;s Romeo and Juliet?",
+            "correct_answer": "Chorus",
+            "incorrect_answers": [
+                "Montague",
+                "Refrain",
+                "Capulet"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Not including false teeth; A human has two sets of teeth in their lifetime.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the relationship between Rick and Morty in the show &quot;Rick and Morty&quot;?",
+            "correct_answer": "Grandfather and Grandson",
+            "incorrect_answers": [
+                "Father and Son",
+                "Best Friends",
+                "Crimefighting Partners"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "An average human can go two weeks without water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Toby Fox&#039;s &quot;Megalovania&quot; was first used where?",
+            "correct_answer": "Radiation&#039;s Earthbound Halloween Hack",
+            "incorrect_answers": [
+                "Homestuck: [S] Wake",
+                "Undertale",
+                "Mother: Cognitive Dissonance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which famous rapper is featured in Jack &Uuml; (Skrillex and Diplo)&#039;s 2015 single called &quot;Febreze&quot;?",
+            "correct_answer": "2 Chainz",
+            "incorrect_answers": [
+                "Kendrick Lamar",
+                "Future",
+                "Fatman Scoop"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was &quot;Metal Gear Solid&quot; released in North America?",
+            "correct_answer": "1998",
+            "incorrect_answers": [
+                "1987",
+                "2001",
+                "2004"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?",
+            "correct_answer": "The Revenant",
+            "incorrect_answers": [
+                "The Wolf Of Wall Street",
+                "Shutter Island",
+                "Inception"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which of these musicals won the Tony Award for Best Musical?",
+            "correct_answer": "Rent",
+            "incorrect_answers": [
+                "The Color Purple",
+                "American Idiot",
+                "Newsies"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Pamina and Papageno are characters in what Mozart opera?",
+            "correct_answer": "The Magic Flute",
+            "incorrect_answers": [
+                "The Marriage of Figaro",
+                "The Impresario",
+                "The Goose of Cairo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What does the International System of Quantities refer 1024 bytes as?",
+            "correct_answer": "Kibibyte",
+            "incorrect_answers": [
+                "Kylobyte",
+                "Kilobyte",
+                "Kelobyte"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which American president appears on a one dollar bill?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Benjamin Franklin"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Type 1 diabetes is a result of the liver working improperly.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "In DC comics, what is Owlman&#039;s real name?",
+            "correct_answer": "Thomas Wayne Jr.",
+            "incorrect_answers": [
+                "Thomas Wayne",
+                "Bruce Wayne",
+                "Joseph Chill "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Swedish DJ Tim Bergling, who produced songs such as &quot;Levels&quot; and &quot;Wake Me Up&quot;, is better known under what alias?",
+            "correct_answer": "Avicii",
+            "incorrect_answers": [
+                "deadmau5",
+                "Alesso",
+                "Skrillex"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which of these television shows makes everyone look under their chair?",
+            "correct_answer": "Oprah",
+            "incorrect_answers": [
+                "Jimmy Fallon",
+                "Saturday Night Live",
+                "Larry Rubert"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the mnemonic device for remembering the fates of the wives of Henry VIII?",
+            "correct_answer": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+            "incorrect_answers": [
+                "Beheaded, Died, Divorced, Divorced, Beheaded, Survived",
+                "Died, Beheaded, Divorced, Beheaded, Survived, Divorced",
+                "Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;To Love-Ru&quot; series, how many Trans-weapons were created?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "4"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "A caterpillar has more muscles than humans do.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
+            "correct_answer": "Nolan North",
+            "incorrect_answers": [
+                "John DiMaggio",
+                "Mark Hamill",
+                " Troy Baker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which country was Eliza &quot;Ash&quot; Cohen from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+            "correct_answer": "Israel",
+            "incorrect_answers": [
+                "United States of America",
+                "Mexico",
+                "Canada"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Colchester Overpass, otherwise known as &quot;Bunny Man Bridge&quot;, is located where?",
+            "correct_answer": "Fairfax County, Virginia",
+            "incorrect_answers": [
+                "Medford, Oregon",
+                "Braxton County, Virgina",
+                "Lemon Grove, California"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "In Black Hammer, what city did the heroes save from the Anti-God?",
+            "correct_answer": "Spiral City",
+            "incorrect_answers": [
+                "Mega-City One",
+                "Rockwood",
+                "Star City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "Who was the only god from Greece who did not get a name change in Rome?",
+            "correct_answer": "Apollo",
+            "incorrect_answers": [
+                "Demeter",
+                "Zeus",
+                "Athena"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What are Panama hats made out of?",
+            "correct_answer": "Straw",
+            "incorrect_answers": [
+                "Silk",
+                "Hemp",
+                "Flax"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "Which of the following is NOT a class in Dungeons and Dragons 5e?",
+            "correct_answer": "Engineer ",
+            "incorrect_answers": [
+                "Fighter ",
+                "Paladin ",
+                "Bard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which popular rock band has a one-armed drummer?",
+            "correct_answer": "Def Leppard",
+            "incorrect_answers": [
+                "The Beatles",
+                "Lynyrd Skynyrd",
+                "Foreigner"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following geographic features is a ring-shaped coral reef, island, or series of islets?",
+            "correct_answer": "Atoll",
+            "incorrect_answers": [
+                "Peninsula",
+                "Isthmus",
+                "Delta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+            "correct_answer": "Region 3",
+            "incorrect_answers": [
+                "Region 1",
+                "Region 2",
+                "Region 4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters is NOT a boss in Crash Bash?",
+            "correct_answer": "Ripper Roo",
+            "incorrect_answers": [
+                "Papu Papu",
+                "Komodo brothers",
+                "Nitros Oxide"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "What are the names of the two &quot;Canon fan trolls&quot; in &quot;Homestuck&quot;?",
+            "correct_answer": "Mierfa Durgas and Nektan Whelan",
+            "incorrect_answers": [
+                "The Wrycrown and Voksea Olkido",
+                "Aikter Frekik and Xagrai Ollomu",
+                "Grekei Ceknux and Riya Camacho"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+            "correct_answer": "Daft Punk",
+            "incorrect_answers": [
+                "deadmau5",
+                "Disclosure",
+                "DJ Shadow"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "iRobot&#039;s revolutionary floor-cleaning vacuum, the Roomba, was first invented in 2002",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Brazil used to be an empire.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}

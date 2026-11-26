@@ -1,0 +1,575 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Bulls are attracted to the color red.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;To Love-Ru&quot; series, Golden Darkness is sent to kill Lala Deviluke.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?",
+            "correct_answer": "Category 5",
+            "incorrect_answers": [
+                "Category 1",
+                "Category 4",
+                "Category 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Josh Mansour is part of what NRL team?",
+            "correct_answer": "Penrith Panthers",
+            "incorrect_answers": [
+                "Melbourne Storm",
+                "Sydney Roosters",
+                "North Queensland Cowboys"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "A slug&rsquo;s blood is green.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which nation joined NATO as its 29th member in 2017?",
+            "correct_answer": "Montenegro",
+            "incorrect_answers": [
+                "Estonia",
+                "Andorra",
+                "Iceland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "At which university do &quot;The Big Bang Theory&quot; characters Mr. Wolowitz and Drs. Cooper, Hofstadter and Koothrappali work?",
+            "correct_answer": "Caltech",
+            "incorrect_answers": [
+                "UCLA",
+                "MIT",
+                "UC Berkeley "
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Vincent van Gogh cut off one of his ears.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+            "correct_answer": "Charles Dickens",
+            "incorrect_answers": [
+                "Charles Darwin",
+                "Mark Twain",
+                "Roald Dahl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "Which of the following dice is not a platonic solid?",
+            "correct_answer": "10-sided die",
+            "incorrect_answers": [
+                "12-sided die",
+                "20-sided die",
+                "8-sided die"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of &quot;Team Fortress 2&quot; update, in which it became Free-to-play?",
+            "correct_answer": "&Uuml;ber Update",
+            "incorrect_answers": [
+                "Pyromania Update",
+                "Mann-Conomy Update",
+                "Engineer Update"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Sonic the Hedgehog (1991)&quot; how many chaos emeralds could you collect?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "8",
+                "7",
+                "9"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Britain",
+                "Belgium",
+                "France"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "What model was the sports car gifted to Yuri Gagarin by the French government in 1965?",
+            "correct_answer": "Matra Djet",
+            "incorrect_answers": [
+                "Porsche 911",
+                "Alpine A110",
+                "AC Cobra"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "The value of one Calorie is different than the value of one calorie.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "All of the following are names of the Seven Warring States EXCEPT:",
+            "correct_answer": "Zhai (翟)",
+            "incorrect_answers": [
+                "Zhao (趙)",
+                "Qin (秦)",
+                "Qi (齊)"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "AMD created the first consumer 64-bit processor.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Left 4 Dead, what is the character Bill&#039;s last name?",
+            "correct_answer": "Overbeck",
+            "incorrect_answers": [
+                "Fish",
+                "Roberts",
+                "Stevenson"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The General Motors EV1 was the first street-legal production electric vehicle.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first president of Kenya?",
+            "correct_answer": "Jomo Kenyatta",
+            "incorrect_answers": [
+                "Daniel Moi",
+                "Tom Mboya",
+                "Oginga Odinga"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the cartoon &#039;SpongeBob SquarePants&#039;, what did the acronym E.V.I.L stand for?",
+            "correct_answer": "Every Villain Is Lemons",
+            "incorrect_answers": [
+                "Every Villain Is Lemonade",
+                "Every Villain Is Limes",
+                "Each Villain Is Lemonade"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The singer Billie Holiday was also known as &quot;Lady Day&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?",
+            "correct_answer": "Jordan &quot;Thermite&quot; Trace",
+            "incorrect_answers": [
+                "Eliza &quot;Ash&quot; Cohen",
+                "Seamus &quot;Sledge&quot; Cowden",
+                "Dominic &quot;Bandit&quot; Brunsmeier"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+            "correct_answer": "Neville Chamberlain",
+            "incorrect_answers": [
+                "Clement Attlee",
+                "Winston Churchill",
+                "Stanley Baldwin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+            "correct_answer": "Quantum Teleportation",
+            "incorrect_answers": [
+                "Super Dense Coding",
+                "Quantum Entanglement",
+                "Quantum Programming"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the scientific name of the Common Chimpanzee?",
+            "correct_answer": "Pan troglodytes",
+            "incorrect_answers": [
+                "Gorilla gorilla",
+                "Pan paniscus",
+                "Panthera leo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+            "correct_answer": "Operation Dragoon",
+            "incorrect_answers": [
+                "Operation Overlord",
+                "Operation Market Garden",
+                "Operation Torch"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "After how many years would you celebrate your crystal anniversary?",
+            "correct_answer": "15",
+            "incorrect_answers": [
+                "20",
+                "10",
+                "25"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime Noragami who is one of the main protagonists?",
+            "correct_answer": "Yukine",
+            "incorrect_answers": [
+                "Karuha",
+                "Mineha",
+                "Mayu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "When was the compact disc player first released?",
+            "correct_answer": "1982",
+            "incorrect_answers": [
+                "1983",
+                "1981",
+                "1980"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Terraria, which debuff does the ankh charm not provide immunity to?",
+            "correct_answer": "Venom",
+            "incorrect_answers": [
+                "Cursed",
+                "Bleeding",
+                "Slow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+            "correct_answer": "Ed Sheeran - I See Fire",
+            "incorrect_answers": [
+                "Marvin Gaye - Sexual Healing",
+                "Coldplay - Midnight",
+                "a-ha - Take On Me"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What year was hockey legend Wayne Gretzky born?",
+            "correct_answer": "1961",
+            "incorrect_answers": [
+                "1965",
+                "1959",
+                "1963"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What European country is not a part of the EU?",
+            "correct_answer": "Norway",
+            "incorrect_answers": [
+                "Lithuania",
+                "Ireland",
+                "Czechia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What ingredient is NOT used to craft a cake in Minecraft?",
+            "correct_answer": "Bread",
+            "incorrect_answers": [
+                "Wheat",
+                "Milk",
+                "Egg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "A lion brandishing a sword is depicted on the national flag of which country?",
+            "correct_answer": "Sri Lanka",
+            "incorrect_answers": [
+                "Albania",
+                "Zambia",
+                "Moldova"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "In addition to his career as an astrologer and &quot;prophet&quot;, Nostradamus published a 1555 treatise that included a section on what?",
+            "correct_answer": "Making jams and jellies",
+            "incorrect_answers": [
+                "Teaching parrots to talk",
+                "Cheating at card games",
+                "Digging graves"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+            "correct_answer": "Marie Antoinette",
+            "incorrect_answers": [
+                "Czar Nicholas II",
+                "Elizabeth I",
+                "Henry VIII"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the PAYDAY series, who is the iconic leader of the PAYDAY gang?",
+            "correct_answer": "Dallas",
+            "incorrect_answers": [
+                "Wolf",
+                "Chains",
+                "Hoxton"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Great Whites sometimes perform the bump-and-bite attack (a test bite) on victims.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is the equation for the area of a sphere?",
+            "correct_answer": "(4/3)&pi;r^3",
+            "incorrect_answers": [
+                "4&pi;r^2",
+                "(1/3)&pi;hr^2",
+                "&pi;r^4"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The composition &quot;1812 Overture&quot; by Tchaikovsky symbolized the War of 1812 between the United States, and Great Britain.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In which manga did the &quot;404 Girl&quot; from 4chan originate from?",
+            "correct_answer": "Yotsuba&amp;!",
+            "incorrect_answers": [
+                "Azumanga Daioh",
+                "Lucky Star",
+                "Clover"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a name of a playable character in Apex Legends?",
+            "correct_answer": "Viper",
+            "incorrect_answers": [
+                "Revenant",
+                "Crypto",
+                "Wattson"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Is Luxembourgish a real language?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which European city has the highest mileage of canals in the world?",
+            "correct_answer": "Birmingham",
+            "incorrect_answers": [
+                "Venice",
+                "Amsterdam",
+                "Berlin"
+            ]
+        }
+    ]
+}

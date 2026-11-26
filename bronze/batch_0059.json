@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+            "correct_answer": "Television Remote",
+            "incorrect_answers": [
+                "Tablet",
+                "Hairdryer",
+                "Flip Phone"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Season One Championship of &quot;League of Legends&quot;, the highest achievable rank was Diamond.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the largest organ of the human body?",
+            "correct_answer": "Skin",
+            "incorrect_answers": [
+                "Heart",
+                "large Intestine",
+                "Liver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which NFL team plays for New England?",
+            "correct_answer": "Patriots",
+            "incorrect_answers": [
+                "Chiefs",
+                "Dolphins",
+                "49ers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which of the following is not a piece from the 1950&#039;s musical West Side Story?",
+            "correct_answer": "The Back Alley",
+            "incorrect_answers": [
+                "Maria",
+                "Tonight",
+                "Mambo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Guy&#039;s Grocery Games is hosted by which presenter?",
+            "correct_answer": "Guy Fieri",
+            "incorrect_answers": [
+                "Guy Martin",
+                "Guy Ritchie",
+                "Ainsley Harriott"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "America&#039;s Strategic Defense System during the Cold War was nicknamed after this famous movie.",
+            "correct_answer": "Star Wars",
+            "incorrect_answers": [
+                "Jaws",
+                "Blade Runner",
+                "Alien"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The key of sharps does the key of G# minor contain?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "3",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In networking, what does OSPF stand for?",
+            "correct_answer": "Open Shortest Path First",
+            "incorrect_answers": [
+                "Order State Part First",
+                "Order Sense Ping Find",
+                "Open Signal Path Finder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many countries are inside the United Kingdom?",
+            "correct_answer": "Four",
+            "incorrect_answers": [
+                "Two",
+                "Three",
+                "One"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+            "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+            "incorrect_answers": [
+                "Poland, Iceland, Italy, Greece, Serbia",
+                "Poland, Iceland, Italy, Greenland, Spain",
+                "Portugal, Iceland, Ireland, Greece, Serbia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+            "correct_answer": "Dagger",
+            "incorrect_answers": [
+                "Dirk",
+                "Garnet",
+                "Quina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In which cardinal direction does the Sun rise from?",
+            "correct_answer": "East",
+            "incorrect_answers": [
+                "West",
+                "North",
+                "South"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "The song &quot;Three Lions&quot; by the Lightning Seeds was made for which major football event in 1996?",
+            "correct_answer": "European Championships",
+            "incorrect_answers": [
+                "World Cup",
+                "Champions League",
+                "Confederations Cup"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games was NOT included in Valve&#039;s &quot;The Orange Box&quot;?",
+            "correct_answer": "Left 4 Dead",
+            "incorrect_answers": [
+                "Half-Life 2: Episode Two",
+                "Portal",
+                "Team Fortress 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+            "correct_answer": "Pencilvester",
+            "incorrect_answers": [
+                "Beth Smith",
+                "Summer Smith",
+                "Mr. Poopy Butthole"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "During the game&#039;s development, what was the first ever created Pok&eacute;mon?",
+            "correct_answer": "Rhyhorn",
+            "incorrect_answers": [
+                "Bulbasaur",
+                "Mew",
+                "Arceus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was the game &quot;Roblox&quot; released?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2003",
+                "2002",
+                "2007"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who was the Director of the 1988 Anime film &quot;Grave of the Fireflies&quot;?",
+            "correct_answer": "Isao Takahata",
+            "incorrect_answers": [
+                "Hayao Miyazaki",
+                "Satoshi Kon",
+                "Sunao Katabuchi"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Fortnite was originally intended to be a horror game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+            "correct_answer": "Guillermo Del Toro",
+            "incorrect_answers": [
+                "Alfonso Cuar&oacute;n",
+                "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+                " Alejandro Jodorowsky"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+            "correct_answer": "Owen Hart",
+            "incorrect_answers": [
+                "Chris Benoit",
+                "Lex Luger",
+                "Al Snow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "If you planted the seeds of Quercus robur what would grow?",
+            "correct_answer": "Trees",
+            "incorrect_answers": [
+                "Flowers",
+                "Vegtables",
+                "Grains"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "When was the iPhone released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2005",
+                "2006",
+                "2004"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which American family band had a 1986 top 10 hit with the song &#039;Crush On You&#039;?",
+            "correct_answer": "The Jets",
+            "incorrect_answers": [
+                "DeBarge",
+                "The Jacksons",
+                "The Cover Girls"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+            "correct_answer": "Tog II",
+            "incorrect_answers": [
+                "M4 Sherman",
+                "Tiger H1",
+                "T-34"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which of these people was NOT a founder of Apple Inc?",
+            "correct_answer": "Jonathan Ive",
+            "incorrect_answers": [
+                "Steve Jobs",
+                "Ronald Wayne",
+                "Steve Wozniak"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+            "correct_answer": "Folklore",
+            "incorrect_answers": [
+                "Shadow of the Colossus",
+                "ICO",
+                "Beyond Good &amp; Evil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+            "correct_answer": "Roy Harper",
+            "incorrect_answers": [
+                "Black Canary",
+                "Emiko Queen",
+                "Dick Grayson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who had hits in the 70s with the songs &quot;Lonely Boy&quot; and &quot;Never Let Her Slip Away&quot;?",
+            "correct_answer": "Andrew Gold",
+            "incorrect_answers": [
+                "Elton John",
+                "Leo Sayer",
+                "Barry White "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+            "correct_answer": "Great Expectations",
+            "incorrect_answers": [
+                "The Pickwick Papers",
+                "Nicholas Nickleby",
+                "Oliver Twist"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the name of New Zealand&#039;s indigenous people?",
+            "correct_answer": "Maori",
+            "incorrect_answers": [
+                "Vikings",
+                "Polynesians",
+                "Samoans"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?",
+            "correct_answer": "Six",
+            "incorrect_answers": [
+                "Seven",
+                "Five",
+                "Eight"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Ping-Pong originated in England",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+            "correct_answer": "Holden Caulfield",
+            "incorrect_answers": [
+                "Fletcher Christian",
+                "Jay Gatsby",
+                "Randall Flagg"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In 2004, which person(s) created &quot;Roblox&quot;?",
+            "correct_answer": "David Baszucki and Erik Cassel",
+            "incorrect_answers": [
+                "Erik Cassel",
+                "Jonas Alto and Sarah Smith",
+                "James Kolein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "From the Meme Culture, which Mario game immerged &quot;Weegee&quot;?",
+            "correct_answer": "Mario is Missing! MS-DOS Version ",
+            "incorrect_answers": [
+                "Mario is Missing! SNES Version",
+                "Mario is Missing! NES Version",
+                "Mario is Missing! MSX Version"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Broome is a town in which state of Australia?",
+            "correct_answer": "Western Australia",
+            "incorrect_answers": [
+                "Northern Territory",
+                "South Australia",
+                "Tasmania"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
+            "correct_answer": "Halo 3: Recon",
+            "incorrect_answers": [
+                "Halo 3: Helljumpers",
+                "Halo 3: Phantom",
+                "Halo 3: Guerilla"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "West Germany",
+                "Soviet Union",
+                "Brazil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Into which basin does the Jordan River flow into?",
+            "correct_answer": "Dead Sea",
+            "incorrect_answers": [
+                "Aral Sea",
+                "Caspian Sea",
+                "Salton Sea"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+            "correct_answer": "July 4, 1776",
+            "incorrect_answers": [
+                "May 4, 1776",
+                "June 4, 1776",
+                "July 2, 1776"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+            "correct_answer": "Pancreatic",
+            "incorrect_answers": [
+                "Bone",
+                "Liver",
+                "Stomach"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "The &quot;Berenstein Bears&quot; is the correct spelling of the educational children&#039;s book series&#039; name.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In &quot;Shrek&quot;, what comedic actor voices Donkey?",
+            "correct_answer": "Eddie Murphy",
+            "incorrect_answers": [
+                "Chris Rock",
+                "Richard Pryor",
+                "Bernie Mac"
+            ]
+        }
+    ]
+}

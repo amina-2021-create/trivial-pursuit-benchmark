@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many voice channels does the Nintendo Entertainment System support natively?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "6",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+            "correct_answer": "Victory",
+            "incorrect_answers": [
+                "Courage",
+                "Strength",
+                "Honor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "How many countries border Kyrgyzstan?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "1",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What ingredients are required to make a cake in Minecraft?",
+            "correct_answer": "Milk, Sugar, Egg, and Wheat",
+            "incorrect_answers": [
+                "Milk, Bread, Egg, and Wheat",
+                "Milk, Sugar Cane, Egg, and Wheat",
+                "Milk, Sugar, and Wheat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+            "correct_answer": "Woman",
+            "incorrect_answers": [
+                "Randy",
+                "Safe and Sound",
+                "Pleasure"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Who designed the Chupa Chups logo?",
+            "correct_answer": "Salvador Dali",
+            "incorrect_answers": [
+                "Pablo Picasso",
+                "Andy Warhol",
+                "Vincent van Gogh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+            "correct_answer": "The Nihilanth",
+            "incorrect_answers": [
+                "Dr. Wallace Breen",
+                "G-Man",
+                "The Gonarch"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Pure water effectively conducts electricity ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which member of the Foo Fighters was previously the drummer for Nirvana?",
+            "correct_answer": "Dave Grohl",
+            "incorrect_answers": [
+                "Taylor Hawkins",
+                "Nate Mendel",
+                "Chris Shiflett"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the title of song on the main menu in Halo?",
+            "correct_answer": "Halo",
+            "incorrect_answers": [
+                "Opening Suite",
+                "Shadows",
+                "Suite Autumn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many Star Spirits do you rescue in the Nintendo 64 video game &quot;Paper Mario&quot;?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "5",
+                "10",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+            "correct_answer": "J.K. Simmons",
+            "incorrect_answers": [
+                "Nolan North",
+                "John Patrick Lowrie",
+                "Christopher Lloyd"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+            "correct_answer": "Winston Churchill",
+            "incorrect_answers": [
+                "Neville Chamberlain",
+                "Harold Macmillan",
+                "Edward Heath"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Kangaroos keep food in their pouches next to their children.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the largest freshwater lake by volume?",
+            "correct_answer": "Lake Baikal",
+            "incorrect_answers": [
+                "Lake Superior",
+                "Lake Huron",
+                "Lake Michigan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the main antagonists in Battlestar Galactica?",
+            "correct_answer": "The Cylons",
+            "incorrect_answers": [
+                "The Collective",
+                "The Federation",
+                "The Rebels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "John Moses Browning, the designer of the M1918 BAR (Browning Automatic Rifle) was a part of which religion?",
+            "correct_answer": "Mormon",
+            "incorrect_answers": [
+                "Catholic",
+                "Jewish",
+                "Atheist"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Who is Batman?",
+            "correct_answer": "Bruce Wayne",
+            "incorrect_answers": [
+                "Clark Kent",
+                "Barry Allen",
+                "Tony Stark"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+            "correct_answer": "7 - 1",
+            "incorrect_answers": [
+                "0 - 1",
+                "3 - 4",
+                "16 - 0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "When the Falcon Heavy was launched on it&#039;s test flight, what was the only part of the operation that failed?",
+            "correct_answer": "Center Core Landing",
+            "incorrect_answers": [
+                "Side Booster Landing",
+                "Deployment of Starman",
+                "Ignition and Liftoff"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+            "correct_answer": "Mike",
+            "incorrect_answers": [
+                "Matthew",
+                "Mark",
+                "Max"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+            "correct_answer": "The Greasers",
+            "incorrect_answers": [
+                "The Outsiders",
+                "The Mafia",
+                "The Socs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is Hellboy&#039;s true name?",
+            "correct_answer": "Anung Un Rama",
+            "incorrect_answers": [
+                "Right Hand of Doom",
+                "Ogdru Jahad",
+                "Azzael"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Deionized water is water with which of the following removed?",
+            "correct_answer": "Iron",
+            "incorrect_answers": [
+                "Oxygen",
+                "Hydrogen",
+                "Uncharged atoms"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+            "correct_answer": "Tom Bombadil",
+            "incorrect_answers": [
+                "Strider",
+                "Barliman Butterbur",
+                "Celeborn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who famously coined the phrase &quot;I think, therefore I am&quot;?",
+            "correct_answer": "Descartes",
+            "incorrect_answers": [
+                "Plato",
+                "Aristotle",
+                "Shakespeare"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Named after the mallow flower, mauve is a shade of what?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Red",
+                "Brown",
+                "Pink"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+            "correct_answer": "Tunisia",
+            "incorrect_answers": [
+                "United States of America",
+                "Italy",
+                "Netherlands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these games wasn&#039;t released in 2016?",
+            "correct_answer": "Metal Gear Solid V",
+            "incorrect_answers": [
+                "Tom Clancy&#039;s The Division",
+                "Killing Floor 2",
+                "Hitman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+            "correct_answer": "1982",
+            "incorrect_answers": [
+                "1985",
+                "1984",
+                "1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+            "correct_answer": "13",
+            "incorrect_answers": [
+                "11",
+                "20",
+                "22"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Linus Torvalds created Linux and Git.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Earl Grey tea is black tea flavoured with what?",
+            "correct_answer": "Bergamot oil",
+            "incorrect_answers": [
+                "Lavender",
+                "Vanilla",
+                "Honey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+            "correct_answer": "Aero Deck",
+            "incorrect_answers": [
+                "Textuell",
+                "Panorama",
+                "Do While"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+            "correct_answer": "Link",
+            "incorrect_answers": [
+                "Mario",
+                "Zelda",
+                "Pit"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Alaska is the largest state in the United States.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+            "correct_answer": "Justin and Pierre",
+            "incorrect_answers": [
+                "John and Louis",
+                "Brian and Justin",
+                "Brian and Pierre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What element on the periodic table has 92 electrons?",
+            "correct_answer": "Uranium",
+            "incorrect_answers": [
+                "Sulfur",
+                "Hydrogen",
+                "Iron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Dead by Daylight, which killer perk applies the mangled effect?",
+            "correct_answer": "Sloppy Butcher",
+            "incorrect_answers": [
+                "Knock Out",
+                "Thanatophobia",
+                "Enduring"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Breaking Bad,&quot; which main character was planned to be killed in Season 1 but wasn&#039;t because the show creator liked the actor?",
+            "correct_answer": "Jesse Pinkman",
+            "incorrect_answers": [
+                "Saul Goodman",
+                "Gus Fring",
+                "Hank Schrader"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital city of Slovenia?",
+            "correct_answer": "Ljubljana",
+            "incorrect_answers": [
+                "Maribor",
+                "Velenje",
+                "Trbovlje"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who co-founded the YouTube Let&#039;s Play channel &quot;Game Grumps&quot; alongside Newgrounds animator Egoraptor?",
+            "correct_answer": "JonTron",
+            "incorrect_answers": [
+                "Pewdiepie",
+                "Tobuscus",
+                "Markiplier"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main protagonist in the &#039;Ratchet and Clank&#039; game series?",
+            "correct_answer": "Ratchet",
+            "incorrect_answers": [
+                "Clank",
+                "Captin Qwark",
+                "Dr Nefarious"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "What weakpoint of Achilles was expoited by the Trojan prince, Paris?",
+            "correct_answer": "Heel",
+            "incorrect_answers": [
+                "Neck",
+                "Back",
+                "Calf"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Joseph Stalin had a criminal past doing what?",
+            "correct_answer": "Robbing Trains",
+            "incorrect_answers": [
+                "Murder for Hire",
+                "Tax Evasion",
+                "Identity Fraud"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+            "correct_answer": "Cat",
+            "incorrect_answers": [
+                "Dog",
+                "Bat",
+                "Butterfly"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Who was the longest-serving senator in US history, serving from 1959 to 2010?",
+            "correct_answer": "Robert Byrd",
+            "incorrect_answers": [
+                "Daniel Inouye",
+                "Strom Thurmond",
+                "Joe Biden"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In what year did the anime adaptation of &quot;March Comes In Like A Lion&quot; air?",
+            "correct_answer": "2016",
+            "incorrect_answers": [
+                "2017",
+                "2018",
+                "2015"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+            "correct_answer": "Mamluk",
+            "incorrect_answers": [
+                "Ayyubid",
+                "Ummayyad",
+                "Seljuq"
+            ]
+        }
+    ]
+}

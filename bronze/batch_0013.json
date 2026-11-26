@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
+            "correct_answer": "Telepathy",
+            "incorrect_answers": [
+                "Pressure",
+                "Water Bubble",
+                "Hydration"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the Alien Race in the game &quot;Lego Racers 2&quot; known as?",
+            "correct_answer": "Ramas",
+            "incorrect_answers": [
+                "Slizers",
+                "Roboriders",
+                "Turagas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+            "correct_answer": "Pakistan",
+            "incorrect_answers": [
+                "Iran",
+                "Turkey",
+                "Azerbaijan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Fallout 4&quot;, what is the name of the dog you find at Red Rocket truck stop?",
+            "correct_answer": "Dogmeat",
+            "incorrect_answers": [
+                "Sparky",
+                "Quazar",
+                "Chop"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+            "correct_answer": "Wilson",
+            "incorrect_answers": [
+                "Friday",
+                "Jones",
+                "Billy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Street Fighter franchise, what&#039;s Ken&#039;s surname?",
+            "correct_answer": "Masters",
+            "incorrect_answers": [
+                "Mitchell",
+                "Michaels",
+                "Morrison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
+            "correct_answer": "Finders Keepers",
+            "incorrect_answers": [
+                "Double Dare",
+                "Nickelodeon Guts",
+                "Nick Arcade"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Nirvana album had a naked baby on the cover?",
+            "correct_answer": "Nevermind",
+            "incorrect_answers": [
+                "Bleach",
+                "In Utero",
+                "Incesticide"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Who is the main character in the VHS tape included in the board game Nightmare?",
+            "correct_answer": "The Gatekeeper",
+            "incorrect_answers": [
+                "The Kryptkeeper",
+                "The Monster",
+                "The Nightmare"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which pop singer was brought in by SEGA to produce the music for &quot;Sonic the Hedgehog 3&quot;?",
+            "correct_answer": "Michael Jackson ",
+            "incorrect_answers": [
+                "Prince",
+                "George Michael",
+                "Vanilla Ice "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "Which one of these superhero teams appears in the Invincible comics?",
+            "correct_answer": "Guardians of the Globe",
+            "incorrect_answers": [
+                "Avengers",
+                "Justice League",
+                "Teenage Mutant Ninja Turtles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the first emperor of Rome?",
+            "correct_answer": "Augustus ",
+            "incorrect_answers": [
+                "Julius Caesar",
+                "Pompey Magnus",
+                "Claudius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "According to the BBPA, what is the most common pub name in the UK?",
+            "correct_answer": "Red Lion",
+            "incorrect_answers": [
+                "Royal Oak",
+                "White Hart",
+                "King&#039;s Head"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What company developed the vocaloid Hatsune Miku?",
+            "correct_answer": "Crypton Future Media",
+            "incorrect_answers": [
+                "Sega",
+                "Sony",
+                "Yamaha Corporation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "8",
+                "6",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the Doctor Who universe, how many times can a time lord normally regenerate?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "11",
+                "13",
+                "15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+            "correct_answer": "Men of Harlech",
+            "incorrect_answers": [
+                "Scotland the Brave",
+                "Colonel Bogey March",
+                "The British Grenadiers"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Ecuador uses the Mexican Peso as its currency.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Which of these animals is NOT a lizard?",
+            "correct_answer": "Tuatara",
+            "incorrect_answers": [
+                "Komodo Dragon",
+                "Gila Monster",
+                "Green Iguana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The default playermodel of Garry&#039;s Mod is this Half Life 2 character.",
+            "correct_answer": "Isaac Kleiner",
+            "incorrect_answers": [
+                "G-Man",
+                "Alyx Vance",
+                "Gordon Freeman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "The word &quot;aprosexia&quot; means which of the following?",
+            "correct_answer": "The inability to concentrate on anything",
+            "incorrect_answers": [
+                "The inability to make decisions",
+                "A feverish desire to rip one&#039;s clothes off",
+                "The inability to stand up"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Konami Code is known as Up, Up, Down, Down, Left, Right, Right, Left, B, A, Start.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;A Hat in Time&quot;, what must Hat Kid collect to finish a level",
+            "correct_answer": "A time piece",
+            "incorrect_answers": [
+                "A heart fragment",
+                "A relic fragment",
+                "A hat"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+            "correct_answer": "Lincoln Island",
+            "incorrect_answers": [
+                "Vulcania Island",
+                "Prometheus Island",
+                "Neptune Island"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+            "correct_answer": "Josh DeSeno",
+            "incorrect_answers": [
+                "Justin DeSeno",
+                "John DeSeno",
+                "Jimmy DeSeno"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Jingle Bells was originally meant for Thanksgiving",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "When was Hubba Bubba first introduced?",
+            "correct_answer": "1979",
+            "incorrect_answers": [
+                "1984",
+                "1972",
+                "1980"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Nintendo 64 game did NOT have Luigi in it?",
+            "correct_answer": "Super Mario 64",
+            "incorrect_answers": [
+                "Mario Party 2",
+                "Paper Mario",
+                "Super Smash Bros."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
+            "correct_answer": "Free Parking",
+            "incorrect_answers": [
+                "Go to Jail",
+                "Jail",
+                "The Electric Company"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What micro-state is considered to have the oldest constitution still in effect?",
+            "correct_answer": "San Marino",
+            "incorrect_answers": [
+                "Andorra",
+                "Monaco",
+                "Saint Kitts and Nevis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+            "correct_answer": "Hideki Tojo",
+            "incorrect_answers": [
+                "Michinomiya Hirohito",
+                "Isoroku Yamamoto",
+                "Fumimaro Konoe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+            "correct_answer": "November 5th",
+            "incorrect_answers": [
+                "November 6th",
+                "November 4th",
+                "September 5th"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+            "correct_answer": "Dysentery",
+            "incorrect_answers": [
+                "Anemia",
+                "Constipation",
+                "Acid Reflux "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?",
+            "correct_answer": "Wyvern",
+            "incorrect_answers": [
+                "Pokemon",
+                "Dominion",
+                "Yu-Gi-Oh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Touhou Project series of games is often associated with which genre?",
+            "correct_answer": "Shoot &#039;em up",
+            "incorrect_answers": [
+                "Strategy",
+                "FPS",
+                "Casual"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "When was the programming language &quot;C#&quot; released?",
+            "correct_answer": "2000",
+            "incorrect_answers": [
+                "1998",
+                "1999",
+                "2001"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Portal 2&quot;, Cave Johnson started out Aperture Science as a shower curtain company.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+            "correct_answer": "Cyprus",
+            "incorrect_answers": [
+                "Malta",
+                "Greece",
+                "Portugal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of the British pop rock band Coldplay?",
+            "correct_answer": "Chris Martin",
+            "incorrect_answers": [
+                "Jonny Buckland",
+                "Guy Berryman",
+                "Will Champion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Bahrain",
+                "United States of America",
+                "Russia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "Which of these book series is by James Patterson?",
+            "correct_answer": "Maximum Ride",
+            "incorrect_answers": [
+                "Harry Potter",
+                "The Legend of Xanth",
+                "The Bartemaeus Trilogy"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Janus was the Roman god of doorways and passageways.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "A plant that has a life cycle for more than a year is known as an annual.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Space Station 13&quot;,  the station has a clown aboard it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot;, what is the last name of the protagonist Jotaro?",
+            "correct_answer": "Kujo",
+            "incorrect_answers": [
+                "Cujoh",
+                "Joestar",
+                "Higashikata"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "The first true automobile ever made was the 1886 Benz Patent-Motorwagen.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the African-American cultural explosion centered in upper Manhattan during the 1920s and 1930s?",
+            "correct_answer": "Harlem Renaissance",
+            "incorrect_answers": [
+                "Inwood Renaissance",
+                "Bed-Stuy Renaissance",
+                "Upper East Renaissance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What&#039;s Dr. Doofenshmirtz first name?",
+            "correct_answer": "Heinz",
+            "incorrect_answers": [
+                "Hans",
+                "Hank",
+                "Heidi"
+            ]
+        }
+    ]
+}

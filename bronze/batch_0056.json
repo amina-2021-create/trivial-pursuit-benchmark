@@ -1,0 +1,583 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which famed architect, who died in 2019 aged 102, designed the glass pyramid at the Louvre museum in Paris?",
+            "correct_answer": "I. M. Pei",
+            "incorrect_answers": [
+                "Pascale Gu&eacute;dot",
+                "Frank Gehry",
+                "Wang Shu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In any programming language, what is the most common way to iterate through an array?",
+            "correct_answer": "&#039;For&#039; loops",
+            "incorrect_answers": [
+                "&#039;If&#039; Statements",
+                "&#039;Do-while&#039; loops",
+                "&#039;While&#039; loops"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these was not a member of the Fiendish Five in the game Sly Cooper and the Thievius Raccoonus?",
+            "correct_answer": "Dimitri Lousteau",
+            "incorrect_answers": [
+                "Mz. Ruby",
+                "Muggshot",
+                "Clockwerk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many zombies need to be killed to get the &quot;Zombie Genocider&quot; achievement in Dead Rising (2006)?",
+            "correct_answer": "53,594",
+            "incorrect_answers": [
+                "53,593",
+                "53,595",
+                "53,596"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which product did Nokia, the telecommunications company, originally sell?",
+            "correct_answer": "Paper",
+            "incorrect_answers": [
+                "Phones",
+                "Computers",
+                "Processors"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?",
+            "correct_answer": "Threw them out of a window",
+            "incorrect_answers": [
+                "Insulted their mothers",
+                "Locked them in stockades",
+                "Hung them."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which of these Nickelodeon game shows aired first?",
+            "correct_answer": "Double Dare",
+            "incorrect_answers": [
+                "Nick Arcade",
+                "Finders Keepers",
+                "Nickelodeon Guts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Which of the following is not one of the Greek Fates?",
+            "correct_answer": "Narcissus",
+            "incorrect_answers": [
+                "Clotho",
+                "Atropos",
+                "Lachesis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Which breed of dog is traditionally associated with firefighters?",
+            "correct_answer": "Dalmatians",
+            "incorrect_answers": [
+                "German Shepard",
+                "Great Dane",
+                "Mastiff"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What animation studio produced &quot;Gurren Lagann&quot;?",
+            "correct_answer": "Gainax",
+            "incorrect_answers": [
+                "Kyoto Animation",
+                "Pierrot",
+                "A-1 Pictures"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What year was Netflix founded?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1999",
+                "2004",
+                "2001"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of the following actors has only been in a Quentin Tarantino directed film once?",
+            "correct_answer": "John Travolta",
+            "incorrect_answers": [
+                "Christoph Waltz",
+                "Harvey Keitel",
+                "Samuel L. Jackson"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Miss Kobayashi&#039;s Dragon Maid, Tohru is a member of the harmony faction.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many partners can you obtain in Paper Mario: The Thousand-Year Door?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "6",
+                "9",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+            "correct_answer": "Alesso",
+            "incorrect_answers": [
+                "Steve Angello",
+                "Sebastian Ingrosso",
+                "Axwell"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his &quot;Mothership&quot; set piece for one night only.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the opening track on Lorde&#039;s Pure Heroine?",
+            "correct_answer": "Tennis Court",
+            "incorrect_answers": [
+                "Team",
+                "Royals",
+                "400 Lux"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+            "correct_answer": "Justinian I",
+            "incorrect_answers": [
+                "Constantine IV",
+                "Arcadius",
+                "Theodosius the Great"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the Dreamworks animated movie &quot;Madagascar,&quot; who voices Maurice the lemur?",
+            "correct_answer": "Cedric the Entertainer",
+            "incorrect_answers": [
+                "Jack Black",
+                "Sacha Baron Cohen",
+                "Chris Rock"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Rocket League, you can play Basketball.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Each piece in Tetris is called a tetris.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Cats have whiskers under their legs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "An organic compound is considered an alcohol if it has what functional group?",
+            "correct_answer": "Hydroxyl",
+            "incorrect_answers": [
+                "Carbonyl",
+                "Alkyl",
+                "Aldehyde"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Ozzy Osbourne was the lead singer for what metal band?",
+            "correct_answer": "Black Sabbath",
+            "incorrect_answers": [
+                "AC/DC",
+                "Iron Maiden",
+                "Judas Priest"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "You are allowed to sell your soul on eBay.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Former president Theodore Roosevelt (1900-1908)  ran for another term under the Progressive Party in 1912.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+            "correct_answer": "Nissan",
+            "incorrect_answers": [
+                "Honda",
+                "Hyundai",
+                "Subaru"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Divinity: Original Sin II, what is the name of the skeletal origin character?",
+            "correct_answer": "Fane",
+            "incorrect_answers": [
+                "Lohse",
+                "The Red Prince",
+                "There are no skeletal origin characters"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Donald Trump won the popular vote in the 2016 United States presidential election.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "Which of these cities is NOT featured in the Pandemic board game?",
+            "correct_answer": "Berlin",
+            "incorrect_answers": [
+                "Ho Chi Minh City",
+                "Lagos",
+                "Karachi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What snowy mob was added in Minecraft 1.10?",
+            "correct_answer": "Polar bears",
+            "incorrect_answers": [
+                "Eskimos",
+                "Penguins",
+                "Walking TNT"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What video game sparked controversy because of its hidden &quot;Hot Coffee&quot; minigame?",
+            "correct_answer": "Grand Theft Auto: San Andreas",
+            "incorrect_answers": [
+                "Grand Theft Auto: Vice City",
+                "Hitman: Blood Money",
+                "Cooking Mama"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The protagonist of Dead Rising 3 is called Chuck Greene.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Where is the ancient city of Petra located?",
+            "correct_answer": "Jordan",
+            "incorrect_answers": [
+                "Egypt",
+                "Israel",
+                "Italy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "By what name is Carlos Estevez better known? ",
+            "correct_answer": "Charlie Sheen",
+            "incorrect_answers": [
+                "Ricky Martin",
+                "Bruno Mars",
+                "Joaquin Phoenix"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+            "correct_answer": "Gale",
+            "incorrect_answers": [
+                "Perkins",
+                "Day",
+                "Parker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The ontological argument for the proof of God&#039;s existence is first attributed to whom?",
+            "correct_answer": "Anselm of Canterbury",
+            "incorrect_answers": [
+                "Ren&eacute; Descartes",
+                "Immanuel Kant",
+                "Aristotle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
+            "correct_answer": "Levi Stubbs",
+            "incorrect_answers": [
+                "Freddie Mercury",
+                "Janet Jackson",
+                "Joan Jett"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What country has a horizontal bicolor red and white flag?",
+            "correct_answer": "Monaco",
+            "incorrect_answers": [
+                "Bahrain",
+                "Malta",
+                "Liechenstein"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+            "correct_answer": "The coma",
+            "incorrect_answers": [
+                "The wake",
+                "The backwash",
+                "The ablative"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+            "correct_answer": "Wales",
+            "incorrect_answers": [
+                "Scotland",
+                "Ireland",
+                "Isle of Wight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What was the name of Marilyn Monroe&#039;s first husband?",
+            "correct_answer": "James Dougherty",
+            "incorrect_answers": [
+                "Joe Dimaggio",
+                "Kirk Douglas",
+                "Arthur Miller"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who directed the movie &quot;Alien&quot;?",
+            "correct_answer": "Ridley Scott",
+            "incorrect_answers": [
+                "Christopher Nolan",
+                "Michael Bay",
+                "James Cameron"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "Ancient Greek and Roman sculptors often colored their statues.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What battle was the longest in World War I, lasting approximately 303 days?",
+            "correct_answer": "Battle of Verdun ",
+            "incorrect_answers": [
+                "Battle of Passchendaele",
+                "Battle of Amiens",
+                "Battle of Stalingrad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Coulrophobia is the irrational fear of what?",
+            "correct_answer": "Clowns",
+            "incorrect_answers": [
+                "Cemeteries",
+                "Needles",
+                "Tunnels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+            "correct_answer": "Romantic",
+            "incorrect_answers": [
+                "Classic",
+                "Baroque",
+                "Renaissance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
+            "correct_answer": "Skrillex",
+            "incorrect_answers": [
+                "Diplo",
+                "Jillionaire",
+                "Walshy Fire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?",
+            "correct_answer": "MGMT",
+            "incorrect_answers": [
+                "MSTRKRFT",
+                "STRFKR",
+                "SBTRKT"
+            ]
+        }
+    ]
+}

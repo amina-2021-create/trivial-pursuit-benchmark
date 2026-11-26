@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The Alps are a mountain range on which continent?",
+            "correct_answer": "Europe",
+            "incorrect_answers": [
+                "North America",
+                "Asia",
+                "Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Portal&quot; series, who was Cave Johnson&#039;s personal assistant?",
+            "correct_answer": "Caroline",
+            "incorrect_answers": [
+                "Heather",
+                "Melissa",
+                "Jane"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The Neanderthals were a direct ancestor of modern humans.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the show &quot;Foster&#039;s Home For Imaginary Friends&quot;, which character had an obsession with basketball?",
+            "correct_answer": "Wilt",
+            "incorrect_answers": [
+                "Coco",
+                "Mac",
+                "Cheese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+            "correct_answer": "Sony",
+            "incorrect_answers": [
+                "Panasonic",
+                "LG",
+                "Fujitsu"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "There is a city called Rome in every continent on Earth.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Did Michael Jackson invent the moonwalk?",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The humerus, paired radius, and ulna come together to form what joint?",
+            "correct_answer": "Elbow",
+            "incorrect_answers": [
+                "Knee",
+                "Sholder",
+                "Ankle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Scotch whisky and Drambuie make up which cocktail?",
+            "correct_answer": "Rusty Nail",
+            "incorrect_answers": [
+                "Screwdriver",
+                "Sex on the Beach",
+                "Manhattan"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Green Day&#039;s album &#039;American Idiot&#039; is considered a &quot;punk rock opera.&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+            "correct_answer": "March 25th",
+            "incorrect_answers": [
+                "June 1st",
+                "September 25th",
+                "December 1st"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+            "correct_answer": "Strom Thurmond",
+            "incorrect_answers": [
+                "Roy Blunt",
+                "John Barrasso",
+                "Chuck Schumer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Adam West was the mayor of which cartoon town?",
+            "correct_answer": "Quahog",
+            "incorrect_answers": [
+                "Springfield",
+                "South Park",
+                "Langley Falls"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Seoul is the capital of North Korea.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?",
+            "correct_answer": "Christopher Poole",
+            "incorrect_answers": [
+                "Mark Zuckerberg",
+                "Allison Harvard",
+                "Catie Wayne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What year did the New Orleans Saints win the Super Bowl?",
+            "correct_answer": "2010",
+            "incorrect_answers": [
+                "2008",
+                "2009",
+                "2011"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Which painting was not made by Vincent Van Gogh?",
+            "correct_answer": "The Ninth Wave",
+            "incorrect_answers": [
+                "Caf&eacute; Terrace at Night",
+                "Bedroom In Arles",
+                "Starry Night"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "The board game Monopoly takes its street names from which real American city?",
+            "correct_answer": "Atlantic City, New Jersey",
+            "incorrect_answers": [
+                "Las Vegas, Nevada",
+                "Duluth, Minnesota",
+                "Charleston, South Carolina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "What does GPS stand for?",
+            "correct_answer": "Global Positioning System",
+            "incorrect_answers": [
+                "Global Personal System",
+                "General Positioning System",
+                "General Personal Satellite"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
+            "correct_answer": "18",
+            "incorrect_answers": [
+                "13",
+                "16",
+                "15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these video game engines was made by the company Epic Games?",
+            "correct_answer": "Unreal",
+            "incorrect_answers": [
+                "Unity",
+                "Game Maker: Studio",
+                "Cry Engine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What rock group is named after a gym teacher who taught at the original band members&#039; high school?",
+            "correct_answer": "Lynyrd Skynyrd",
+            "incorrect_answers": [
+                "Jefferson Airplane",
+                "Pink Floyd",
+                "The Byrds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of these is not a key value of Agile software development?",
+            "correct_answer": "Comprehensive documentation",
+            "incorrect_answers": [
+                "Individuals and interactions",
+                "Customer collaboration",
+                "Responding to change"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Which one of these chassis codes are used by BMW 3-series?",
+            "correct_answer": "E46",
+            "incorrect_answers": [
+                "E39",
+                "E85",
+                "F10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games has the most playable characters?",
+            "correct_answer": "Timesplitters: Future Perfect",
+            "incorrect_answers": [
+                "Mortal Kombat: Armageddon",
+                "Marvel Vs. Capcom 2",
+                "Dragon Ball Z: Budokai Tenkaichi 3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of the first four titles of the &quot;Grand Theft Auto&quot; franchise started the series of iconic image grid cover arts?",
+            "correct_answer": "Grand Theft Auto III",
+            "incorrect_answers": [
+                "Grand Theft Auto",
+                "Grand Theft Auto II",
+                "Grand Theft Auto Vice City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "When did the CD begin to appear on the consumer market?",
+            "correct_answer": "1982",
+            "incorrect_answers": [
+                "1992",
+                "1972",
+                "1962"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the main currency in Club Penguin?",
+            "correct_answer": "Coins",
+            "incorrect_answers": [
+                "Stamps",
+                "Tickets",
+                "Gems"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "What does SSD stand for in the context of computer storage?",
+            "correct_answer": " Solid State Drive",
+            "incorrect_answers": [
+                "Software Storage Device",
+                "Super Speed Data",
+                "Secure System Disk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Who was Firestorm&#039;s rival during the original run of UK Robot Wars?",
+            "correct_answer": "Panic Attack",
+            "incorrect_answers": [
+                "Razer",
+                "Chaos 2",
+                "Hypno Disc"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world? ",
+            "correct_answer": "Minecraft",
+            "incorrect_answers": [
+                "Unturned",
+                "Roblox",
+                "Grand Theft Auto V"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What are Sans and Papyrus named after in &quot;Undertale&quot;?",
+            "correct_answer": "Fonts",
+            "incorrect_answers": [
+                "Plants",
+                "Companies",
+                "Ancient writing paper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+            "correct_answer": "Mercedes-AMG Petronas",
+            "incorrect_answers": [
+                "Scuderia Ferrari",
+                "McLaren Honda",
+                "Red Bull Racing Renault"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Yakuza 0, what is the order of the fighting styles acquired as Kazuma Kiryu?",
+            "correct_answer": "Brawler, Rush, Beast, Legend",
+            "incorrect_answers": [
+                "Legend, Rush, Brawler, Beast",
+                "Brawler, Beast, Rush, Legend",
+                "Beast, Brawler, Rush, Legend"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+            "correct_answer": "Exclamation Mark",
+            "incorrect_answers": [
+                "Dollar Sign",
+                "Percent Sign",
+                "Asterisk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who has played the most tournaments on the Brazilian national soccer team?",
+            "correct_answer": "Cafu",
+            "incorrect_answers": [
+                "Ronaldo",
+                "Kak&aacute;",
+                "Roberto Carlos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of these Nicktoons were NOT originally a short on Oh Yeah! Cartoons before becoming their own series?",
+            "correct_answer": "Danny Phantom",
+            "incorrect_answers": [
+                "ChalkZone",
+                "My Life as a Teenage Robot",
+                "The Fairly OddParents"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which of these in the Star Trek series is NOT Klingon food?",
+            "correct_answer": "Hors d&#039;oeuvre",
+            "incorrect_answers": [
+                "Racht",
+                "Gagh",
+                "Bloodwine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which of these automotive brands originated in Sweden?",
+            "correct_answer": "Volvo",
+            "incorrect_answers": [
+                "Mercedes",
+                "Acura",
+                "Lincoln"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Iconic cartoon character Mickey Mouse made his onscreen debut in what year?",
+            "correct_answer": "1928",
+            "incorrect_answers": [
+                "1929",
+                "1922",
+                "1932"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+            "correct_answer": "James Potter",
+            "incorrect_answers": [
+                "Joey Potter",
+                "Frank Potter",
+                "Hairy Potter Sr."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the armored titan in &quot;Attack On Titan&quot;?",
+            "correct_answer": "Reiner Braun",
+            "incorrect_answers": [
+                "Armin Arlelt",
+                "Mikasa Ackermann",
+                "Eren Jaeger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+            "correct_answer": "Origami",
+            "incorrect_answers": [
+                "Sumi-e",
+                "Ukiyo-e",
+                "Haiku"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which album was released by Kanye West in 2013?",
+            "correct_answer": "Yeezus",
+            "incorrect_answers": [
+                "My Beautiful Dark Twisted Fantasy",
+                "The Life of Pablo",
+                "Watch the Throne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who won the UEFA Champions League in 2016?",
+            "correct_answer": "Real Madrid C.F.",
+            "incorrect_answers": [
+                "FC Bayern Munich",
+                "Atletico Madrid",
+                "Manchester City F.C."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+            "correct_answer": "The Dresden Files",
+            "incorrect_answers": [
+                "A Hat in Time",
+                "The Cinder Spires",
+                "My Life as a Teenage Wizard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Portal, what color is the Morality Core?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Red",
+                "Yellow",
+                "Blue"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many rivers are in Saudi Arabia?",
+            "correct_answer": "0",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What mainly favored rifle is used by the Terrorists in Counter Strike: Global Offensive?",
+            "correct_answer": "AK-47",
+            "incorrect_answers": [
+                "AK-74",
+                "M4A4",
+                "CZ-75 AUTO"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What mutated animals act as monsters in the movie &#039;Night of the Lepus&#039;?",
+            "correct_answer": "Rabbits",
+            "incorrect_answers": [
+                "Dogs",
+                "Rats",
+                "Bats"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In the show &#039;Doctor Who&#039;, what is the name of the time-capsule model stolen by &#039;the Doctor&#039;?",
+            "correct_answer": "TT Type 40, Mark 3 (TARDIS)",
+            "incorrect_answers": [
+                "TT Type 1, Mark 3 (TARDIS)",
+                "TT Type 40, Mark 5 (TARDIS)",
+                "TT Type 1, Mark 5 (TARDIS)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which &quot;Call Of Duty: Zombies&quot; map introduced the &quot;Staffs Of The Ancients&quot;?",
+            "correct_answer": "Origins",
+            "incorrect_answers": [
+                "Shangri-La",
+                "Revelations",
+                "Nuketown"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "About how old is Earth?",
+            "correct_answer": "4.5 Billion Years",
+            "incorrect_answers": [
+                "3.5 Billion Years",
+                "2.5 Billion Years",
+                "5.5 Billion Years"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?",
+            "correct_answer": "Being run over by a truck",
+            "incorrect_answers": [
+                "Ate one too many chocobars",
+                "Through a magical ritual",
+                "When he put on the harmaki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What city did the Lakers represent before relocating to Los Angeles?",
+            "correct_answer": "Minneapolis",
+            "incorrect_answers": [
+                "Philadelphia",
+                "Chicago",
+                "San Francisco"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What animal is featured on the cover of English electronic music group The Prodigy&#039;s album, &quot;The Fat of the Land&quot;?",
+            "correct_answer": "Crab",
+            "incorrect_answers": [
+                "Fox",
+                "Elephant",
+                "Tiger"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?",
+            "correct_answer": "Danganronpa: Trigger Happy Havoc",
+            "incorrect_answers": [
+                "Danganronpa 2: Goodbye Despair",
+                "Danganronpa V3: Killing Harmony",
+                "Danganronpa 3: The End of Hope&#039;s Peak High School"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+            "correct_answer": "Tandoori",
+            "incorrect_answers": [
+                "Biryani",
+                "Pani puri",
+                "Tiki masala"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+            "correct_answer": "Too Agonizing",
+            "incorrect_answers": [
+                "Too Loud",
+                "Too Harsh",
+                "Too Violent"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In which year did the orignal Sims game release?",
+            "correct_answer": "2000",
+            "incorrect_answers": [
+                "2001",
+                "1999",
+                "1998"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who won the &quot;Champions League&quot; in 1999?",
+            "correct_answer": "Manchester United",
+            "incorrect_answers": [
+                "Barcelona",
+                "Bayern Munich",
+                "Liverpool"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In what year did Canada stop producing the penny?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2013",
+                "2011",
+                "2010"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the first explorer to sail to North America?",
+            "correct_answer": "Leif Erikson",
+            "incorrect_answers": [
+                "Christopher Columbus",
+                "Amerigo Vespucci",
+                "Ferdinand Magellan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Battle of Hastings was fought in which year?",
+            "correct_answer": "1066",
+            "incorrect_answers": [
+                "911",
+                "1204",
+                "1420"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, Klingons are aliens.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+            "correct_answer": "Renault FT",
+            "incorrect_answers": [
+                "M4 Sherman",
+                " Panzer IV",
+                "Cromwell "
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Super Mario Bros. was released in 1990.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "When was the movie &#039;Con Air&#039; released?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1985",
+                "1999",
+                "1990"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+            "correct_answer": "Space",
+            "incorrect_answers": [
+                "Science",
+                "Society",
+                "Star"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+            "correct_answer": "Hull City",
+            "incorrect_answers": [
+                "Cardiff City",
+                "Bristol City",
+                "Manchester City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Fallingwater House, located in Pennsylvania, was designed by which architect?",
+            "correct_answer": "Frank Lloyd Wright",
+            "incorrect_answers": [
+                "Antoni Gaudi",
+                "Frank Gehry",
+                "Le Corbusier"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Capcom&#039;s survival horror title Dead Rising, canonically starts on what day of September 2006?",
+            "correct_answer": "September 19th",
+            "incorrect_answers": [
+                "September 21st",
+                "September 30th",
+                "September 14th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+            "correct_answer": "Minnesota",
+            "incorrect_answers": [
+                "North Dakota",
+                "South Dakota",
+                "Wisconsin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+            "correct_answer": "Rope",
+            "incorrect_answers": [
+                "Psycho",
+                "Vertigo",
+                "Rebecca"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "How many legs is it biologically impossible for a centipede to have?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "26",
+                "50",
+                "74"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of Pearl Jam?",
+            "correct_answer": "Eddie Vedder",
+            "incorrect_answers": [
+                "Ozzy Osbourne",
+                "Stone Gossard",
+                "Kurt Cobain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which company made the Japanese RPG &quot;Dragon Quest&quot;?",
+            "correct_answer": "Square Enix",
+            "incorrect_answers": [
+                "Capcom",
+                "Konami",
+                "Blizzard"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the longest river in Europe?",
+            "correct_answer": "Volga",
+            "incorrect_answers": [
+                "Danube",
+                "Rhine",
+                "Thames"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Gadgets",
+            "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+            "correct_answer": "Nokia",
+            "incorrect_answers": [
+                "LG Electronics",
+                "Samsung",
+                "HTC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
+            "correct_answer": "Duran Duran",
+            "incorrect_answers": [
+                "The Cure",
+                "New Order",
+                "Depeche Mode"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main antagonist of Silent Hill 4?",
+            "correct_answer": "Walter Sullivan",
+            "incorrect_answers": [
+                "Alessa Gillespie",
+                "Pyramid Head",
+                "Claudia Wolf"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "Which gaming console is developed by Sony?",
+            "correct_answer": "PlayStation",
+            "incorrect_answers": [
+                "Xbox",
+                "Atari",
+                "Nintendo Switch"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
+            "correct_answer": "Thievius Raccoonus",
+            "incorrect_answers": [
+                "Raccoon Training 101",
+                "The Art of Sneak",
+                "Raccoonus Teachus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How many colors are there in a rainbow?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "9",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In World of Warcraft the default UI color that signifies Druid is what?",
+            "correct_answer": "Orange",
+            "incorrect_answers": [
+                "Brown",
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+            "correct_answer": "The Mayans",
+            "incorrect_answers": [
+                "The Incas",
+                "The Aztecs",
+                "The Navajos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the chemical symbol for lead?",
+            "correct_answer": "Pb",
+            "incorrect_answers": [
+                "Ld",
+                "Le",
+                "Pm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+            "correct_answer": "Bing Crosby",
+            "incorrect_answers": [
+                "Elvis Presley",
+                "Charlie Chaplin",
+                "Groucho Marx"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "What engine is in the Lexus SC400?",
+            "correct_answer": "1UZ-FE",
+            "incorrect_answers": [
+                "2JZ-GTE",
+                "7M-GTE",
+                "5M-GE"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What album did Gorillaz release in 2017?",
+            "correct_answer": "Humanz",
+            "incorrect_answers": [
+                "Plastic Beach",
+                "The Fall",
+                "Demon Days"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Ikki Kurogane is known by what nickname at the beginning of &quot;Chivalry of a Failed Knight&quot;?",
+            "correct_answer": "Worst One",
+            "incorrect_answers": [
+                "Another One",
+                "Blazer",
+                "Princess"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In the server hosting industry IaaS stands for...",
+            "correct_answer": "Infrastructure as a Service",
+            "incorrect_answers": [
+                "Internet as a Service",
+                "Internet and a Server",
+                "Infrastructure as a Server"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which stage was planned to be a part of &quot;Sonic the Hedgehog 2&quot;, but was scrapped during development?",
+            "correct_answer": "Genocide City Zone",
+            "incorrect_answers": [
+                "Stardust Speedway Zone",
+                "Sky High Zone ",
+                "Clockwork Zone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the device that allows for infinite energy in the anime &quot;Dimension W&quot;?",
+            "correct_answer": "Coils",
+            "incorrect_answers": [
+                "Wires",
+                "Collectors",
+                "Tesla"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What song includes the words &quot;Numa Numa&quot; which was subject to a Viral Video in 2004?",
+            "correct_answer": "Dragostea Din Tei",
+            "incorrect_answers": [
+                "Despacito",
+                "Gangnam Style",
+                "Asereje"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+            "correct_answer": "Answer a riddle",
+            "incorrect_answers": [
+                "Rhythmically tap barrels with a wand",
+                "Speak a password",
+                "Knock in sequence"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What bird is born with claws on its wing digits?",
+            "correct_answer": "Hoatzin",
+            "incorrect_answers": [
+                "Cormorant",
+                "Cassowary",
+                "Secretary bird"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In which year was the Megadeth album &quot;Peace Sells... but Who&#039;s Buying?&quot; released?",
+            "correct_answer": "1986",
+            "incorrect_answers": [
+                "1979",
+                "1987",
+                "1983"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year did the popular Vocaloid: Hatsune Miku come out?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2000",
+                "2008",
+                "2010"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the canceled projected by Blizzard Entertainment that would be later become Overwatch?",
+            "correct_answer": "Titan",
+            "incorrect_answers": [
+                "Omnic",
+                "Omega",
+                "Ghost"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who is Winnie the Pooh&#039;s gloomy donkey friend?",
+            "correct_answer": "Eeyore",
+            "incorrect_answers": [
+                "Piglet",
+                "Tigger",
+                "Kanga"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "In 2016, the United Kingdom voted to stay in the EU.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What episode of &quot;Mr. Bean&quot; saw him trying to prevent people from seeing him naked?",
+            "correct_answer": "Mr. Bean in Room 426",
+            "incorrect_answers": [
+                "Mr. Bean Goes to Town",
+                "The Trouble with Mr. Bean",
+                "Back to School Mr. Bean"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The Svalbard Archipelago is a dependency of which country?",
+            "correct_answer": "Norway",
+            "incorrect_answers": [
+                "Denmark",
+                "Iceland",
+                "Russia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is the correct order of operations for solving equations?",
+            "correct_answer": "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+            "incorrect_answers": [
+                "Addition, Multiplication, Division, Subtraction, Addition, Parentheses",
+                "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+                "The order in which the operations are written."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+            "correct_answer": "23 years, 4 months, and 8 days",
+            "incorrect_answers": [
+                "15 years, 2 months, and 15 days",
+                "10 months and 6 days",
+                "26 years, 4 months, and 10 days"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Luigi is taller than Mario?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What country joined the EU in 2013?",
+            "correct_answer": "Croatia",
+            "incorrect_answers": [
+                "Bulgaria",
+                "Slovenia",
+                "Turkey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What nationality was sultan Saladin?",
+            "correct_answer": "Kurdish",
+            "incorrect_answers": [
+                "Arab",
+                "Egyptian",
+                "Syrian"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "Which of these is not an additional variation of the color purple?",
+            "correct_answer": "Kobicha",
+            "incorrect_answers": [
+                "Byzantium",
+                "Pomp and Power",
+                "Palatinate"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The Beatles&#039; band name was inspired by the band The Crickets.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the protagonist in Dead Rising (2006)?",
+            "correct_answer": "Frank West",
+            "incorrect_answers": [
+                "Chuck Greene",
+                "John North",
+                "Jason Grey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch&quot;, Coalescence is the name for the ultimate of which hero?",
+            "correct_answer": "Moira",
+            "incorrect_answers": [
+                "Zenyatta",
+                "Torbjorn",
+                "Symmetra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+            "correct_answer": "A&#039; + B&#039;",
+            "incorrect_answers": [
+                "A&#039;B + B&#039;A",
+                "A&#039;B&#039;",
+                "AB&#039; + AB"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the mathematical formula of Ohm&#039;s law?",
+            "correct_answer": "V = I*R",
+            "incorrect_answers": [
+                "I = V*R",
+                "R = V*I",
+                "V = I / R"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Super Mario Bros. series, what game is the  &quot;Carrot&quot; power-up from?",
+            "correct_answer": "Super Mario Land 2: The 6 Golden Coins",
+            "incorrect_answers": [
+                "Super Mario World",
+                "Super Mario Land",
+                "Super Mario 3D Land"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Battleblock Theater, what was the name of the voice actor who voiced the narrator?",
+            "correct_answer": "Will Stamper",
+            "incorrect_answers": [
+                "Steve Blum",
+                "Richard Epcar",
+                "Yuri Lowenthal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "The Proclaimers - I&#039;m Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?",
+            "correct_answer": "3rd",
+            "incorrect_answers": [
+                "8th",
+                "1st",
+                "5th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Which artist painted the late 15th century mural &#039;The Last Supper&#039;?",
+            "correct_answer": "Leonardo da Vinci",
+            "incorrect_answers": [
+                "Piero della Francesca",
+                "Paolo Uccello",
+                "Luca Pacioli"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The capital of Indonesia is Bali.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Mathematics",
+            "question": "Integration is the reverse of what mathematical operation?",
+            "correct_answer": "Derivation",
+            "incorrect_answers": [
+                "Division",
+                "Standard Deviation",
+                "Multiplication"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?",
+            "correct_answer": "Kaltag, Nikki, and Star",
+            "incorrect_answers": [
+                "Dusty, Kirby, and Ralph",
+                "Nuk, Yak, and Sumac",
+                "Jenna, Sylvie, and Dixie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "What is the name of a rabbit&#039;s abode?",
+            "correct_answer": "Burrow",
+            "incorrect_answers": [
+                "Nest",
+                "Den",
+                "Dray"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?",
+            "correct_answer": "Tragedy",
+            "incorrect_answers": [
+                "Night Fever",
+                "Stayin&#039; Alive",
+                "You Should Be Dancing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What type of creature is a Bonobo?",
+            "correct_answer": "Ape",
+            "incorrect_answers": [
+                "Lion",
+                "Parrot",
+                "Wildcat"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Vikings were the first Europeans to discover North America.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Approximately how long is a year on Uranus?",
+            "correct_answer": "84 Earth years",
+            "incorrect_answers": [
+                "47 Earth years",
+                "62 Earth years",
+                "109 Earth years"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+            "correct_answer": "A Horse",
+            "incorrect_answers": [
+                "A Dragon",
+                "A Tiger",
+                "A Lion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+            "correct_answer": "Traffic Collision Avoidance System",
+            "incorrect_answers": [
+                "Traffic Communication Alert System",
+                "Traffic Configuration Alignment System",
+                "Traffic Call-sign Abbreviation System"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many obsidian blocks are required to build a nether portal in Minecraft?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "14",
+                "13",
+                "16"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the official German name of the Swiss Federal Railways?",
+            "correct_answer": "Schweizerische Bundesbahnen",
+            "incorrect_answers": [
+                "Schweizerische Nationalbahnen",
+                "Bundesbahnen der Schweiz",
+                "Schweizerische Staatsbahnen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of the following is the longest river in Europe?",
+            "correct_answer": "Volga",
+            "incorrect_answers": [
+                "Danube",
+                "Ural",
+                "Dnieper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of the following songs did Elton John perform following Princess Diane&#039;s passing?",
+            "correct_answer": "Candles in the Wind",
+            "incorrect_answers": [
+                "I Guess That&#039;s Why They Call It The Blues",
+                "Your Song",
+                "Island Girl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Which of these is NOT a car model produced by Malaysian car manufacturer Proton?",
+            "correct_answer": "Kelisa",
+            "incorrect_answers": [
+                "Saga",
+                "Perdana",
+                "Inspira"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Nikki Diamond portrayed which Gladiator in the 1992 TV show &quot;Gladiators&quot;?",
+            "correct_answer": "Scorpio",
+            "incorrect_answers": [
+                "Jet",
+                "Nightshade",
+                "Falcon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of The Lumineers?",
+            "correct_answer": "Wesley Schultz",
+            "incorrect_answers": [
+                "Jeremiah Fraites",
+                "Jay Van Dyke",
+                "Neyla Pekarek"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of the Beatles band members is barefoot on the front cover of the &#039;Abbey Road&#039; album?",
+            "correct_answer": "Paul McCartney",
+            "incorrect_answers": [
+                "Ringo Starr",
+                "George Harrison",
+                "John Lennon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In aerodynamics, which force pushes an object upwards?",
+            "correct_answer": "Lift",
+            "incorrect_answers": [
+                "Drag",
+                "Weight",
+                "Thrust"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The original Planetside was released in North America on...",
+            "correct_answer": "May 20, 2003",
+            "incorrect_answers": [
+                "June 17, 2001",
+                "September 29, 2003",
+                "January 14, 2005"
+            ]
+        }
+    ]
+}

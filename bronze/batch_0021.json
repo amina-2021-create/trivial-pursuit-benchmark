@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "No Game No Life first aired in 2014.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does RAID stand for?",
+            "correct_answer": "Redundant Array of Independent Disks",
+            "incorrect_answers": [
+                "Rapid Access for Indexed Devices",
+                "Range of Applications with Identical Designs",
+                "Randomized Abstract Identification Description"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the virus in &quot;Metal Gear Solid 1&quot;?",
+            "correct_answer": "FOXDIE",
+            "incorrect_answers": [
+                "FOXENGINE",
+                "FOXALIVE",
+                "FOXKILL"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",
+            "correct_answer": "Dragon King: The Fighting Game",
+            "incorrect_answers": [
+                "Contest of Champions",
+                "Smash and Pummel",
+                "Fighter of the Ages: Conquest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Whistler was the codename of this Microsoft Operating System.",
+            "correct_answer": "Windows XP",
+            "incorrect_answers": [
+                "Windows 2000",
+                "Windows 7",
+                "Windows 95"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the common, gun-toting enemies of the &quot;Oddworld&quot; video game series?",
+            "correct_answer": "Sligs",
+            "incorrect_answers": [
+                "Scrabs",
+                "Slogs",
+                "Glukkons"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+            "correct_answer": "Kilt",
+            "incorrect_answers": [
+                "Skirt",
+                "Dress",
+                "Rhobes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what?",
+            "correct_answer": "The Great Migration",
+            "incorrect_answers": [
+                "The Great Awakening",
+                "The Harlem Renaissance",
+                "The Resettlement"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+            "correct_answer": "Niagara Mohawk Building",
+            "incorrect_answers": [
+                "Taipei 101",
+                "One Detroit Center",
+                "Westendstrasse 1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is the designation given to the Marvel Cinematic Universe?",
+            "correct_answer": "Earth-199999",
+            "incorrect_answers": [
+                "Earth-616",
+                "Earth-10005",
+                "Earth-2008"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
+            "correct_answer": "&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+            "incorrect_answers": [
+                "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
+                "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
+                "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+            "correct_answer": "Ace Combat",
+            "incorrect_answers": [
+                "Jet Set Radio",
+                "Deus Ex",
+                "Crimson Skies"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During World War I, which nation&#039;s monarchs were blood related?",
+            "correct_answer": "England, Germany, Russia",
+            "incorrect_answers": [
+                "France, Russia, Germany",
+                "Serbia, Russia, Croatia",
+                "Germany, Spain, Austria"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Zelda games did not feature Ganon as a final boss?",
+            "correct_answer": "Majora&#039;s Mask",
+            "incorrect_answers": [
+                "Ocarina of Time",
+                "Skyward Sword",
+                "Breath of the Wild"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the largest country, by area, that has only one time zone?",
+            "correct_answer": "China",
+            "incorrect_answers": [
+                "Canada",
+                "India",
+                "Russia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "The greek god Poseidon was the god of what?",
+            "correct_answer": "The Sea",
+            "incorrect_answers": [
+                "War",
+                "Sun",
+                "Fire"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "There are 86400 seconds in a day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+            "correct_answer": "Ice Axe",
+            "incorrect_answers": [
+                "Fire Axe",
+                "Wrench",
+                "Hunting Knife"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+            "correct_answer": "Leonard Nimoy",
+            "incorrect_answers": [
+                "William Shatner",
+                "George Takei",
+                "James Doohan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who led the Communist Revolution of Russia?",
+            "correct_answer": "Vladimir Lenin",
+            "incorrect_answers": [
+                "Joseph Stalin",
+                "Vladimir Putin",
+                "Mikhail Gorbachev"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+            "correct_answer": "Radia Perlman",
+            "incorrect_answers": [
+                "Paul Vixie",
+                "Vint Cerf",
+                "Michael Roberts"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In the comic book &quot;Archie&quot;, Betty is friends with Veronica because she is rich.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Where was Kanye West born?",
+            "correct_answer": "Atlanta, Georgia",
+            "incorrect_answers": [
+                "Chicago, Illinois",
+                "Los Angeles, California",
+                "Detroit, Michigan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What sport features the terms love, deuce, match and volley?",
+            "correct_answer": "Tennis",
+            "incorrect_answers": [
+                "Cricket",
+                "Basketball",
+                "Curling"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which Japanese music group was formed to produce theme music for the anime &quot;Guilty Crown&quot;?",
+            "correct_answer": "Egoist",
+            "incorrect_answers": [
+                "Goose house",
+                "Babymetal",
+                "Garnidelia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of the game Half-Life: Opposing Force?",
+            "correct_answer": "Adrian Shephard",
+            "incorrect_answers": [
+                "Gordon Freeman",
+                "Alyx Vance",
+                "Barney Calhoun"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?",
+            "correct_answer": "Elizabeth Midford",
+            "incorrect_answers": [
+                "Rachel Phantomhive",
+                "Alexis Leon Midford",
+                "Angelina Dalles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "What was George Bizet&#039;s last opera?",
+            "correct_answer": "Carmen",
+            "incorrect_answers": [
+                "Don Rodrigue",
+                "Gris&eacute;lidis",
+                "Les p&ecirc;cheurs de perles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The Italian automaker Lamborghini uses what animal as its logo?",
+            "correct_answer": "Bull",
+            "incorrect_answers": [
+                "Bat",
+                "Horse",
+                "Snake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which was the first &quot;Call Of Duty: Zombies&quot; map to introduce the &quot;Wunderwaffe DG-2&quot;?",
+            "correct_answer": "Shi No Numa",
+            "incorrect_answers": [
+                "Tranzit",
+                "Kino Der Toten",
+                "Der Riese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "With which Greek philosopher would you associate the phrase, &quot;I know that I know nothing&quot;?",
+            "correct_answer": "Socrates",
+            "incorrect_answers": [
+                "Aristotle",
+                "Plato",
+                "Pythagoras"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+            "correct_answer": "Extreme Dungeons &amp; Dragons",
+            "incorrect_answers": [
+                "Advanced Dungeons &amp; Dragons",
+                "Dungeons &amp; Dragons 3.5th edition",
+                "Advanced Dungeons &amp; Dragons 2nd edition"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is an alternative name for multiple personality disorder?",
+            "correct_answer": "Dissociative identity disorder",
+            "incorrect_answers": [
+                "Body integrity identity disorder",
+                "Identity crisis",
+                "Schizophrenia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What was the Maximum Level in World of Warcraft: Battle for Azeroth?",
+            "correct_answer": "120",
+            "incorrect_answers": [
+                "100",
+                "90",
+                "150"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+            "correct_answer": "Hispania ",
+            "incorrect_answers": [
+                "Italia",
+                "Gallia",
+                "Asia"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Gadgets",
+            "question": "During the  early parts of the Vietnam War the M16 had a record for having bad reliability",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?",
+            "correct_answer": "Navarre",
+            "incorrect_answers": [
+                "Galicia",
+                "Granada",
+                "Catalonia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Pol Pot was the former dictator of which country?",
+            "correct_answer": "Cambodia",
+            "incorrect_answers": [
+                "Laos",
+                "North Korea",
+                "Vietnam"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the final villain in the manga series &quot;Bleach&quot;?",
+            "correct_answer": "Yhwach",
+            "incorrect_answers": [
+                "Juha Bach",
+                "Yuhabah",
+                "Juhabach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of the machine that upgrades weapons?",
+            "correct_answer": "Pack-A-Punch",
+            "incorrect_answers": [
+                "Wunderfizz",
+                "Gersch Device",
+                "Mule Kick"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Macintosh has named six of its operating systems after big cats. What big cat did Macintosh name their 2007 release after? ",
+            "correct_answer": "Leopard",
+            "incorrect_answers": [
+                "Tiger",
+                "Panther",
+                "Puma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+            "correct_answer": "Arbok",
+            "incorrect_answers": [
+                "Linoone",
+                "Tauros",
+                "Nidoking"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "When was Gangnam Style uploaded to YouTube?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2013",
+                "2014",
+                "2011"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many regular Sunken Sea Scrolls are there in &quot;Splatoon&quot;?",
+            "correct_answer": "27",
+            "incorrect_answers": [
+                "32",
+                "30",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+            "correct_answer": "Falcon",
+            "incorrect_answers": [
+                "Eagle",
+                "Kyte",
+                "Swallow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of these Indian languages is not part of the Indo-European language family?",
+            "correct_answer": "Tamil",
+            "incorrect_answers": [
+                "Hindi",
+                "Punjabi",
+                "Urdu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+            "correct_answer": "Threshold",
+            "incorrect_answers": [
+                "Substance",
+                "Sanghelios",
+                "Te"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Chevrolet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+            "correct_answer": "The Velvet Underground and Nico",
+            "incorrect_answers": [
+                "Abbey Road",
+                "Led Zeppelin IV",
+                "Pet Sounds"
+            ]
+        }
+    ]
+}

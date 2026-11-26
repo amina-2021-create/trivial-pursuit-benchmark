@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did the French Revolution begin?",
+            "correct_answer": "May 05 1789",
+            "incorrect_answers": [
+                "April 12 1789",
+                "April 05 1789",
+                "May 06 1799"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these cities has a 4&deg; East longitude. ",
+            "correct_answer": "Amsterdam",
+            "incorrect_answers": [
+                "Rio de Janero",
+                "Toronto",
+                "Hong Kong"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In DC comics where does the Green Arrow (Oliver Queen) live?",
+            "correct_answer": "Star City",
+            "incorrect_answers": [
+                "Central City",
+                "Gotham City",
+                "Metropolis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was Napoleon Bonaparte&#039;s name before he changed it?",
+            "correct_answer": "Napoleone di Buonaparte",
+            "incorrect_answers": [
+                "Naapolion van Bonijpaart",
+                "Napole&atilde;o do Boaparte",
+                "Napoleona de Buenoparte"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+            "correct_answer": "Duck",
+            "incorrect_answers": [
+                "Bye",
+                "Beamer",
+                "Carry"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The first dual-core CPU was the Intel Pentium D.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not a DLC vehicle in &quot;Mario Kart 8&quot;?",
+            "correct_answer": "Wild Wiggler",
+            "incorrect_answers": [
+                "Bone Rattler",
+                "B Dasher",
+                "300 SL Roadster"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Naturally occuring uranium primarily consists of which isotope?",
+            "correct_answer": "238",
+            "incorrect_answers": [
+                "235",
+                "239",
+                "233"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the poker hand containing three of a kind and a pair?",
+            "correct_answer": "Full House",
+            "incorrect_answers": [
+                "Flush",
+                "Straight",
+                "High card"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How old is Chloe Price in Life is Strange: Before the Storm?",
+            "correct_answer": "16",
+            "incorrect_answers": [
+                "24",
+                "19",
+                "15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+            "correct_answer": "Always wear a shirt",
+            "incorrect_answers": [
+                "You do not talk about FIGHT CLUB",
+                "Only two guys to a fight",
+                "Fights will go on as long as they have to"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What game mode was not in the original &quot;Wii Sports&quot;?",
+            "correct_answer": "Table Tennis",
+            "incorrect_answers": [
+                "Boxing",
+                "Baseball",
+                "Bowling"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Japanese district Akihabara is also known by what nickname?",
+            "correct_answer": "Electric Town",
+            "incorrect_answers": [
+                "Moon Walk River",
+                "Otaku Central ",
+                "Big Eyes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Counting the Blood and Wine DLC, how many Hero Cards are there in total in The Witcher 3?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "30",
+                "20",
+                "15"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which water-type Pok&eacute;mon starter was introduced in the 4th generation of the series?",
+            "correct_answer": "Piplup",
+            "incorrect_answers": [
+                "Totodile",
+                "Oshawott",
+                "Mudkip"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which of these theoretical phycisists first predicted the existence of antimatter?",
+            "correct_answer": "Paul Dirac",
+            "incorrect_answers": [
+                "Niels Bohr",
+                "Albert Einstein",
+                "Werner Heisenberg"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+            "correct_answer": "Chernobyl",
+            "incorrect_answers": [
+                "Ignalina",
+                "Mayak",
+                "Kursk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Greek god was the god of the Sun?",
+            "correct_answer": "Helios",
+            "incorrect_answers": [
+                "Zeus",
+                "Hades",
+                "Poseidon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The first Legoland park was opened in 1968 in which of these cities?",
+            "correct_answer": "Billund, Denmark",
+            "incorrect_answers": [
+                "Carlsbad, California",
+                "Winter Haven, Florida",
+                "Nagoya, Japan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?",
+            "correct_answer": "Nosferatu",
+            "incorrect_answers": [
+                "Frankenstein ",
+                "The Headless Horseman",
+                "H&auml;xan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the talking cat in Persona 5?",
+            "correct_answer": "Morgana",
+            "incorrect_answers": [
+                "Teddie",
+                "Marie",
+                "Ryuji"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "According to Bram Stoker&#039;s novel, in which British coastal town did Dracula come ashore?",
+            "correct_answer": "Whitby",
+            "incorrect_answers": [
+                "Scarborough",
+                "Brighton",
+                "Portsmouth"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "&quot;HTML&quot; stands for Hypertext Markup Language.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Sean Bean voices the character of &quot;Martin Septim&quot; in which Elder Scrolls game?",
+            "correct_answer": "The Elder Scrolls IV: Oblivion",
+            "incorrect_answers": [
+                "The Elder Scrolls V: Skyrim",
+                "The Elder Scrolls III: Morrowind ",
+                "The Elder Scrolls Online"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is One Punch Man voiced by in the Japanese version.",
+            "correct_answer": "Makoto Furukawa",
+            "incorrect_answers": [
+                "Zach Aguilar",
+                "Kaito Ishikawa",
+                "Max Mittelman "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the largest country in the world ?",
+            "correct_answer": "Russian Federation",
+            "incorrect_answers": [
+                "China",
+                "Canada",
+                "Brazil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the race horse that Tony Soprano becomes attached to?",
+            "correct_answer": "Pie-O-My",
+            "incorrect_answers": [
+                "Man o&#039; war",
+                "Bada Bing",
+                "Honest Earnings"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these bands are NOT from Australia?",
+            "correct_answer": "The Naked and Famous",
+            "incorrect_answers": [
+                "Cut Copy",
+                "Empire of the Sun",
+                "Tame Impala"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?",
+            "correct_answer": "Paranoid Android",
+            "incorrect_answers": [
+                "Sadistic Summer",
+                "Bittersweet Symphony",
+                "Mad World"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Super Mario RPG: Legend of The Seven Stars, what is Geno&#039;s real name?",
+            "correct_answer": "♡♪!?",
+            "incorrect_answers": [
+                "Geno",
+                "Exor",
+                "Smithy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?",
+            "correct_answer": "Ainz Ooal Gown",
+            "incorrect_answers": [
+                "Master",
+                "Yggdrasil",
+                "Kugane Maruyama"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "According to Norse mythology, Loki is a mother.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Who wrote the song &quot;You Know You Like It&quot;?",
+            "correct_answer": "AlunaGeorge",
+            "incorrect_answers": [
+                "DJ Snake",
+                "Steve Aoki",
+                "Major Lazer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+            "correct_answer": "7.62mm",
+            "incorrect_answers": [
+                "5.56mm",
+                "9mm",
+                ".300 Magnum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+            "correct_answer": "Truth",
+            "incorrect_answers": [
+                "Answer",
+                "Cause",
+                "Source"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
+            "correct_answer": "Madeon",
+            "incorrect_answers": [
+                "Daft Punk ",
+                "Disclosure",
+                "David Guetta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "When was Salvador Dali&#039;s painting, &quot;The Persistence of Memory,&quot; completed?",
+            "correct_answer": "1931",
+            "incorrect_answers": [
+                "1932",
+                "1929",
+                "1934"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In Breaking Bad, the initials W.W. refer to which of the following?",
+            "correct_answer": "Walter White",
+            "incorrect_answers": [
+                "William Wolf",
+                "Willy Wonka",
+                "Wally Walrus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many metal bars does it take to smith a platebody in the MMO &quot;RuneScape&quot;?",
+            "correct_answer": "5 bars",
+            "incorrect_answers": [
+                "3 bars",
+                "2 bars",
+                "10 bars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Estonia?",
+            "correct_answer": "Tallinn",
+            "incorrect_answers": [
+                "Helsinki",
+                "Tartu",
+                "Riga"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Marvel vs Capcom 2: New age of Heroes was released in what year?",
+            "correct_answer": "2000",
+            "incorrect_answers": [
+                "2001",
+                "2003",
+                "1998"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?",
+            "correct_answer": "Steed",
+            "incorrect_answers": [
+                "Mule",
+                "Benson",
+                "Pony"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Mortal Kombat series the &quot;Deadly Alliance&quot; consists of Shang Tsung and Quan Chi",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+            "correct_answer": "Skeleton",
+            "incorrect_answers": [
+                "Frog",
+                "Horror",
+                "Plant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What war is Call Of Duty: Black Ops based on?",
+            "correct_answer": "Cold War",
+            "incorrect_answers": [
+                "WW3",
+                "Vietnam",
+                "WW1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What year was Huun Huur Tu&#039;s album Altai Sayan Tandy-Uula released? ",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "1993",
+                "2006",
+                "2010"
+            ]
+        }
+    ]
+}

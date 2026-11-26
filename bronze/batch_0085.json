@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What otherworldly land does Thor come from?",
+            "correct_answer": "Asgard",
+            "incorrect_answers": [
+                "Midgard",
+                "Jotunheim",
+                "Sovengarde"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Don Cheto is the host of the radio station &quot;East Los FM&quot; in GTA V.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "There exists an island named &quot;Java&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What company develops the Rock Band series of rhythm games?",
+            "correct_answer": "Harmonix",
+            "incorrect_answers": [
+                "Activision",
+                "Konami",
+                "Electronic Arts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who is considered the &quot;Father of Modern Philosophy&quot;?",
+            "correct_answer": "Ren&eacute; Descartes",
+            "incorrect_answers": [
+                "Plato",
+                "Albert Einstein",
+                "Antoine Lavoiser"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+            "correct_answer": "Benjamin Franklin Gates",
+            "incorrect_answers": [
+                "Thomas Jefferson Walker",
+                "George Washington Swanson",
+                "John Quincy Beckett"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does the computer software acronym JVM stand for?",
+            "correct_answer": "Java Virtual Machine",
+            "incorrect_answers": [
+                "Java Vendor Machine",
+                "Java Visual Machine",
+                "Just Virtual Machine"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Which of the following Pacific Islander countries is ruled by a constitutional monarchy?",
+            "correct_answer": "Tonga",
+            "incorrect_answers": [
+                "Palau",
+                "Fiji",
+                "Kiribati"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What did the first moving picture depict?",
+            "correct_answer": "A galloping horse",
+            "incorrect_answers": [
+                "A woman in a dress",
+                "A man walking",
+                "A crackling fire"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who was the first white band to play the Apollo Theater?",
+            "correct_answer": "Buddy Holly and The Crickets",
+            "incorrect_answers": [
+                "Chuck Berry",
+                "The Beatles",
+                "Elvis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Without enchantments, which pickaxe in minecraft mines blocks the quickest.",
+            "correct_answer": "Golden ",
+            "incorrect_answers": [
+                "Diamond",
+                "Iron",
+                "Obsidian"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "E = MC3",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;FTL: Faster Than Light&quot;, how many races are there, including the Lanius?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "9",
+                "7",
+                "10"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Eurobeat is primarily an Italian genre of music.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+            "correct_answer": "Government",
+            "incorrect_answers": [
+                "Going",
+                "Ghost",
+                "Geronimo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "How many books are in Euclid&#039;s Elements of Geometry?",
+            "correct_answer": "13",
+            "incorrect_answers": [
+                "8",
+                "10",
+                "17"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the world&#039;s longest river?",
+            "correct_answer": "Nile",
+            "incorrect_answers": [
+                "Missouri",
+                "Amazon",
+                "Yangtze"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?",
+            "correct_answer": "Warriors of Hope",
+            "incorrect_answers": [
+                "The Monokubs",
+                "Warriors of Despair",
+                "The Ultimate Despair"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "In the Scoville scale, what is the hottest chemical?",
+            "correct_answer": "Resiniferatoxin",
+            "incorrect_answers": [
+                "Capsaicin",
+                "Dihydrocapsaicin",
+                "Tinyatoxin"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;Twenty One Pilots&quot; made the song &quot;The Motion&quot; featuring Sampha.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Psychology is the science of behavior and mind.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Fairy Tail&quot;, what is the nickname of Natsu Dragneel?",
+            "correct_answer": "The Salamander",
+            "incorrect_answers": [
+                "The Dragon Slayer",
+                "The Dragon",
+                "The Demon"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The United States of America was the first country to launch a man into space.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+            "correct_answer": "Gimli Glider",
+            "incorrect_answers": [
+                "Gimli Microlight",
+                "Gimli Chaser",
+                "Gimli Superb"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The Flag of the European Union has how many stars on it?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "10",
+                "14",
+                "16"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT a song featured on Green Day&#039;s 21st Century Breakdown album?",
+            "correct_answer": "She&#039;s A Rebel",
+            "incorrect_answers": [
+                "Know Your Enemy",
+                "&iquest;Viva la Gloria? (Little Girl)",
+                "Before The Lobotomy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Ottoman Empire was dissolved after their loss in which war?",
+            "correct_answer": "World War I",
+            "incorrect_answers": [
+                "Crimean War",
+                "Serbian Revolution",
+                "Second Balkan War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?",
+            "correct_answer": "Michelangelo",
+            "incorrect_answers": [
+                "Leonardo",
+                "Donatello",
+                "Raphael"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which company is the one responsible for creating the strategy videogame Stellaris?",
+            "correct_answer": "Paradox Development Studio",
+            "incorrect_answers": [
+                "Overkill Software",
+                "Tripwire Interactive LLC",
+                "Ensemble Studios"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who plays protagonist Ethan Hunt in the &quot;Mission: Impossible&quot; film-series?",
+            "correct_answer": "Tom Cruise",
+            "incorrect_answers": [
+                "Johnny Depp",
+                "Sean Connery",
+                "Pierce Brosnan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What level do you have to be to get a service medal on CS:GO?",
+            "correct_answer": "40",
+            "incorrect_answers": [
+                "50",
+                "30",
+                "20"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+            "correct_answer": "Chicago",
+            "incorrect_answers": [
+                "Dreamgirls",
+                "Cabaret",
+                "All That Jazz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+            "correct_answer": "Shiatsu",
+            "incorrect_answers": [
+                "Ukiyo",
+                "Majime",
+                "Ikigai"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which one is NOT the function of engine oil in car engines?",
+            "correct_answer": "Combustion",
+            "incorrect_answers": [
+                "Lubrication",
+                "Cooling",
+                "Reduce corrosion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Prior to going solo in 1982, Lionel Richie was a member of which Motown group?",
+            "correct_answer": "The Commodores",
+            "incorrect_answers": [
+                "The Temptations",
+                "The Miracles",
+                "The Supremes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the protagonist&#039;s first Persona in &quot;Persona 5&quot;?",
+            "correct_answer": "Arsene",
+            "incorrect_answers": [
+                "Mara",
+                "Izanagi",
+                "Sandaphlon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?",
+            "correct_answer": "Myst",
+            "incorrect_answers": [
+                "Shivers",
+                "Doom",
+                "Tropico"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "A wyvern is the same as a dragon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who created the Cartoon Network series &quot;Regular Show&quot;?",
+            "correct_answer": "J. G. Quintel",
+            "incorrect_answers": [
+                "Ben Bocquelet",
+                "Pendleton Ward",
+                "Rebecca Sugar"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+            "correct_answer": "Year",
+            "incorrect_answers": [
+                "Four Years",
+                "Two Years",
+                "Eight Years"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the real name of American rapper Eminem, also known as Slim Shady?",
+            "correct_answer": "Marshall Mathers",
+            "incorrect_answers": [
+                "Calvin Broadus",
+                "Shawn Carter",
+                "Nasir Jones"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is &quot;dabbing&quot;?",
+            "correct_answer": "A dance",
+            "incorrect_answers": [
+                "A medical procedure",
+                "A sport",
+                "A language"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Thirty Years War ended with which treaty?",
+            "correct_answer": "Peace of Westphalia",
+            "incorrect_answers": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Peace of Prague"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Where did the British Boy Band &quot;Bros&quot; come from?",
+            "correct_answer": "Camberley",
+            "incorrect_answers": [
+                "Guildford",
+                "Aldershot",
+                "Bagshot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the 1968 Cartoon Show &quot;Wacky Races&quot; what was the name of cavemen duo who rode in The Boulder Mobile?",
+            "correct_answer": "The Slag Brothers",
+            "incorrect_answers": [
+                "The Slate Brothers",
+                "The Rock Brothers",
+                "The Stone Brothers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who was the main antagonist of Max Payne 3 (2012)?",
+            "correct_answer": "Victor Branco",
+            "incorrect_answers": [
+                "&Aacute;lvaro Neves",
+                "Armando Becker",
+                "Milo Rego"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What year was Min Yoongi from South Korea boy band &quot;BTS&quot; born in?",
+            "correct_answer": "1993",
+            "incorrect_answers": [
+                "1992",
+                "1995",
+                "1994"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which country attacked the USS Liberty on June 8, 1967?",
+            "correct_answer": "Israel",
+            "incorrect_answers": [
+                "Syria",
+                "Saudi Arabia",
+                "Iran"
+            ]
+        }
+    ]
+}

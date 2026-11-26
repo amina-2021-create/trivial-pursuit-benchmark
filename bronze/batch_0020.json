@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Telltale Games&#039; &quot;The Walking Dead: Season One&quot; what is the name of Clementine&#039;s father?",
+            "correct_answer": "Ed",
+            "incorrect_answers": [
+                "Charles",
+                "Lee",
+                "Walter"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these blocks in &quot;Minecraft&quot; has the lowest blast resistance?",
+            "correct_answer": "Sand",
+            "incorrect_answers": [
+                "End Stone",
+                "Water",
+                "Wood Planks"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Han Solo&#039;s co-pilot and best friend, &quot;Chewbacca&quot;, is an Ewok.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What produces the green colour of most plant leaves?",
+            "correct_answer": "Chlorophyll",
+            "incorrect_answers": [
+                "Light refraction",
+                "Natural pigments",
+                "UV radiation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters wasn&#039;t a villian in Club Penguin?",
+            "correct_answer": "The Director",
+            "incorrect_answers": [
+                "Herbert P. Bear",
+                "Tusk",
+                "Ultimate Proto-Bot 10000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+            "correct_answer": "Chinese Taipei",
+            "incorrect_answers": [
+                "Chinese Taiwan",
+                "Republic of Taiwan",
+                "Republic of Taipei "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "Hel was the daughter of which Norse Mythological figure?",
+            "correct_answer": "Loki",
+            "incorrect_answers": [
+                "Thor",
+                "Odin",
+                "Balder"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who won the UEFA Champions League in 2017?",
+            "correct_answer": "Real Madrid C.F.",
+            "incorrect_answers": [
+                "Atletico Madrid",
+                "AS Monaco FC",
+                "Juventus F.C."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+            "correct_answer": "Rik Mayall",
+            "incorrect_answers": [
+                "Adrian Edmondson",
+                "Nigel Planer",
+                "Christopher Ryan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+            "correct_answer": "The Legend of Zelda: The Minish Cap",
+            "incorrect_answers": [
+                "The Legend of Zelda: Twilight Princess",
+                "The Legend of Zelda: Spirit Tracks",
+                "The Legend of Zelda: Four Swords"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which nation hosted the FIFA World Cup in 2006?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "United Kingdom",
+                "Brazil",
+                "South Africa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "A positron is an antiparticle of a what?",
+            "correct_answer": "Electron",
+            "incorrect_answers": [
+                "Neutron",
+                "Proton",
+                "Photon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of the following physical typologies are used with Ethernet Networks?",
+            "correct_answer": "Star",
+            "incorrect_answers": [
+                "Ring",
+                "Mesh",
+                "Hex"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which James Bond film had the theme song written and performed by English singer-songwriter Adele?",
+            "correct_answer": "Skyfall",
+            "incorrect_answers": [
+                "Casino Royale",
+                "Quantum Solace",
+                "Spectre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What animated internet character is known to answer emails with his boxing gloves?",
+            "correct_answer": "Strong Bad",
+            "incorrect_answers": [
+                "Strong Sad",
+                "Strong Mad",
+                "Strong Glad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first weapon pack for &quot;PAYDAY 2&quot;?",
+            "correct_answer": "The Gage Weapon Pack #1",
+            "incorrect_answers": [
+                "The Overkill Pack",
+                "The Gage Chivalry Pack",
+                "The Gage Historical Pack"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What are rhino&#039;s horn made of?",
+            "correct_answer": "Keratin",
+            "incorrect_answers": [
+                "Bone",
+                "Ivory",
+                "Skin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which film has been critically regarded as the best film of all time?",
+            "correct_answer": "Citizen Kane",
+            "incorrect_answers": [
+                "Avatar",
+                "The Godfather Part II",
+                "The Room"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the capital city of Bermuda?",
+            "correct_answer": "Hamilton",
+            "incorrect_answers": [
+                "Santo Dominigo",
+                "San Juan",
+                "Havana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "What is a fundamental element of the Gothic style of architecture?",
+            "correct_answer": "pointed arch",
+            "incorrect_answers": [
+                "coffered ceilings",
+                "fa&ccedil;ades surmounted by a pediment ",
+                "internal frescoes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the Zodiac symbol for Gemini?",
+            "correct_answer": "Twins",
+            "incorrect_answers": [
+                "Fish",
+                "Scales",
+                "Maiden"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game &quot;Blue Reflection&quot;, the main protagonist, Hinako Shirai, was a ballet dancer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+            "correct_answer": "50 mph",
+            "incorrect_answers": [
+                "60 mph",
+                "40 mph",
+                "70 mph"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "What is the fastest road legal car in the world?",
+            "correct_answer": "Koenigsegg Agera RS",
+            "incorrect_answers": [
+                "Hennessy Venom GT",
+                "Bugatti Veyron Super Sport",
+                "Pagani Huayra BC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In PROTOTYPE 2. who is referred to as &quot;Tango Primary&quot;?",
+            "correct_answer": "James Heller",
+            "incorrect_answers": [
+                "Alex Mercer",
+                "Dana Mercer",
+                "Any Goliaths roaming around"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Tetris is the #1 best-selling video game of all-time.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?",
+            "correct_answer": "Turn to Frog",
+            "incorrect_answers": [
+                "Spore Frog",
+                "Bloated Toad",
+                "Frogmite"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of these colours is NOT featured in the logo for Google?",
+            "correct_answer": "Pink",
+            "incorrect_answers": [
+                "Yellow",
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In which mall does &quot;Dead Rising&quot; take place?",
+            "correct_answer": "Willamette Parkview Mall",
+            "incorrect_answers": [
+                "Liberty Mall",
+                "Twin Pines Mall",
+                "Central Square Shopping Center"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which British band won the first edition of the Brit Awards in 1977?",
+            "correct_answer": "The Beatles",
+            "incorrect_answers": [
+                "Pink Floyd",
+                "The Rolling Stones",
+                "The Who"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?",
+            "correct_answer": "Rin",
+            "incorrect_answers": [
+                "Rem",
+                "Ren",
+                "Ram"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "How many wheels does a unicycle have?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?",
+            "correct_answer": "Rhesus Monkeys",
+            "incorrect_answers": [
+                "Rheumatism Patients",
+                "Red-Haired People",
+                "Rhizomes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is Russia&#039;s second-largest city?",
+            "correct_answer": "Saint Petersburg",
+            "incorrect_answers": [
+                "Minsk",
+                "Nizhny Novgorod",
+                "Vladivostok"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+            "correct_answer": "Hammer",
+            "incorrect_answers": [
+                "Wrench",
+                "Drill",
+                "Screwdriver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the famous Papa John&#039;s last name?",
+            "correct_answer": "Schnatter",
+            "incorrect_answers": [
+                "Chowder",
+                "Williams",
+                "ANDERSON"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the domain name for the country Tuvalu?",
+            "correct_answer": ".tv",
+            "incorrect_answers": [
+                ".tu",
+                ".tt",
+                ".tl"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;PAYDAY 2&quot;, what weapon has the highest base weapon damage on a per-shot basis?",
+            "correct_answer": "HRL-7",
+            "incorrect_answers": [
+                "Heavy Crossbow",
+                "Thanatos .50 cal",
+                "Broomstick Pistol"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Art",
+            "question": "What year was the Mona Lisa finished?",
+            "correct_answer": "1504",
+            "incorrect_answers": [
+                "1487",
+                "1523",
+                "1511"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Fallout: New Vegas add-on Honest Hearts, what is the name of Joshua Graham&#039;s personal .45 pistol?",
+            "correct_answer": "A Light Shining in Darkness",
+            "incorrect_answers": [
+                "Requiem",
+                "Maria",
+                "Recompense of the Fallen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Wendy O. Koopa appeared in the Super Mario DIC Cartoons, but what was she known as?",
+            "correct_answer": "Kootie Pie",
+            "incorrect_answers": [
+                "Sweetie Pie",
+                "Wendy Pie",
+                "Honey Pie"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is not a default game mode in Counter-Strike (2000)?",
+            "correct_answer": "Arms Race",
+            "incorrect_answers": [
+                "Hostage Rescue",
+                "Bomb Defusal",
+                "Assassination"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "How many scoring zones are there on a conventional dart board?",
+            "correct_answer": "82",
+            "incorrect_answers": [
+                "62",
+                "42",
+                "102"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+            "correct_answer": "Zhao Yun",
+            "incorrect_answers": [
+                "Liu Bei",
+                "Guan Yu",
+                "Zhang Fei"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What nation produces roughly 40% of the world&rsquo;s vanilla?",
+            "correct_answer": "Madagascar",
+            "incorrect_answers": [
+                "Indonesia",
+                "China",
+                "Mexico"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "How many heads does Cerberus have?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "1",
+                "5"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
+            "correct_answer": "Bill",
+            "incorrect_answers": [
+                "Louis",
+                "Francis",
+                "Zoey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "When was the first official international game played?",
+            "correct_answer": "1872",
+            "incorrect_answers": [
+                "1880",
+                "1863",
+                "1865"
+            ]
+        }
+    ]
+}

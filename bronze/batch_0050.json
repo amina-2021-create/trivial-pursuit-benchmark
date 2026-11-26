@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What did Gregory Mendel use to test genetic crossovers?",
+            "correct_answer": "Peas",
+            "incorrect_answers": [
+                "Cats",
+                "Flowers",
+                "Parrots"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+            "correct_answer": "Prospit",
+            "incorrect_answers": [
+                "No Name",
+                "Golden City",
+                "Yellow Moon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what does the game traditionally reward you for completing a boss round?",
+            "correct_answer": "Max Ammo",
+            "incorrect_answers": [
+                "A Pack-A-Punched gun",
+                "Death Machine",
+                "Monkey Bombs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What was studio Trigger&#039;s first original long-form animated series for television?",
+            "correct_answer": "Kill la Kill",
+            "incorrect_answers": [
+                "Kiznaiver",
+                "Inferno Cop",
+                "Gurren Lagann"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the boss round featured in the &quot;Call Of Duty: Zombies&quot; map &quot;Five&quot;?",
+            "correct_answer": "The Pentagon Thief",
+            "incorrect_answers": [
+                "Hellhounds",
+                "Jumping Jacks",
+                "Napalm Zombie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In season one of the US Kitchen Nightmares, Gordan Ramsay tried to save 10 different restaurants. How many ended up closing afterwards?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "6",
+                "3",
+                "0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Romania?",
+            "correct_answer": "Bucharest",
+            "incorrect_answers": [
+                "Bratislava",
+                "Belgrade",
+                "Budapest"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Louis was known as &#039;The Sun King of France&#039;?",
+            "correct_answer": "Louis XIV",
+            "incorrect_answers": [
+                "Louis XIII",
+                "Louis XV",
+                "Louis XVI"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+            "correct_answer": "Sri Lanka",
+            "incorrect_answers": [
+                "Kiribati",
+                "Scotland",
+                "Bhutan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What album is the song &#039;New Slang&#039; by The Shins found on?",
+            "correct_answer": "Oh, Inverted World",
+            "incorrect_answers": [
+                "Wincing The Night Away",
+                "Chutes Too Narrow",
+                "Port Of Morrow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The human right lung has how many lobes?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "4",
+                "2",
+                "1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What was the name of the protagonist in the movie Commando (1985)?",
+            "correct_answer": "John Matrix",
+            "incorrect_answers": [
+                "Ben Richards",
+                "Douglas Quaid",
+                "Harry Tasker"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": [
+                "Apple",
+                "Google",
+                "Yahoo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the original name of Final Fantasy XV?",
+            "correct_answer": "Final Fantasy Versus XIII",
+            "incorrect_answers": [
+                "Final Fantasy: Reborn",
+                "Final Fantasy XVI",
+                "Final Fantasy XIII-3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+            "correct_answer": "Saints",
+            "incorrect_answers": [
+                "Harlequins",
+                "Saracens",
+                "Wasps"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who was the first Legendary Pokemon to be defeated by Ash Ketchum in the Pok&eacute;mon anime?",
+            "correct_answer": "Articuno",
+            "incorrect_answers": [
+                "Darkrai",
+                "Latios",
+                "Regice"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many planets are there in the Solar System?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "9",
+                "11",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "What was the development code name for the &quot;Urza&#039;s Destiny&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1999?",
+            "correct_answer": "Chimichanga",
+            "incorrect_answers": [
+                "Burrito",
+                "Taquito",
+                "Enchilada"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "There are no deserts in Europe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Rollercoaster Tycoon 1 and 2 were developed by Chris Sawyer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Final Fantasy VI was originally released outside Japan under what name?",
+            "correct_answer": "Final Fantasy III",
+            "incorrect_answers": [
+                "Final Fantasy VI",
+                "Final Fantasy V",
+                "Final Fantasy II"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+            "correct_answer": "Oscar",
+            "incorrect_answers": [
+                "Emmy",
+                "Tony",
+                "Grammy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Where did the Great Storm of 1987 make landfall at, first?",
+            "correct_answer": "Cornwall",
+            "incorrect_answers": [
+                "Surrey",
+                "Wales",
+                "The Midlands"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which year was the album &quot;Floral Shoppe&quot; by Macintosh Plus released?",
+            "correct_answer": "2011",
+            "incorrect_answers": [
+                "2014",
+                "2013",
+                "2012"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which is Kenesisa Bekele&#039;s personal best at marathon?",
+            "correct_answer": "2:01:41",
+            "incorrect_answers": [
+                "2:01:12",
+                "2:01:45",
+                "2:01:51"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In No Man&#039;s Sky (as of the Beyond update), what two resources do you need to craft Antimatter?",
+            "correct_answer": "Condensed Carbon and Chromatic Metal",
+            "incorrect_answers": [
+                "Starship Launch Fuel and Condensed Carbon",
+                "Pure Ferrite and Sodium",
+                "Storm Crystal and Antimatter Housing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these two plates are best know for forming earthquakes and tsunami&#039;s? ",
+            "correct_answer": "Convergent Plate Boundaries/Oceanic Crust",
+            "incorrect_answers": [
+                "Divergent Plate Boundaries/Convergent/Oceanic Crust",
+                "Transform Plate Boundaries/Divergent Plate Boundaries",
+                "Oceanic &amp; Continental Crust/Transform Plate Boundaries"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who is the musical director for the award winning musical &quot;Hamilton&quot;?",
+            "correct_answer": "Alex Lacamoire",
+            "incorrect_answers": [
+                "Lin-Manuel Miranda",
+                "Renee Elise-Goldberry",
+                "Leslie Odom Jr."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which UK country features a dragon on their flag?",
+            "correct_answer": "Wales",
+            "incorrect_answers": [
+                "England",
+                "North Ireland",
+                "Scotland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In which year did Ghana gain independence?",
+            "correct_answer": "1957",
+            "incorrect_answers": [
+                "1947",
+                "1960",
+                "1958"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What was the destination of the missing flight MH370?",
+            "correct_answer": "Beijing",
+            "incorrect_answers": [
+                "Kuala Lumpur",
+                "Singapore",
+                "Tokyo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+            "correct_answer": "Female Flower",
+            "incorrect_answers": [
+                "Leaves",
+                "Male Flower",
+                "Root Ball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "When was the Garfield comic first published?",
+            "correct_answer": "1978",
+            "incorrect_answers": [
+                "1982",
+                "1973",
+                "1988"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Banjo-Kazooie&quot; originally started its development as a totally different game for the SNES under which codename?",
+            "correct_answer": "Project Dream",
+            "incorrect_answers": [
+                "Project Ukulele",
+                "Project Land",
+                "Project BK"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In what sport is a &quot;shuttlecock&quot; used?",
+            "correct_answer": "Badminton",
+            "incorrect_answers": [
+                "Table Tennis",
+                "Rugby",
+                "Cricket"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Roughly how many ingested apple seeds would it take to receive a fatal dose of cyanide?",
+            "correct_answer": "200",
+            "incorrect_answers": [
+                "20",
+                "2,000",
+                "20,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Minecraft: Java Edition, which of the following feature/block was added to Survival mode in Beta 1.3?",
+            "correct_answer": "Beds",
+            "incorrect_answers": [
+                "Hunger",
+                "The Nether",
+                "Grass"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+            "correct_answer": "Jackie Earle Haley",
+            "incorrect_answers": [
+                "Tyler Mane",
+                "Derek Mears",
+                "Gunnar Hansen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many people can you recruit in the game Suikoden in a single playthrough?",
+            "correct_answer": "107",
+            "incorrect_answers": [
+                "108",
+                "93",
+                "96"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which element has the atomic number of 7?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Oxygen",
+                "Hydrogen",
+                "Neon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The character Plum from &quot;No Game No Life&quot; is of what race?",
+            "correct_answer": "Dhampir",
+            "incorrect_answers": [
+                "Fl&uuml;gel",
+                "Imanity",
+                "Seiren"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which DC superhero was NOT included in the 2017 movie &quot;Justice League&quot;?",
+            "correct_answer": "Green Arrow",
+            "incorrect_answers": [
+                "Batman",
+                "Cyborg",
+                "Wonder Woman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+            "correct_answer": "Dirk the Daring",
+            "incorrect_answers": [
+                "Arthur",
+                "Sir Toby Belch",
+                "Guy of Gisbourne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+            "correct_answer": "Roger Federer",
+            "incorrect_answers": [
+                "Bill Tilden",
+                "Boris Becker",
+                "Pete Sampras"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The &quot;K&quot; in &quot;K-Pop&quot; stands for which word?",
+            "correct_answer": "Korean",
+            "incorrect_answers": [
+                "Kenyan",
+                "Kazakhstan",
+                "Kuwaiti"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Toaru Kagaku no Railgun&quot; anime,  espers can only reach a maximum of level 6 in their abilities.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the code name for the mobile operating system Android 7.0?",
+            "correct_answer": "Nougat",
+            "incorrect_answers": [
+                "Ice Cream Sandwich",
+                "Jelly Bean",
+                "Marshmallow"
+            ]
+        }
+    ]
+}

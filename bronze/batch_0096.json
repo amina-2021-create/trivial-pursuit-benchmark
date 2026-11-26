@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the alien species introduced in Shadow the Hedgehog (2005)?",
+            "correct_answer": "Black Arms",
+            "incorrect_answers": [
+                "The Swarm",
+                "Black Hive",
+                "The Eclipse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "10",
+                "13",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is NOT a passive electrical component?",
+            "correct_answer": "Transistor",
+            "incorrect_answers": [
+                "Resistor",
+                "Capacitor",
+                "Inductor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+            "correct_answer": "The Black Mages",
+            "incorrect_answers": [
+                "The Final Fantasies",
+                "The Espers",
+                "The Rock Summoners"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of Silverchair?",
+            "correct_answer": "Daniel Johns",
+            "incorrect_answers": [
+                "Ben Gillies",
+                "Chris Joannou",
+                "George Costanza"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Hollow Knight, how many Precepts does Zote have?",
+            "correct_answer": "Fifty-Seven",
+            "incorrect_answers": [
+                "Sixty-Nine",
+                "Fourty-Three",
+                "Ninety-One"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The Sun rises from the North.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What actor portrays Hogan &quot;Wash&quot; Washburne in the TV Show Firefly?",
+            "correct_answer": "Alan Tudyk",
+            "incorrect_answers": [
+                "Adam Baldwin",
+                "Nathan Fillion",
+                "Sean Maher"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the original Star Wars: A New Hope, Han Solo is the first to shoot his blaster in a conversation with Greedo.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Daft Punk originated in France.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+            "correct_answer": "Shin Splints",
+            "incorrect_answers": [
+                "Tennis Elbow",
+                "Carpal Tunnel",
+                "Housemaid&#039;s Knee"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did Lithuania declare independence from the Soviet Union?",
+            "correct_answer": "March 11th, 1990",
+            "incorrect_answers": [
+                "December 25th, 1991",
+                "December 5th, 1991",
+                "April 20th, 1989"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Civilization 5&quot;, which civilization can only settle one city?",
+            "correct_answer": "Venice",
+            "incorrect_answers": [
+                "India",
+                "Liechtenstein",
+                "Portugal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What language does Node.js use?",
+            "correct_answer": "JavaScript",
+            "incorrect_answers": [
+                "Java",
+                "Java Source",
+                "Joomla Source Code"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Marvel comics, which of the following is not one of the infinity stones?",
+            "correct_answer": "Energy",
+            "incorrect_answers": [
+                "Time",
+                "Power",
+                "Soul"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who created the Cartoon Network series &quot;Adventure Time&quot;?",
+            "correct_answer": "Pendleton Ward",
+            "incorrect_answers": [
+                "J. G. Quintel",
+                "Ben Bocquelet",
+                "Rebecca Sugar"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "In what year was the M1911 pistol designed?",
+            "correct_answer": "1911",
+            "incorrect_answers": [
+                "1907",
+                "1899",
+                "1917"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year did Texas secede from Mexico?",
+            "correct_answer": "1836",
+            "incorrect_answers": [
+                "1838",
+                "1845",
+                "1844"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Mother 3,&quot; the bird on the Ultimate Chimera&#039;s head is there only for decoration.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "Vietnam",
+                "Thailand",
+                "Indonesia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Pokemon generation did the fan-named &quot;Masuda Method&quot; first appear in? ",
+            "correct_answer": "Diamond/Pearl",
+            "incorrect_answers": [
+                "Ruby/Sapphire",
+                "Black/White",
+                "X/Y"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of the following anime of the mecha genre began airing in 1982?",
+            "correct_answer": "The Super Dimension Fortress Macross",
+            "incorrect_answers": [
+                "Mobile Suit Gundam",
+                "Armored Trooper VOTOMS",
+                "Neon Genesis Evangelion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Where does &quot;The Legend of Zelda: Majora&#039;s Mask&quot; take place?",
+            "correct_answer": "Termina",
+            "incorrect_answers": [
+                "Hyrule",
+                "Gysahl",
+                "Besaid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "correct_answer": "Apollo 11",
+            "incorrect_answers": [
+                "Apollo 10",
+                "Apollo 9",
+                "Apollo 13"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+            "correct_answer": "John Kay",
+            "incorrect_answers": [
+                "James Hargreaves",
+                "Richard Arkwright",
+                "John Deere"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the leader of Team Mystic in Pok&eacute;mon Go?",
+            "correct_answer": "Blanche",
+            "incorrect_answers": [
+                "Candela",
+                "Spark",
+                "Willow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who wrote the award winning musical &quot;In The Heights&quot;?",
+            "correct_answer": "Lin-Manuel Miranda",
+            "incorrect_answers": [
+                "Steven Sondheim",
+                "Francis Scott Key",
+                "John Phillips Sousa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?",
+            "correct_answer": "James Bond",
+            "incorrect_answers": [
+                "Diddy Kong",
+                "Mega Man",
+                "Wave Racer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What town was &quot;Springfield&quot; from &quot;The Simpsons&quot; originally named after?",
+            "correct_answer": "Springfield, Oregon",
+            "incorrect_answers": [
+                "Springfield, Missouri",
+                "Springfield, Illinois",
+                "Springfield, Massachusetts"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
+            "correct_answer": "Ron Grainer",
+            "incorrect_answers": [
+                "Murray Gold",
+                "Delia Derbyshire",
+                "Peter Howell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "What candidate won the 2012 US Presidential Election?",
+            "correct_answer": "Barack Obama",
+            "incorrect_answers": [
+                "Mitt Romney",
+                "Bob Hope",
+                "Ross Perot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which noble gas has the lowest atomic number?",
+            "correct_answer": "Helium",
+            "incorrect_answers": [
+                "Neon",
+                "Argon",
+                "Krypton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Who painted the epic mural Guernica?",
+            "correct_answer": "Pablo Picasso",
+            "incorrect_answers": [
+                "Francisco Goya",
+                "Leonardo da Vinci",
+                "Henri Matisse"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Norwegian producer Kygo released a remix of the song &quot;Sexual Healing&quot; by Marvin Gaye.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+            "correct_answer": "103",
+            "incorrect_answers": [
+                "10",
+                "59",
+                "79"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+            "correct_answer": "Johnny Cash",
+            "incorrect_answers": [
+                "Bob Dylan",
+                "Willie Nelson",
+                "Kris Kristofferson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which is not a playable character in the 2005 video game Killer7?",
+            "correct_answer": "Frank Smith",
+            "incorrect_answers": [
+                "Mask de Smith",
+                "Dan Smith",
+                "Coyote Smith"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which Batman villain is Mark Hamill known for having voiced?",
+            "correct_answer": "The Joker",
+            "incorrect_answers": [
+                "Two-Face",
+                "Bane",
+                "Hush"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+            "correct_answer": "Urutora",
+            "incorrect_answers": [
+                "Rungata",
+                "London",
+                "Washington"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "In Washington, D.C. what does the &quot;C&quot; stand for?",
+            "correct_answer": "Columbia",
+            "incorrect_answers": [
+                "Caledonia",
+                "Corinthia",
+                "City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Iron Maiden album did the song &quot;Dream of Mirrors&quot; feature in?",
+            "correct_answer": "Brave New World",
+            "incorrect_answers": [
+                "Dance of Death",
+                "A Matter of Life and Death",
+                "Somewhere in Time"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the official language of Brazil?",
+            "correct_answer": "Portuguese",
+            "incorrect_answers": [
+                "Brazilian",
+                "Spanish",
+                "English"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which is the most popular spoken language in the Southern Hemisphere?",
+            "correct_answer": "Portuguese",
+            "incorrect_answers": [
+                "English ",
+                "Spanish",
+                "French"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Ottoman Empire was created in 1299.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+            "correct_answer": "&quot;No. I am your father.&quot;",
+            "incorrect_answers": [
+                "&quot;Luke, I am your father.&quot;",
+                "&quot;You&#039;re wrong. I am your father.&quot;",
+                "&quot;The truth is that I am your father.&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following presidents is not on Mount Rushmore?",
+            "correct_answer": "John F. Kennedy",
+            "incorrect_answers": [
+                "Theodore Roosevelt",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+            "correct_answer": "Cocaine",
+            "incorrect_answers": [
+                "Conan O&#039;Brien",
+                "Cobalt(II) carbonate",
+                "Coconut cream pie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+            "correct_answer": "Subscriber",
+            "incorrect_answers": [
+                "Single",
+                "Secure",
+                "Solid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+            "correct_answer": "Peter Cushing",
+            "incorrect_answers": [
+                "Boris Karloff",
+                "Vincent Price",
+                "Lon Chaney Jr."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "From what show is the character &quot;James Doakes&quot;? ",
+            "correct_answer": "Dexter",
+            "incorrect_answers": [
+                "Marvel&#039;s Daredevil",
+                "Boardwalk Empire",
+                "The Walking Dead"
+            ]
+        }
+    ]
+}

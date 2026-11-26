@@ -1,0 +1,587 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who won the 2018 Monaco Grand Prix?",
+            "correct_answer": "Daniel Ricciardo",
+            "incorrect_answers": [
+                "Sebastian Vettel",
+                "Kimi Raikkonen",
+                "Lewis Hamilton"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Queen song was covered by Brittany Murphy in the 2006 film &quot;Happy Feet&quot;?",
+            "correct_answer": "Somebody to Love",
+            "incorrect_answers": [
+                "Under Pressure",
+                "Flash",
+                "Bohemian Rhapsody"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Black Hammer, what dimension does Colonel Weird travel through?",
+            "correct_answer": "Para-Zone",
+            "incorrect_answers": [
+                "Hyperspace",
+                "Mirror Universe",
+                "Phantom Zone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": " Which chemical element, number 11 in the Periodic table, has the symbol Na?",
+            "correct_answer": "Sodium",
+            "incorrect_answers": [
+                "Carbon",
+                "Lead",
+                "Nitrogen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the Capital of the United States?",
+            "correct_answer": "Washington, D.C.",
+            "incorrect_answers": [
+                "Los Angelas, CA",
+                "New York City, NY",
+                "Houston, TX"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+            "correct_answer": "The Muppets Take Manhattan",
+            "incorrect_answers": [
+                "The Great Muppet Caper",
+                "The Muppet Christmas Carol",
+                "The Muppet Movie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "How many US states start with the letter K?",
+            "correct_answer": "Two",
+            "incorrect_answers": [
+                "One",
+                "None",
+                "Three"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Tigers have one colour of skin despite the stripey fur.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "On which Beatles album would you find the song &#039;Eleanor Rigby&#039;?",
+            "correct_answer": "Revolver",
+            "incorrect_answers": [
+                "Help!",
+                "Rubber Soul",
+                "Abbey Road"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Who was South Africa&#039;s first Black President?",
+            "correct_answer": "Nelson Mandela",
+            "incorrect_answers": [
+                "Mangosuthu Buthelezi",
+                "Steve Biko ",
+                "Bishop Tutu"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The majority of people that lived under the Byzantine Empire called themselves Romans.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which football player is featured on the international cover version of the video game FIFA 16?",
+            "correct_answer": "Lionel Messi",
+            "incorrect_answers": [
+                "Cristiano Ronaldo",
+                "Wayne Rooney",
+                "David Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which RAID array type is associated with data mirroring?",
+            "correct_answer": "RAID 1",
+            "incorrect_answers": [
+                "RAID 0",
+                "RAID 10",
+                "RAID 5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "Better known by his nickname Logan, what is Wolverine&#039;s birth name?",
+            "correct_answer": "James Howlett",
+            "incorrect_answers": [
+                "Logan Wolf",
+                "Thomas Wilde",
+                "John Savage"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which one of the following rhythm games was made by Harmonix?",
+            "correct_answer": "Rock Band",
+            "incorrect_answers": [
+                "Meat Beat Mania",
+                "Guitar Hero Live",
+                "Dance Dance Revolution"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was the name of Pink Floyd&#039;s first studio album?",
+            "correct_answer": "The Piper at the Gates of Dawn",
+            "incorrect_answers": [
+                "Ummagumma",
+                "More",
+                "Atom Heart Mother"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "The scientific name for the Southern Lights is Aurora Australis?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which song is not by TheFatRat?",
+            "correct_answer": "Ascent",
+            "incorrect_answers": [
+                "Monody",
+                "Windfall",
+                "Infinite Power!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+            "correct_answer": "Westworld",
+            "incorrect_answers": [
+                "Runaway",
+                "Android",
+                "The Terminators"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Earth is located in which galaxy?",
+            "correct_answer": "The Milky Way Galaxy",
+            "incorrect_answers": [
+                "The Mars Galaxy",
+                "The Galaxy Note",
+                "The Black Hole"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the canon &quot;Neptunia&quot; games, Neptune is always the main protagonist.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of the national hero of the Philippines who inspired and lead the Philippine Revolution against colonial Spain?",
+            "correct_answer": "Jos&eacute; Rizal",
+            "incorrect_answers": [
+                "Sim&oacute;n Bol&iacute;var",
+                "Benito Ju&aacute;rez",
+                "Jos&eacute; de San Mart&iacute;n"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In The Bangles&#039; &#039;Manic Monday&#039;, what time is it already?",
+            "correct_answer": "Six o&#039;clock",
+            "incorrect_answers": [
+                "Five o&#039;clock",
+                "Four o&#039;clock",
+                "Seven o&#039;clock"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Belarus?",
+            "correct_answer": "Minsk",
+            "incorrect_answers": [
+                "Warsaw",
+                "Kiev",
+                "Vilnius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Peru",
+                "Brazil",
+                "Argentina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
+            "correct_answer": "Dr.Dre",
+            "incorrect_answers": [
+                "Ol&#039; Dirty Bastard",
+                "GZA",
+                "Method Man"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The name of the programming language AWK is abbreviated from the names of the developers &ndash; Aho, Weinberger, and Kernighan.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+            "correct_answer": "Elton John",
+            "incorrect_answers": [
+                "Lady Gaga",
+                "Rihanna",
+                "Justin Bieber"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "When does Finland celebrate their independence day?",
+            "correct_answer": "December 6th",
+            "incorrect_answers": [
+                "January 2nd",
+                "November 12th",
+                "February 8th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Where is the city of Haarlem located?",
+            "correct_answer": "The Netherlands",
+            "incorrect_answers": [
+                "Germany",
+                "United States",
+                "Switzerland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "When was WhatsApp founded?",
+            "correct_answer": "2009",
+            "incorrect_answers": [
+                "2007",
+                "2012",
+                "2010"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The movie &quot;The Rocky Horror Picture Show&quot; (1975) opens with giant floating lips singing the opening song",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+            "correct_answer": "Ewan McGregor",
+            "incorrect_answers": [
+                "Alec Guinness",
+                "Hayden Christensen",
+                "Liam Neeson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Greek letter represents the &quot;Half-Life&quot; logo?",
+            "correct_answer": "Lambda",
+            "incorrect_answers": [
+                "Omega",
+                "Alpha",
+                "Sigma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Who did Drew Brees pass in all time NFL passing yards in 2018?",
+            "correct_answer": "Peyton Manning",
+            "incorrect_answers": [
+                "Tom Brady",
+                "Dan Marino",
+                "Joe Montana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?",
+            "correct_answer": "Ingress",
+            "incorrect_answers": [
+                "Aggress",
+                "Regress",
+                "Digress"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is a class in the game &quot;Hearthstone&quot;?",
+            "correct_answer": "Priest",
+            "incorrect_answers": [
+                "Sage",
+                "Cleric",
+                "Monk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
+            "correct_answer": "Smash Mouth",
+            "incorrect_answers": [
+                "Bowling for Soup",
+                "Sum 41",
+                "Linkin Park"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "In which country is the city of Rio de Janeiro?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "Peru",
+                "Chile",
+                "Venezuela"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Chino Moreno is the lead singer of which alternative metal band?",
+            "correct_answer": "Deftones",
+            "incorrect_answers": [
+                "Tool",
+                "Korn",
+                "Type O Negative"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "The &quot;mountain chicken&quot; is a chicken.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The show &quot;Gilligan&#039;s Island&quot; was cancelled because of low ratings.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is the standard frame rate for animation?",
+            "correct_answer": "24 FPS",
+            "incorrect_answers": [
+                "12 FPS",
+                "30 FPS",
+                "60 FPS"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What was Humphrey Bogart&#039;s middle name?",
+            "correct_answer": "DeForest",
+            "incorrect_answers": [
+                "DeWinter",
+                "Steven",
+                "Bryce"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did Australia become a federation?",
+            "correct_answer": "1901",
+            "incorrect_answers": [
+                "1910",
+                "1899",
+                "1911"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?",
+            "correct_answer": "$0 USD",
+            "incorrect_answers": [
+                "$5 USD",
+                "$10 USD",
+                "$15 USD"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "MacOS is based on Linux.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Which US state was the first to allow women to vote in 1869?",
+            "correct_answer": "Wyoming",
+            "incorrect_answers": [
+                "California",
+                "Delaware",
+                "Virginia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
+            "correct_answer": "A shell",
+            "incorrect_answers": [
+                "A slide of Gelatin",
+                "A poffin",
+                "A spike"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who played Thanos in Avengers: Infinity War and Avengers: End Game?",
+            "correct_answer": "Josh Brolin",
+            "incorrect_answers": [
+                "Tom Hiddleston",
+                "Adam Sandler",
+                "Sean Gunn"
+            ]
+        }
+    ]
+}

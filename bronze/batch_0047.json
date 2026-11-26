@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In which game did the character &quot;Mario&quot; make his first appearance?",
+            "correct_answer": "Donkey Kong",
+            "incorrect_answers": [
+                "Super Mario Bros.",
+                "Super Mario Land",
+                "Mario Bros."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which game in the Dance Dance Revolution series introduced the Extra Stage?",
+            "correct_answer": "DDR",
+            "incorrect_answers": [
+                "DDR Solo 2000",
+                "DDRMAX",
+                "DDR EXTREME"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "In the Greek Mythology, the Gorgon can turn those who behold her to stone.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who wrote the lyrics for Leonard Bernstein&#039;s 1957 Brodway musical West Side Story?",
+            "correct_answer": "Stephen Sondheim",
+            "incorrect_answers": [
+                "Himself",
+                "Oscar Hammerstein",
+                "Richard Rodgers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Which actress married Michael Douglas in 2000?",
+            "correct_answer": "Catherine Zeta-Jones",
+            "incorrect_answers": [
+                "Ruth Jones",
+                "Pam Ferris",
+                "Sara Sugarman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio animated the 2016 anime &quot;Mob Psycho 100&quot;?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "A-1 Pictures",
+                "Shaft",
+                "Madhouse"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which one of these colors are not featured in Mondrian&#039;s Broadway Boogie-Woogie?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Blue",
+                "Yellow",
+                "Red"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
+            "correct_answer": "Dean",
+            "incorrect_answers": [
+                "Dave",
+                "Steve",
+                "Mike"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who out of these Team Fortress 2 characters, does not use a Shotgun as a secondary weapon?",
+            "correct_answer": "Engineer",
+            "incorrect_answers": [
+                "Soldier",
+                "Pyro",
+                "Heavy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is considered classical conditioning?",
+            "correct_answer": "Pavlov&#039;s dog experiments",
+            "incorrect_answers": [
+                "Skinner box experiment",
+                "Schr&ouml;dinger&#039;s cat experiment",
+                "Harlow&rsquo;s monkey experiments"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+            "correct_answer": "War Operation Plan Response",
+            "incorrect_answers": [
+                "Self Evolving Thought Helix",
+                "Master Control Program",
+                "West Campus Analog Computer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "The Western Lowland Gorilla is scientifically know as?",
+            "correct_answer": "Gorilla Gorilla Gorilla",
+            "incorrect_answers": [
+                "Gorilla Gorilla Diehli",
+                "Gorilla Beringei Graueri",
+                "Gorilla Beringei Beringei"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters is the mascot of the video game company SEGA?",
+            "correct_answer": "Sonic the Hedgehog",
+            "incorrect_answers": [
+                "Dynamite Headdy",
+                "Alex Kidd",
+                "Opa-Opa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+            "correct_answer": "The Prince and the Pauper",
+            "incorrect_answers": [
+                "Hamlet",
+                "Wealthy Boy and the Schmuck",
+                "A Modern Twain Story"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What was the first living creature in space?",
+            "correct_answer": "Fruit Flies ",
+            "incorrect_answers": [
+                "Monkey",
+                "Dog",
+                "Mouse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?",
+            "correct_answer": "Grapok sauce",
+            "incorrect_answers": [
+                "Gazorpazorp pudding",
+                "Sweet chili sauce",
+                "Grapork sauce"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Edson Arantes do Nascimento is the full name of which legendary football player?",
+            "correct_answer": "Pel&eacute;",
+            "incorrect_answers": [
+                "Rom&aacute;rio",
+                "Zico",
+                "Ronaldinho"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Mitsubishi Motors has had a 30-year partnership with Jackie Chan, whose movies have prominently featured their vehicles.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?",
+            "correct_answer": "Uzbekistan",
+            "incorrect_answers": [
+                "Switzerland",
+                "Bolivia",
+                "Ethiopia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What tiny principality lies between Spain and France?",
+            "correct_answer": "Andorra",
+            "incorrect_answers": [
+                "Liechtenstein",
+                "Monaco",
+                "San Marino"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;Make You Feel My Love&quot; was originally written and performed by which singer-songwriter?",
+            "correct_answer": "Bob Dylan",
+            "incorrect_answers": [
+                "Elvis",
+                "Adele",
+                "Billy Joel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "After England, more Shakespeare plays are set in this present day country than in any other.",
+            "correct_answer": "Italy",
+            "incorrect_answers": [
+                "United States",
+                "Greece",
+                "France"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the unit of currency in Laos?",
+            "correct_answer": "Kip",
+            "incorrect_answers": [
+                "Ruble",
+                "Konra",
+                "Dollar"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Male pandas do handstands while urinating on trees. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What is the name of Rivers Cuomo&#039;s wife?",
+            "correct_answer": "Kyoko Ito",
+            "incorrect_answers": [
+                "Yoko Ono",
+                "Kyary Pamyu Pamyu",
+                "LiSA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the first Disney movie to use CGI?",
+            "correct_answer": "The Black Cauldron",
+            "incorrect_answers": [
+                "Tron",
+                "Toy Story",
+                "Fantasia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which European capital city gives its name to a 1981 song by Ultravox?",
+            "correct_answer": "Vienna",
+            "incorrect_answers": [
+                "Berlin",
+                "Paris",
+                "Brussels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these &quot;Mortal Kombat&quot; characters has been playable in every single mainline game?",
+            "correct_answer": "Sub-Zero",
+            "incorrect_answers": [
+                "Raiden",
+                "Scorpion",
+                "Liu Kang"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+            "correct_answer": "The United Kingdom",
+            "incorrect_answers": [
+                "Japan",
+                "Austrailia",
+                "Argentina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+            "correct_answer": "55",
+            "incorrect_answers": [
+                "50",
+                "60",
+                "54"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Gadgets",
+            "question": "Which of the following is used to measure blood pressure?",
+            "correct_answer": "Sphygmomanometer",
+            "incorrect_answers": [
+                "Barometer",
+                "Ruler",
+                "Haemoerythrometer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Before becoming the Autobot leader, Optimus Prime was known by what name on Cybertron?",
+            "correct_answer": "Orion Pax",
+            "incorrect_answers": [
+                "Long Haul",
+                "P-138",
+                "Teletran-1"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Need for Speed III: Hot Pursuit&quot;, what is the name of the fictional car?",
+            "correct_answer": "El Ni&ntilde;o",
+            "incorrect_answers": [
+                "R&aacute;pido",
+                "&Aacute;gil",
+                "La Ni&ntilde;a"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "How many zeros are there in a googol?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "10",
+                "1,000",
+                "1,000,000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What planet is not named after a Greek or Roman god?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Jupiter",
+                "Mars",
+                "Mercury"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In South Park, what is Stan&#039;s surname?",
+            "correct_answer": "Marsh",
+            "incorrect_answers": [
+                "Stotch",
+                "Broflovski",
+                "Tweak"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What Nationality is D.Va from Overwatch?",
+            "correct_answer": "Korean",
+            "incorrect_answers": [
+                "Japanese",
+                "Chinese",
+                "Vietnamese "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is NOT a word used to describe an earthquake?",
+            "correct_answer": "Drop-slide",
+            "incorrect_answers": [
+                "Foreshock",
+                "Strike-slip",
+                "Temblor"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Bangladesh?",
+            "correct_answer": "Dhaka",
+            "incorrect_answers": [
+                "Khulna",
+                "London",
+                "Lahore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many provinces are in the Netherlands?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "14",
+                "10",
+                "13"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+            "correct_answer": "Pamela",
+            "incorrect_answers": [
+                "Mary",
+                "Christine",
+                "Angeline"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?",
+            "correct_answer": "Harrison Ford",
+            "incorrect_answers": [
+                "Michael J. Fox",
+                "Andy Kaufman",
+                "Arnold Schwarzenegger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+            "correct_answer": "Casablanca",
+            "incorrect_answers": [
+                "The Maltese Falcon",
+                "The Treasure of the Sierra Madre",
+                "Citizen Kane"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+            "correct_answer": "A Study in Scarlet",
+            "incorrect_answers": [
+                "The Sign of the Four",
+                "A Case of Identity",
+                "The Doings of Raffles Haw"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+            "correct_answer": "&quot;How disgusting.&quot;",
+            "incorrect_answers": [
+                "&quot;Idiot, I won&#039;t let you kill me!&quot;",
+                "&quot;Nothing.&quot;",
+                "&quot;Goddammit, Shinji.&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the first wife of King Henry VIII?",
+            "correct_answer": "Catherine of Aragon",
+            "incorrect_answers": [
+                "Jane Seymour",
+                "Anne Boleyn",
+                "Anne of Cleves"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch&quot;, which hero is able to wallride?",
+            "correct_answer": "Lucio",
+            "incorrect_answers": [
+                "Reinhardt",
+                "Sombra",
+                "Mercy"
+            ]
+        }
+    ]
+}

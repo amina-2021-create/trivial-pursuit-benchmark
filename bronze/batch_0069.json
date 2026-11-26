@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What alcoholic drink is mainly made from juniper berries?",
+            "correct_answer": "Gin",
+            "incorrect_answers": [
+                "Vodka",
+                "Rum",
+                "Tequila"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Hyenas are more closely related to cats than to dogs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is Gatomon&#039;s name in the original Japanese version of Digimon Adventure?",
+            "correct_answer": "Tailmon",
+            "incorrect_answers": [
+                "Pawmon",
+                "Catmon",
+                "Nekomon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the character you play as in Yume Nikki?",
+            "correct_answer": "Madotsuki",
+            "incorrect_answers": [
+                "Masada",
+                "Uboa",
+                "Poniko"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which city is the American singer &quot;Pitbull&quot; from?",
+            "correct_answer": "Miami",
+            "incorrect_answers": [
+                "Kodiak",
+                "St. Louis",
+                "Boston"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which car tire manufacturer is famous for its &quot;P Zero&quot; line?",
+            "correct_answer": "Pirelli",
+            "incorrect_answers": [
+                "Goodyear",
+                "Bridgestone",
+                "Michelin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+            "correct_answer": "Der Riese",
+            "incorrect_answers": [
+                "Tranzit",
+                "Call Of The Dead",
+                "Shi No Numa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many different notes is the tune, &quot;Song of Healing&quot;, comprised of in &quot;The Legend of Zelda: Majora&#039;s Mask&quot;?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "4",
+                "1",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Pat Cashman, the announcer for Super Smash Brothers: Brawl, also featured prominently in what famous TV show?",
+            "correct_answer": "Bill Nye the Science Guy",
+            "incorrect_answers": [
+                "The Muppet Show",
+                "Scooby-Doo",
+                "Seinfeld"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which Australian Prime Minister disappeared in 1967 and was never found?",
+            "correct_answer": "Harold Holt",
+            "incorrect_answers": [
+                "Paul Keating",
+                "Edmund Barton",
+                "Scott Morrison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+            "correct_answer": "Daveed Diggs",
+            "incorrect_answers": [
+                "Lin-Manuel Miranda",
+                "Javier Mu&ntilde;oz",
+                "Wayne Brady"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What character was once considered to be the 27th letter of the alphabet?",
+            "correct_answer": "Ampersand",
+            "incorrect_answers": [
+                "Interrobang",
+                "Tilde",
+                "Pilcrow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of the following correctly describes Japanese word order?",
+            "correct_answer": "Subject Object Verb",
+            "incorrect_answers": [
+                "Subject Verb Object",
+                "Verb Subject Object",
+                "Verb Object Subject"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was the Valve Corporation founded?",
+            "correct_answer": "August 24, 1996",
+            "incorrect_answers": [
+                "December 26, 1994",
+                "March 22, 1997",
+                "March 13, 1997"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What is the alphanumeric representation of the imaginary number?",
+            "correct_answer": "i",
+            "incorrect_answers": [
+                "e",
+                "n",
+                "x"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the seaside city the mods are visiting?",
+            "correct_answer": "Brighton",
+            "incorrect_answers": [
+                "Eastbourne",
+                "Mousehole",
+                "Bridlington"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of JoJo&#039;s Bizarre Adventure Part 5?",
+            "correct_answer": "Vento Aureo",
+            "incorrect_answers": [
+                "Vento Oreo",
+                "Vanto Aureo",
+                "Vento Eureo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Nintendo DS game &#039;Ghost Trick: Phantom Detective&#039;, what is the name of the hitman seen at the start of the game?",
+            "correct_answer": "Nearsighted Jeego",
+            "incorrect_answers": [
+                "One Step Ahead Tengo",
+                "Missile",
+                "Cabanela"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
+            "correct_answer": "Battle of Adrianople",
+            "incorrect_answers": [
+                "Battle of Thessalonica",
+                "Battle of Pollentia",
+                "Battle of Constantinople"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+            "correct_answer": "The Zin Empire",
+            "incorrect_answers": [
+                "The Brotherhood",
+                "The Ronin",
+                "The Sons of Samedi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the pirate that sings the intro to &quot;Spongebob Squarepants&quot;?",
+            "correct_answer": "Painty",
+            "incorrect_answers": [
+                "Patchy",
+                "Lloyd",
+                "Larry"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the French word for &quot;fish&quot;?",
+            "correct_answer": "poisson",
+            "incorrect_answers": [
+                "fiche",
+                "escargot",
+                "mer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&quot;Neutral Milk Hotel&quot; is a real band.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these Johns was murdered by gunshots outside the Dakota in New York in 1980?",
+            "correct_answer": "John Lennon",
+            "incorrect_answers": [
+                "Johnny Thunders",
+                "John Denver",
+                "John Cascella"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What&#039;s the English Dub Name of &quot;Smile Precure&quot;?",
+            "correct_answer": "Glitter Force",
+            "incorrect_answers": [
+                "Sparkle Girls",
+                "Fairy Tale Patrol",
+                "Power Princesses"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What power does Max Caulfield from &quot;Life is Strange&quot; have?",
+            "correct_answer": "Rewinding Time",
+            "incorrect_answers": [
+                "Invisibility",
+                "Telepathy",
+                "Super Strength"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Spyro the Dragon, what is Spyro&#039;s dragonfly friend called?",
+            "correct_answer": "Sparx",
+            "incorrect_answers": [
+                "Sam",
+                "Sparky",
+                "Spinkles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?",
+            "correct_answer": "DMC",
+            "incorrect_answers": [
+                "Noise",
+                "Triangle",
+                "Square"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the National Pokedex what number is Porygon-Z?",
+            "correct_answer": "474",
+            "incorrect_answers": [
+                "376",
+                "432",
+                "589"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "&quot;Green Eggs and Ham&quot; consists of only 50 different words.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+            "correct_answer": "Nepal",
+            "incorrect_answers": [
+                "Panama",
+                "Angola",
+                "Egypt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the 1993 Disney animated series &quot;Bonkers&quot;, what is the name of Bonker&#039;s second partner?",
+            "correct_answer": "Miranda Wright",
+            "incorrect_answers": [
+                "Dick Tracy",
+                "Eddie Valiant",
+                "Dr. Ludwig von Drake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Cristiano Ronaldo",
+                "Robin Van Persie",
+                "David Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these online games was originally named LindenWorld in it&#039;s early development?",
+            "correct_answer": "SecondLife",
+            "incorrect_answers": [
+                "ActiveWorlds",
+                "IMVU",
+                "HabboHotel"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Route 66 in the United States spans the entire mainland of America, from California to New York.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+            "correct_answer": "Neon",
+            "incorrect_answers": [
+                "Potassium",
+                "Iodine",
+                "Colbalt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following men does not have a chemical element named after him?",
+            "correct_answer": "Sir Isaac Newton",
+            "incorrect_answers": [
+                "Albert Einstein",
+                "Niels Bohr",
+                "Enrico Fermi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these countries is the smallest by population?",
+            "correct_answer": "Norway",
+            "incorrect_answers": [
+                "Slovakia",
+                "Finland",
+                "Hong Kong"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Halo&quot; franchise, in what country is New Mombasa?",
+            "correct_answer": "Kenya",
+            "incorrect_answers": [
+                "India",
+                "Turkey",
+                "Slovakia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What is the last song on the first Panic! At the Disco album?",
+            "correct_answer": "Build God, Then We&#039;ll Talk",
+            "incorrect_answers": [
+                "Nails for Breakfast, Tacks for Snacks",
+                "I Write Sins Not Tragedies",
+                "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Korean War ended in 1953 without any ceasefire.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
+            "correct_answer": "Siege of Petersburg",
+            "incorrect_answers": [
+                "Siege of Vicksburg",
+                "Antietam Campaign",
+                "Gettysburg Campagin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Where would you find the &quot;Spanish Steps&quot;?",
+            "correct_answer": "Rome, Italy",
+            "incorrect_answers": [
+                "Barcelona, Spain",
+                "Berlin, Germany",
+                "London, England"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "What is Ron Weasley&#039;s middle name?",
+            "correct_answer": "Bilius",
+            "incorrect_answers": [
+                "Arthur",
+                "John",
+                "Dominic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+            "correct_answer": "Aragon",
+            "incorrect_answers": [
+                "Galicia",
+                "Le&oacute;n",
+                "Navarre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "How many pieces are there on the board at the start of a game of chess?",
+            "correct_answer": "32",
+            "incorrect_answers": [
+                "16",
+                "20",
+                "36"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Super Mario Bros. was the first video game ever created.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+            "correct_answer": "John",
+            "incorrect_answers": [
+                "Paul",
+                "George",
+                "Ringo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "How many studio albums have the heavy metal band, &#039;Metallica&#039; released in the period between 1983 and 2016?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "12"
+            ]
+        }
+    ]
+}

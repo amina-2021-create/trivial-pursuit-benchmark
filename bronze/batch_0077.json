@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Digimon, what is the Japanese name for the final evolutionary stage?",
+            "correct_answer": "Ultimate",
+            "incorrect_answers": [
+                "Mega",
+                "Adult",
+                "Champion"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "How many bits are commonly in a single byte?",
+            "correct_answer": "Eight bits",
+            "incorrect_answers": [
+                "Six bits",
+                "Twelve bits",
+                " Fifteen bits"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The name of the attack &quot;Kamehameha&quot; in Dragon Ball Z was named after a famous king of Hawaii.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "What Greek letter is used to signify summation?",
+            "correct_answer": "Sigma",
+            "incorrect_answers": [
+                "Delta",
+                "Alpha",
+                "Omega"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Little Entente was an alliance formed against which nation?",
+            "correct_answer": "Hungary",
+            "incorrect_answers": [
+                "Germany",
+                "France",
+                "Prussia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In which game did the Konami Code make its first appearance?",
+            "correct_answer": "Gradius",
+            "incorrect_answers": [
+                "Contra",
+                "Castlevania",
+                "Dance Dance Revolution"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the largest rapid transit system in the world by number of stations, with 472 stations in operation?",
+            "correct_answer": "New York City Subway",
+            "incorrect_answers": [
+                "Shanghai Metro",
+                "London Underground",
+                "Berlin U-Bahn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "What year did Gerald Ford Become President?",
+            "correct_answer": "1974",
+            "incorrect_answers": [
+                "1977",
+                "1973",
+                "1969"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+            "correct_answer": "Bangladesh",
+            "incorrect_answers": [
+                "Malaysia",
+                "Vietnam",
+                "Philippines"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which dictator killed the most people?",
+            "correct_answer": "Mao Zedong",
+            "incorrect_answers": [
+                "Joseph Stalin",
+                "Adolf Hitler",
+                "Kim Il Sung"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?",
+            "correct_answer": "We Don&#039;t Need Another Hero",
+            "incorrect_answers": [
+                "Let&#039;s Stay Together",
+                "What&#039;s Love Got To Do With It",
+                "I Don&#039;t Wanna Lose You"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "The AHL affiliate team of the Boston Bruins is named what?",
+            "correct_answer": "Providence Bruins",
+            "incorrect_answers": [
+                "New Haven Bruins",
+                "Cambridge Bruins",
+                "Hartford Bruins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+            "correct_answer": "Safety Dance",
+            "incorrect_answers": [
+                "Down Under",
+                "Who Can It Be Now?",
+                "It&#039;s a Mistake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which city did Anger berate for ruining pizza in &quot;Inside Out&quot;?",
+            "correct_answer": "San Francisco",
+            "incorrect_answers": [
+                "Minnesota",
+                "Washington",
+                "California"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+            "correct_answer": "Ray Bradbury",
+            "incorrect_answers": [
+                "R. L. Stine",
+                "Wolfgang Amadeus Mozart",
+                "Stephen King"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "On which continent does the Andes mountain range lie?",
+            "correct_answer": "South America",
+            "incorrect_answers": [
+                "Europe",
+                "Asia",
+                "Africa"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Mortal Kombat was almost based on Jean-Claude Van Damme movie.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is not a real Pok&eacute;mon?",
+            "correct_answer": "Luminid",
+            "incorrect_answers": [
+                "Dragalge",
+                "Mandibuzz",
+                "Araquanid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Pok&eacute;mon series, which type is Sudowoodo, the Imitation Pok&eacute;mon?",
+            "correct_answer": "Rock",
+            "incorrect_answers": [
+                "Grass",
+                "Bug",
+                "Ground"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What alcoholic drink is made from molasses?",
+            "correct_answer": "Rum",
+            "incorrect_answers": [
+                "Gin",
+                "Vodka",
+                "Whisky"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "Marilyn Monroe was born on July 1, 1926.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "Apple&#039;s Voice Assistant, Siri, debuted on which iPhone?",
+            "correct_answer": "iPhone 4S",
+            "incorrect_answers": [
+                "iPhone 6S",
+                "iPhone 3GS",
+                "iPhone 5S"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Panama Canal was finished under the administration of which U.S. president?",
+            "correct_answer": "Woodrow Wilson",
+            "incorrect_answers": [
+                "Franklin Delano Roosevelt",
+                "Herbert Hoover",
+                "Theodore Roosevelt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?",
+            "correct_answer": "The source code got leaked",
+            "incorrect_answers": [
+                "They weren&#039;t satisfied with the result",
+                "The story was not good enough",
+                "Way too many bugs to be fixed"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which day did World War I begin?",
+            "correct_answer": "July 28",
+            "incorrect_answers": [
+                "January 28",
+                "June 28",
+                "April 28"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the number on Gerald&#039;s shirt in &quot;Hey Arnold!&quot;?",
+            "correct_answer": "33",
+            "incorrect_answers": [
+                "88",
+                "38",
+                "83"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which chemical element was originally known as Alabamine?",
+            "correct_answer": "Astatine",
+            "incorrect_answers": [
+                "Selenium",
+                "Antimony",
+                "Molybdenum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Who was the winner of &quot;Big Brother&quot; Season 10?",
+            "correct_answer": "Dan Gheesling",
+            "incorrect_answers": [
+                "Bryce Kranyik",
+                "Ryan Sutfin",
+                "Chris Mundorf"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?",
+            "correct_answer": "Robbie Williams",
+            "incorrect_answers": [
+                "Justin Timberlake",
+                "Harry Styles",
+                "Gary Barlow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the capital of Jamaica?",
+            "correct_answer": "Kingston",
+            "incorrect_answers": [
+                "San Juan",
+                "Port-au-Prince",
+                "Bridgetown"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What year was Canada founded in?",
+            "correct_answer": "1867",
+            "incorrect_answers": [
+                "1798",
+                "1859",
+                "1668"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
+            "correct_answer": "Midori Gurin",
+            "incorrect_answers": [
+                "Kokona Hruka",
+                "Oka Ruto",
+                "Pipi Osu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "According to the American rapper Nelly, what should you do when its hot in here?",
+            "correct_answer": "Take off all your clothes",
+            "incorrect_answers": [
+                "Take a cool shower",
+                "Drink some water",
+                "Go skinny dipping"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
+            "correct_answer": "Stamen",
+            "incorrect_answers": [
+                "Sepal",
+                "Pistil",
+                "Petal"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+            "correct_answer": "Taiwan",
+            "incorrect_answers": [
+                "United States",
+                "Germany",
+                "China (People&#039;s Republic of)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What does Bart sell his soul for in The Simpsons episode &#039;Bart Sells His Soul&#039;?",
+            "correct_answer": "$5",
+            "incorrect_answers": [
+                "A Copy of Bonestorm 2",
+                "$100",
+                "A Giant Gobstopper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "2003",
+                "1999",
+                "1993"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Who did Hippomenes defeat in a footrace?",
+            "correct_answer": "Atalanta",
+            "incorrect_answers": [
+                "Peleus",
+                "Theseus",
+                "Jason"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In which years did the Battle of Gallipoli take place?",
+            "correct_answer": "1915 - 1916",
+            "incorrect_answers": [
+                "1914 - 1918",
+                "1914 - 1915",
+                "1915 - 1918"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+            "correct_answer": "Glorfindel",
+            "incorrect_answers": [
+                "Arwen",
+                "Aragorn",
+                "Haldir"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What CS:GO case contains the Butterfly Knife?",
+            "correct_answer": "Breakout Case",
+            "incorrect_answers": [
+                "Shadow Case",
+                "Vanguard Case",
+                "Esports 2014 Case"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which country hosted the 2020 Summer Olympics?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "China",
+                "Australia",
+                "Germany"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "Zero factorial is equal to zero. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Cyprus?",
+            "correct_answer": "Nicosia",
+            "incorrect_answers": [
+                "Paphos",
+                "Limassol",
+                "Larnaca"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The alternative rock band, They Might Be Giants, released their album &#039;Flood&#039; in 1990. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The character Plum from &quot;No Game No Life&quot; is a girl.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Lake Titicaca is located between which two nations?",
+            "correct_answer": "Peru and Bolivia",
+            "incorrect_answers": [
+                "Kenya and Uganda",
+                "Mexico and the United States",
+                "India and Bangladesh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What are the first few words in the lyrics of A-Ha&#039;s &#039;Take On Me&#039;?",
+            "correct_answer": "We&#039;re talking away",
+            "incorrect_answers": [
+                "We&#039;re dreaming today",
+                "We&#039;re finding a way",
+                "We&#039;re blocking the way"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+            "correct_answer": "Boomstick",
+            "incorrect_answers": [
+                "Bloomstick",
+                "Blastbranch",
+                "2-Pump Chump"
+            ]
+        }
+    ]
+}

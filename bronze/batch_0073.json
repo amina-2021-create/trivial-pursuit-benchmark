@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which episode of the Phantasy Star Online series is exclusive to the Nintendo Gamecube?",
+            "correct_answer": "Episode III",
+            "incorrect_answers": [
+                "Episode I",
+                "Episode II",
+                "Episode IV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many bones are in the human body?",
+            "correct_answer": "206",
+            "incorrect_answers": [
+                "203",
+                "209",
+                "200"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "In chess, which is a characteristic of the King&#039;s Gambit?",
+            "correct_answer": "Sacrificing a pawn",
+            "incorrect_answers": [
+                "Sacrificing the king for a queen",
+                "Castling kingside",
+                "Moving the king on the 2nd move"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which country, not including Japan, has the most people of Japanese descent?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "China",
+                "South Korea",
+                "United States of America"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the first President of the People&#039;s Republic of China?",
+            "correct_answer": "Mao Zedong",
+            "incorrect_answers": [
+                "Liu Shaoqi",
+                "Dong Biwu",
+                "Li Xiannian"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "How do you tame a horse in Minecraft?",
+            "correct_answer": "By continually mounting it",
+            "incorrect_answers": [
+                "By feeding it Wheat",
+                "By feeding it Sugar",
+                "By petting it"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the animated series Futurama, the character Phllip J. Fry is his own grandfather.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which actor plays the role of the main antagonist in the 2011 movie &quot;Tower Heist?&quot;",
+            "correct_answer": "Alan Alda",
+            "incorrect_answers": [
+                "Eddie Murphy",
+                "Alec Baldwin",
+                "Kevin Nealon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the name for a male bee that comes from an unfertilized egg?",
+            "correct_answer": "Drone",
+            "incorrect_answers": [
+                "Soldier",
+                "Worker",
+                "Male"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+            "correct_answer": "Thomas Hobbes",
+            "incorrect_answers": [
+                "David Hobbes",
+                "John Hobbes",
+                "Nathaniel Hobbes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+            "correct_answer": "Aladdin",
+            "incorrect_answers": [
+                "Toy Story",
+                "James and the Giant Peach",
+                "The Hunchback of Notre Dame"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "When Christopher Columbus sailed to America, what was the first region he arrived in?",
+            "correct_answer": "The Bahamas Archipelago",
+            "incorrect_answers": [
+                "Florida",
+                "Isthmus of Panama",
+                "Nicaragua"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+            "correct_answer": "Wensleydale",
+            "incorrect_answers": [
+                "Cheddar",
+                "Moon Cheese",
+                "Edam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Kuwait",
+                "United Arab Emirates",
+                "Jordan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band released the album &quot;Sonic Highways&quot; in 2014?",
+            "correct_answer": "Foo Fighters",
+            "incorrect_answers": [
+                "Coldplay",
+                "Nickelback",
+                "The Flaming Lips"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a player class in Team Fortress 2?",
+            "correct_answer": "Healer",
+            "incorrect_answers": [
+                "Demoman",
+                "Pyro",
+                "Spy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Which of these game-based comics were published in 2011 by DC Comics?",
+            "correct_answer": "Infamous",
+            "incorrect_answers": [
+                "Left 4 Dead: The Sacrifice",
+                "Prototype",
+                "Kane &amp; Lynch"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "El Ni&ntilde;o pushes warm water to the coasts of the Western Pacific during winter.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the name of the stuffed lion in Bleach?",
+            "correct_answer": "Kon",
+            "incorrect_answers": [
+                "Jo",
+                "Urdiu",
+                "Chad"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What is the number of keys on a standard Windows Keyboard?",
+            "correct_answer": "104",
+            "incorrect_answers": [
+                "64",
+                "94",
+                "76"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+            "correct_answer": "George Clooney",
+            "incorrect_answers": [
+                "Michael Keaton",
+                "Val Kilmer",
+                "Christian Bale"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?",
+            "correct_answer": "Dollar Flu",
+            "incorrect_answers": [
+                "Ebola",
+                "Red Poison",
+                "Smallpox"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What is the age of Ash Ketchum in Pokemon when he starts his journey?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "11",
+                "12",
+                "9"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who portrayed Han Solo in the Star Wars main film series?",
+            "correct_answer": "Harrison Ford",
+            "incorrect_answers": [
+                "Peter Cushing",
+                "Mark Hamill",
+                "Alec Guinness"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What term is best associated with Sigmund Freud?",
+            "correct_answer": "Psychoanalysis",
+            "incorrect_answers": [
+                "Cognitive-Behavioral Therapy",
+                "Theory of Gravity",
+                "Dialectical Behavior Therapy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In golf, what name is given to a hole score of two under par?",
+            "correct_answer": "Eagle",
+            "incorrect_answers": [
+                "Birdie",
+                "Bogey",
+                "Albatross"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the smallest country in South America by area?",
+            "correct_answer": "Suriname",
+            "incorrect_answers": [
+                "Brazil",
+                "Uruguay",
+                "Chile"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which of these teams has Jaromir Jagr not played for?",
+            "correct_answer": "New York Islanders",
+            "incorrect_answers": [
+                "Calgary Flames",
+                "New Jersey Devils",
+                "Dallas Stars"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of the music artists did NOT perform in the Live Aid concert in Wembley Stadium, London in 1985?",
+            "correct_answer": "The Rolling Stones",
+            "incorrect_answers": [
+                "Queen",
+                "Elton John",
+                "David Bowie"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Mann Co. Store from Team Fortress 2 has the slogan &quot;We hire mercenaries and get in fights&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+            "correct_answer": "Lishana Deni",
+            "incorrect_answers": [
+                "Hulaul&aacute;",
+                "Lishan Didan",
+                "Chaldean Neo-Aramaic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+            "correct_answer": "James",
+            "incorrect_answers": [
+                "John",
+                "Jack",
+                "Justin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In Youtuber Jerma985&#039;s 2014 film &quot;Rat Movie: Mystery of the Mayan Treasure,&quot; who is the man who tries to steal the Mayan Treasure?",
+            "correct_answer": "Dick Dastardly Richards",
+            "incorrect_answers": [
+                "Gabe &quot;The Glue Man&quot; Degrossi",
+                "Bootleg Duck Dynasty Byeah Batman",
+                "Demon Lord Zeraxos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What type of angle is greater than 90&deg;?",
+            "correct_answer": "Obtuse",
+            "incorrect_answers": [
+                "Acute",
+                "Right",
+                "Straight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+            "correct_answer": "Richard II",
+            "incorrect_answers": [
+                "Edward III",
+                "Edward II",
+                "Henry IV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+            "correct_answer": "Eggo Waffles",
+            "incorrect_answers": [
+                "Toast",
+                "Captain Crunch",
+                "Bacon and Eggs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the setting of the show &quot;Parks and Recreation&quot;?",
+            "correct_answer": "Pawnee, Indiana",
+            "incorrect_answers": [
+                "Eagleton, Indiana",
+                "Pasadena, California",
+                "London, England"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "In a game of snooker, what colour ball is worth 3 points?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Yellow",
+                "Brown",
+                "Blue"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In which year did &quot;Caravan Palace&quot; release their first album?",
+            "correct_answer": "2008",
+            "incorrect_answers": [
+                "2000",
+                "2015",
+                "2004"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Minecraft can be played with a virtual reality headset.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the main healing item in Dark Souls?",
+            "correct_answer": "Estus Flask",
+            "incorrect_answers": [
+                "Health Potion",
+                "Orange Juice",
+                "Ashen Flask"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "What was the last Marx Brothers film to feature Zeppo?",
+            "correct_answer": "Duck Soup",
+            "incorrect_answers": [
+                "A Night at the Opera",
+                "A Day at the Races",
+                "Monkey Business"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the last boss in Night In The Woods&#039; Demontower minigame?",
+            "correct_answer": "The Blood Thief",
+            "incorrect_answers": [
+                "Mega Hairball ",
+                "King Skellie ",
+                "Krampus "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "As of the year 2026, how many known moons does Jupiter have?",
+            "correct_answer": "97",
+            "incorrect_answers": [
+                "11",
+                "43",
+                "104"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Gravity Falls&quot;, what does Quentin Trembley do when he is driven out from the White House?",
+            "correct_answer": "Eat a salamander and jump out the window.",
+            "incorrect_answers": [
+                "Leave in peace.",
+                "Jump out the window.",
+                "Release 1,000 captive salamanders into the white house."
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the TV series Red Dwarf, Kryten&#039;s full name is Kryten 2X4B-523P.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Dead Space 2, the &#039;Hand Cannon&#039; is a large foam finger.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the official name of the star located closest to the North Celestial Pole?",
+            "correct_answer": "Polaris",
+            "incorrect_answers": [
+                "Eridanus",
+                "Gamma Cephei",
+                "Iota Cephei"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+            "correct_answer": "Stef&aacute;n Stef&aacute;nsson",
+            "incorrect_answers": [
+                "Adam Sandler",
+                "Magn&uacute;s Scheving",
+                "Stephen Carl"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?",
+            "correct_answer": "David Tennant",
+            "incorrect_answers": [
+                "William Hartnell",
+                "Peter Capaldi",
+                "Peter Davison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is not a prosecutor in the &quot;Ace Attorney&quot; video game series?",
+            "correct_answer": "Jake Marshall",
+            "incorrect_answers": [
+                "Godot",
+                "Miles Edgeworth",
+                "Jacques Portsman"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "The full English name of the car manufacturer BMW is Bavarian Motor Works",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "&quot;All the Boys&quot; by Panic! At the Disco was released as a bonus track on what album?",
+            "correct_answer": "Too Weird To Live, Too Rare To Die!",
+            "incorrect_answers": [
+                "A Fever You Can&#039;t Sweat Out",
+                "Death Of A Bachelor",
+                "Vices &amp; Virtues"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What comes after a Million, a Billion, and a Trillion?",
+            "correct_answer": "Quadrillion",
+            "incorrect_answers": [
+                "Sextillion",
+                "Quintillion",
+                "Septillion"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Bosnia and Herzegovina is a country located in the Baltic region in Europe.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the speed of light in a vacuum?",
+            "correct_answer": "299,792,458 m/s",
+            "incorrect_answers": [
+                "50,461 m/s",
+                "308,215,043 m/s",
+                "751,665,014,151 m/s"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "With which doubles partner did John McEnroe have most success?",
+            "correct_answer": "Peter Fleming",
+            "incorrect_answers": [
+                "Mark Woodforde",
+                "Michael Stich",
+                "Mary Carillo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "In Canadian football, scoring a rouge is worth how many points?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+            "correct_answer": "Quebec City",
+            "incorrect_answers": [
+                "Houston",
+                "Montreal",
+                "New York"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?",
+            "correct_answer": "Malva",
+            "incorrect_answers": [
+                "Siebold",
+                "Wikstrom",
+                "Drasna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which monster in &quot;Monster Hunter Tri&quot; was causing earthquakes in Moga Village?",
+            "correct_answer": "Ceadeus",
+            "incorrect_answers": [
+                "Alatreon",
+                "Rathalos",
+                "Lagiacrus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who was the guitarist in the band &quot;The Doors&quot;?",
+            "correct_answer": "Robby Krieger",
+            "incorrect_answers": [
+                "Eric Clapton",
+                "John Densmore",
+                "Jimi Hendrix"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Linus Torvalds created which of these?",
+            "correct_answer": "Linux",
+            "incorrect_answers": [
+                "Microsoft Windows",
+                "Python",
+                "Wikipedia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What American city was featured in the 1999 PC game Midtown Madness?",
+            "correct_answer": "Chicago",
+            "incorrect_answers": [
+                "Washington D.C.",
+                "San Francisco",
+                "New York City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+            "correct_answer": "The Vikings ",
+            "incorrect_answers": [
+                "The Long Ships",
+                "Prince Valiant",
+                "Spartacus"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The band STRFKR was also briefly known as Pyramiddd.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
+            "correct_answer": "Drill Containment Unit",
+            "incorrect_answers": [
+                "Anti-Gravity Hook",
+                "Influx Waver",
+                "Cosmic Car Key"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these is NOT an official map in Counter-Strike: Global Offensive?",
+            "correct_answer": "de_season",
+            "incorrect_answers": [
+                "de_sugarcane",
+                "de_canals",
+                "de_militia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the main protagonist in &quot;Xenoblade Chronicles&quot;?",
+            "correct_answer": "Shulk",
+            "incorrect_answers": [
+                "Reyn",
+                "Fiora",
+                "Dunban"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which of these American singers and songwriters won a Nobel Prize in Literature?",
+            "correct_answer": "Bob Dylan",
+            "incorrect_answers": [
+                "Buddy Holly",
+                "Johnny Cash",
+                "Alice Cooper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;High Maintenance&quot;?",
+            "correct_answer": "Die Rise",
+            "incorrect_answers": [
+                "Mob Of The Dead",
+                "Origins",
+                "Ascension"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What does LASER stand for?",
+            "correct_answer": "Light amplification by stimulated emission of radiation",
+            "incorrect_answers": [
+                "Lite analysing by stereo ecorazer",
+                "Light amplifier by standby energy of radio",
+                "Life antimatter by standing entry of range"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "What year was O.J. Simpson aquitted of his murder charges?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1992",
+                "1996",
+                "1991"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+            "correct_answer": "Caucasus",
+            "incorrect_answers": [
+                "Stalingrad",
+                "Crimea",
+                "Voronezh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Where is the fast food chain &quot;Panda Express&quot; headquartered?",
+            "correct_answer": "Rosemead, California",
+            "incorrect_answers": [
+                "Sacramento, California",
+                "Fresno, California",
+                "San Diego, California"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+            "correct_answer": "Cucumbers",
+            "incorrect_answers": [
+                "Kabocha",
+                "Nasu",
+                "Soba"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "After which Danish city is the 72th element on the periodic table named?",
+            "correct_answer": "Copenhagen",
+            "incorrect_answers": [
+                "Odense",
+                "Herning",
+                "Skagen"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who is the lead singer of Arctic Monkeys?",
+            "correct_answer": "Alex Turner",
+            "incorrect_answers": [
+                "Jamie Cook",
+                "Matt Helders",
+                "Nick O&#039;Malley"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which country has the international vehicle registration letter &#039;A&#039;?",
+            "correct_answer": "Austria",
+            "incorrect_answers": [
+                "Afghanistan",
+                "Australia",
+                "Armenia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which movie did NOT feature the late actor John Candy?",
+            "correct_answer": "Ghostbusters",
+            "incorrect_answers": [
+                "Little Shop Of Horrors",
+                "Home Alone",
+                "Planes Trains and Automobiles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "The Suez Canal is located in which African country?",
+            "correct_answer": "Egypt",
+            "incorrect_answers": [
+                "Libya",
+                "Ghana",
+                "Nigeria"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct_answer": "Giorno Giovanna",
+            "incorrect_answers": [
+                "Guido Mista",
+                "Jonathan Joestar",
+                "Joey JoJo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+            "correct_answer": "The Grapes of Wrath",
+            "incorrect_answers": [
+                "Hamlet",
+                "The Great Gatsby",
+                "Peter Pan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Bridgetown is the capital of which island country in the Carribean?",
+            "correct_answer": "Barbados",
+            "incorrect_answers": [
+                "Cuba",
+                "Jamaica&lrm;",
+                "Dominica"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the average lifespan of a domestic rabbit?",
+            "correct_answer": "8-12 years",
+            "incorrect_answers": [
+                "1-2 years",
+                "4-7 years",
+                "14-20 years"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Super Mario World&quot;, the rhino mini-boss, Reznor, is named after the lead singer of the band &quot;Nine Inch Nails&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which game won the &quot;Games for Impact&quot; award in The Game Awards 2015?",
+            "correct_answer": "Life is Strange",
+            "incorrect_answers": [
+                "Ori and the Blind Forest",
+                "Rocket League",
+                "Metal Gear Solid V: The Phantom Pain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the bloodiest single-day battle during the American Civil War?",
+            "correct_answer": "The Battle of Antietam",
+            "incorrect_answers": [
+                "The Siege of Vicksburg",
+                "The Battle of Gettysburg",
+                "The Battles of Chancellorsville"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The minigun was designed in 1960 by which manufacturer.",
+            "correct_answer": "General Electric",
+            "incorrect_answers": [
+                "Colt Firearms",
+                "Heckler &amp; Koch",
+                "Sig Sauer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the tallest mountain in Canada?",
+            "correct_answer": "Mount Logan",
+            "incorrect_answers": [
+                "Mont Tremblant",
+                "Whistler Mountain",
+                "Blue Mountain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "My Hero Academia&#039;s main character Midoriya goes by what superhero name?",
+            "correct_answer": "Deku",
+            "incorrect_answers": [
+                "All Might",
+                "Saitama",
+                "Kona"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Vehicles",
+            "question": "Which Variable Valve Timing technology is used by BMW?",
+            "correct_answer": "VANOS",
+            "incorrect_answers": [
+                "VVT-iw",
+                "VVEL",
+                "MultiAir"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Colombia is named after Christopher Columbus.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "How many dice are used in the game of Yahtzee?",
+            "correct_answer": "Five",
+            "incorrect_answers": [
+                "Four",
+                "Six",
+                "Eight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of these Disney classics was released in 1970?",
+            "correct_answer": "The Aristocats",
+            "incorrect_answers": [
+                "One Hundred and One Dalmatians",
+                "The Fox and the Hound",
+                "The Little Mermaid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of these fast-food chains is NOT mainly known to sell pizza?",
+            "correct_answer": "Wendy&#039;s",
+            "incorrect_answers": [
+                "Domino&#039;s",
+                "Little Caesars",
+                "Papa John&#039;s"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who published the 1998 video game Half-Life?",
+            "correct_answer": "Sierra On-Line",
+            "incorrect_answers": [
+                "Valve",
+                "Blizzard",
+                "EA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Only 9% of US Households owned a television in ",
+            "correct_answer": "1950",
+            "incorrect_answers": [
+                "1965",
+                "1913",
+                "1969"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Splatoon 2, who are the members of Off The Hook?",
+            "correct_answer": "Pearl &amp; Marina",
+            "incorrect_answers": [
+                "Callie &amp; Marie",
+                "Diamond &amp; Aquamarina",
+                "DJ Octavio &amp; Crusty Sean"
+            ]
+        }
+    ]
+}

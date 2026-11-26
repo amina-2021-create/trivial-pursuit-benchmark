@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Who created Ultron of Earth-616?",
+            "correct_answer": "Henry Pym",
+            "incorrect_answers": [
+                "Amadeus Cho",
+                "Tony Stark",
+                "Reed Richards"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the right way to spell the capital of Hungary?",
+            "correct_answer": "Budapest",
+            "incorrect_answers": [
+                "Boodapest",
+                "Bhudapest",
+                "Budapast"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who are the original creators of Rachet &amp; Clank?",
+            "correct_answer": "Insomniac Games",
+            "incorrect_answers": [
+                "PixelTail Games",
+                "Rare",
+                "Bethesda"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which of these plays was famously first performed posthumously after the playwright committed suicide?",
+            "correct_answer": "4.48 Psychosis",
+            "incorrect_answers": [
+                "Hamilton",
+                "Much Ado About Nothing",
+                "The Birthday Party"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+            "correct_answer": "Lamar",
+            "incorrect_answers": [
+                "Trevor",
+                "Michael",
+                "Franklin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Where is the area commonly known as the Bermuda Triangle?",
+            "correct_answer": "North Atlantic Ocean, between Florida and Puerto Rico",
+            "incorrect_answers": [
+                "North Pacific Ocean, between Japan and the USA",
+                "In the Caribbean Sea",
+                "South Pacific Ocean, far off Chile"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+            "correct_answer": "Jean-Claude Van Damme",
+            "incorrect_answers": [
+                "Chuck Norris",
+                "Steven Seagal",
+                "Scott Adkins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 &quot;Need You&quot;?",
+            "correct_answer": "NGHTMRE",
+            "incorrect_answers": [
+                "LOUDPVCK",
+                "KRNE",
+                "DVBBS"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the web-comic Homestuck, what is the name of the game the 4 kids play?",
+            "correct_answer": "Sburb",
+            "incorrect_answers": [
+                "Homesick",
+                "Husslie",
+                "Hiveswap"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was found in 1946 by two young shepards near a cave?",
+            "correct_answer": "Dead Sea Scrolls",
+            "incorrect_answers": [
+                "The Blackbeard Chest",
+                "Sheep",
+                "The First Oaxaca Cave Sleeper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Der Riese&quot;, what is the name of the &quot;Pack-A-Punched PPSH-41&quot;?",
+            "correct_answer": "The Reaper",
+            "incorrect_answers": [
+                "Lamentation",
+                "The Grim Reaper",
+                "The Eviscerator  "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "By definition, where does an abyssopelagic animal live?",
+            "correct_answer": "At the bottom of the ocean",
+            "incorrect_answers": [
+                "In the desert",
+                "On top of a mountain",
+                "Inside a tree"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Bob and Mike Bryan were well known brothers in which sport?",
+            "correct_answer": "Tennis",
+            "incorrect_answers": [
+                "Basketball",
+                "Football",
+                "Baseball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "An Ankh is the Egyptian Hieroglyph for what?",
+            "correct_answer": "Life",
+            "incorrect_answers": [
+                "Love",
+                "Hatred",
+                "Poison"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which two teams played in Super Bowl XLII?",
+            "correct_answer": "The New York Giants &amp; The New England Patriots",
+            "incorrect_answers": [
+                "The Green Bay Packers &amp; The Pittsburgh Steelers",
+                "The Philadelphia Eagles &amp; The New England Patriots",
+                "The Seattle Seahawks &amp; The Denver Broncos"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the creature that the main character befriends in &quot;The Last Guardian&quot;?",
+            "correct_answer": "Trico",
+            "incorrect_answers": [
+                "Nico",
+                "Wolf",
+                "Andazi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?",
+            "correct_answer": "Heroin",
+            "incorrect_answers": [
+                "Cocaine",
+                "Marijuana",
+                "Oxycodone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Astraphobia is the irrational fear of what?",
+            "correct_answer": "Thunder",
+            "incorrect_answers": [
+                "Rain",
+                "Wind",
+                "Snow"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Salt is 100% composed of Sodium.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "What are the base station trackers used for the HTC Vive called?",
+            "correct_answer": "Lighthouse",
+            "incorrect_answers": [
+                "Motion",
+                "Constellation ",
+                "Trackers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "How many protons are in an oxygen atom?",
+            "correct_answer": "Eight",
+            "incorrect_answers": [
+                "Four",
+                "Two",
+                "Six"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What was the first &quot;Call Of Duty: Zombies&quot; map to be directed by Jason Blundell?",
+            "correct_answer": "Mob Of The Dead",
+            "incorrect_answers": [
+                "Buried",
+                "Origins",
+                "Moon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who is the &quot;dumb blonde&quot; character in Nickelodeon&#039;s &quot;The Loud House&quot;?",
+            "correct_answer": "Leni",
+            "incorrect_answers": [
+                "Luan",
+                "Luna",
+                "Lincoln"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?",
+            "correct_answer": " Tracker",
+            "incorrect_answers": [
+                "Assassin",
+                "Scribe",
+                "Apprentice"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What year was the game Team Fortress 2 released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2009",
+                "2005",
+                "2010"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Joko Widodo has appeared in the cover of a TIME magazine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+            "correct_answer": "Alain Prost",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Niki Lauda",
+                "Emerson Fittipaldi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following languages does NOT use the Latin alphabet?",
+            "correct_answer": "Georgian",
+            "incorrect_answers": [
+                "Turkish",
+                "Swahili",
+                "Vietnamese"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What city is known as the Rose Capital of the World?",
+            "correct_answer": "Tyler, Texas",
+            "incorrect_answers": [
+                "San Diego, California",
+                "Miami, Florida",
+                "Anaheim, California"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Norway has a larger land area than Sweden.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Which of the following is not another name for the eggplant?",
+            "correct_answer": "Potimarron",
+            "incorrect_answers": [
+                "Brinjal",
+                "Guinea Squash",
+                "Melongene"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When did Canada leave the confederation to become their own nation?",
+            "correct_answer": "July 1st, 1867",
+            "incorrect_answers": [
+                "July 1st, 1763",
+                "July 1st, 1832",
+                "July 1st, 1902"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In The Witcher 3, the Zoltan Chivay Gwent card can be found under the Hanged Man&#039;s Tree.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Red Vines is a brand of what type of candy?",
+            "correct_answer": "Licorice",
+            "incorrect_answers": [
+                "Lollipop",
+                "Chocolate",
+                "Bubblegum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "Which of these countries is NOT the only country to start with that letter of the alphabet?",
+            "correct_answer": "Zambia",
+            "incorrect_answers": [
+                "Qatar",
+                "Yemen",
+                "Oman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Kingdom Hearts&quot;, what mission are Donald and Goofy assigned by King Mickey?",
+            "correct_answer": "To find the Key bearer and stick with him!",
+            "incorrect_answers": [
+                "To find the Key bearer and steal the key!",
+                "To find the Key bearer and report back!",
+                "To find the Key bearer and kill him!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "How many episodes were in season five of Samurai Jack?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "12",
+                "11",
+                "13"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs from American Idiot: The Musical was a previously unreleased Green Day song?",
+            "correct_answer": "When It&#039;s Time",
+            "incorrect_answers": [
+                "Are We The Waiting",
+                "Before The Lobotomy",
+                "Favorite Son"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
+            "correct_answer": "Partisan Eagle",
+            "incorrect_answers": [
+                "Blast Fencer",
+                "Winged Viper",
+                "Bastion Warrior"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Which of the following is NOT a god in Norse Mythology.",
+            "correct_answer": "Jens",
+            "incorrect_answers": [
+                "Loki",
+                "Tyr",
+                "Snotra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the capital of Burkina Faso?",
+            "correct_answer": "Ouagadougou",
+            "incorrect_answers": [
+                "Yaound&eacute;",
+                "Yamoussoukro",
+                "Abidjan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs did Jimi Hendrix cover?",
+            "correct_answer": "All of these songs",
+            "incorrect_answers": [
+                "Sgt. Pepper&#039;s Lonely Hearts Club Band",
+                "All Along the Watchtower",
+                "House of the Rising Sun"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "According to legend, the ancient Greeks constructed a huge wooden model of which animal to gain entrance to Troy?",
+            "correct_answer": "Horse",
+            "incorrect_answers": [
+                "Goat",
+                "Elephant",
+                "Wolf"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Italy and Ireland are the only countries in Europe that start with the letter I.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "How many seasons did the TV show &quot;Donkey Kong Country&quot; last?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What&#039;s the square root of 49?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "4",
+                "12",
+                "9"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which is the smallest country in the world?",
+            "correct_answer": "Vatican City",
+            "incorrect_answers": [
+                "Lesotho",
+                "Monaco City",
+                "Titania"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "Who was world chess champion between 1894 and 1921",
+            "correct_answer": "Emanuel Lasker",
+            "incorrect_answers": [
+                "Jos&eacute; Ra&uacute;l Capablanca",
+                "Wilhelm Steinitz",
+                "Bobby Fischer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Haggis is traditionally ate on Burns Night.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What Latin phrase roughly translates to &quot;seize the day&quot;?",
+            "correct_answer": "Carpe diem",
+            "incorrect_answers": [
+                "Memento mori",
+                "Plus ultra",
+                "Sic semper tyrannis"
+            ]
+        }
+    ]
+}

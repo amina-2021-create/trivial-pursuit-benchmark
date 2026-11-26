@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In which classic novel is there a character named Homer Simpson?",
+            "correct_answer": "The Day of the Locust",
+            "incorrect_answers": [
+                "Catch-22",
+                "Of Mice and Men",
+                "A Separate Peace"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Where is the Gluteus Maximus muscle located?",
+            "correct_answer": "Butt",
+            "incorrect_answers": [
+                "Arm",
+                "Head",
+                "Torso"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+            "correct_answer": "Jonathan Demme",
+            "incorrect_answers": [
+                "Stanley Kubrick",
+                "Frank Darabont",
+                "Michael Bay"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Terran units from the RTS game Starcraft was first introduced in the expansion Brood War?",
+            "correct_answer": "Medic",
+            "incorrect_answers": [
+                "Wraith",
+                "Science Vessel",
+                "SCV"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "Who is the only US president to serve two non-consecutive terms in office?",
+            "correct_answer": "Grover Cleveland",
+            "incorrect_answers": [
+                "James K. Polk",
+                "Franklin D. Roosevelt",
+                "Thomas Jefferson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which football manager won more trophies than any other during his tenure at English football club Manchester United?",
+            "correct_answer": "Sir Alex Ferguson",
+            "incorrect_answers": [
+                "David Moyes",
+                "Louis van Gaal",
+                "Jos&eacute; Mourinho"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "When was Nintendo founded?",
+            "correct_answer": "September 23rd, 1889",
+            "incorrect_answers": [
+                "October 19th, 1891",
+                "March 4th, 1887",
+                "December 27th, 1894"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+            "correct_answer": "Niagara Falls",
+            "incorrect_answers": [
+                "Whistler, British Columbia",
+                "Disney World",
+                "Yosemite National Park"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+            "correct_answer": "Zambia &amp; Zimbabwe",
+            "incorrect_answers": [
+                "Togo &amp; Benin",
+                "Lesotho &amp; Swaziland",
+                "Rwanda &amp; Burundi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year did the anime &quot;Himouto! Umaru-chan&quot; air?",
+            "correct_answer": "2015",
+            "incorrect_answers": [
+                "2014",
+                "2012",
+                "2013"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "What was the name of the police officer in the cartoon &quot;Top Cat&quot;?",
+            "correct_answer": "Dibble",
+            "incorrect_answers": [
+                "Barbrady",
+                "Mahoney",
+                "Murphy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Cave Story,&quot; what is the character Balrog&#039;s catchphrase?",
+            "correct_answer": "Huzzah!",
+            "incorrect_answers": [
+                "Yes!",
+                "Whoa there!",
+                "Nyeh heh heh!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+            "correct_answer": "Blood Sugar Sex Magik",
+            "incorrect_answers": [
+                "One Hot Minute",
+                "By the Way",
+                "Stadium Arcadium"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these features was added in the 1994 game &quot;Heretic&quot; that the original &quot;DOOM&quot; could not add due to limitations?",
+            "correct_answer": "Looking up and down",
+            "incorrect_answers": [
+                "Increased room sizes",
+                "Unlimited weapons",
+                "Highly-detailed textures"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+            "correct_answer": "John Steinbeck ",
+            "incorrect_answers": [
+                "George Orwell",
+                "Mark Twain ",
+                "Harper Lee"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+            "correct_answer": "Tommy Vercetti",
+            "incorrect_answers": [
+                "Michael de Santa",
+                "Franklin Clinton",
+                "Trevor Phillips"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When one is &quot;envious&quot;, they are said to be what color?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who was the last Roman emperor in the Year of Four Emperors (69 AD)?",
+            "correct_answer": "Vespasian",
+            "incorrect_answers": [
+                "Vitellius",
+                "Otho",
+                "Galba"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+            "correct_answer": "Toad",
+            "incorrect_answers": [
+                "Luigi",
+                "Yoshi",
+                "Bowser"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the founder of Team Fortress 2&#039;s fictional company &quot;Mann Co&quot;?",
+            "correct_answer": "Zepheniah Mann",
+            "incorrect_answers": [
+                "Cave Johnson",
+                "Wallace Breem",
+                "Saxton Hale"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Overwatch,&quot; what is the hero McCree&#039;s full name?",
+            "correct_answer": "Jesse McCree",
+            "incorrect_answers": [
+                "Jack &quot;McCree&quot; Morrison",
+                "Gabriel Reyes",
+                "Jamison &quot;Deadeye&quot; Fawkes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call of Duty: Zombies&quot;, what group does Doctor Maxis work for?",
+            "correct_answer": "Group 935",
+            "incorrect_answers": [
+                "Group Reanimate",
+                "Group Rezurrection",
+                "Division 9"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Avatar: The Last Airbender&quot;, which element does Aang begin to learn after being defrosted?",
+            "correct_answer": "Water",
+            "incorrect_answers": [
+                "Air",
+                "Earth",
+                "Fire"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "A doctor with a PhD is a doctor of what?",
+            "correct_answer": "Philosophy",
+            "incorrect_answers": [
+                "Psychology",
+                "Phrenology",
+                "Physical Therapy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What year did Skoal, a smokeless Tobacco company, release their first line of Pouches, known as &quot;Skoal Bandits&quot;?",
+            "correct_answer": "1983",
+            "incorrect_answers": [
+                "1934",
+                "1984",
+                "1822"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Disney character sings the song &quot;A Dream is a Wish Your Heart Makes&quot;?",
+            "correct_answer": "Cinderella",
+            "incorrect_answers": [
+                "Belle",
+                "Snow White",
+                "Pocahontas"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the capital of Greenland?",
+            "correct_answer": "Nuuk",
+            "incorrect_answers": [
+                "Sisimiut",
+                "Narsaq",
+                "Maniitsoq"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Who was the first ruler of Haiti after the country had gained its independence?",
+            "correct_answer": "Jean-Jacques Dessalines",
+            "incorrect_answers": [
+                "Toussaint Louverture",
+                "Henri Christophe",
+                "Alexandre Petion"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Yo! Noid 2,&quot; The Noid can perform what special move?",
+            "correct_answer": "Dab",
+            "incorrect_answers": [
+                "Pizza Throw",
+                "Dodge Roll",
+                "Spin Dash"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these symbols can be seen on the shirt of the 1993 video game character, Bubsy T. Bobcat?",
+            "correct_answer": "An exclamation point",
+            "incorrect_answers": [
+                "A question mark",
+                "The letter B",
+                "Nothing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which is not a type of neuron?",
+            "correct_answer": "Perceptual Neuron",
+            "incorrect_answers": [
+                "Sensory Neuron",
+                "Motor Neuron",
+                "Interneuron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the Half-Life series, Gordon Freeman&#039;s signature weapon is a:",
+            "correct_answer": "Crowbar",
+            "incorrect_answers": [
+                "Sledgehammer",
+                "Fiber Wire",
+                "Katana"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the Gamecube Version of &quot;Resident Evil&quot; what text document is open on the monitor of the computer in the Visual Data Room?",
+            "correct_answer": "A GDC Document",
+            "incorrect_answers": [
+                "Text Document on Herbs",
+                "Nothing",
+                "Document on B.O.Ws"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which one of the following is not made by Ford?",
+            "correct_answer": "Camry",
+            "incorrect_answers": [
+                "Fusion",
+                "Model A",
+                "F-150"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Who voiced the Genie in Disney&#039;s &quot;Aladdin&quot;?",
+            "correct_answer": "Robin Williams",
+            "incorrect_answers": [
+                "Billy Crystal",
+                "Adam Sandler",
+                "Jim Carrey"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Politics",
+            "question": "Denmark has a monarch.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "What letter is used to refer to blue mana in the card game Magic The Gathering?",
+            "correct_answer": "U",
+            "incorrect_answers": [
+                "B",
+                "L",
+                "E"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Subnautica&quot;, a &quot;Spadefish&quot; will attack you.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT an album released by The Beatles?",
+            "correct_answer": "The Wall",
+            "incorrect_answers": [
+                "Abbey Road",
+                "Magical Mystery Tour",
+                "Revolver"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the unit of electrical inductance?",
+            "correct_answer": "Henry",
+            "incorrect_answers": [
+                "Weber",
+                "Coulomb",
+                "Mho"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist?",
+            "correct_answer": "22",
+            "incorrect_answers": [
+                "23",
+                "21",
+                "24"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which of the following manga have the most tankouban volumes?",
+            "correct_answer": "Golgo 13",
+            "incorrect_answers": [
+                "JoJo&#039;s Bizarre Adventure",
+                "Detective Conan",
+                "One Piece"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+            "correct_answer": "Hampton Court",
+            "incorrect_answers": [
+                "St James&#039;s Palace",
+                "Buckingham Palace",
+                "Coughton Court"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+            "correct_answer": "American Football",
+            "incorrect_answers": [
+                "Wrestling",
+                "Archery",
+                "Horse-Racing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+            "correct_answer": "Hubble Space Telescope",
+            "incorrect_answers": [
+                "Big Eye",
+                "Death Star",
+                "Millenium Falcon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of the following is the IATA code for Manchester Airport?",
+            "correct_answer": "MAN",
+            "incorrect_answers": [
+                "EGLL",
+                "LHR",
+                "EGCC"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of these actors does NOT appear in the 1998 movie &quot;Saving Private Ryan&quot;?",
+            "correct_answer": "Ralph Fiennes",
+            "incorrect_answers": [
+                "Tom Hanks",
+                "Vin Diesel",
+                "Matt Damon"
+            ]
+        }
+    ]
+}

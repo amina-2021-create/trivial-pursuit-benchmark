@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the bassist of the British rock band Queen?",
+            "correct_answer": "John Deacon",
+            "incorrect_answers": [
+                "John Major",
+                "John Barrowman",
+                "John Mayer"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which month is Black History Month in the US?",
+            "correct_answer": "February",
+            "incorrect_answers": [
+                "May",
+                "November",
+                "August"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+            "correct_answer": "Testarossa",
+            "incorrect_answers": [
+                "Enzo Ferrari",
+                "F40",
+                "288 GTO"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the anime &quot;My Hero Academia&quot;, which character is shown with the ability to manipulate gravity?",
+            "correct_answer": "Uraraka",
+            "incorrect_answers": [
+                "Bakugo",
+                "Deku",
+                "Asui "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Gadgets",
+            "question": "Which round does a WW2 M1 Garand fire?",
+            "correct_answer": ".30-06",
+            "incorrect_answers": [
+                ".308",
+                "7.62",
+                "7.62x51mm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these was NOT a launch title for the Nintendo 64?",
+            "correct_answer": "Mario Kart 64",
+            "incorrect_answers": [
+                "Super Mario 64",
+                "Pilotwings 64",
+                "Saikyō Habu Shōgi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": ".at is the top-level domain for what country?",
+            "correct_answer": "Austria",
+            "incorrect_answers": [
+                "Argentina",
+                "Australia",
+                "Angola"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What is Cynophobia the fear of?",
+            "correct_answer": "Dogs",
+            "incorrect_answers": [
+                "Birds",
+                "Flying",
+                "Germs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the first weapon you acquire in Half-Life?",
+            "correct_answer": "A crowbar",
+            "incorrect_answers": [
+                "A pistol",
+                "The H.E.V suit",
+                "Your fists"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Amsterdam Centraal station is twinned with what station?",
+            "correct_answer": "London Liverpool Street",
+            "incorrect_answers": [
+                "Frankfurt (Main) Hauptbahnhof",
+                "Paris Gare du Nord",
+                "Brussels Midi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Which of these animals are not real?",
+            "correct_answer": "Nemean Lion",
+            "incorrect_answers": [
+                "Sea Dragon",
+                "Tasmanian Devil",
+                "Giant Squid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what is the Klingon death ritual?",
+            "correct_answer": "Look into sky and yell loudly in mourning.",
+            "incorrect_answers": [
+                "Kiss the jagged forehead before burial.",
+                "Shoot into space in a torpedo casing.",
+                "Split the deceased&#039;s earnings between bloodkin."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
+            "correct_answer": "Aloysius O&#039;Hare",
+            "incorrect_answers": [
+                "Ted Wiggins",
+                "The Once-Ler",
+                "Grammy Norma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was Nintendo&#039;s Virtual Boy released?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1989",
+                "1997",
+                "1992"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who turns out to be the true victor in the Battle of Armageddon in Mortal Kombat?",
+            "correct_answer": "Shao Kahn",
+            "incorrect_answers": [
+                "Liu Kang",
+                "Shang Tsung",
+                "Raiden"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The video game publishers known as &quot;tinyBuild&quot; published which of these games?",
+            "correct_answer": "Clustertruck",
+            "incorrect_answers": [
+                "Don&#039;t Starve",
+                "Stardew Valley",
+                "Slime Rancher"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who released the song &quot;Photograph&quot; in 2005?",
+            "correct_answer": "Nickelback",
+            "incorrect_answers": [
+                "Fall Out Boy",
+                "Coldplay",
+                "Green Day"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who is the Pink Floyd song &quot;Shine On You Crazy Diamond&quot; written about?",
+            "correct_answer": "Syd Barrett",
+            "incorrect_answers": [
+                "John Lennon",
+                "David Gilmour",
+                "Floyd"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "Which of the following is not one of the seven Millennium Prize Problems?",
+            "correct_answer": "Navi&eacute;r conjecture",
+            "incorrect_answers": [
+                "Birch and Swinnerton-Dyer Conjecture",
+                "Riemann hypothesis",
+                "Poincar&eacute; conjecture"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+            "correct_answer": "Horse Racing",
+            "incorrect_answers": [
+                "Chess",
+                "Jousting",
+                "Fencing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Where in La Coru&ntilde;a (Spain) is the headquarters of &quot;Inditex&quot;, the biggest fashion group in the world?",
+            "correct_answer": "Arteijo",
+            "incorrect_answers": [
+                "Sanjenjo",
+                "Mug&iacute;a",
+                "&Oacute;rdenes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many independent countries are there within the continent of South America?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "8",
+                "9",
+                "10"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which of these are the name of a famous marker brand?",
+            "correct_answer": "Copic",
+            "incorrect_answers": [
+                "Dopix",
+                "Cofix",
+                "Marx"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "10",
+                "2",
+                "7"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In &quot;Mean Girls&quot;, who has breasts that tell when it&#039;s raining?",
+            "correct_answer": "Karen Smith",
+            "incorrect_answers": [
+                "Gretchen Weiners",
+                "Janice Ian",
+                "Cady Heron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which darts player has won the most World Championship titles?",
+            "correct_answer": "Phil Taylor",
+            "incorrect_answers": [
+                "Michael van Gerwen",
+                "Raymond van Barneveld",
+                "Eric Bristow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What company created and developed the game &quot;Overwatch&quot;?",
+            "correct_answer": "Blizzard Entertainment",
+            "incorrect_answers": [
+                "Valve",
+                "Hi-Rez Studios",
+                "Gearbox Software"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Who is the founder of Palantir?",
+            "correct_answer": "Peter Thiel",
+            "incorrect_answers": [
+                "Mark Zuckerberg",
+                "Marc Benioff",
+                "Jack Dorsey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "The buried remains of which English explorer of Australia were found in London  in January 2019? ",
+            "correct_answer": "Matthew Flinders",
+            "incorrect_answers": [
+                "William Bourke",
+                "Abel Tasman",
+                "Dirk Hartog"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?",
+            "correct_answer": "Corrin",
+            "incorrect_answers": [
+                "Cloud",
+                "Bayonnetta",
+                "Ryu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Half-Life universe, the Black Mesa Research Facility is located in which US state?",
+            "correct_answer": "New Mexico",
+            "incorrect_answers": [
+                "Nevada",
+                "Arizona",
+                "Wyoming"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+            "correct_answer": "1923",
+            "incorrect_answers": [
+                "1903",
+                "1913",
+                "1933"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "On average, Americans consume 100 pounds of what per second?",
+            "correct_answer": "Chocolate",
+            "incorrect_answers": [
+                "Potatoes",
+                "Donuts",
+                "Cocaine"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The Doppler effect applies to light.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who had a 1976 hit with the song &#039;You Make Me Feel Like Dancing&#039;?",
+            "correct_answer": "Leo Sayer",
+            "incorrect_answers": [
+                "Elton John",
+                "Billy Joel",
+                "Andy Gibb"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax?",
+            "correct_answer": "Theodore",
+            "incorrect_answers": [
+                "Elizabeth",
+                "Margaret",
+                "Marie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In WarioWare: Smooth Moves, which one of these is NOT a Form?",
+            "correct_answer": "The Hotshot",
+            "incorrect_answers": [
+                "The Discard",
+                "The Elephant",
+                "The Mohawk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the first primary weapon the player gets in &quot;PAYDAY: The Heist&quot;?",
+            "correct_answer": "AMCAR-4",
+            "incorrect_answers": [
+                "Brenner 21",
+                "Reinbeck",
+                "M308"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
+            "correct_answer": "Petyr Baelish",
+            "incorrect_answers": [
+                "Podrick Payne",
+                "Lancel Lannister",
+                "Torrhen Karstark"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "The UEFA Champions League is an annual club football competition featuring clubs from which continent?",
+            "correct_answer": "Europe",
+            "incorrect_answers": [
+                "South America",
+                "Africa",
+                "Asia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+            "correct_answer": "Vladivostok",
+            "incorrect_answers": [
+                "Rostov-on-Don",
+                "Yekaterinburg",
+                "Kaliningrad"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The ghosts in &quot;Pac-Man&quot; and &quot;Ms. Pac-Man&quot; have completely different behavior.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "In &quot;Star Trek Nemesis&quot;, why was Praetor Shinzon created?",
+            "correct_answer": "To replace Picard as a Romulan Agent",
+            "incorrect_answers": [
+                "To destroy the Enterprise",
+                "To become Picard&#039;s friend ",
+                "To steal the Enterprise"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the main heroine of the anime, Full Metal Panic!",
+            "correct_answer": "Kaname Chidori",
+            "incorrect_answers": [
+                "Teletha Testarossa",
+                "Melissa Mao",
+                "Kyoko Tokiwa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What video game company developed the 2004 racing game &quot;Burnout 3: Takedown&quot;?",
+            "correct_answer": "Criterion Games",
+            "incorrect_answers": [
+                "EA Black Box",
+                "Codemasters",
+                "Rockstar Games"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is Canada&#039;s largest island?",
+            "correct_answer": "Baffin Island",
+            "incorrect_answers": [
+                "Prince Edward Island",
+                "Vancouver Island",
+                "Newfoundland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Minecraft, which of these ingredients is needed to brew a Potion of Water Breathing?",
+            "correct_answer": "Pufferfish",
+            "incorrect_answers": [
+                "Ink sac",
+                "Pumpkin",
+                "Fishing rod"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "Which stretch of water connects the Atlantic Ocean to the Mediterranean Sea?",
+            "correct_answer": "Strait of Gibraltar",
+            "incorrect_answers": [
+                "Gibraltar Way",
+                "Spanish Straits",
+                "Channelle de Tangiers"
+            ]
+        }
+    ]
+}

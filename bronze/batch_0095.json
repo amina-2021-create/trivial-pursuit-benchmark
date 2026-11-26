@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "&#039;We Built This City&#039; was a number one hit for which American rock band in 1985?",
+            "correct_answer": "Starship",
+            "incorrect_answers": [
+                "Kansas",
+                "Jefferson Airplane",
+                "Aerosmith"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "TF2: What code does Soldier put into the door keypad in &quot;Meet the Spy&quot;?",
+            "correct_answer": "1111",
+            "incorrect_answers": [
+                "1432",
+                "1337",
+                "No code"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "How many moons does Pluto have?",
+            "correct_answer": "Five",
+            "incorrect_answers": [
+                "Two",
+                "Three",
+                "One"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The assassination of which royal led to the start of World War I?",
+            "correct_answer": "Archduke Franz Ferdinand",
+            "incorrect_answers": [
+                "Louis Mountbatten",
+                "King Charles I",
+                "Nicholas II"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Riot Games &quot;League of Legends&quot; the name of Halloween event is called &quot;The Reckoning&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "How old was Adolf Hitler when he died?",
+            "correct_answer": "56",
+            "incorrect_answers": [
+                "43",
+                "65",
+                "47"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "What is widely considered to be the oldest civilization known to mankind?",
+            "correct_answer": "Sumeria",
+            "incorrect_answers": [
+                "Babylon",
+                "Assyria",
+                "Phoenicia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists did NOT remix the song &quot;Faded&quot; by Alan Walker?",
+            "correct_answer": "Skrillex",
+            "incorrect_answers": [
+                "Ti&euml;sto",
+                "Slushii",
+                "Dash Berlin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What anime studio was in charge of the hit anime &quot;Made in Abyss&quot;?",
+            "correct_answer": "Kinema Citrus",
+            "incorrect_answers": [
+                "Trigger",
+                "Studio 3hz",
+                "8bit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games was the earliest known first-person shooter with a known time of publication?",
+            "correct_answer": "Spasim",
+            "incorrect_answers": [
+                "Doom",
+                "Wolfenstein",
+                "Quake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What Southeast Asian country was formerly known as &#039;Lan Xang&#039;?",
+            "correct_answer": "Laos",
+            "incorrect_answers": [
+                "Cambodia",
+                "Vietnam",
+                "Thailand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which British band did Keith Moon play in until his death in 1978?",
+            "correct_answer": "The Who",
+            "incorrect_answers": [
+                "The Kinks",
+                "The Yardbirds",
+                "The Small Faces"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The Arab Spring was a series of protests and rebellions that began in which of these Arab nations?",
+            "correct_answer": "Tunisia",
+            "incorrect_answers": [
+                "Morocco",
+                "Syria",
+                "Egypt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "What is the name of the Greek god of blacksmiths?",
+            "correct_answer": "Hephaestus",
+            "incorrect_answers": [
+                "Dyntos",
+                "Vulcan",
+                "Artagatus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who painted The Starry Night?",
+            "correct_answer": "Vincent van Gogh",
+            "incorrect_answers": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Michelangelo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?",
+            "correct_answer": "1.5 Million",
+            "incorrect_answers": [
+                "1 Million",
+                "250 Thousand",
+                "Less than 250 Thousand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which Landsat Satellite failed to reach orbit?",
+            "correct_answer": "Landsat 6",
+            "incorrect_answers": [
+                "Landsat 5",
+                "Landsat 4",
+                "Landsat 3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Where is Apple Inc. headquartered?",
+            "correct_answer": "Cupertino, California",
+            "incorrect_answers": [
+                "Redwood City, California",
+                "Redmond, Washington",
+                "Santa Monica, CA"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the half-life of Uranium-235?",
+            "correct_answer": "703,800,000 years",
+            "incorrect_answers": [
+                "4,300,400,000 years",
+                "1,260,900,000 years",
+                "Uranium-235 is a stable isotope"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+            "correct_answer": "France",
+            "incorrect_answers": [
+                "Croatia",
+                "Belgium",
+                "England"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which character in Undertale tells you that you&#039;re &quot;gonna have a bad time&quot;?",
+            "correct_answer": "Sans",
+            "incorrect_answers": [
+                "Undyne",
+                "Asgore",
+                "Asriel Dreemurr"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
+            "correct_answer": "The Starry Night",
+            "incorrect_answers": [
+                "Wheatfields with Crows",
+                "The Sower with Setting Sun",
+                "The Church at Auvers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "In Half-Life, what is the name of the alien that attaches to heads?",
+            "correct_answer": "Headcrab",
+            "incorrect_answers": [
+                "Bullsquid",
+                "Vortigaunt",
+                "Facehugger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which of these is NOT considered a woodwind instrument?",
+            "correct_answer": "Trombone",
+            "incorrect_answers": [
+                "Oboe",
+                "Clarinet",
+                "Bassoon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which animation studio animated &quot;To Love-Ru&quot;?",
+            "correct_answer": "Xebec",
+            "incorrect_answers": [
+                "Trigger",
+                "Sunrise",
+                "Kyoto Animation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The teapot often seen in many 3D modeling applications is called what?",
+            "correct_answer": "Utah Teapot",
+            "incorrect_answers": [
+                "Pixar Teapot",
+                "3D Teapot",
+                "Tennessee Teapot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the real name of the Scout in &quot;Team Fortress 2&quot;?",
+            "correct_answer": "Jeremy",
+            "incorrect_answers": [
+                "Lance",
+                "Walter",
+                "John"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Full Metal Panic!, Whispered are those who are capable of creating Black Technology.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Which Pok&eacute;mon and it&#039;s evolutions were banned from appearing in a main role after the Episode 38 Incident?",
+            "correct_answer": "The Porygon Line",
+            "incorrect_answers": [
+                "The Pikachu Line",
+                "The Elekid Line",
+                "The Magby Line"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "How many plays is Shakespeare generally considered to have written?",
+            "correct_answer": "37",
+            "incorrect_answers": [
+                "18",
+                "54",
+                "25"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Crystal Pepsi was first sold in US markets in 1993.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "In which city did American rap producer DJ Khaled originate from?",
+            "correct_answer": "Miami",
+            "incorrect_answers": [
+                "New York",
+                "Detroit",
+                "Atlanta"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which one of these is not an official development name for a Ubuntu release?",
+            "correct_answer": "Mystic Mansion",
+            "incorrect_answers": [
+                "Trusty Tahr",
+                "Utopic Unicorn",
+                "Wily Werewolf"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+            "correct_answer": "Ad hominem",
+            "incorrect_answers": [
+                "Post hoc ergo propter hoc",
+                "Tu quoque",
+                "Argumentum ad populum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What is the British term for a 64th note?",
+            "correct_answer": "Hemidemisemiquaver",
+            "incorrect_answers": [
+                "Semihemidemisemiquaver",
+                "Semiquaver",
+                "Demisemiquaver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What is the mathematician Euler&#039;s first name?",
+            "correct_answer": "Leonhard",
+            "incorrect_answers": [
+                "Lionel",
+                "Andrin",
+                "Ajan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following has Jennifer Taylor NOT voiced?",
+            "correct_answer": "Sarah Kerrigan",
+            "incorrect_answers": [
+                "Princess Peach",
+                "Zoey",
+                "Cortana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What Sims console game featured the Black Eyed Peas in the game?",
+            "correct_answer": "The Urbz: Sims In The City",
+            "incorrect_answers": [
+                "The Sims 2",
+                "The Sims",
+                "The Sims: Bustin Out"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of these chemical compounds is NOT found in gastric acid?",
+            "correct_answer": "Sulfuric acid",
+            "incorrect_answers": [
+                "Hydrochloric acid",
+                "Potassium chloride",
+                "Sodium chloride"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?",
+            "correct_answer": "Occultic; Nine",
+            "incorrect_answers": [
+                "Steins; Gate",
+                "Robotics; Notes",
+                "Chaos; Child"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "How does a centrifuge separate&nbsp;heavy and light particles?",
+            "correct_answer": "Spinning",
+            "incorrect_answers": [
+                "Vibrating",
+                "Sifting",
+                "Ionizing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Fallout: New Vegas, upon starting each one of the four campaign DLCs, which one of them does not have a warning screen/recommended level? ",
+            "correct_answer": "Honest Hearts ",
+            "incorrect_answers": [
+                "Old World Blues",
+                "Lonesome Road",
+                "Dead Money"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "John Williams composed the music for &quot;Star Wars&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of the following titles by Valve is not based on a Community Mod?",
+            "correct_answer": "Ricochet",
+            "incorrect_answers": [
+                "Day of Defeat",
+                "Counter-Strike",
+                "Alien Swarm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Dota 2, what is Earthshaker&#039;s real name?",
+            "correct_answer": "Raigor Stonehoof",
+            "incorrect_answers": [
+                "Banehallow Ambry",
+                "Carl",
+                "Barathrum"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Brezhnev was the 5th leader of the USSR.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+            "correct_answer": "Harper&#039;s Ferry",
+            "incorrect_answers": [
+                "Richmond",
+                "Harrisonburg",
+                "Martinsburg"
+            ]
+        }
+    ]
+}
